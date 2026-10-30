@@ -1,0 +1,199 @@
+{
+  "cities": [
+    {
+      "name": "Konark",
+      "slug": "konark",
+      "overview": "A coastal village 35 km from Puri, built around the ruins of the great Sun Temple.",
+      "location": {
+        "lat": 19.8876,
+        "lng": 86.0945
+      }
+    },
+    {
+      "name": "Puri",
+      "slug": "puri",
+      "overview": "A seaside pilgrimage town on the Bay of Bengal, one of the four Char Dham sites, and a base for Chilika Lake.",
+      "location": {
+        "lat": 19.8135,
+        "lng": 85.8312
+      }
+    }
+  ],
+  "places": [
+    {
+      "name": "Konark Sun Temple",
+      "slug": "konark-sun-temple",
+      "city": "konark",
+      "kind": "monument",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A 13th-century temple built as the colossal stone chariot of the sun god, with 24 carved wheels.",
+      "description": "The Sun Temple at Konark was designed as the chariot of Surya, drawn by seven horses on 24 intricately carved stone wheels that also work as sundials. Although the main tower collapsed long ago, the surviving porch (jagamohana) and walls are covered in sculptures of musicians, dancers, animals, daily life and erotic scenes. The site museum and the evening light-and-sound show add context. The Konark Dance Festival is held in December.",
+      "history": "The temple was built around 1250 CE by King Narasimhadeva I of the Eastern Ganga dynasty. European sailors called it the Black Pagoda and used it as a landmark. It was inscribed as a UNESCO World Heritage Site in 1984, and its wheel appears on the ₹10 note.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March. The Konark Dance Festival is usually 1–5 December.",
+      "entryFee": {
+        "indian": 40,
+        "foreigner": 600,
+        "child": 0,
+        "note": "ASI World Heritage rates (slightly less online); verify before your visit."
+      },
+      "timings": {
+        "hours": "Sunrise – sunset"
+      },
+      "location": {
+        "lat": 19.8874,
+        "lng": 86.0946,
+        "address": "Konark, Puri district, Odisha 752111"
+      },
+      "highlights": [
+        "24 carved chariot wheels",
+        "Jagamohana porch",
+        "Konark Dance Festival",
+        "Chandrabhaga beach nearby"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Sun Temple, Konârak – UNESCO",
+          "url": "https://whc.unesco.org/en/list/246"
+        },
+        {
+          "title": "Konark Sun Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Konark_Sun_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/konark-sun-temple.webp",
+          "alt": "Konark Sun Temple, Konark",
+          "credit": "Subham9423",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Konarka_Temple.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Jagannath Temple, Puri",
+      "slug": "jagannath-temple-puri",
+      "city": "puri",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious",
+        "heritage"
+      ],
+      "shortDescription": "One of Hinduism's holiest shrines and the starting point of the world-famous Rath Yatra chariot festival.",
+      "description": "The Jagannath Temple's 65 m tower dominates Puri's old town. Inside, Lord Jagannath is worshipped with his siblings Balabhadra and Subhadra in distinctive wooden forms that are renewed every 12 to 19 years. The temple kitchen is said to be among the largest in the world, and its Mahaprasad is sold at the Ananda Bazaar. Only Hindus may enter; others can view the temple from the roof of the Raghunandan Library opposite. Each June or July the deities ride huge chariots down the Grand Road in the Rath Yatra.",
+      "history": "The present temple was built in the 12th century by King Anantavarman Chodaganga Deva of the Eastern Ganga dynasty. Puri is one of the four Char Dham pilgrimage sites.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        6,
+        7
+      ],
+      "bestTimeNote": "October to March for comfortable weather; June–July for the Rath Yatra (very crowded).",
+      "entryFee": {
+        "indian": 0,
+        "note": "Entry for Hindus only; free."
+      },
+      "timings": {
+        "hours": "About 5:00 AM – 11:00 PM, varying with rituals"
+      },
+      "location": {
+        "lat": 19.8047,
+        "lng": 85.8183,
+        "address": "Grand Road, Puri, Odisha 752001"
+      },
+      "highlights": [
+        "Rath Yatra",
+        "Mahaprasad at Ananda Bazaar",
+        "Grand Road",
+        "Puri beach"
+      ],
+      "sources": [
+        {
+          "title": "Jagannath Temple, Puri – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jagannath_Temple,_Puri"
+        },
+        {
+          "title": "Shree Jagannath Temple Administration (official)",
+          "url": "https://shreejagannatha.in"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/jagannath-temple-puri.webp",
+          "alt": "Jagannath Temple, Puri, Puri",
+          "credit": "Prachites",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shri_Jagannath_temple.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Chilika Lake",
+      "slug": "chilika-lake",
+      "city": "puri",
+      "kind": "lake",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "Asia's largest brackish-water lagoon, with Irrawaddy dolphins and huge flocks of winter migratory birds.",
+      "description": "Chilika is a vast lagoon separated from the Bay of Bengal by a sandbar. Boats from Satapada take visitors out to see the rare Irrawaddy dolphins near the lagoon mouth, while Nalabana Island becomes a bird sanctuary in winter, hosting flamingos, pelicans and ducks from as far as Siberia. Barkul and Rambha on the southern shore are quieter bases with views of small islands such as Kalijai, which has a goddess temple. Fresh crab and prawns are local specialities.",
+      "history": "Chilika was India's first Ramsar wetland of international importance, designated in 1981. Its recovery after a new sea mouth was opened in 2000 is cited as a conservation success.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2
+      ],
+      "bestTimeNote": "November to February for migratory birds and calm water.",
+      "entryFee": {
+        "note": "Boat trips are priced by route at the Satapada and Barkul jetties."
+      },
+      "location": {
+        "lat": 19.7167,
+        "lng": 85.3167,
+        "address": "Chilika Lake, Puri, Khordha and Ganjam districts, Odisha"
+      },
+      "highlights": [
+        "Irrawaddy dolphins at Satapada",
+        "Nalabana bird sanctuary",
+        "Kalijai Island temple",
+        "Sea-mouth sandbar"
+      ],
+      "sources": [
+        {
+          "title": "Chilika Lake – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chilika_Lake"
+        },
+        {
+          "title": "Chilika Development Authority",
+          "url": "https://www.chilika.com"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/chilika-lake.webp",
+          "alt": "Chilika Lake, Puri",
+          "credit": "Government of Odisha",
+          "license": "CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Birds_eyeview_of_Chilika_Lake.jpg"
+        }
+      ]
+    }
+  ]
+}

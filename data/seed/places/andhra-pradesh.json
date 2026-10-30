@@ -1,0 +1,206 @@
+{
+  "cities": [
+    {
+      "name": "Tirumala",
+      "slug": "tirumala",
+      "overview": "A temple town on the seven hills above Tirupati, run by the Tirumala Tirupati Devasthanams and visited by tens of thousands of pilgrims every day.",
+      "location": {
+        "lat": 13.6831,
+        "lng": 79.3469
+      }
+    },
+    {
+      "name": "Araku Valley",
+      "slug": "araku-valley",
+      "overview": "A hill valley in the Eastern Ghats about 115 km from Visakhapatnam, known for coffee estates, tribal culture and the scenic train ride up from the coast.",
+      "location": {
+        "lat": 18.3273,
+        "lng": 82.8775
+      }
+    },
+    {
+      "name": "Lepakshi",
+      "slug": "lepakshi",
+      "overview": "A small village in Sri Sathya Sai district, about 120 km from Bengaluru, built around one of the finest Vijayanagara-era temples in Andhra Pradesh.",
+      "location": {
+        "lat": 13.8032,
+        "lng": 77.6097
+      }
+    }
+  ],
+  "places": [
+    {
+      "name": "Sri Venkateswara Temple, Tirumala",
+      "slug": "tirumala-venkateswara-temple",
+      "city": "tirumala",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "One of the most visited Hindu shrines in the world, dedicated to Lord Venkateswara on the Tirumala hills.",
+      "description": "The temple of Lord Venkateswara, a form of Vishnu, sits on Venkatadri, one of the seven peaks of the Tirumala hills. Pilgrims climb the hills on foot by the Alipiri steps or travel up the ghat road from Tirupati, and many offer their hair at the tonsuring halls as a vow. The gold-plated Ananda Nilayam vimana rises over the sanctum, and the temple's laddu prasadam is famous across India. Darshan is free in the general queue; paid special-entry slots must be booked in advance on the TTD website.",
+      "history": "The temple's origins are ancient, and inscriptions from the Pallava, Chola, Pandya and Vijayanagara periods record gifts to the shrine. The Vijayanagara emperor Krishnadevaraya visited several times in the 16th century and his statue stands inside the temple.",
+      "bestMonths": [
+        9,
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "bestTimeNote": "September to February is coolest. The Brahmotsavam festival (usually September–October) draws very large crowds.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0,
+        "note": "Free general darshan; ₹300 special-entry darshan bookable online. Check tirumala.org."
+      },
+      "timings": {
+        "hours": "Open almost round the clock; darshan slots are allotted through the day"
+      },
+      "location": {
+        "lat": 13.6831,
+        "lng": 79.3469,
+        "address": "Tirumala, Tirupati district, Andhra Pradesh 517504"
+      },
+      "highlights": [
+        "Ananda Nilayam golden vimana",
+        "Alipiri footpath climb",
+        "Tirupati laddu prasadam",
+        "Brahmotsavam festival"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Venkateswara Temple, Tirumala – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Venkateswara_Temple,_Tirumala"
+        },
+        {
+          "title": "Tirumala Tirupati Devasthanams (official)",
+          "url": "https://tirumala.org"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/tirumala-venkateswara-temple.webp",
+          "alt": "Sri Venkateswara Temple, Tirumala, Tirumala",
+          "credit": "Nikhilb239",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tirumala_090615.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Borra Caves",
+      "slug": "borra-caves",
+      "city": "araku-valley",
+      "kind": "caves",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "Million-year-old limestone caves in the Ananthagiri hills, among the largest and deepest cave systems in India.",
+      "description": "The Borra Caves are a vast karst cave system in the Ananthagiri hills of the Eastern Ghats, about 30 km before Araku. Lit walkways lead down into chambers full of stalactites and stalagmites that locals have named after shapes they resemble, and a small Shiva shrine sits inside. The Gosthani River, which helped carve the caves, flows nearby. The Kirandul passenger train from Visakhapatnam stops at Borra Guhalu station, making the caves an easy halt on the way to Araku.",
+      "history": "The caves were documented in 1807 by William King of the Geological Survey of India. Tribal villagers had long known them, and a local legend tells of a cow that fell through a hole in the roof and led herders to the Shiva lingam inside.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March. The caves are cool all year, but the road and valley are at their best after the monsoon.",
+      "entryFee": {
+        "note": "Small entry fee with extra charges for cameras; set by APTDC."
+      },
+      "timings": {
+        "hours": "About 10:00 AM – 5:00 PM"
+      },
+      "location": {
+        "lat": 18.2939,
+        "lng": 83.0597,
+        "address": "Borra Caves Road, Ananthagiri Mandal, Alluri Sitharama Raju district, Andhra Pradesh 531149"
+      },
+      "highlights": [
+        "Stalactite and stalagmite formations",
+        "Kirandul train through the Eastern Ghats",
+        "Gosthani River gorge",
+        "Araku coffee museum nearby"
+      ],
+      "sources": [
+        {
+          "title": "Borra Caves – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Borra_Caves"
+        },
+        {
+          "title": "Andhra Pradesh Tourism",
+          "url": "https://tourism.ap.gov.in"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/borra-caves.webp",
+          "alt": "Borra Caves, Araku Valley",
+          "credit": "Apy Seth",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Borra_caves,_Viskhapatnam.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Veerabhadra Temple, Lepakshi",
+      "slug": "lepakshi-veerabhadra-temple",
+      "city": "lepakshi",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A 16th-century Vijayanagara temple with a hanging pillar, vivid ceiling frescoes and a giant monolithic Nandi.",
+      "description": "Built on a low granite hill shaped like a tortoise, the Veerabhadra Temple is a treasure of Vijayanagara art. Its mandapa ceilings carry some of the best-preserved murals of the period, showing scenes from the epics in natural colours. One pillar in the dance hall famously does not touch the floor fully, and visitors slide cloth beneath it. A short walk away, a Nandi carved from a single rock, about 4.5 m high and 8 m long, is among the largest in India.",
+      "history": "The temple was built around 1530 by the brothers Virupanna and Viranna, governors under the Vijayanagara king Achyuta Deva Raya. It is a protected monument of national importance under the Archaeological Survey of India.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "bestTimeNote": "October to February, ideally early morning before the rock heats up.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "About 6:00 AM – 6:00 PM"
+      },
+      "location": {
+        "lat": 13.8018,
+        "lng": 77.6096,
+        "address": "Lepakshi, Sri Sathya Sai district, Andhra Pradesh 515331"
+      },
+      "highlights": [
+        "Hanging pillar",
+        "Vijayanagara ceiling frescoes",
+        "Monolithic Nandi",
+        "Unfinished kalyana mandapa"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Veerabhadra Temple, Lepakshi – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Veerabhadra_Temple,_Lepakshi"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/lepakshi-veerabhadra-temple.webp",
+          "alt": "Veerabhadra Temple, Lepakshi, Lepakshi",
+          "credit": "Magentic Manifestations",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Veerabhadra_Temple_Tower.JPG"
+        }
+      ]
+    }
+  ]
+}

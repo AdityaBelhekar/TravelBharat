@@ -1,0 +1,194 @@
+{
+  "cities": [
+    {
+      "name": "Kurukshetra",
+      "slug": "kurukshetra",
+      "overview": "The land of the Mahabharata battle and the setting of the Bhagavad Gita, dotted with sacred tanks and temples.",
+      "location": {
+        "lat": 29.9695,
+        "lng": 76.8783
+      }
+    },
+    {
+      "name": "Gurugram",
+      "slug": "gurugram",
+      "overview": "A fast-growing city south-west of Delhi, with a surprisingly good bird sanctuary on its rural edge.",
+      "location": {
+        "lat": 28.4595,
+        "lng": 77.0266
+      }
+    },
+    {
+      "name": "Pinjore",
+      "slug": "pinjore",
+      "overview": "A town at the foot of the Shivalik hills in Panchkula district, about 20 km from Chandigarh.",
+      "location": {
+        "lat": 30.8042,
+        "lng": 76.9149
+      }
+    }
+  ],
+  "places": [
+    {
+      "name": "Brahma Sarovar",
+      "slug": "brahma-sarovar",
+      "city": "kurukshetra",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A vast sacred tank in Kurukshetra where pilgrims bathe, especially during solar eclipses and the Gita Jayanti festival.",
+      "description": "Brahma Sarovar is one of the largest man-made water tanks in India, lined with ghats and temples, with a small shrine to Shiva on an island reached by a bridge. Hindus believe bathing here, particularly during a solar eclipse, brings great merit. A large bronze chariot of Krishna and Arjuna recalls the Bhagavad Gita. In late November or December the International Gita Mahotsav fills the ghats with lamps, crafts and performances.",
+      "history": "Tradition links the tank to Brahma's creation of the world. Kurukshetra is named in the Mahabharata as the battlefield where Krishna delivered the Gita to Arjuna.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March. The Gita Mahotsav is usually in late November or December.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "Open all day"
+      },
+      "location": {
+        "lat": 29.9613,
+        "lng": 76.8274,
+        "address": "Brahma Sarovar, Thanesar, Kurukshetra, Haryana 136118"
+      },
+      "highlights": [
+        "Island shrine to Shiva",
+        "Krishna–Arjuna chariot",
+        "International Gita Mahotsav",
+        "Evening aarti"
+      ],
+      "sources": [
+        {
+          "title": "Brahma Sarovar – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Brahma_Sarovar"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/brahma-sarovar.webp",
+          "alt": "Brahma Sarovar, Kurukshetra",
+          "credit": "Sid Sharma5911",
+          "license": "CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Holy_pic_kkr.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sultanpur National Park",
+      "slug": "sultanpur-national-park",
+      "city": "gurugram",
+      "kind": "sanctuary",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A small wetland bird sanctuary near Gurugram where thousands of migratory birds spend the winter.",
+      "description": "Sultanpur's shallow lake and surrounding scrub draw more than 250 bird species, among them painted storks, sarus cranes, flamingos, bar-headed geese and northern pintails that arrive from Central Asia and Siberia in winter. A walking trail circles the lake with watchtowers along the way. Arrive early in the morning with binoculars for the best sightings. It is an easy half-day trip from Delhi.",
+      "history": "Ornithologist Peter Jackson and Salim Ali drew attention to the wetland in the 1960s. It became a bird sanctuary in 1972, a national park in 1989 and a Ramsar wetland of international importance in 2021.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "November to March for migratory birds.",
+      "entryFee": {
+        "note": "Small entry fee for Indians and foreigners; extra for cameras."
+      },
+      "timings": {
+        "hours": "About 7:00 AM – 4:30 PM"
+      },
+      "location": {
+        "lat": 28.4623,
+        "lng": 76.8899,
+        "address": "Sultanpur, Farrukhnagar road, Gurugram district, Haryana 122506"
+      },
+      "highlights": [
+        "Painted storks and flamingos",
+        "Lakeside walking trail",
+        "Watchtowers",
+        "Winter migratory birds"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Sultanpur National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sultanpur_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/sultanpur-national-park.webp",
+          "alt": "Sultanpur National Park, Gurugram",
+          "credit": "Vishalbhatia93",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sultanpur_Bird_Sanctuary,_Gurgaon.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Pinjore Gardens",
+      "slug": "pinjore-gardens",
+      "city": "pinjore",
+      "kind": "garden",
+      "categories": [
+        "heritage",
+        "nature"
+      ],
+      "shortDescription": "A 17th-century Mughal terraced garden with fountains and palaces at the foot of the Shivalik hills.",
+      "description": "The Yadavindra Gardens at Pinjore descend in seven terraces along a central water channel lined with fountains, cypresses and fruit trees. Small palaces in Rajasthani-Mughal style, such as the Sheesh Mahal and Rang Mahal, sit along the way. The fountains are lit up in the evenings, and the Pinjore Heritage Festival is held here in winter. It pairs well with a day in Chandigarh.",
+      "history": "The garden was laid out in the 17th century by Nawab Fidai Khan, a foster brother of the Mughal emperor Aurangzeb. It later passed to the rulers of Patiala and was renamed after Maharaja Yadavindra Singh.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March; evenings when the fountains are lit.",
+      "entryFee": {
+        "note": "Small entry fee charged by Haryana Tourism."
+      },
+      "timings": {
+        "hours": "About 7:00 AM – 10:00 PM"
+      },
+      "location": {
+        "lat": 30.7925,
+        "lng": 76.9122,
+        "address": "Pinjore, Kalka, Panchkula district, Haryana 134102"
+      },
+      "highlights": [
+        "Seven Mughal terraces",
+        "Illuminated fountains",
+        "Sheesh Mahal",
+        "Pinjore Heritage Festival"
+      ],
+      "sources": [
+        {
+          "title": "Pinjore Gardens – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pinjore_Gardens"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/pinjore-gardens.webp",
+          "alt": "Pinjore Gardens, Pinjore",
+          "credit": "Unpetitprole",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pinjore_Garden_Panchkula.jpg"
+        }
+      ]
+    }
+  ]
+}

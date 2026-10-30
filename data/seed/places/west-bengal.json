@@ -1,0 +1,193 @@
+{
+  "cities": [
+    {
+      "name": "Kolkata",
+      "slug": "kolkata",
+      "overview": "West Bengal's capital and India's cultural capital for many, the former capital of British India, known for literature, music, sweets and Durga Puja.",
+      "location": {
+        "lat": 22.5726,
+        "lng": 88.3639
+      }
+    },
+    {
+      "name": "Gosaba",
+      "slug": "gosaba",
+      "overview": "An island village in the Sundarbans, the usual starting point for boat safaris into the tiger reserve.",
+      "location": {
+        "lat": 21.9744,
+        "lng": 88.8149
+      }
+    },
+    {
+      "name": "Darjeeling",
+      "slug": "darjeeling",
+      "overview": "A hill town at about 2,000 m famous for its tea, its toy train and sunrise views of Kangchenjunga.",
+      "location": {
+        "lat": 27.041,
+        "lng": 88.2663
+      }
+    }
+  ],
+  "places": [
+    {
+      "name": "Victoria Memorial",
+      "slug": "victoria-memorial",
+      "city": "kolkata",
+      "kind": "museum",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A grand white-marble museum and memorial set in gardens on Kolkata's Maidan.",
+      "description": "The Victoria Memorial blends British and Mughal architecture in white Makrana marble, topped by a bronze Angel of Victory that once turned in the wind. Its galleries hold paintings, manuscripts and artefacts from the colonial period, including works by Thomas and William Daniell. The 64 acres of gardens with reflecting pools are popular for evening walks. A light-and-sound show runs after dark.",
+      "history": "The memorial was proposed by Lord Curzon after Queen Victoria's death in 1901, designed by William Emerson and opened in 1921.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March. Durga Puja (September–October) is Kolkata's biggest festival.",
+      "entryFee": {
+        "note": "Separate tickets for the gardens and the museum; check the official site."
+      },
+      "timings": {
+        "hours": "Museum about 10:00 AM – 5:00 PM, closed Mondays; gardens open longer"
+      },
+      "location": {
+        "lat": 22.5449,
+        "lng": 88.3425,
+        "address": "1 Queens Way, Maidan, Kolkata, West Bengal 700071"
+      },
+      "highlights": [
+        "Marble dome and Angel of Victory",
+        "Colonial-era art galleries",
+        "Reflecting pools",
+        "Evening light-and-sound show"
+      ],
+      "sources": [
+        {
+          "title": "Victoria Memorial – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Victoria_Memorial,_Kolkata"
+        },
+        {
+          "title": "Victoria Memorial Hall (official)",
+          "url": "https://victoriamemorial-cal.org"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/victoria-memorial.webp",
+          "alt": "Victoria Memorial, Kolkata",
+          "credit": "Subhrajyoti07",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Victoria_Memorial_situated_in_Kolkata.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sundarbans National Park",
+      "slug": "sundarbans-national-park",
+      "city": "gosaba",
+      "kind": "national-park",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "The world's largest mangrove forest, home to swimming Bengal tigers, crocodiles and river dolphins.",
+      "description": "The Sundarbans is a maze of tidal rivers, creeks and mangrove islands where the Ganga and Brahmaputra deltas meet the Bay of Bengal. Exploration is by boat, with stops at watchtowers such as Sajnekhali, Sudhanyakhali and Dobanki, where a canopy walk crosses the mangroves. Tigers here are elusive and adapted to swimming between islands; sightings are rare, but saltwater crocodiles, monitor lizards, spotted deer and kingfishers are common. Book through a registered operator, as permits are needed.",
+      "history": "The Indian Sundarbans became a tiger reserve in 1973 and a national park in 1984, and was inscribed as a UNESCO World Heritage Site in 1987.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "November to March. Cyclones and heavy rain disrupt travel in the monsoon.",
+      "entryFee": {
+        "note": "Boat and entry permits are issued at Sajnekhali; registered operators usually arrange them."
+      },
+      "location": {
+        "lat": 21.838,
+        "lng": 88.8852,
+        "address": "Sundarbans Tiger Reserve, South 24 Parganas, West Bengal"
+      },
+      "highlights": [
+        "Boat safari through mangroves",
+        "Sajnekhali watchtower",
+        "Dobanki canopy walk",
+        "Saltwater crocodiles"
+      ],
+      "sources": [
+        {
+          "title": "Sundarbans National Park – UNESCO",
+          "url": "https://whc.unesco.org/en/list/452"
+        },
+        {
+          "title": "Sundarbans National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sundarbans_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/sundarbans-national-park.webp",
+          "alt": "Sundarbans National Park, Gosaba",
+          "credit": "Soumyajit Nandy",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sundarban_Tiger.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Darjeeling Himalayan Railway",
+      "slug": "darjeeling-himalayan-railway",
+      "city": "darjeeling",
+      "kind": "railway",
+      "categories": [
+        "heritage",
+        "adventure"
+      ],
+      "shortDescription": "The UNESCO-listed narrow-gauge toy train that zigzags and loops up to Darjeeling, still pulled by steam engines.",
+      "description": "The 'Toy Train' climbs from New Jalpaiguri to Darjeeling on a 2 ft track, using zigzag reverses and spiral loops to gain height through tea gardens and hill bazaars. The most popular trip is the two-hour joy ride from Darjeeling to Ghum, India's highest railway station at about 2,250 m, with a stop at the Batasia Loop and its war memorial. Book seats on the IRCTC website well in advance, especially for steam-hauled trains.",
+      "history": "The line opened in 1881 to carry supplies and tea between the plains and Darjeeling. It was inscribed as a UNESCO World Heritage Site in 1999 and is part of the Mountain Railways of India listing.",
+      "bestMonths": [
+        3,
+        4,
+        5,
+        10,
+        11,
+        12
+      ],
+      "bestTimeNote": "March to May and October to December for clear views of Kangchenjunga.",
+      "entryFee": {
+        "note": "Train fares and joy-ride tickets are booked through IRCTC."
+      },
+      "timings": {
+        "hours": "Joy rides several times daily from Darjeeling station"
+      },
+      "location": {
+        "lat": 27.038,
+        "lng": 88.2632,
+        "address": "Darjeeling Railway Station, Hill Cart Road, Darjeeling, West Bengal 734101"
+      },
+      "highlights": [
+        "Steam joy ride to Ghum",
+        "Batasia Loop",
+        "Ghum station museum",
+        "Tea garden views"
+      ],
+      "sources": [
+        {
+          "title": "Mountain Railways of India – UNESCO",
+          "url": "https://whc.unesco.org/en/list/944"
+        },
+        {
+          "title": "Darjeeling Himalayan Railway – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Darjeeling_Himalayan_Railway"
+        }
+      ]
+    }
+  ]
+}

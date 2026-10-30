@@ -1,0 +1,864 @@
+[
+  {
+    "name": "Andhra Pradesh",
+    "slug": "andhra-pradesh",
+    "type": "state",
+    "region": "south",
+    "capital": "Amaravati",
+    "languages": [
+      "Telugu"
+    ],
+    "overview": "Andhra Pradesh runs along nearly a thousand kilometres of the Bay of Bengal coast. It is home to Tirumala, one of the most visited pilgrimage sites in the world, the Buddhist remains of Amaravati and Nagarjunakonda, the Araku Valley's coffee hills and the beaches of Visakhapatnam.",
+    "famousFor": [
+      "Tirupati Balaji",
+      "Araku Valley",
+      "Buddhist heritage",
+      "Beaches",
+      "Andhra cuisine"
+    ],
+    "bestTime": "October to March, when the coast is pleasant and dry.",
+    "localName": {
+      "hi": "आंध्र प्रदेश",
+      "regional": "ఆంధ్ర ప్రదేశ్",
+      "lang": "te"
+    }
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "slug": "arunachal-pradesh",
+    "type": "state",
+    "region": "northeast",
+    "capital": "Itanagar",
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "overview": "India's easternmost state, where the sun rises first over the country. Arunachal is a land of high Himalayan passes, dense forests and over two dozen major tribes. Highlights include the 17th-century Tawang Monastery, the Ziro Valley's rice fields and music festival, and Namdapha National Park. Visitors need an Inner Line Permit.",
+    "famousFor": [
+      "Tawang Monastery",
+      "Ziro Valley",
+      "Sela Pass",
+      "Tribal culture",
+      "Namdapha National Park"
+    ],
+    "bestTime": "October to April; March–May for rhododendrons and clear passes.",
+    "localName": {
+      "hi": "अरुणाचल प्रदेश"
+    }
+  },
+  {
+    "name": "Assam",
+    "slug": "assam",
+    "type": "state",
+    "region": "northeast",
+    "capital": "Dispur",
+    "languages": [
+      "Assamese",
+      "Bodo",
+      "Bengali"
+    ],
+    "overview": "The gateway to the Northeast, shaped by the mighty Brahmaputra. Assam is known for its tea gardens, the one-horned rhinoceros of Kaziranga, the river island of Majuli and the Kamakhya Temple in Guwahati. Bihu, the harvest festival, is its biggest celebration.",
+    "famousFor": [
+      "Kaziranga National Park",
+      "Tea gardens",
+      "Majuli island",
+      "Kamakhya Temple",
+      "Bihu festival"
+    ],
+    "bestTime": "November to April; Kaziranga is open roughly November to April.",
+    "localName": {
+      "hi": "असम",
+      "regional": "অসম",
+      "lang": "as"
+    }
+  },
+  {
+    "name": "Bihar",
+    "slug": "bihar",
+    "type": "state",
+    "region": "east",
+    "capital": "Patna",
+    "languages": [
+      "Hindi",
+      "Maithili",
+      "Bhojpuri",
+      "Urdu"
+    ],
+    "overview": "Bihar is where much of ancient Indian history happened. The Buddha attained enlightenment at Bodh Gaya, the ruins of Nalanda University once drew scholars from across Asia, and Pataliputra (today's Patna) was the capital of the Maurya Empire. It is also sacred to Jains and Sikhs.",
+    "famousFor": [
+      "Bodh Gaya",
+      "Nalanda ruins",
+      "Rajgir",
+      "Takht Sri Patna Sahib",
+      "Chhath Puja"
+    ],
+    "bestTime": "October to March.",
+    "localName": {
+      "hi": "बिहार"
+    }
+  },
+  {
+    "name": "Chhattisgarh",
+    "slug": "chhattisgarh",
+    "type": "state",
+    "region": "central",
+    "capital": "Raipur",
+    "languages": [
+      "Hindi",
+      "Chhattisgarhi"
+    ],
+    "overview": "Over forty percent of Chhattisgarh is forest. The state is known for the wide Chitrakote Falls, often called India's Niagara, the tribal culture and crafts of Bastar, ancient temples at Sirpur and Bhoramdeo, and national parks such as Kanger Valley.",
+    "famousFor": [
+      "Chitrakote Falls",
+      "Bastar tribal culture",
+      "Dhokra metal craft",
+      "Kanger Valley National Park"
+    ],
+    "bestTime": "July to February; waterfalls are at their fullest after the monsoon.",
+    "localName": {
+      "hi": "छत्तीसगढ़"
+    }
+  },
+  {
+    "name": "Goa",
+    "slug": "goa",
+    "type": "state",
+    "region": "west",
+    "capital": "Panaji",
+    "languages": [
+      "Konkani",
+      "Marathi"
+    ],
+    "overview": "India's smallest state by area, Goa blends beaches and nightlife with four and a half centuries of Portuguese influence. Its whitewashed churches in Old Goa are a UNESCO World Heritage Site, and inland you'll find spice farms, wildlife sanctuaries and the Dudhsagar Falls.",
+    "famousFor": [
+      "Beaches",
+      "Churches of Old Goa",
+      "Goan cuisine",
+      "Carnival",
+      "Dudhsagar Falls"
+    ],
+    "bestTime": "November to February; monsoon (June–September) is lush but rough at sea.",
+    "localName": {
+      "hi": "गोवा",
+      "regional": "गोंय",
+      "lang": "kok"
+    }
+  },
+  {
+    "name": "Gujarat",
+    "slug": "gujarat",
+    "type": "state",
+    "region": "west",
+    "capital": "Gandhinagar",
+    "languages": [
+      "Gujarati"
+    ],
+    "overview": "Gujarat has the white salt desert of the Rann of Kutch, Gir Forest (the last home of the Asiatic lion), the Statue of Unity, and the Somnath and Dwarka temples. Its historic city of Ahmedabad was India's first UNESCO World Heritage City, and the state hosts nine nights of Navratri dancing every autumn.",
+    "famousFor": [
+      "Rann of Kutch",
+      "Gir National Park",
+      "Statue of Unity",
+      "Somnath Temple",
+      "Navratri"
+    ],
+    "bestTime": "November to February; the Rann Utsav runs through winter.",
+    "localName": {
+      "hi": "गुजरात",
+      "regional": "ગુજરાત",
+      "lang": "gu"
+    }
+  },
+  {
+    "name": "Haryana",
+    "slug": "haryana",
+    "type": "state",
+    "region": "north",
+    "capital": "Chandigarh",
+    "languages": [
+      "Hindi",
+      "Haryanvi",
+      "Punjabi"
+    ],
+    "overview": "Haryana surrounds Delhi on three sides. Kurukshetra, where the Mahabharata war is said to have been fought and the Bhagavad Gita spoken, draws pilgrims year-round. The state also has the Mughal-era Pinjore Gardens, the Sultanpur bird sanctuary and the Surajkund crafts fair.",
+    "famousFor": [
+      "Kurukshetra",
+      "Surajkund Crafts Mela",
+      "Pinjore Gardens",
+      "Sultanpur National Park"
+    ],
+    "bestTime": "October to March.",
+    "localName": {
+      "hi": "हरियाणा"
+    }
+  },
+  {
+    "name": "Himachal Pradesh",
+    "slug": "himachal-pradesh",
+    "type": "state",
+    "region": "north",
+    "capital": "Shimla",
+    "languages": [
+      "Hindi",
+      "Pahari"
+    ],
+    "overview": "A mountain state of snow peaks, apple orchards and deodar forests. Himachal offers hill stations like Shimla and Manali, the Tibetan culture of McLeod Ganj, the cold desert of Spiti, and some of India's best paragliding, trekking and skiing.",
+    "famousFor": [
+      "Shimla",
+      "Manali",
+      "Spiti Valley",
+      "Paragliding at Bir Billing",
+      "McLeod Ganj"
+    ],
+    "bestTime": "March to June for pleasant weather; December to February for snow.",
+    "localName": {
+      "hi": "हिमाचल प्रदेश"
+    }
+  },
+  {
+    "name": "Jharkhand",
+    "slug": "jharkhand",
+    "type": "state",
+    "region": "east",
+    "capital": "Ranchi",
+    "languages": [
+      "Hindi",
+      "Santali"
+    ],
+    "overview": "Jharkhand, the 'land of forests', sits on the Chota Nagpur Plateau. Waterfalls such as Hundru and Dassam surround Ranchi, Betla National Park shelters elephants and tigers, and Deoghar's Baidyanath Dham is one of the twelve Jyotirlingas.",
+    "famousFor": [
+      "Waterfalls around Ranchi",
+      "Baidyanath Dham",
+      "Betla National Park",
+      "Netarhat"
+    ],
+    "bestTime": "October to March; waterfalls are best just after the monsoon.",
+    "localName": {
+      "hi": "झारखंड"
+    }
+  },
+  {
+    "name": "Karnataka",
+    "slug": "karnataka",
+    "type": "state",
+    "region": "south",
+    "capital": "Bengaluru",
+    "languages": [
+      "Kannada"
+    ],
+    "overview": "Karnataka ranges from the Vijayanagara ruins of Hampi and the royal city of Mysuru to the coffee hills of Coorg and the beaches of Gokarna. Its temples at Badami, Aihole, Belur and Halebidu are among the finest in stone, and Bengaluru is India's technology capital.",
+    "famousFor": [
+      "Hampi",
+      "Mysuru Palace and Dasara",
+      "Coorg coffee estates",
+      "Hoysala temples",
+      "Gokarna beaches"
+    ],
+    "bestTime": "October to March.",
+    "localName": {
+      "hi": "कर्नाटक",
+      "regional": "ಕರ್ನಾಟಕ",
+      "lang": "kn"
+    }
+  },
+  {
+    "name": "Kerala",
+    "slug": "kerala",
+    "type": "state",
+    "region": "south",
+    "capital": "Thiruvananthapuram",
+    "languages": [
+      "Malayalam"
+    ],
+    "overview": "Kerala is a narrow green strip between the Arabian Sea and the Western Ghats. Travellers come for houseboat cruises on the backwaters, tea estates in Munnar, the beaches of Varkala and Kovalam, Ayurveda, Kathakali dance, and spice-trade history in Fort Kochi.",
+    "famousFor": [
+      "Backwaters and houseboats",
+      "Munnar tea gardens",
+      "Ayurveda",
+      "Kathakali",
+      "Beaches"
+    ],
+    "bestTime": "September to March; monsoon (June–August) is popular for Ayurveda.",
+    "localName": {
+      "hi": "केरल",
+      "regional": "കേരളം",
+      "lang": "ml"
+    }
+  },
+  {
+    "name": "Madhya Pradesh",
+    "slug": "madhya-pradesh",
+    "type": "state",
+    "region": "central",
+    "capital": "Bhopal",
+    "languages": [
+      "Hindi"
+    ],
+    "overview": "The 'heart of India' holds three UNESCO World Heritage Sites (the Khajuraho temples, the Sanchi stupa and the Bhimbetka rock shelters) as well as Orchha, Gwalior Fort and the Mahakaleshwar temple in Ujjain. Its tiger reserves, including Kanha and Bandhavgarh, are among India's best.",
+    "famousFor": [
+      "Khajuraho temples",
+      "Sanchi Stupa",
+      "Kanha and Bandhavgarh tiger reserves",
+      "Ujjain",
+      "Gwalior Fort"
+    ],
+    "bestTime": "October to March; tiger reserves are open October to June.",
+    "localName": {
+      "hi": "मध्य प्रदेश"
+    }
+  },
+  {
+    "name": "Maharashtra",
+    "slug": "maharashtra",
+    "type": "state",
+    "region": "west",
+    "capital": "Mumbai",
+    "languages": [
+      "Marathi"
+    ],
+    "overview": "Maharashtra holds the city of Mumbai, the rock-cut caves of Ajanta and Ellora, and hundreds of hill forts linked to Chhatrapati Shivaji Maharaj. The Sahyadri hills come alive in the monsoon with waterfalls and treks, and pilgrims visit Shirdi, Pandharpur and Nashik.",
+    "famousFor": [
+      "Mumbai",
+      "Ajanta and Ellora caves",
+      "Sahyadri forts",
+      "Monsoon treks",
+      "Ganesh Chaturthi"
+    ],
+    "bestTime": "October to March; June to September for monsoon treks.",
+    "localName": {
+      "hi": "महाराष्ट्र"
+    }
+  },
+  {
+    "name": "Manipur",
+    "slug": "manipur",
+    "type": "state",
+    "region": "northeast",
+    "capital": "Imphal",
+    "languages": [
+      "Meitei (Manipuri)"
+    ],
+    "overview": "Manipur, the 'jewel of India', is ringed by hills around a central valley. Loktak Lake, with its floating phumdis and Keibul Lamjao, the world's only floating national park, is its best-known sight. The state is also the home of Manipuri classical dance and of polo.",
+    "famousFor": [
+      "Loktak Lake",
+      "Keibul Lamjao National Park",
+      "Manipuri dance",
+      "Ima Keithel women's market"
+    ],
+    "bestTime": "October to April. Check current travel advisories before planning.",
+    "localName": {
+      "hi": "मणिपुर",
+      "regional": "ꯃꯅꯤꯄꯨꯔ",
+      "lang": "mni"
+    }
+  },
+  {
+    "name": "Meghalaya",
+    "slug": "meghalaya",
+    "type": "state",
+    "region": "northeast",
+    "capital": "Shillong",
+    "languages": [
+      "Khasi",
+      "Garo",
+      "English"
+    ],
+    "overview": "Meghalaya, the 'abode of clouds', includes some of the wettest places on earth. Its Khasi and Jaintia hills hold living root bridges grown from rubber fig trees, tall waterfalls, limestone caves and the crystal-clear Umngot River. Shillong is a lively hill capital with a strong music scene.",
+    "famousFor": [
+      "Living root bridges",
+      "Cherrapunji (Sohra)",
+      "Waterfalls and caves",
+      "Dawki's clear river",
+      "Shillong"
+    ],
+    "bestTime": "October to April for treks; June to September for monsoon waterfalls.",
+    "localName": {
+      "hi": "मेघालय"
+    }
+  },
+  {
+    "name": "Mizoram",
+    "slug": "mizoram",
+    "type": "state",
+    "region": "northeast",
+    "capital": "Aizawl",
+    "languages": [
+      "Mizo",
+      "English"
+    ],
+    "overview": "A state of steep bamboo-covered hills, Mizoram has a close-knit culture known for its bamboo dance, Cheraw. Travellers visit Aizawl's hillside streets, Phawngpui (Blue Mountain), the state's highest peak, and the quiet lake at Tam Dil. An Inner Line Permit is required.",
+    "famousFor": [
+      "Aizawl",
+      "Phawngpui (Blue Mountain)",
+      "Cheraw bamboo dance",
+      "Reiek hills"
+    ],
+    "bestTime": "October to March.",
+    "localName": {
+      "hi": "मिज़ोरम"
+    }
+  },
+  {
+    "name": "Nagaland",
+    "slug": "nagaland",
+    "type": "state",
+    "region": "northeast",
+    "capital": "Kohima",
+    "languages": [
+      "English",
+      "Nagamese"
+    ],
+    "overview": "Nagaland is home to more than a dozen Naga tribes, each with its own dress, songs and festivals. The Hornbill Festival in December brings them together near Kohima. Other highlights are the Second World War cemetery at Kohima and the Dzukou Valley trek. An Inner Line Permit is required.",
+    "famousFor": [
+      "Hornbill Festival",
+      "Dzukou Valley",
+      "Kohima War Cemetery",
+      "Naga tribal culture"
+    ],
+    "bestTime": "October to May; early December for the Hornbill Festival.",
+    "localName": {
+      "hi": "नागालैंड"
+    }
+  },
+  {
+    "name": "Odisha",
+    "slug": "odisha",
+    "type": "state",
+    "region": "east",
+    "capital": "Bhubaneswar",
+    "languages": [
+      "Odia"
+    ],
+    "overview": "Odisha's golden triangle of Bhubaneswar, Puri and Konark covers temple cities, the Jagannath Rath Yatra and the UNESCO-listed Sun Temple. Beyond it lie Chilika Lake, India's largest coastal lagoon, Olive Ridley turtle nesting beaches, and the tribal markets of Koraput.",
+    "famousFor": [
+      "Konark Sun Temple",
+      "Jagannath Temple, Puri",
+      "Chilika Lake",
+      "Rath Yatra",
+      "Odissi dance"
+    ],
+    "bestTime": "October to March; Rath Yatra falls in June or July.",
+    "localName": {
+      "hi": "ओडिशा",
+      "regional": "ଓଡ଼ିଶା",
+      "lang": "or"
+    }
+  },
+  {
+    "name": "Punjab",
+    "slug": "punjab",
+    "type": "state",
+    "region": "north",
+    "capital": "Chandigarh",
+    "languages": [
+      "Punjabi"
+    ],
+    "overview": "Punjab, the 'land of five rivers', is the heartland of Sikhism. The Golden Temple in Amritsar welcomes visitors of every faith and serves free meals to tens of thousands each day. The state is also known for the Wagah border ceremony, the Jallianwala Bagh memorial, bhangra and generous food.",
+    "famousFor": [
+      "Golden Temple",
+      "Wagah border ceremony",
+      "Jallianwala Bagh",
+      "Punjabi cuisine",
+      "Baisakhi"
+    ],
+    "bestTime": "October to March.",
+    "localName": {
+      "hi": "पंजाब",
+      "regional": "ਪੰਜਾਬ",
+      "lang": "pa"
+    }
+  },
+  {
+    "name": "Rajasthan",
+    "slug": "rajasthan",
+    "type": "state",
+    "region": "north",
+    "capital": "Jaipur",
+    "languages": [
+      "Hindi",
+      "Rajasthani"
+    ],
+    "overview": "India's largest state is the land of maharajas: hill forts, lake palaces, painted havelis and the golden dunes of the Thar Desert. Jaipur, Udaipur, Jodhpur and Jaisalmer are each known by a colour, and six of its hill forts are together a UNESCO World Heritage Site.",
+    "famousFor": [
+      "Forts and palaces",
+      "Thar Desert",
+      "Jaipur's Pink City",
+      "Udaipur lakes",
+      "Pushkar Camel Fair"
+    ],
+    "bestTime": "October to March; summers are very hot.",
+    "localName": {
+      "hi": "राजस्थान"
+    }
+  },
+  {
+    "name": "Sikkim",
+    "slug": "sikkim",
+    "type": "state",
+    "region": "northeast",
+    "capital": "Gangtok",
+    "languages": [
+      "Nepali",
+      "Sikkimese",
+      "Lepcha"
+    ],
+    "overview": "Sikkim sits beneath Kanchenjunga, the world's third-highest mountain. This small Himalayan state has Buddhist monasteries such as Rumtek and Pemayangtse, the high-altitude Tsomgo and Gurudongmar lakes, and Khangchendzonga National Park, a UNESCO World Heritage Site. It was India's first fully organic state.",
+    "famousFor": [
+      "Kanchenjunga views",
+      "Gangtok",
+      "Tsomgo Lake",
+      "Buddhist monasteries",
+      "Organic farming"
+    ],
+    "bestTime": "March to May and October to December.",
+    "localName": {
+      "hi": "सिक्किम"
+    }
+  },
+  {
+    "name": "Tamil Nadu",
+    "slug": "tamil-nadu",
+    "type": "state",
+    "region": "south",
+    "capital": "Chennai",
+    "languages": [
+      "Tamil"
+    ],
+    "overview": "Tamil Nadu is a land of towering temple gateways and an unbroken classical tradition. Highlights include the Chola temples of Thanjavur, Madurai's Meenakshi Temple, the shore monuments of Mamallapuram, the hill station of Ooty, and Kanyakumari at the southern tip of mainland India.",
+    "famousFor": [
+      "Dravidian temples",
+      "Madurai",
+      "Mamallapuram",
+      "Ooty and the Nilgiris",
+      "Bharatanatyam"
+    ],
+    "bestTime": "November to February; the hills are pleasant from March to June.",
+    "localName": {
+      "hi": "तमिलनाडु",
+      "regional": "தமிழ்நாடு",
+      "lang": "ta"
+    }
+  },
+  {
+    "name": "Telangana",
+    "slug": "telangana",
+    "type": "state",
+    "region": "south",
+    "capital": "Hyderabad",
+    "languages": [
+      "Telugu",
+      "Urdu"
+    ],
+    "overview": "Telangana's capital Hyderabad mixes Qutb Shahi and Nizam-era monuments such as the Charminar and Golconda Fort with a modern tech city and its famous biryani. The Kakatiya-era Ramappa Temple near Warangal is a UNESCO World Heritage Site.",
+    "famousFor": [
+      "Charminar",
+      "Golconda Fort",
+      "Hyderabadi biryani",
+      "Ramappa Temple",
+      "Warangal Fort"
+    ],
+    "bestTime": "October to February.",
+    "localName": {
+      "hi": "तेलंगाना",
+      "regional": "తెలంగాణ",
+      "lang": "te"
+    }
+  },
+  {
+    "name": "Tripura",
+    "slug": "tripura",
+    "type": "state",
+    "region": "northeast",
+    "capital": "Agartala",
+    "languages": [
+      "Bengali",
+      "Kokborok"
+    ],
+    "overview": "Tripura is a small hill state bordered on three sides by Bangladesh. It is known for the Ujjayanta Palace in Agartala, the lake palace of Neermahal, the giant rock carvings of Unakoti, and the Tripura Sundari Temple, one of the Shakti Peethas.",
+    "famousFor": [
+      "Ujjayanta Palace",
+      "Neermahal",
+      "Unakoti rock carvings",
+      "Tripura Sundari Temple"
+    ],
+    "bestTime": "October to March.",
+    "localName": {
+      "hi": "त्रिपुरा",
+      "regional": "ত্রিপুরা",
+      "lang": "bn"
+    }
+  },
+  {
+    "name": "Uttar Pradesh",
+    "slug": "uttar-pradesh",
+    "type": "state",
+    "region": "north",
+    "capital": "Lucknow",
+    "languages": [
+      "Hindi",
+      "Urdu"
+    ],
+    "overview": "Uttar Pradesh has the Taj Mahal, the ghats of Varanasi, the Buddhist site of Sarnath, the Nawabi culture of Lucknow, and Prayagraj, host of the Kumbh Mela. Mathura and Vrindavan, linked with Lord Krishna, draw crowds at Holi.",
+    "famousFor": [
+      "Taj Mahal",
+      "Varanasi ghats",
+      "Lucknow's Awadhi cuisine",
+      "Kumbh Mela",
+      "Mathura and Vrindavan"
+    ],
+    "bestTime": "October to March.",
+    "localName": {
+      "hi": "उत्तर प्रदेश"
+    }
+  },
+  {
+    "name": "Uttarakhand",
+    "slug": "uttarakhand",
+    "type": "state",
+    "region": "north",
+    "capital": "Dehradun",
+    "languages": [
+      "Hindi",
+      "Garhwali",
+      "Kumaoni"
+    ],
+    "overview": "Uttarakhand, 'Dev Bhoomi' or land of the gods, contains the Char Dham pilgrimage (Yamunotri, Gangotri, Kedarnath, Badrinath), the yoga town of Rishikesh, the hill stations of Mussoorie and Nainital, Jim Corbett National Park and the Valley of Flowers.",
+    "famousFor": [
+      "Char Dham Yatra",
+      "Rishikesh",
+      "Jim Corbett National Park",
+      "Valley of Flowers",
+      "Himalayan treks"
+    ],
+    "bestTime": "March to June and September to November; the Char Dham shrines open from about May to November.",
+    "localName": {
+      "hi": "उत्तराखंड"
+    }
+  },
+  {
+    "name": "West Bengal",
+    "slug": "west-bengal",
+    "type": "state",
+    "region": "east",
+    "capital": "Kolkata",
+    "languages": [
+      "Bengali"
+    ],
+    "overview": "West Bengal stretches from the Darjeeling Himalaya to the Sundarbans mangroves, home of the Royal Bengal tiger. In between are Kolkata, a city of colonial landmarks, literature and Durga Puja, the terracotta temples of Bishnupur, and the toy train of the Darjeeling Himalayan Railway.",
+    "famousFor": [
+      "Kolkata",
+      "Darjeeling tea and toy train",
+      "Sundarbans",
+      "Durga Puja",
+      "Bengali sweets"
+    ],
+    "bestTime": "October to March; Darjeeling is also pleasant from April to June.",
+    "localName": {
+      "hi": "पश्चिम बंगाल",
+      "regional": "পশ্চিমবঙ্গ",
+      "lang": "bn"
+    }
+  },
+  {
+    "name": "Andaman and Nicobar Islands",
+    "slug": "andaman-and-nicobar-islands",
+    "type": "ut",
+    "region": "islands",
+    "capital": "Sri Vijaya Puram",
+    "languages": [
+      "Hindi",
+      "Bengali",
+      "Tamil",
+      "English"
+    ],
+    "overview": "A chain of tropical islands in the Bay of Bengal with white-sand beaches, coral reefs and rainforest. Visitors come for Radhanagar Beach on Swaraj Dweep (Havelock), scuba diving and snorkelling, and the Cellular Jail in Sri Vijaya Puram (Port Blair), a memorial to the freedom struggle.",
+    "famousFor": [
+      "Radhanagar Beach",
+      "Scuba diving",
+      "Cellular Jail",
+      "Coral reefs"
+    ],
+    "bestTime": "November to May; the sea is calmest from December to April.",
+    "localName": {
+      "hi": "अंडमान और निकोबार द्वीपसमूह"
+    }
+  },
+  {
+    "name": "Chandigarh",
+    "slug": "chandigarh",
+    "type": "ut",
+    "region": "north",
+    "capital": "Chandigarh",
+    "languages": [
+      "Hindi",
+      "Punjabi",
+      "English"
+    ],
+    "overview": "Chandigarh, planned by Le Corbusier in the 1950s, is one of India's first planned cities and the shared capital of Punjab and Haryana. Its Capitol Complex is part of a UNESCO World Heritage listing. Visitors also enjoy the Rock Garden, built from recycled waste, and Sukhna Lake.",
+    "famousFor": [
+      "Rock Garden",
+      "Capitol Complex",
+      "Sukhna Lake",
+      "Modernist architecture"
+    ],
+    "bestTime": "October to March.",
+    "localName": {
+      "hi": "चंडीगढ़",
+      "regional": "ਚੰਡੀਗੜ੍ਹ",
+      "lang": "pa"
+    }
+  },
+  {
+    "name": "Dadra and Nagar Haveli and Daman and Diu",
+    "slug": "dadra-and-nagar-haveli-and-daman-and-diu",
+    "type": "ut",
+    "region": "west",
+    "capital": "Daman",
+    "languages": [
+      "Gujarati",
+      "Hindi",
+      "Marathi"
+    ],
+    "overview": "Formed in 2020 by merging two former Portuguese territories. Daman and Diu offer quiet beaches, sea forts and old churches on the Gujarat coast, while Dadra and Nagar Haveli is a forested, tribal region with rivers and gardens near Silvassa.",
+    "famousFor": [
+      "Diu Fort",
+      "Nagoa Beach",
+      "Portuguese churches",
+      "Silvassa"
+    ],
+    "bestTime": "October to March.",
+    "localName": {
+      "hi": "दादरा और नगर हवेली और दमन और दीव",
+      "regional": "દાદરા અને નગર હવેલી અને દમણ અને દીવ",
+      "lang": "gu"
+    }
+  },
+  {
+    "name": "Delhi",
+    "slug": "delhi",
+    "type": "ut",
+    "region": "north",
+    "capital": "New Delhi",
+    "languages": [
+      "Hindi",
+      "Punjabi",
+      "Urdu",
+      "English"
+    ],
+    "overview": "India's capital has been the seat of empires for centuries. It has three UNESCO World Heritage Sites (the Red Fort, Qutub Minar and Humayun's Tomb) alongside the busy lanes of Old Delhi, Lutyens' boulevards, modern temples and some of the country's best street food.",
+    "famousFor": [
+      "Red Fort",
+      "Qutub Minar",
+      "Humayun's Tomb",
+      "Chandni Chowk street food",
+      "India Gate"
+    ],
+    "bestTime": "October to March; winter mornings can be foggy and smoggy.",
+    "localName": {
+      "hi": "दिल्ली"
+    }
+  },
+  {
+    "name": "Jammu and Kashmir",
+    "slug": "jammu-and-kashmir",
+    "type": "ut",
+    "region": "north",
+    "capital": "Srinagar (summer), Jammu (winter)",
+    "languages": [
+      "Kashmiri",
+      "Dogri",
+      "Urdu",
+      "Hindi"
+    ],
+    "overview": "Often called paradise on earth, the Kashmir Valley offers houseboats on Dal Lake, Mughal gardens, and the meadows of Gulmarg, Pahalgam and Sonamarg. In the Jammu region, pilgrims climb to the Vaishno Devi shrine. Gulmarg is India's best-known ski resort.",
+    "famousFor": [
+      "Dal Lake houseboats",
+      "Gulmarg skiing",
+      "Mughal gardens",
+      "Vaishno Devi",
+      "Pashmina and saffron"
+    ],
+    "bestTime": "March to October for the valley; December to February for snow.",
+    "localName": {
+      "hi": "जम्मू और कश्मीर",
+      "regional": "جموں و کشمیر",
+      "lang": "ur",
+      "dir": "rtl"
+    }
+  },
+  {
+    "name": "Ladakh",
+    "slug": "ladakh",
+    "type": "ut",
+    "region": "north",
+    "capital": "Leh",
+    "languages": [
+      "Ladakhi",
+      "Hindi",
+      "Urdu"
+    ],
+    "overview": "A high-altitude cold desert between the Karakoram and the Great Himalaya. Ladakh is known for Pangong Tso, Nubra Valley's sand dunes and Bactrian camels, centuries-old monasteries such as Hemis and Thiksey, and some of the world's highest motorable roads. Allow time to acclimatise on arrival.",
+    "famousFor": [
+      "Pangong Tso",
+      "Nubra Valley",
+      "Buddhist monasteries",
+      "High mountain passes",
+      "Road trips"
+    ],
+    "bestTime": "May to September, when the passes are open.",
+    "localName": {
+      "hi": "लद्दाख",
+      "regional": "ལ་དྭགས།",
+      "lang": "bo"
+    }
+  },
+  {
+    "name": "Lakshadweep",
+    "slug": "lakshadweep",
+    "type": "ut",
+    "region": "islands",
+    "capital": "Kavaratti",
+    "languages": [
+      "Malayalam",
+      "Jeseri"
+    ],
+    "overview": "India's smallest union territory is a group of coral islands and lagoons in the Arabian Sea. Only a few islands, such as Agatti, Bangaram and Kavaratti, are open to tourists, which keeps the reefs pristine for snorkelling, diving and kayaking. An entry permit is required.",
+    "famousFor": [
+      "Coral lagoons",
+      "Snorkelling and diving",
+      "Bangaram Island",
+      "Agatti"
+    ],
+    "bestTime": "October to May.",
+    "localName": {
+      "hi": "लक्षद्वीप",
+      "regional": "ലക്ഷദ്വീപ്",
+      "lang": "ml"
+    }
+  },
+  {
+    "name": "Puducherry",
+    "slug": "puducherry",
+    "type": "ut",
+    "region": "south",
+    "capital": "Puducherry",
+    "languages": [
+      "Tamil",
+      "French",
+      "Telugu",
+      "Malayalam"
+    ],
+    "overview": "A former French colony on the Tamil Nadu coast. Puducherry's White Town has mustard-yellow villas, cafés and a seaside promenade. Nearby is Auroville, an experimental township built around the golden Matrimandir, and the Sri Aurobindo Ashram.",
+    "famousFor": [
+      "French Quarter",
+      "Auroville",
+      "Promenade Beach",
+      "Sri Aurobindo Ashram"
+    ],
+    "bestTime": "October to March.",
+    "localName": {
+      "hi": "पुदुच्चेरी",
+      "regional": "புதுச்சேரி",
+      "lang": "ta"
+    }
+  }
+]

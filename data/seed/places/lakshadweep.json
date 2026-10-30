@@ -1,0 +1,185 @@
+{
+  "cities": [
+    {
+      "name": "Agatti",
+      "slug": "agatti",
+      "overview": "The island with Lakshadweep's only airport, about 1.5 hours' flight from Kochi. All visitors need an entry permit from the Lakshadweep administration.",
+      "location": {
+        "lat": 10.9479,
+        "lng": 72.3177
+      }
+    },
+    {
+      "name": "Bangaram",
+      "slug": "bangaram",
+      "overview": "A small teardrop-shaped island on its own atoll, about 8 km by boat from Agatti, open to visitors through licensed resorts.",
+      "location": {
+        "lat": 10.9404,
+        "lng": 72.2872
+      }
+    },
+    {
+      "name": "Minicoy",
+      "slug": "minicoy",
+      "overview": "The southernmost island of Lakshadweep, closer to the Maldives than to Kerala, with its own language (Mahl) and culture.",
+      "location": {
+        "lat": 8.275,
+        "lng": 73.0528
+      }
+    }
+  ],
+  "places": [
+    {
+      "name": "Agatti Island",
+      "slug": "agatti-island",
+      "city": "agatti",
+      "kind": "island",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "A slender coral island with a shallow turquoise lagoon, the arrival point for most visitors to Lakshadweep.",
+      "description": "Agatti is a narrow island about 6 km long, with a calm lagoon on its western side that is ideal for snorkelling, kayaking and glass-bottom boat rides over coral and reef fish. Coconut palms shade simple guesthouses and village lanes. Scuba diving can be arranged with licensed operators. All visitors to Lakshadweep need an entry permit, applied for through the administration's online portal or an approved tour package.",
+      "history": "The Lakshadweep islands were settled by seafarers from the Kerala coast, and Islam arrived here, by tradition, in the 7th century. Agatti's airport opened in 1988.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "bestTimeNote": "October to April. The monsoon (May to September) brings rough seas and fewer boats.",
+      "entryFee": {
+        "note": "Entry permit mandatory for all visitors; apply through the Lakshadweep administration."
+      },
+      "location": {
+        "lat": 10.85,
+        "lng": 72.19,
+        "address": "Agatti Island, Lakshadweep 682553"
+      },
+      "highlights": [
+        "Lagoon snorkelling",
+        "Glass-bottom boat rides",
+        "Scuba diving",
+        "Coconut-palm village"
+      ],
+      "sources": [
+        {
+          "title": "Agatti Island – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Agatti_Island"
+        },
+        {
+          "title": "Lakshadweep Tourism (official)",
+          "url": "https://lakshadweeptourism.com"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/agatti-island.webp",
+          "alt": "Agatti Island, Agatti",
+          "credit": "Julio",
+          "license": "CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Agatti_Airstrip.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Bangaram Atoll",
+      "slug": "bangaram-atoll",
+      "city": "bangaram",
+      "kind": "island",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "A remote teardrop island ringed by a coral lagoon, with powder-white sand and superb snorkelling.",
+      "description": "Bangaram is a tiny, palm-covered island inside its own coral atoll, with a ring of white sand and a lagoon of shallow, clear water. Snorkelling and diving reveal reef fish, turtles and coral gardens, and at night the water can glow with bioluminescent plankton. Nearby uninhabited islets such as Thinnakara can be visited by boat. Stays are only possible through the licensed resort, and a Lakshadweep entry permit is required.",
+      "history": "Bangaram is uninhabited apart from its small resort. The atoll also includes the islands of Thinnakara and Parali.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "bestTimeNote": "October to April.",
+      "entryFee": {
+        "note": "Entry permit mandatory; visits are arranged through licensed operators."
+      },
+      "location": {
+        "lat": 10.9389,
+        "lng": 72.2861,
+        "address": "Bangaram Island, Lakshadweep 682553"
+      },
+      "highlights": [
+        "Coral lagoon",
+        "Sea turtles",
+        "Bioluminescent water",
+        "Thinnakara island trip"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Bangaram Atoll – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bangaram_Atoll"
+        }
+      ]
+    },
+    {
+      "name": "Minicoy Island",
+      "slug": "minicoy-island",
+      "city": "minicoy",
+      "kind": "island",
+      "categories": [
+        "nature",
+        "heritage"
+      ],
+      "shortDescription": "Lakshadweep's southernmost island, with a 19th-century lighthouse, a Maldivian-influenced culture and a vast lagoon.",
+      "description": "Minicoy curves around one of the largest lagoons in Lakshadweep. Its 1885 lighthouse can be climbed for views over the reef and the island's ten villages, each led by an elected headman. The people speak Mahl, close to the Dhivehi of the Maldives, and are known for tuna fishing and the energetic lava dance. White beaches and calm water make it ideal for swimming and snorkelling. An entry permit is required.",
+      "history": "Minicoy was ruled for a time by the Ali Rajas of Kannur and came under British rule in the 19th century. The lighthouse was built by the British in 1885.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "bestTimeNote": "October to April.",
+      "entryFee": {
+        "note": "Entry permit mandatory; a small fee is charged to climb the lighthouse."
+      },
+      "location": {
+        "lat": 8.275,
+        "lng": 73.0528,
+        "address": "Minicoy Island, Lakshadweep 682559"
+      },
+      "highlights": [
+        "1885 lighthouse",
+        "Large lagoon",
+        "Lava dance",
+        "Tuna-fishing culture"
+      ],
+      "sources": [
+        {
+          "title": "Minicoy – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Minicoy"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/minicoy-island.webp",
+          "alt": "Minicoy Island, Minicoy",
+          "credit": "Anand.himani18",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Minicoy_Island,_Lakshadweep.jpg"
+        }
+      ]
+    }
+  ]
+}

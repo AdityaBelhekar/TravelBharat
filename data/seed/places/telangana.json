@@ -1,0 +1,197 @@
+{
+  "cities": [
+    {
+      "name": "Hyderabad",
+      "slug": "hyderabad",
+      "overview": "Telangana's capital, founded by the Qutb Shahi dynasty in 1591, famous for its biryani, pearls and blend of old-city heritage and modern tech hubs.",
+      "location": {
+        "lat": 17.385,
+        "lng": 78.4867
+      }
+    },
+    {
+      "name": "Palampet",
+      "slug": "palampet",
+      "overview": "A village in Mulugu district, about 70 km from Warangal, beside the Kakatiya-era Ramappa lake.",
+      "location": {
+        "lat": 18.2676,
+        "lng": 79.9408
+      }
+    }
+  ],
+  "places": [
+    {
+      "name": "Charminar",
+      "slug": "charminar",
+      "city": "hyderabad",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "Hyderabad's 16th-century four-minaret monument, at the centre of the old city's bustling bazaars.",
+      "description": "The Charminar's four 56 m minarets rise above a square arch structure at the heart of Hyderabad's old city. A narrow staircase leads to an upper floor with a small mosque and views over the surrounding bazaars. Laad Bazaar, famous for lacquer bangles, runs west from its base, and the great Mecca Masjid is next door. The monument is lit up in the evenings, and the area is busiest during Ramzan nights.",
+      "history": "Sultan Muhammad Quli Qutb Shah built the Charminar in 1591 when he founded Hyderabad, possibly to mark the end of a plague. It is a protected monument of the Archaeological Survey of India.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March. Ramzan evenings bring food stalls and crowds to the old city.",
+      "entryFee": {
+        "indian": 25,
+        "foreigner": 300,
+        "child": 0,
+        "note": "ASI rates (slightly less online); verify before your visit."
+      },
+      "timings": {
+        "hours": "About 9:30 AM – 5:30 PM"
+      },
+      "location": {
+        "lat": 17.3616,
+        "lng": 78.4747,
+        "address": "Charminar Road, Char Kaman, Ghansi Bazaar, Hyderabad, Telangana 500002"
+      },
+      "highlights": [
+        "Four minarets",
+        "Laad Bazaar bangles",
+        "Mecca Masjid",
+        "Evening illumination"
+      ],
+      "sources": [
+        {
+          "title": "Charminar – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Charminar"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/charminar.webp",
+          "alt": "Charminar, Hyderabad",
+          "credit": "DidierTais",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charminar_Hyderabad_1.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Golconda Fort",
+      "slug": "golconda-fort",
+      "city": "hyderabad",
+      "kind": "fort",
+      "categories": [
+        "heritage",
+        "adventure"
+      ],
+      "shortDescription": "A hilltop citadel of the Qutb Shahi kings, famed for its acoustics, water systems and diamond trade.",
+      "description": "Golconda Fort spreads over a granite hill on Hyderabad's western edge, enclosed by massive walls and gateways. A clap under the dome of the Fateh Darwaza entrance can be heard at the Bala Hissar pavilion at the summit, a clever early alarm system. The climb to the top passes granaries, palaces, mosques and water channels, and rewards with views over the city. The evening sound-and-light show retells the fort's history; the Qutb Shahi tombs are nearby.",
+      "history": "A mud fort built by the Kakatiyas was rebuilt in stone by the Qutb Shahi sultans, who made Golconda their capital from 1518 until the Mughal emperor Aurangzeb captured it in 1687 after a long siege. The region was famous for diamonds such as the Koh-i-Noor.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March; start early to avoid the heat on the climb.",
+      "entryFee": {
+        "indian": 25,
+        "foreigner": 300,
+        "child": 0,
+        "note": "ASI rates (slightly less online); sound-and-light show ticketed separately."
+      },
+      "timings": {
+        "hours": "About 8:00 AM – 5:30 PM"
+      },
+      "location": {
+        "lat": 17.3834,
+        "lng": 78.4011,
+        "address": "Ibrahim Bagh, Golconda, Hyderabad, Telangana 500008"
+      },
+      "highlights": [
+        "Clapping acoustics at Fateh Darwaza",
+        "Bala Hissar summit",
+        "Sound-and-light show",
+        "Qutb Shahi tombs nearby"
+      ],
+      "sources": [
+        {
+          "title": "Golconda – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Golconda"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/golconda-fort.webp",
+          "alt": "Golconda Fort, Hyderabad",
+          "credit": "Bernard Gagnon",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Golconda_Fort_005.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Ramappa Temple",
+      "slug": "ramappa-temple",
+      "city": "palampet",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A UNESCO-listed 13th-century Kakatiya temple, named after its sculptor and known for its floating bricks.",
+      "description": "The Rudreshwara Temple at Palampet, better known as Ramappa after the sculptor who built it, is a masterpiece of Kakatiya art. Its pillars and brackets are carved from hard dolerite and granite with dancers, musicians and mythical beasts so finely detailed they almost seem metallic. The temple's tower is built of bricks so light they float on water. The nearby Ramappa lake, a Kakatiya-era reservoir, is still in use.",
+      "history": "The temple was built in 1213 CE by Recharla Rudra, a general of the Kakatiya king Ganapati Deva. It was inscribed as a UNESCO World Heritage Site in 2021.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "About 6:00 AM – 6:00 PM"
+      },
+      "location": {
+        "lat": 18.2594,
+        "lng": 79.9425,
+        "address": "Palampet, Venkatapur mandal, Mulugu district, Telangana 506345"
+      },
+      "highlights": [
+        "Bracket figures of dancers",
+        "Floating bricks",
+        "Ramappa lake",
+        "Kakatiya sculpture"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Kakatiya Rudreshwara (Ramappa) Temple, Telangana – UNESCO",
+          "url": "https://whc.unesco.org/en/list/1570"
+        },
+        {
+          "title": "Ramappa Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ramappa_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/ramappa-temple.webp",
+          "alt": "Ramappa Temple, Palampet",
+          "credit": "Nirav Lad",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ramappa_Temple_(Human_Scale).jpg"
+        }
+      ]
+    }
+  ]
+}

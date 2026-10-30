@@ -1,0 +1,170 @@
+{
+  "cities": [
+    {
+      "name": "Aizawl",
+      "slug": "aizawl",
+      "overview": "Mizoram's capital, built along steep ridges at about 1,100 m. Indian visitors need an Inner Line Permit, available online or on arrival at Lengpui airport.",
+      "location": {
+        "lat": 23.7271,
+        "lng": 92.7176
+      }
+    },
+    {
+      "name": "Thenzawl",
+      "slug": "thenzawl",
+      "overview": "A small town in Serchhip district known for handloom weaving and as the base for Vantawng Falls.",
+      "location": {
+        "lat": 23.2813,
+        "lng": 92.7753
+      }
+    },
+    {
+      "name": "Sangau",
+      "slug": "sangau",
+      "overview": "A village in Lawngtlai district near the Myanmar border and the starting point for Phawngpui, the Blue Mountain.",
+      "location": {
+        "lat": 22.6552,
+        "lng": 93.0465
+      }
+    }
+  ],
+  "places": [
+    {
+      "name": "Vantawng Falls",
+      "slug": "vantawng-falls",
+      "city": "thenzawl",
+      "kind": "waterfall",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "Mizoram's highest waterfall, dropping in two tiers through thick bamboo forest near Thenzawl.",
+      "description": "Vantawng Falls plunges more than 200 m in two stages down a forested cliff, best seen from a viewpoint across the valley that the state tourism department maintains. The falls are about 5 km from Thenzawl, itself around 100 km south of Aizawl. The surrounding bamboo and broadleaf forest is lush after the monsoon. Combine a visit with the handloom workshops in Thenzawl.",
+      "history": "The falls are named after Vanhnuaithanga, a local man said to have been a skilled swimmer who lost his life in the river here.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "bestTimeNote": "October to February, when the falls still flow well and roads are dry.",
+      "location": {
+        "lat": 23.2569,
+        "lng": 92.7625,
+        "address": "Near Thenzawl, Serchhip district, Mizoram 796186"
+      },
+      "highlights": [
+        "Two-tiered falls",
+        "Valley viewpoint",
+        "Bamboo forest",
+        "Thenzawl handloom"
+      ],
+      "sources": [
+        {
+          "title": "Vantawng Falls – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Vantawng_Falls"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/vantawng-falls.webp",
+          "alt": "Vantawng Falls, Thenzawl",
+          "credit": "Georgeluvpotato",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vantawng_Falls_in_1990s.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Phawngpui (Blue Mountain)",
+      "slug": "phawngpui-blue-mountain",
+      "city": "sangau",
+      "kind": "trek",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "Mizoram's highest peak at 2,157 m, a national park of orchids and rhododendrons near the Myanmar border.",
+      "description": "Phawngpui, the Blue Mountain, rises above the Chhimtuipui River valley close to the Myanmar border. Its grassy summit ridge and steep cliffs give wide views over forested hills, and the slopes bloom with rhododendrons and orchids in spring. Wildlife includes the Himalayan serow, goral and many birds, among them Blyth's tragopan. Trekking requires a permit and local guide arranged through the forest department.",
+      "history": "The mountain is revered in Mizo tradition as a dwelling place of spirits. It was declared a national park in 1992.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "bestTimeNote": "October to April; March–April for rhododendron blooms.",
+      "entryFee": {
+        "note": "Forest permit and guide required; arrange through the Mizoram Forest Department."
+      },
+      "location": {
+        "lat": 22.6552,
+        "lng": 93.0465,
+        "address": "Phawngpui National Park, Lawngtlai district, Mizoram"
+      },
+      "highlights": [
+        "Highest point in Mizoram",
+        "Rhododendron and orchid blooms",
+        "Cliff-edge views",
+        "Blyth's tragopan"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Phawngpui – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Phawngpui"
+        }
+      ]
+    },
+    {
+      "name": "Reiek",
+      "slug": "reiek",
+      "city": "aizawl",
+      "kind": "trek",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A hill near Aizawl with a model Mizo heritage village and views over misty ridges towards Bangladesh.",
+      "description": "Reiek is a hill about 30 km west of Aizawl, rising to around 1,500 m. A short trail climbs through forest to rocky viewpoints that look across layer upon layer of hills, said on clear days to reach as far as the plains of Bangladesh. Below the summit, a model Mizo village shows traditional bamboo houses, including a chief's house and a bachelors' dormitory (zawlbuk). It is an easy half-day trip from the capital.",
+      "history": "The heritage village was set up by the state tourism department to preserve examples of traditional Mizo architecture and village life.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March for clear views.",
+      "location": {
+        "lat": 23.678,
+        "lng": 92.603,
+        "address": "Reiek, Mamit district, Mizoram"
+      },
+      "highlights": [
+        "Summit viewpoints",
+        "Mizo heritage village",
+        "Zawlbuk dormitory",
+        "Forest trail"
+      ],
+      "sources": [
+        {
+          "title": "Reiek – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Reiek"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/reiek.webp",
+          "alt": "Reiek, Aizawl",
+          "credit": "Coolcolney",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Reiek.JPG"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "cities": [
+    {
+      "name": "Srinagar",
+      "slug": "srinagar",
+      "overview": "The summer capital of Jammu and Kashmir, set around Dal Lake with Mughal gardens, houseboats and old wooden mosques.",
+      "location": {
+        "lat": 34.0747,
+        "lng": 74.8204
+      }
+    },
+    {
+      "name": "Gulmarg",
+      "slug": "gulmarg",
+      "overview": "A high meadow resort at about 2,650 m in Baramulla district, India's leading ski destination in winter.",
+      "location": {
+        "lat": 34.05,
+        "lng": 74.38
+      }
+    },
+    {
+      "name": "Katra",
+      "slug": "katra",
+      "overview": "A town in Reasi district at the foot of the Trikuta hills, base camp for the pilgrimage to Vaishno Devi.",
+      "location": {
+        "lat": 32.9925,
+        "lng": 74.9318
+      }
+    }
+  ],
+  "places": [
+    {
+      "name": "Dal Lake",
+      "slug": "dal-lake",
+      "city": "srinagar",
+      "kind": "lake",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "Srinagar's mirror-calm lake of shikaras, carved-wood houseboats, floating gardens and Mughal gardens on its shore.",
+      "description": "Dal Lake is the heart of Srinagar. Gliding across it in a shikara at dawn reveals floating vegetable markets, lotus beds and kingfishers, while evening rides catch sunsets over the Zabarwan hills. Staying a night on one of the ornate cedar-wood houseboats is a classic Kashmir experience. The Mughal gardens of Nishat Bagh and Shalimar Bagh line the eastern shore, and the Char Chinar island sits in the middle of the lake.",
+      "history": "The Mughal emperors made Kashmir their summer retreat and laid out the terraced gardens along Dal Lake in the 17th century. Houseboats became popular in the British era, when outsiders were not permitted to own land.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "bestTimeNote": "April to June and September to October. Tulip season at the nearby Indira Gandhi Memorial Tulip Garden is late March to April.",
+      "entryFee": {
+        "note": "Shikara rides at government-fixed hourly rates."
+      },
+      "location": {
+        "lat": 34.12,
+        "lng": 74.87,
+        "address": "Dal Lake, Srinagar, Jammu and Kashmir 190001"
+      },
+      "highlights": [
+        "Shikara ride at dawn",
+        "Houseboat stay",
+        "Floating vegetable market",
+        "Nishat and Shalimar Mughal gardens"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Dal Lake – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dal_Lake"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/dal-lake.webp",
+          "alt": "Dal Lake, Srinagar",
+          "credit": "Suhail Skindar Sofi",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dal_Lake_Hazratbal_Srinagar.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Gulmarg",
+      "slug": "gulmarg",
+      "city": "gulmarg",
+      "kind": "hill-station",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "A flower-filled meadow in summer and India's top ski slope in winter, served by one of the world's highest cable cars.",
+      "description": "Gulmarg, 'meadow of flowers', is a bowl of grassland ringed by pine forest in the Pir Panjal range. The two-stage Gulmarg Gondola climbs from the resort to Kongdoori and then to near Apharwat peak at about 3,950 m, giving access to some of Asia's best powder skiing from December to March. In summer the meadows are carpeted with wildflowers and popular for pony rides, golf and treks to Alpather Lake. Book gondola tickets online in advance.",
+      "history": "The British developed Gulmarg as a hill resort in the late 19th century, building a golf course that is among the highest in the world. The gondola opened its first phase in 1998.",
+      "bestMonths": [
+        12,
+        1,
+        2,
+        3,
+        5,
+        6,
+        9,
+        10
+      ],
+      "bestTimeNote": "December to March for skiing; May to June and September to October for meadows and treks.",
+      "entryFee": {
+        "note": "Gondola tickets priced by phase; book on the official cable car website."
+      },
+      "location": {
+        "lat": 34.05,
+        "lng": 74.38,
+        "address": "Gulmarg, Baramulla district, Jammu and Kashmir 193403"
+      },
+      "highlights": [
+        "Gulmarg Gondola",
+        "Winter skiing",
+        "Summer meadows",
+        "St Mary's Church"
+      ],
+      "sources": [
+        {
+          "title": "Gulmarg – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gulmarg"
+        },
+        {
+          "title": "Gulmarg Gondola – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gulmarg_Gondola"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/gulmarg.webp",
+          "alt": "Gulmarg",
+          "credit": "Anurag Kumar",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ancient_Temple,_Gulmarg.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Vaishno Devi Temple",
+      "slug": "vaishno-devi-temple",
+      "city": "katra",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious",
+        "adventure"
+      ],
+      "shortDescription": "A cave shrine of the mother goddess in the Trikuta hills, reached by a 12 km uphill pilgrimage from Katra.",
+      "description": "Mata Vaishno Devi is worshipped in a holy cave in the Trikuta hills in the form of three natural rock formations, or pindis. Millions of pilgrims make the yatra each year, walking a well-maintained path of about 12 km from Katra, or using ponies, battery cars and helicopters for parts of the route. Registration is mandatory and done online or at Katra, and each pilgrim receives an RFID card. Many continue to the Bhairon Nath temple higher up, now linked by a ropeway.",
+      "history": "The shrine is one of the most visited in India. The Shri Mata Vaishno Devi Shrine Board has managed it since 1986.",
+      "bestMonths": [
+        3,
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "bestTimeNote": "March to June and September to October. Navratri is especially busy; winter brings snow on the upper path.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0,
+        "note": "Free darshan; yatra registration is mandatory."
+      },
+      "timings": {
+        "hours": "Open almost round the clock"
+      },
+      "location": {
+        "lat": 33.03,
+        "lng": 74.9481,
+        "address": "Trikuta Hills, Katra, Reasi district, Jammu and Kashmir 182301"
+      },
+      "highlights": [
+        "Holy cave darshan",
+        "Yatra path from Katra",
+        "Bhairon Nath temple",
+        "Ardhkuwari cave"
+      ],
+      "sources": [
+        {
+          "title": "Vaishno Devi Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Vaishno_Devi_Temple"
+        },
+        {
+          "title": "Shri Mata Vaishno Devi Shrine Board (official)",
+          "url": "https://www.maavaishnodevi.org"
+        }
+      ]
+    }
+  ]
+}

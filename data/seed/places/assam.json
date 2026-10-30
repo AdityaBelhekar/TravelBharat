@@ -1,0 +1,196 @@
+{
+  "cities": [
+    {
+      "name": "Kaziranga",
+      "slug": "kaziranga",
+      "overview": "The floodplain grasslands of the Brahmaputra in Golaghat and Nagaon districts, reached from the gateway village of Kohora on the Guwahati–Jorhat highway.",
+      "location": {
+        "lat": 26.6667,
+        "lng": 93.35
+      }
+    },
+    {
+      "name": "Guwahati",
+      "slug": "guwahati",
+      "overview": "Assam's largest city and the gateway to Northeast India, spread along the south bank of the Brahmaputra.",
+      "location": {
+        "lat": 26.1445,
+        "lng": 91.7362
+      }
+    },
+    {
+      "name": "Majuli",
+      "slug": "majuli",
+      "overview": "A large river island in the Brahmaputra, reached by ferry from Nimati Ghat near Jorhat, and the centre of Assam's Vaishnavite satra culture.",
+      "location": {
+        "lat": 27.022,
+        "lng": 94.3274
+      }
+    }
+  ],
+  "places": [
+    {
+      "name": "Kaziranga National Park",
+      "slug": "kaziranga-national-park",
+      "city": "kaziranga",
+      "kind": "national-park",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "A UNESCO-listed park of tall grass and wetlands, home to most of the world's greater one-horned rhinoceroses.",
+      "description": "Kaziranga's elephant grass, marshes and forest along the Brahmaputra shelter the world's largest population of greater one-horned rhinoceroses, along with wild water buffalo, swamp deer, elephants and one of the highest densities of tigers anywhere. Jeep safaris run in four ranges, Central (Kohora) being the most popular, and early-morning elephant rides operate in some ranges. Birdlife is rich, especially in winter. The park closes during the monsoon floods.",
+      "history": "Kaziranga was set aside as a reserve forest in 1908 to protect the dwindling rhino, became a national park in 1974 and was inscribed as a UNESCO World Heritage Site in 1985.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "bestTimeNote": "November to April. The park is usually closed from May to October for the monsoon.",
+      "entryFee": {
+        "note": "Entry and jeep safari permits are charged separately by range; book through the Assam Forest Department."
+      },
+      "timings": {
+        "hours": "Safaris in morning and afternoon slots"
+      },
+      "location": {
+        "lat": 26.6667,
+        "lng": 93.35,
+        "address": "Kohora, Golaghat district, Assam 785609"
+      },
+      "highlights": [
+        "One-horned rhinoceros",
+        "Jeep safari in the Central range",
+        "Wild water buffalo and swamp deer",
+        "Winter birdwatching"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Kaziranga National Park – UNESCO",
+          "url": "https://whc.unesco.org/en/list/337"
+        },
+        {
+          "title": "Kaziranga National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kaziranga_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kaziranga-national-park.webp",
+          "alt": "Kaziranga National Park, Kaziranga",
+          "credit": "Diganta Talukdar",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beauty_of_Kaziranga_National_Park.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kamakhya Temple",
+      "slug": "kamakhya-temple",
+      "city": "guwahati",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "One of India's most important Shakti Peethas, on Nilachal Hill above Guwahati.",
+      "description": "The Kamakhya Temple is dedicated to the mother goddess Kamakhya and is a major centre of Tantric worship. Its beehive-shaped shikhara and the cluster of smaller shrines to the ten Mahavidyas crown Nilachal Hill. There is no idol in the inner sanctum: devotees worship a natural spring-fed stone. Queues can be long; a paid fast-track queue is available. The annual Ambubachi Mela in June draws huge crowds when the temple shuts for three days.",
+      "history": "The present structure was rebuilt in the 16th century by the Koch king Nara Narayana after an earlier temple was destroyed. It is counted among the 51 Shakti Peethas in Hindu tradition.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March. Ambubachi Mela (June) and Navratri are the busiest times.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0,
+        "note": "Free general queue; paid special-entry queue available."
+      },
+      "timings": {
+        "hours": "About 5:30 AM – 10:00 PM, with closures around midday rituals"
+      },
+      "location": {
+        "lat": 26.1664,
+        "lng": 91.7055,
+        "address": "Kamakhya, Nilachal Hill, Guwahati, Assam 781010"
+      },
+      "highlights": [
+        "Beehive-shaped shikhara",
+        "Shrines of the ten Mahavidyas",
+        "Ambubachi Mela",
+        "Views over the Brahmaputra"
+      ],
+      "sources": [
+        {
+          "title": "Kamakhya Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kamakhya_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kamakhya-temple.webp",
+          "alt": "Kamakhya Temple, Guwahati",
+          "credit": "Devkmaravi",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kamakhya_Temple_-_DEV_8829.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Majuli",
+      "slug": "majuli",
+      "city": "majuli",
+      "kind": "island",
+      "categories": [
+        "nature",
+        "religious"
+      ],
+      "shortDescription": "A large river island in the Brahmaputra, dotted with Vaishnavite satras, mask-makers and Mising villages.",
+      "description": "Majuli is a flat, green island of rice fields, wetlands and stilt houses, reached by a river ferry from Nimati Ghat near Jorhat. Its satras, monasteries of the neo-Vaishnavite tradition founded by Srimanta Sankardeva, keep alive sattriya dance, devotional music and the craft of mask-making, best seen at Samaguri Satra. Cycling between villages is the nicest way to explore. Erosion by the Brahmaputra has shrunk the island considerably over the past century.",
+      "history": "Sankardeva and his disciple Madhavdeva met on Majuli in the early 16th century, and dozens of satras were founded here in the centuries after. Majuli became India's first island district in 2016.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March. The Raas Mahotsav in November is a highlight; monsoon floods disrupt travel.",
+      "location": {
+        "lat": 27.022,
+        "lng": 94.3274,
+        "address": "Majuli, Assam 785104"
+      },
+      "highlights": [
+        "Samaguri Satra mask-making",
+        "Sattriya dance at the satras",
+        "Ferry across the Brahmaputra",
+        "Raas Mahotsav"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Majuli – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Majuli"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/majuli.webp",
+          "alt": "Majuli",
+          "credit": "Dhrubazaan Photography",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Doriya_River_of_Majuli.jpg"
+        }
+      ]
+    }
+  ]
+}

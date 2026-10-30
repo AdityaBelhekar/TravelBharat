@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Heritage",
+    "slug": "heritage",
+    "description": "Forts, palaces, monuments, caves and historic sites that tell India's story."
+  },
+  {
+    "name": "Nature",
+    "slug": "nature",
+    "description": "Mountains, beaches, waterfalls, backwaters, lakes and wildlife reserves."
+  },
+  {
+    "name": "Religious",
+    "slug": "religious",
+    "description": "Temples, mosques, churches, gurudwaras, monasteries and pilgrimage sites."
+  },
+  {
+    "name": "Adventure",
+    "slug": "adventure",
+    "description": "Treks, paragliding, desert safaris, water sports and other outdoor thrills."
+  }
+]

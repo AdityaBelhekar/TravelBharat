@@ -1,0 +1,197 @@
+{
+  "cities": [
+    {
+      "name": "Patan",
+      "slug": "patan",
+      "overview": "A historic town in north Gujarat, once the capital of the Chaulukya (Solanki) kings, known for its stepwell and Patola silk weaving.",
+      "location": {
+        "lat": 23.85,
+        "lng": 72.125
+      }
+    },
+    {
+      "name": "Somnath",
+      "slug": "somnath",
+      "overview": "The temple town of Prabhas Patan on Gujarat's Saurashtra coast, next to the port of Veraval.",
+      "location": {
+        "lat": 20.888,
+        "lng": 70.4014
+      }
+    },
+    {
+      "name": "Sasan Gir",
+      "slug": "sasan-gir",
+      "overview": "The village at the edge of Gir forest in Junagadh district where lion safaris begin.",
+      "location": {
+        "lat": 21.1356,
+        "lng": 70.7967
+      }
+    }
+  ],
+  "places": [
+    {
+      "name": "Rani ki Vav",
+      "slug": "rani-ki-vav",
+      "city": "patan",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "An 11th-century stepwell in Patan, carved with hundreds of sculptures and pictured on the ₹100 note.",
+      "description": "Rani ki Vav, the Queen's Stepwell, descends seven storeys into the ground as an inverted temple honouring water. Its walls carry more than 500 principal sculptures, many showing the avatars of Vishnu, apsaras and scenes of daily life, all remarkably crisp because the well lay buried under silt for centuries. The best light falls in the morning. While in Patan, visit a Patola weaving family, whose double-ikat silk takes months to make.",
+      "history": "The stepwell was built around 1063 CE in memory of the Chaulukya king Bhima I, traditionally credited to his widowed queen Udayamati. It was excavated by the Archaeological Survey of India in the 1980s and inscribed as a UNESCO World Heritage Site in 2014.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March. Avoid the midday heat in summer.",
+      "entryFee": {
+        "indian": 40,
+        "foreigner": 600,
+        "child": 0,
+        "note": "ASI World Heritage rates (slightly less online); verify before your visit."
+      },
+      "timings": {
+        "hours": "Sunrise – sunset"
+      },
+      "location": {
+        "lat": 23.8589,
+        "lng": 72.1016,
+        "address": "Mohan Nagar Society, Patan, Gujarat 384265"
+      },
+      "highlights": [
+        "Seven-storey stepwell",
+        "Sculptures of Vishnu's avatars",
+        "Sahastralinga Talav nearby",
+        "Patola silk weaving"
+      ],
+      "sources": [
+        {
+          "title": "Rani-ki-Vav (the Queen's Stepwell) at Patan – UNESCO",
+          "url": "https://whc.unesco.org/en/list/922"
+        },
+        {
+          "title": "Rani ki vav – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Rani_ki_vav"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/rani-ki-vav.webp",
+          "alt": "Rani ki Vav, Patan",
+          "credit": "Bernard Gagnon",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rani_ki_vav_02.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Somnath Temple",
+      "slug": "somnath-temple",
+      "city": "somnath",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious",
+        "heritage"
+      ],
+      "shortDescription": "The first of the twelve Jyotirlinga shrines of Shiva, rebuilt many times on the Arabian Sea shore.",
+      "description": "The Somnath Temple stands right on the shore at Prabhas Patan, its Chaulukya-style spire facing the open sea. Tradition holds that there is no land between this shore and Antarctica, a claim marked on an arrow pillar in the courtyard. Evening aarti and the sound-and-light show tell the temple's long story. Phones and bags must be deposited before entering.",
+      "history": "The temple was attacked and rebuilt many times, most famously after Mahmud of Ghazni's raid in 1026. The present temple was rebuilt after independence on the initiative of Sardar Vallabhbhai Patel and consecrated in 1951.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March. Mahashivratri and the Kartik Purnima fair are the busiest days.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0,
+        "note": "Free entry; the sound-and-light show is ticketed."
+      },
+      "timings": {
+        "hours": "About 6:00 AM – 10:00 PM"
+      },
+      "location": {
+        "lat": 20.888,
+        "lng": 70.4014,
+        "address": "Somnath Mandir Road, Prabhas Patan, Gir Somnath district, Gujarat 362268"
+      },
+      "highlights": [
+        "Jyotirlinga shrine",
+        "Evening aarti",
+        "Sound-and-light show",
+        "Baan Stambh arrow pillar"
+      ],
+      "sources": [
+        {
+          "title": "Somnath temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Somnath_temple"
+        },
+        {
+          "title": "Shree Somnath Trust (official)",
+          "url": "https://somnath.org"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/somnath-temple.webp",
+          "alt": "Somnath Temple, Somnath",
+          "credit": "B. SurajPatro1997",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Somanath_mandir_(cropped).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Gir National Park",
+      "slug": "gir-national-park",
+      "city": "sasan-gir",
+      "kind": "national-park",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "Dry deciduous forest that is the last wild home of the Asiatic lion.",
+      "description": "Gir's teak and thorn forest is the only place in the world where Asiatic lions live in the wild, alongside leopards, spotted deer, sambar, nilgai and marsh crocodiles. Jeep safaris leave from Sasan Gir and must be booked online in advance, as permits sell out. The Maldhari herders who live inside the forest share it with the lions. The Devalia Safari Park nearby offers a shorter, fenced drive if permits for Gir are full.",
+      "history": "Gir was protected by the Nawabs of Junagadh when lions were close to extinction in the early 20th century. It was declared a sanctuary in 1965, and the lion population has grown steadily since.",
+      "bestMonths": [
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "bestTimeNote": "December to April. The park is closed from mid-June to mid-October.",
+      "entryFee": {
+        "note": "Safari permits are booked online on the Gujarat Forest Department site; prices vary by day and vehicle."
+      },
+      "timings": {
+        "hours": "Three safari slots daily, early morning to evening"
+      },
+      "location": {
+        "lat": 21.1356,
+        "lng": 70.7967,
+        "address": "Sasan Gir, Junagadh district, Gujarat 362135"
+      },
+      "highlights": [
+        "Asiatic lion sightings",
+        "Leopards and marsh crocodiles",
+        "Devalia Safari Park",
+        "Maldhari villages"
+      ],
+      "sources": [
+        {
+          "title": "Gir National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gir_National_Park"
+        }
+      ]
+    }
+  ]
+}

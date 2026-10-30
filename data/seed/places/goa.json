@@ -1,0 +1,409 @@
+{
+  "cities": [
+    {
+      "name": "Old Goa",
+      "slug": "old-goa",
+      "overview": "Once the capital of Portuguese India and said to rival Lisbon in size, Old Goa is now a quiet collection of grand churches and convents beside the Mandovi River, 10 km from Panaji.",
+      "location": {
+        "lat": 15.5009,
+        "lng": 73.9116
+      }
+    },
+    {
+      "name": "Calangute",
+      "slug": "calangute",
+      "overview": "The busiest beach town in North Goa, with Candolim and Baga on either side. It is lined with shacks, water-sports operators and nightlife.",
+      "location": {
+        "lat": 15.5439,
+        "lng": 73.7553
+      }
+    },
+    {
+      "name": "Canacona",
+      "slug": "canacona",
+      "overview": "Goa's southernmost taluka, with quieter crescent beaches such as Palolem, Agonda and Patnem backed by palm groves and hills.",
+      "location": {
+        "lat": 15.0101,
+        "lng": 74.0507
+      }
+    },
+    {
+      "name": "Mollem",
+      "slug": "mollem",
+      "overview": "A village on the Goa–Karnataka border at the edge of Bhagwan Mahavir Wildlife Sanctuary, and the base for trips to Dudhsagar Falls.",
+      "location": {
+        "lat": 15.3368,
+        "lng": 74.2199
+      }
+    }
+  ],
+  "places": [
+    {
+      "name": "Basilica of Bom Jesus",
+      "slug": "basilica-of-bom-jesus",
+      "city": "old-goa",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious",
+        "heritage"
+      ],
+      "shortDescription": "A 16th-century baroque basilica that holds the remains of St Francis Xavier.",
+      "description": "The Basilica of Bom Jesus is one of the oldest churches in India and its laterite façade has been left unplastered. Inside, a gilded altar and a carved marble tomb gifted by the Grand Duke of Tuscany hold the silver casket of St Francis Xavier. The saint's relics are displayed publicly once a decade, drawing pilgrims from across the world. Dress modestly and keep quiet during services.",
+      "history": "Completed in 1605 by the Jesuits and raised to a minor basilica in 1946. It is part of the Churches and Convents of Goa UNESCO World Heritage Site, inscribed in 1986.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "November to March. The Feast of St Francis Xavier falls on 3 December.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "About 9:00 AM – 6:30 PM; opens later on Sundays for Mass"
+      },
+      "location": {
+        "lat": 15.5009,
+        "lng": 73.9116,
+        "address": "Old Goa Road, Bainguinim, Old Goa, Goa 403402"
+      },
+      "highlights": [
+        "Tomb of St Francis Xavier",
+        "Gilded main altar",
+        "Modern art gallery upstairs",
+        "Feast on 3 December"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Basilica of Bom Jesus – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Basilica_of_Bom_Jesus"
+        },
+        {
+          "title": "Churches and Convents of Goa – UNESCO",
+          "url": "https://whc.unesco.org/en/list/234"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/basilica-of-bom-jesus.webp",
+          "alt": "Basilica of Bom Jesus, Old Goa",
+          "credit": "iMahesh",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Front_Elevation_of_Basilica_of_Bom_Jesus.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Se Cathedral",
+      "slug": "se-cathedral",
+      "city": "old-goa",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious",
+        "heritage"
+      ],
+      "shortDescription": "One of the largest churches in Asia, dedicated to St Catherine and home of the 'Golden Bell'.",
+      "description": "The Se Cathedral faces the Basilica of Bom Jesus across a wide lawn. Its plain Tuscan exterior opens onto a vast whitewashed nave and a gilded altar showing scenes from the life of St Catherine of Alexandria. Its tower holds the Golden Bell, one of the largest in Goa, named for its rich sound.",
+      "history": "Built by the Portuguese to commemorate their capture of Goa on St Catherine's Day in 1510. Construction began in 1562 and the cathedral was completed in 1619.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "About 7:30 AM – 6:00 PM"
+      },
+      "location": {
+        "lat": 15.5039,
+        "lng": 73.9126,
+        "address": "Old Goa, Goa 403402"
+      },
+      "highlights": [
+        "Golden Bell",
+        "Gilded altar to St Catherine",
+        "Chapel of the Cross of Miracles"
+      ],
+      "sources": [
+        {
+          "title": "Se Cathedral – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Se_Cathedral"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/se-cathedral.webp",
+          "alt": "Se Cathedral, Old Goa",
+          "credit": "iMahesh",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Se_Cathedral_from_Rua_Direita.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Calangute Beach",
+      "slug": "calangute-beach",
+      "city": "calangute",
+      "kind": "beach",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "North Goa's 'Queen of Beaches', lined with shacks and packed with water sports.",
+      "description": "Calangute is a long, wide stretch of sand that runs into Baga to the north and Candolim to the south. It is the place for parasailing, jet-skiing, banana boat rides and dolphin trips, followed by seafood at the beach shacks. It gets very crowded in the peak season; walk towards Candolim for a calmer stretch.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "November to March. Water sports stop during the monsoon (June to September).",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "Open all day; swim only in flagged zones with lifeguards"
+      },
+      "location": {
+        "lat": 15.5439,
+        "lng": 73.7553,
+        "address": "Calangute, Bardez, North Goa, Goa 403516"
+      },
+      "highlights": [
+        "Parasailing and jet-skiing",
+        "Beach shacks",
+        "Sunset over the Arabian Sea",
+        "Baga nightlife nearby"
+      ],
+      "sources": [
+        {
+          "title": "Calangute – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Calangute"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/calangute-beach.webp",
+          "alt": "Calangute Beach, Calangute",
+          "credit": "Aditya Mandke",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunset_at_Calangute.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Fort Aguada",
+      "slug": "fort-aguada",
+      "city": "calangute",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A 17th-century Portuguese fort and lighthouse on a headland where the Mandovi River meets the sea.",
+      "description": "Fort Aguada's laterite ramparts look out over Sinquerim Beach and the Arabian Sea. The upper fort holds a large freshwater cistern and a lighthouse, one of the oldest of its kind in Asia. The fort is best visited in the late afternoon for the sunset.",
+      "history": "Built by the Portuguese in 1612 to guard against Dutch and Maratha attacks. Ships stopped here to take on fresh water from its springs, which gave the fort its name (aguada means 'watering place'). The lighthouse was added in 1864.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "About 9:30 AM – 6:00 PM"
+      },
+      "location": {
+        "lat": 15.4925,
+        "lng": 73.7735,
+        "address": "Fort Aguada Road, Candolim, Goa 403515"
+      },
+      "highlights": [
+        "17th-century lighthouse",
+        "Sea views from the ramparts",
+        "Sunset over Sinquerim"
+      ],
+      "sources": [
+        {
+          "title": "Fort Aguada – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Fort_Aguada"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/fort-aguada.webp",
+          "alt": "Fort Aguada, Calangute",
+          "credit": "Nanasur at English Wikipedia",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fort_aguada.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Palolem Beach",
+      "slug": "palolem-beach",
+      "city": "canacona",
+      "kind": "beach",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A calm crescent of white sand fringed by coconut palms in South Goa.",
+      "description": "Palolem's sheltered bay is good for swimming and kayaking, and fishermen offer boat trips to see dolphins and to Butterfly Beach. Wooden beach huts line the sand during the season. Walk to the tidal Monkey Island at the north end at low tide, or try a 'silent disco' with headphones in the evening.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "November to March; most beach huts close in the monsoon.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "Open all day"
+      },
+      "location": {
+        "lat": 15.01,
+        "lng": 74.0232,
+        "address": "Palolem, Canacona, South Goa, Goa 403702"
+      },
+      "highlights": [
+        "Kayaking in a calm bay",
+        "Dolphin-spotting boat trips",
+        "Butterfly Beach",
+        "Beach huts"
+      ],
+      "sources": [
+        {
+          "title": "Palolem – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Palolem"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/palolem-beach.webp",
+          "alt": "Palolem Beach, Canacona",
+          "credit": "iMahesh",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palolem_Beach,_South_Goa.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Dudhsagar Falls",
+      "slug": "dudhsagar-falls",
+      "city": "mollem",
+      "kind": "waterfall",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "A four-tiered, roughly 310-metre waterfall that looks like a stream of milk pouring down the Western Ghats.",
+      "description": "Dudhsagar ('sea of milk') plunges down a forested cliff on the Mandovi River, with a railway bridge crossing its face. Visitors reach it by forest-department jeep safari from Collem through Bhagwan Mahavir Wildlife Sanctuary, followed by a short walk to the pool at its base. Wear sturdy shoes; the rocks are slippery.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1
+      ],
+      "bestTimeNote": "October to January, when the falls are still full but jeep safaris are running. Safaris usually stop in peak monsoon.",
+      "entryFee": {
+        "note": "Jeep safari, entry and life-jacket fees apply; book at the Collem counter."
+      },
+      "timings": {
+        "hours": "Jeep safaris roughly 7:00 AM – 3:00 PM"
+      },
+      "location": {
+        "lat": 15.3144,
+        "lng": 74.3143,
+        "address": "Bhagwan Mahavir Wildlife Sanctuary, Sanguem taluka, Goa 403410"
+      },
+      "highlights": [
+        "Four-tier waterfall",
+        "Jeep safari through the forest",
+        "Railway bridge across the falls",
+        "Swimming pool at the base"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Dudhsagar Falls – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dudhsagar_Falls"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/dudhsagar-falls.webp",
+          "alt": "Dudhsagar Falls, Mollem",
+          "credit": "Hsp wiki",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Doodhsagar_Fall.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Divar Island",
+      "slug": "divar-island",
+      "city": "old-goa",
+      "kind": "island",
+      "categories": [
+        "nature",
+        "heritage"
+      ],
+      "shortDescription": "A quiet river island of paddy fields, old Portuguese houses and village chapels, reached by a free ferry.",
+      "description": "A five-minute ferry ride from Old Goa or Ribandar takes you to Divar, where life moves at village pace. Cycle or drive through rice fields and mangroves, past colourful Portuguese-era homes, up to the hilltop Church of Our Lady of Compassion for views over the Mandovi. In August the island celebrates Bonderam, a festival with floats and drums.",
+      "history": "Divar was an important Hindu pilgrimage site before the Portuguese arrived; the original Saptakoteshwar temple stood here before it was moved inland in the 16th century.",
+      "bestMonths": [
+        8,
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "bestTimeNote": "October to February; August for the Bonderam festival.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0,
+        "note": "The ferry is free for foot passengers."
+      },
+      "timings": {
+        "hours": "Ferries run frequently from early morning to late evening"
+      },
+      "location": {
+        "lat": 15.5196,
+        "lng": 73.9033,
+        "address": "Divar Island, Tiswadi, North Goa, Goa 403403"
+      },
+      "highlights": [
+        "Free river ferry",
+        "Portuguese village houses",
+        "Hilltop church view",
+        "Bonderam festival"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Divar – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Divar"
+        }
+      ]
+    }
+  ]
+}

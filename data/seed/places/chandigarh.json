@@ -1,0 +1,181 @@
+{
+  "cities": [
+    {
+      "name": "Chandigarh",
+      "slug": "chandigarh",
+      "overview": "India's first planned city, designed by Le Corbusier in the 1950s, and the shared capital of Punjab and Haryana.",
+      "location": {
+        "lat": 30.7333,
+        "lng": 76.7794
+      }
+    }
+  ],
+  "places": [
+    {
+      "name": "Rock Garden of Chandigarh",
+      "slug": "rock-garden-chandigarh",
+      "city": "chandigarh",
+      "kind": "garden",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A whimsical sculpture garden built in secret by Nek Chand from broken tiles, bangles and industrial waste.",
+      "description": "The Rock Garden is a maze of courtyards, waterfalls, arches and narrow passages populated by thousands of figures of people and animals, all made from recycled materials such as broken crockery, bangles, electrical fittings and rubble. Paths lead through themed sections that reveal new scenes at every turn. It is a joy for children and adults alike. Allow at least an hour.",
+      "history": "Nek Chand, a road inspector, began building the garden secretly on government land around 1957. When it was discovered in 1975, the authorities chose to protect it, and it opened to the public in 1976.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March; avoid the heat of May–June.",
+      "entryFee": {
+        "note": "Small entry fee for adults and children."
+      },
+      "timings": {
+        "hours": "About 9:00 AM – 6:00 PM (longer in summer)"
+      },
+      "location": {
+        "lat": 30.752,
+        "lng": 76.807,
+        "address": "Uttar Marg, Sector 1, Chandigarh 160001"
+      },
+      "highlights": [
+        "Recycled-material sculptures",
+        "Waterfalls and arches",
+        "Doll museum",
+        "Maze-like passages"
+      ],
+      "sources": [
+        {
+          "title": "Rock Garden of Chandigarh – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Rock_Garden_of_Chandigarh"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/rock-garden-chandigarh.webp",
+          "alt": "Rock Garden of Chandigarh, Chandigarh",
+          "credit": "Ijon",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chandigarh_Rock_Garden_4.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sukhna Lake",
+      "slug": "sukhna-lake",
+      "city": "chandigarh",
+      "kind": "lake",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A reservoir at the foot of the Shivalik hills where Chandigarh comes to walk, jog and go boating.",
+      "description": "Sukhna Lake stretches along the city's northern edge with the Shivalik hills behind it. A long promenade along the dam is popular for morning walks and sunset strolls, and pedal boats and rowing boats can be hired. Migratory birds visit in winter. The lake is a short walk from the Rock Garden, so the two pair easily.",
+      "history": "The lake was created in 1958 by damming the Sukhna Choe, a seasonal stream from the Shivaliks, as part of Le Corbusier's plan for the city.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March; early mornings and sunsets are loveliest.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0,
+        "note": "Free access; boating charged separately."
+      },
+      "timings": {
+        "hours": "Open all day"
+      },
+      "location": {
+        "lat": 30.7403,
+        "lng": 76.8189,
+        "address": "Sukhna Lake, Sector 1, Chandigarh 160001"
+      },
+      "highlights": [
+        "Lakeside promenade",
+        "Boating",
+        "Shivalik hill views",
+        "Winter birds"
+      ],
+      "sources": [
+        {
+          "title": "Sukhna Lake – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sukhna_Lake"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/sukhna-lake.webp",
+          "alt": "Sukhna Lake, Chandigarh",
+          "credit": "Unpetitprole",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sukhna_Lake_Chandigarh_India.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Capitol Complex",
+      "slug": "capitol-complex-chandigarh",
+      "city": "chandigarh",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "Le Corbusier's UNESCO-listed government complex, with the Open Hand Monument at its heart.",
+      "description": "The Capitol Complex brings together three monumental concrete buildings by Le Corbusier: the Secretariat, the Legislative Assembly and the High Court, linked by a vast esplanade with the Open Hand Monument, symbol of the city, and the Tower of Shadows. The buildings are still in use, so visits are by guided tour that must be booked in advance with photo ID. Fans of modern architecture should not miss it.",
+      "history": "The complex was designed by Le Corbusier and built from the early 1950s. It was inscribed in 2016 as part of the UNESCO World Heritage Site 'The Architectural Work of Le Corbusier', which spans seven countries.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0,
+        "note": "Free guided tours; book ahead and carry photo ID."
+      },
+      "timings": {
+        "hours": "Guided tours on working days, usually 10:00 AM – 5:00 PM"
+      },
+      "location": {
+        "lat": 30.7592,
+        "lng": 76.8047,
+        "address": "Capitol Complex, Sector 1, Chandigarh 160001"
+      },
+      "highlights": [
+        "Open Hand Monument",
+        "Legislative Assembly",
+        "High Court",
+        "Tower of Shadows"
+      ],
+      "sources": [
+        {
+          "title": "The Architectural Work of Le Corbusier – UNESCO",
+          "url": "https://whc.unesco.org/en/list/1321"
+        },
+        {
+          "title": "Capitol Complex, Chandigarh – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Capitol_Complex,_Chandigarh"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/capitol-complex-chandigarh.webp",
+          "alt": "Capitol Complex, Chandigarh",
+          "credit": "duncid",
+          "license": "CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palace_of_Assembly_Chandigarh_2006.jpg"
+        }
+      ]
+    }
+  ]
+}

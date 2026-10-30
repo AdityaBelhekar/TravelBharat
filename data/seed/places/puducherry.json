@@ -1,0 +1,174 @@
+{
+  "cities": [
+    {
+      "name": "Puducherry",
+      "slug": "puducherry",
+      "overview": "A seaside town on the Bay of Bengal that was the capital of French India until 1954, with a French Quarter of yellow villas and a Tamil Quarter of temples and markets.",
+      "location": {
+        "lat": 11.9416,
+        "lng": 79.8083
+      }
+    }
+  ],
+  "places": [
+    {
+      "name": "Promenade Beach",
+      "slug": "promenade-beach",
+      "city": "puducherry",
+      "kind": "beach",
+      "categories": [
+        "nature",
+        "heritage"
+      ],
+      "shortDescription": "Puducherry's seafront boulevard along the Bay of Bengal, closed to traffic in the evenings for walkers.",
+      "description": "The Promenade, or Goubert Avenue, runs for about 1.5 km along a rocky shoreline at the edge of the French Quarter. In the evenings and early mornings it is closed to vehicles and fills with walkers, joggers and families. Along the way are a statue of Mahatma Gandhi, the French War Memorial, the old lighthouse and the old customs house. Swimming is not safe here because of the rocks and waves, but the sunrise is beautiful.",
+      "history": "Puducherry was the main French settlement in India from the late 17th century until it was transferred to India in 1954. The seafront was laid out as the town's main promenade during French rule.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March; sunrise and evening walks are best.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "Open all day; vehicle-free in the evening and early morning"
+      },
+      "location": {
+        "lat": 11.9325,
+        "lng": 79.8358,
+        "address": "Goubert Avenue, White Town, Puducherry 605001"
+      },
+      "highlights": [
+        "Sunrise over the Bay of Bengal",
+        "Gandhi statue",
+        "French War Memorial",
+        "French Quarter walks"
+      ],
+      "sources": [
+        {
+          "title": "Promenade Beach – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Promenade_Beach"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/promenade-beach.webp",
+          "alt": "Promenade Beach, Puducherry",
+          "credit": "Karthik Easvur",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pondicherry-Rock_beach_aerial_view.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sri Aurobindo Ashram",
+      "slug": "sri-aurobindo-ashram",
+      "city": "puducherry",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "The spiritual community founded around the philosopher Sri Aurobindo, with a flower-covered samadhi in its courtyard.",
+      "description": "The main ashram building sits in the heart of Puducherry's White Town. Visitors file quietly through the courtyard to the samadhi of Sri Aurobindo and the Mother, covered daily with fresh flower arrangements, and many sit in meditation around it. Silence is expected and photography is not allowed inside. The ashram runs bookshops, a handmade paper workshop and guesthouses around town.",
+      "history": "Sri Aurobindo, a freedom fighter turned yogi and philosopher, settled in Pondicherry in 1910. The ashram took shape in 1926 under the guidance of his collaborator Mirra Alfassa, known as the Mother.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March. Darshan days (such as 15 August and 24 November) draw large crowds.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "About 8:00 AM – 12:00 PM and 2:00 PM – 6:00 PM"
+      },
+      "location": {
+        "lat": 11.9367,
+        "lng": 79.834,
+        "address": "Marine Street, White Town, Puducherry 605002"
+      },
+      "highlights": [
+        "Samadhi of Sri Aurobindo and the Mother",
+        "Collective meditation",
+        "Ashram handmade paper",
+        "Ashram bookshops"
+      ],
+      "sources": [
+        {
+          "title": "Sri Aurobindo Ashram – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sri_Aurobindo_Ashram"
+        },
+        {
+          "title": "Sri Aurobindo Ashram (official)",
+          "url": "https://www.sriaurobindoashram.org"
+        }
+      ]
+    },
+    {
+      "name": "Basilica of the Sacred Heart of Jesus",
+      "slug": "sacred-heart-basilica-puducherry",
+      "city": "puducherry",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious",
+        "heritage"
+      ],
+      "shortDescription": "A Gothic Revival church on Puducherry's south boulevard, known for its stained-glass panels of the life of Christ.",
+      "description": "The Basilica of the Sacred Heart of Jesus stands on the southern boulevard of Puducherry, its twin-spired red-and-white façade a landmark of the town. Inside, rare stained-glass panels depict events from the life of Christ and the saints, glowing in the afternoon light. It is a working church and a pilgrimage site, so dress modestly and keep quiet during services. Combine it with a walk through the French Quarter, a short distance north.",
+      "history": "Construction began in 1902 under French missionaries, and the church was blessed on 17 December 1907. The Holy See raised it to the rank of minor basilica in 2011.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March. Christmas and the Feast of the Sacred Heart are celebrated grandly.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "About 6:00 AM – 8:00 PM, with Mass times varying"
+      },
+      "location": {
+        "lat": 11.9263,
+        "lng": 79.827,
+        "address": "South Boulevard, Subbiah Salai, Puducherry 605001"
+      },
+      "highlights": [
+        "Stained-glass panels",
+        "Gothic Revival façade",
+        "Christmas celebrations",
+        "French Quarter nearby"
+      ],
+      "sources": [
+        {
+          "title": "Basilica of the Sacred Heart of Jesus, Puducherry – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Basilica_of_the_Sacred_Heart_of_Jesus,_Puducherry"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/sacred-heart-basilica-puducherry.webp",
+          "alt": "Basilica of the Sacred Heart of Jesus, Puducherry",
+          "credit": "BishkekRocks",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Puducherry_Sacred_Heart_Cathedral_2.JPG"
+        }
+      ]
+    }
+  ]
+}

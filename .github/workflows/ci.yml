@@ -1,0 +1,45 @@
+name: CI
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    # The build prerenders pages from the database, so CI seeds a throwaway MongoDB first.
+    services:
+      mongodb:
+        image: mongo:8
+        ports: ["27017:27017"]
+    env:
+      MONGODB_URI: mongodb://localhost:27017/travelbharat
+      NEXT_PUBLIC_SITE_URL: http://localhost:3000
+      # Throwaway values for the throwaway database above; never used anywhere else.
+      AUTH_SECRET: ci-only-secret-for-the-throwaway-test-database
+      E2E_ADMIN_EMAIL: admin@ci.test
+      E2E_ADMIN_PASSWORD: ci-admin-password-123
+      E2E_EDITOR_EMAIL: editor@ci.test
+      E2E_EDITOR_PASSWORD: ci-editor-password-123
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npm run lint
+      - run: npm run typecheck
+      - run: npm test
+      - run: npm run seed:check
+      - run: npm run seed -- --publish
+      - run: USER_PASSWORD="$E2E_ADMIN_PASSWORD" npm run create-user -- --email "$E2E_ADMIN_EMAIL" --name "CI Admin" --role admin
+      - run: USER_PASSWORD="$E2E_EDITOR_PASSWORD" npm run create-user -- --email "$E2E_EDITOR_EMAIL" --name "CI Editor" --role editor
+      - run: npm run build
+      - run: npx playwright install --with-deps chromium
+      - run: npm run test:e2e
+      - uses: actions/upload-artifact@v4
+        if: failure()
+        with:
+          name: playwright-traces
+          path: test-results/

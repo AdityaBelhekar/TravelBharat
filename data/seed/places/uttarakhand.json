@@ -1,0 +1,270 @@
+{
+  "cities": [
+    {
+      "name": "Kedarnath",
+      "slug": "kedarnath",
+      "overview": "A high Himalayan temple town at about 3,580 m in Rudraprayag district, reached on foot from Gaurikund and open only from spring to autumn.",
+      "location": {
+        "lat": 30.7346,
+        "lng": 79.0669
+      }
+    },
+    {
+      "name": "Ghangaria",
+      "slug": "ghangaria",
+      "overview": "A seasonal trekking village in Chamoli district, the overnight stop for the Valley of Flowers and Hemkund Sahib, reached by a 13 km trail from Govindghat.",
+      "location": {
+        "lat": 30.7015,
+        "lng": 79.5938
+      }
+    },
+    {
+      "name": "Ramnagar",
+      "slug": "ramnagar",
+      "overview": "A town in Nainital district at the gateway to Jim Corbett National Park, where most safari bookings and lodges are based.",
+      "location": {
+        "lat": 29.3948,
+        "lng": 79.1269
+      }
+    },
+    {
+      "name": "Haridwar",
+      "slug": "haridwar",
+      "overview": "One of Hinduism's seven holy cities, where the Ganga leaves the Himalaya for the plains, and host of the Kumbh Mela.",
+      "location": {
+        "lat": 29.9457,
+        "lng": 78.1642
+      }
+    }
+  ],
+  "places": [
+    {
+      "name": "Kedarnath Temple",
+      "slug": "kedarnath-temple",
+      "city": "kedarnath",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious",
+        "adventure"
+      ],
+      "shortDescription": "A high-altitude Jyotirlinga shrine of Shiva, one of the Char Dham, reached by a 16 km mountain trek.",
+      "description": "The stone Kedarnath Temple stands in a glacial valley at the head of the Mandakini River, framed by snow peaks. Pilgrims walk the steep 16 km trail from Gaurikund, ride ponies or take a helicopter from Phata or Guptkashi. Registration with the Uttarakhand government is mandatory for the Char Dham yatra. The weather changes quickly at this altitude, so carry warm and waterproof clothing and acclimatise before climbing.",
+      "history": "Kedarnath is among the twelve Jyotirlingas and the Panch Kedar temples. The present temple is traditionally associated with Adi Shankaracharya, whose samadhi lies behind it. It survived the devastating 2013 flash flood largely intact.",
+      "bestMonths": [
+        5,
+        6,
+        9,
+        10
+      ],
+      "bestTimeNote": "The temple opens around late April or May and closes around Bhai Dooj (October–November). Avoid the monsoon (July–August) because of landslides.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0,
+        "note": "Free darshan; online Char Dham registration is mandatory."
+      },
+      "timings": {
+        "hours": "About 4:00 AM – 9:00 PM in the open season"
+      },
+      "location": {
+        "lat": 30.7346,
+        "lng": 79.0669,
+        "address": "Kedarnath, Rudraprayag district, Uttarakhand 246445"
+      },
+      "highlights": [
+        "Trek from Gaurikund",
+        "Adi Shankaracharya samadhi",
+        "Bhairavnath temple",
+        "Snow-peak setting"
+      ],
+      "sources": [
+        {
+          "title": "Kedarnath Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kedarnath_Temple"
+        },
+        {
+          "title": "Uttarakhand Tourism – Char Dham registration",
+          "url": "https://registrationandtouristcare.uk.gov.in"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kedarnath-temple.webp",
+          "alt": "Kedarnath Temple, Kedarnath",
+          "credit": "Shivam Kumar 766",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kedarnath_Temple_in_Rainy_season.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Valley of Flowers National Park",
+      "slug": "valley-of-flowers",
+      "city": "ghangaria",
+      "kind": "national-park",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "A UNESCO-listed Himalayan valley carpeted with hundreds of species of wildflowers during the monsoon.",
+      "description": "The Valley of Flowers is a high-altitude meadow about 8 km long, reached by a day hike from Ghangaria. During the monsoon it fills with more than 500 species of flowering plants, including blue poppies, primulas, potentillas and cobra lilies, against a backdrop of waterfalls and glaciers. Overnight camping inside the park is not allowed. Many trekkers also climb to the Sikh shrine of Hemkund Sahib from Ghangaria.",
+      "history": "British mountaineer Frank Smythe stumbled upon the valley in 1931 and made it famous through his book 'The Valley of Flowers'. It became a national park in 1982 and was added to the Nanda Devi UNESCO World Heritage Site in 2005.",
+      "bestMonths": [
+        7,
+        8,
+        9
+      ],
+      "bestTimeNote": "The park is open from 1 June to 31 October; mid-July to mid-August has the most flowers.",
+      "entryFee": {
+        "note": "Entry permit issued at the forest checkpost near Ghangaria; separate rates for Indians and foreigners."
+      },
+      "timings": {
+        "hours": "Entry about 7:00 AM – noon; visitors must leave by evening"
+      },
+      "location": {
+        "lat": 30.73,
+        "lng": 79.6175,
+        "address": "Valley of Flowers National Park, near Ghangaria, Chamoli district, Uttarakhand"
+      },
+      "highlights": [
+        "Monsoon wildflowers",
+        "Blue Himalayan poppy",
+        "Pushpawati River",
+        "Hemkund Sahib trek nearby"
+      ],
+      "sources": [
+        {
+          "title": "Nanda Devi and Valley of Flowers National Parks – UNESCO",
+          "url": "https://whc.unesco.org/en/list/335"
+        },
+        {
+          "title": "Valley of Flowers National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Valley_of_Flowers_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/valley-of-flowers.webp",
+          "alt": "Valley of Flowers National Park, Ghangaria",
+          "credit": "Rohit Sharma",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Valley_of_flowers_national_park,_Uttarakhand,_India_03_(edit).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Jim Corbett National Park",
+      "slug": "jim-corbett-national-park",
+      "city": "ramnagar",
+      "kind": "national-park",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "India's oldest national park, with tigers, elephants and the Ramganga River flowing through sal forest and grassland.",
+      "description": "Corbett's sal forests, grasslands (chaurs) and riverbanks support tigers, leopards, Asian elephants, deer and over 500 species of birds. Jeep and canter safaris run in several zones, Bijrani and Jhirna among the most popular, while Dhikala in the heart of the park offers forest-lodge stays. Permits are booked online through the park's website and fill up early in the peak season. The Corbett Museum at Kaladhungi was the hunter-turned-conservationist's home.",
+      "history": "Established in 1936 as Hailey National Park, it was India's first national park. It was renamed in 1956 after Jim Corbett, and in 1973 became the site where Project Tiger was launched.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "bestTimeNote": "Mid-November to June. Most zones close in the monsoon; Jhirna stays open all year.",
+      "entryFee": {
+        "note": "Safari and Dhikala permits are booked online; prices vary by zone and nationality."
+      },
+      "timings": {
+        "hours": "Morning and afternoon safari slots"
+      },
+      "location": {
+        "lat": 29.5486,
+        "lng": 78.9353,
+        "address": "Jim Corbett National Park, Ramnagar, Nainital district, Uttarakhand 244715"
+      },
+      "highlights": [
+        "Tiger safaris",
+        "Dhikala forest lodge",
+        "Ramganga River",
+        "Corbett Museum at Kaladhungi"
+      ],
+      "sources": [
+        {
+          "title": "Jim Corbett National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jim_Corbett_National_Park"
+        },
+        {
+          "title": "Corbett Tiger Reserve (official booking)",
+          "url": "https://corbettonline.uk.gov.in"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/jim-corbett-national-park.webp",
+          "alt": "Jim Corbett National Park, Ramnagar",
+          "credit": "Soumyajit Nandy",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bengal-Tiger_Corbett_Uttarakhand_Dec-2013.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Har Ki Pauri",
+      "slug": "har-ki-pauri",
+      "city": "haridwar",
+      "kind": "river",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "Haridwar's most sacred ghat on the Ganga, where thousands gather for the glowing evening aarti.",
+      "description": "Har Ki Pauri, 'the steps of the Lord', is the ghat where pilgrims bathe in the fast-flowing Ganga as it enters the plains. Every evening at sunset priests perform the Ganga aarti with great brass lamps while bells ring and devotees float leaf boats of flowers and diyas on the river. Arrive early to get a good spot on the steps or the bridge opposite. The ghat is the focal point of the Kumbh and Ardh Kumbh melas.",
+      "history": "Tradition holds that King Vikramaditya built the ghat in memory of his brother Bhartrihari. Hindu belief marks a stone in its wall as bearing the footprint of Vishnu.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "bestTimeNote": "October to April. The Kumbh Mela (every 12 years) and Kanwar season (July) are extremely crowded.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "Open all day; Ganga aarti at sunrise and sunset"
+      },
+      "location": {
+        "lat": 29.9567,
+        "lng": 78.1708,
+        "address": "Har Ki Pauri, Haridwar, Uttarakhand 249401"
+      },
+      "highlights": [
+        "Evening Ganga aarti",
+        "Floating diyas",
+        "Holy dip in the Ganga",
+        "Mansa Devi ropeway nearby"
+      ],
+      "sources": [
+        {
+          "title": "Har Ki Pauri – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Har_Ki_Pauri"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/har-ki-pauri.webp",
+          "alt": "Har Ki Pauri, Haridwar",
+          "credit": "Sanatansociety",
+          "license": "CC BY-SA 2.5",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Evening_view_of_Har-ki-Pauri,_Haridwar.jpg"
+        }
+      ]
+    }
+  ]
+}

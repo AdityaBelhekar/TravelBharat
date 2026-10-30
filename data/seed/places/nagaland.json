@@ -1,0 +1,176 @@
+{
+  "cities": [
+    {
+      "name": "Kohima",
+      "slug": "kohima",
+      "overview": "Nagaland's hill capital, scene of a decisive Second World War battle and host of the Hornbill Festival each December. Indian visitors need an Inner Line Permit.",
+      "location": {
+        "lat": 25.6751,
+        "lng": 94.1086
+      }
+    }
+  ],
+  "places": [
+    {
+      "name": "Kohima War Cemetery",
+      "slug": "kohima-war-cemetery",
+      "city": "kohima",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A terraced Commonwealth war cemetery on the site of the 1944 Battle of Kohima's famous tennis-court fighting.",
+      "description": "The cemetery climbs the slopes of Garrison Hill in the centre of Kohima, with more than 1,400 graves of Commonwealth soldiers who fell in 1944. White lines on the lawn mark the tennis court of the Deputy Commissioner's bungalow, where some of the fiercest fighting took place across a few metres of ground. The 2nd Division memorial carries the epitaph beginning 'When you go home, tell them of us and say'. It is a moving, beautifully kept place.",
+      "history": "In April–June 1944, British and Indian troops halted the Japanese advance into India at Kohima, in a battle often compared to Stalingrad. The cemetery is maintained by the Commonwealth War Graves Commission.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        3,
+        4,
+        5
+      ],
+      "bestTimeNote": "October to May; the Hornbill Festival in the first ten days of December makes Kohima busy.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "About 8:00 AM – 4:00 PM"
+      },
+      "location": {
+        "lat": 25.6674,
+        "lng": 94.1037,
+        "address": "Garrison Hill, Kohima, Nagaland 797001"
+      },
+      "highlights": [
+        "Tennis-court battlefield",
+        "Kohima Epitaph",
+        "Terraced graves",
+        "Views over Kohima"
+      ],
+      "sources": [
+        {
+          "title": "Kohima War Cemetery – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kohima_War_Cemetery"
+        },
+        {
+          "title": "Kohima War Cemetery – CWGC",
+          "url": "https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/2016000/kohima-war-cemetery/"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kohima-war-cemetery.webp",
+          "alt": "Kohima War Cemetery, Kohima",
+          "credit": "PP Yoonus",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cemetery_with_kohima.jpeg"
+        }
+      ]
+    },
+    {
+      "name": "Dzükou Valley",
+      "slug": "dzukou-valley",
+      "city": "kohima",
+      "kind": "valley",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "A high valley of rolling green hills on the Nagaland–Manipur border, famous for its summer lilies.",
+      "description": "Dzükou Valley lies at about 2,450 m behind Japfü peak, a landscape of smooth, bamboo-covered hills and winding streams. The trek in starts from Viswema or Zakhama, south of Kohima, and climbs steeply for a few hours before the valley opens out. A basic rest house and camping spots allow an overnight stay. In June and July the rare Dzükou lily flowers, and in winter the slopes turn golden and frost can cover the ground.",
+      "history": "The valley is claimed by both Nagaland and Manipur. Local Angami and Mao communities manage it, and village councils have worked to limit litter and forest fires.",
+      "bestMonths": [
+        6,
+        7,
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "June–July for lilies; October to March for clear skies and dry trails.",
+      "entryFee": {
+        "note": "Small entry and camping fee collected by the community."
+      },
+      "location": {
+        "lat": 25.5535,
+        "lng": 94.067,
+        "address": "Dzükou Valley, near Viswema, Kohima district, Nagaland"
+      },
+      "highlights": [
+        "Trek from Viswema",
+        "Dzükou lily",
+        "Camping in the valley",
+        "Japfü peak"
+      ],
+      "sources": [
+        {
+          "title": "Dzükou Valley – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dz%C3%BCkou_Valley"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/dzukou-valley.webp",
+          "alt": "Dzükou Valley, Kohima",
+          "credit": "Samudra Bikash Hazarika",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Breathtaking_beauty_of_Dzukou_Valley_in_Manipur-Nagaland_border_(edit).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Khonoma",
+      "slug": "khonoma",
+      "city": "kohima",
+      "kind": "village",
+      "categories": [
+        "nature",
+        "heritage"
+      ],
+      "shortDescription": "An Angami Naga hill village that banned hunting and became known as India's first green village.",
+      "description": "Khonoma clings to a ridge about 20 km from Kohima, its stone houses and gateways overlooking terraced rice fields. In 1998 the village council banned hunting and logging and set up the Khonoma Nature Conservation and Tragopan Sanctuary, turning the village into a model of community conservation. Homestays let visitors walk the terraces, visit the old village forts and learn about Angami customs. Go with a local guide and ask before photographing people.",
+      "history": "Khonoma fought hard against British expansion in the 19th century, most famously in the siege of 1879–80, and a memorial to the British officer G. H. Damant stands nearby.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "bestTimeNote": "October to April. Harvest season (September–October) turns the terraces golden.",
+      "location": {
+        "lat": 25.6522,
+        "lng": 94.0229,
+        "address": "Khonoma, Kohima district, Nagaland 797001"
+      },
+      "highlights": [
+        "Terraced rice fields",
+        "Community conservation sanctuary",
+        "Angami stone houses",
+        "Village homestays"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Khonoma – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Khonoma"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/khonoma.webp",
+          "alt": "Khonoma, Kohima",
+          "credit": "Ly.n0m",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_of_Khonoma_(2024).jpg"
+        }
+      ]
+    }
+  ]
+}

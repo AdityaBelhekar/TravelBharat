@@ -1,0 +1,181 @@
+{
+  "cities": [
+    {
+      "name": "Tawang",
+      "slug": "tawang",
+      "overview": "A high mountain town near the Bhutan and Tibet borders, home to India's largest Buddhist monastery. Indian visitors need an Inner Line Permit and foreigners a Protected Area Permit.",
+      "location": {
+        "lat": 27.5864,
+        "lng": 91.8575
+      }
+    },
+    {
+      "name": "Ziro",
+      "slug": "ziro",
+      "overview": "A pine-ringed plateau in Lower Subansiri district and home of the Apatani people, known for their rice-and-fish farming and the Ziro Festival of Music.",
+      "location": {
+        "lat": 27.5417,
+        "lng": 93.8161
+      }
+    }
+  ],
+  "places": [
+    {
+      "name": "Tawang Monastery",
+      "slug": "tawang-monastery",
+      "city": "tawang",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious",
+        "heritage"
+      ],
+      "shortDescription": "India's largest Buddhist monastery, set at about 3,000 m with sweeping views over the Tawang valley.",
+      "description": "Galden Namgyal Lhatse, as the monastery is formally known, belongs to the Gelug school of Tibetan Buddhism and houses several hundred monks. Its three-storey assembly hall holds a gilded statue of the Buddha about 8 m tall, and a library keeps old manuscripts and thangkas. The Torgya festival in January brings masked dances to the courtyard. Visitors need an Inner Line Permit (Indians) or a Protected Area Permit (foreigners) to enter Arunachal Pradesh.",
+      "history": "The monastery was founded in 1680–81 by Merak Lama Lodre Gyatso in keeping with the wishes of the fifth Dalai Lama. The sixth Dalai Lama, Tsangyang Gyatso, was born near Tawang.",
+      "bestMonths": [
+        3,
+        4,
+        5,
+        9,
+        10
+      ],
+      "bestTimeNote": "March to May and September to October. Snow can close Sela Pass in winter.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "About 7:00 AM – 7:00 PM"
+      },
+      "location": {
+        "lat": 27.5864,
+        "lng": 91.8575,
+        "address": "Tawang Monastery, Tawang, Arunachal Pradesh 790104"
+      },
+      "highlights": [
+        "Gilded Buddha statue",
+        "Monastery library and museum",
+        "Torgya masked dances",
+        "Views of the Tawang valley"
+      ],
+      "sources": [
+        {
+          "title": "Tawang Monastery – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Tawang_Monastery"
+        },
+        {
+          "title": "Arunachal Pradesh Tourism",
+          "url": "https://arunachaltourism.com"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/tawang-monastery.webp",
+          "alt": "Tawang Monastery, Tawang",
+          "credit": "Rumelade",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:TawangMonastery.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sela Pass",
+      "slug": "sela-pass",
+      "city": "tawang",
+      "kind": "mountain-pass",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "A high mountain pass at about 4,170 m on the road to Tawang, with a lake that freezes over in winter.",
+      "description": "Sela Pass carries the only road into Tawang over the Eastern Himalaya. Prayer flags flutter at the pass gate, and the Sela Lake below it lies frozen for much of the winter. The air is thin, so take it slowly and carry warm layers even in summer. The Sela Tunnel, opened in 2024, now offers an all-weather route, but the old road over the pass remains the scenic way.",
+      "history": "The pass is linked to the 1962 India–China war and to the story of the rifleman Jaswant Singh Rawat, after whom the nearby Jaswantgarh war memorial is named.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "bestTimeNote": "April to June and September to October. Heavy snow can block the pass from December to February.",
+      "location": {
+        "lat": 27.5035,
+        "lng": 92.1045,
+        "address": "Sela Pass, Tawang district, Arunachal Pradesh"
+      },
+      "highlights": [
+        "Sela Lake",
+        "Jaswantgarh war memorial",
+        "Prayer-flag gateway",
+        "High-altitude drive"
+      ],
+      "sources": [
+        {
+          "title": "Sela Pass – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sela_Pass"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/sela-pass.webp",
+          "alt": "Sela Pass, Tawang",
+          "credit": "Dhrubazaanphotography",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tawang_Gate.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Ziro Valley",
+      "slug": "ziro-valley",
+      "city": "ziro",
+      "kind": "valley",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A green plateau of rice fields and bamboo villages, home of the Apatani people and the Ziro Festival of Music.",
+      "description": "Ziro sits at about 1,500 m among pine-covered hills. The Apatani people farm its flat valley floor with a remarkable rice-and-fish system that needs no draught animals or machines, and their villages such as Hong and Hari are open to respectful visitors. Older Apatani women may still wear traditional facial tattoos and nose plugs, a custom now discontinued. Every September the open-air Ziro Festival of Music draws independent musicians from across India.",
+      "history": "The Apatani cultural landscape of Ziro has been proposed for UNESCO World Heritage status in recognition of its sustainable farming traditions.",
+      "bestMonths": [
+        3,
+        4,
+        5,
+        9,
+        10,
+        11
+      ],
+      "bestTimeNote": "March to May and September to November. The music festival is usually in late September.",
+      "location": {
+        "lat": 27.5417,
+        "lng": 93.8161,
+        "address": "Ziro, Lower Subansiri district, Arunachal Pradesh 791120"
+      },
+      "highlights": [
+        "Apatani villages",
+        "Rice-and-fish paddy fields",
+        "Ziro Festival of Music",
+        "Pine-forest walks"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Ziro – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ziro"
+        },
+        {
+          "title": "Apatani people – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Apatani_people"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/ziro-valley.webp",
+          "alt": "Ziro Valley, Ziro",
+          "credit": "Arunachal2007",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_cross_section_of_luch_green_valley_of_Ziro.jpg"
+        }
+      ]
+    }
+  ]
+}

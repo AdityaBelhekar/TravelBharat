@@ -1,0 +1,401 @@
+{
+  "cities": [
+    {
+      "name": "Shillong",
+      "slug": "shillong",
+      "overview": "Meghalaya's hill capital, once called the 'Scotland of the East', with pine forests, colonial bungalows, busy markets and a famous live-music scene.",
+      "location": {
+        "lat": 25.5788,
+        "lng": 91.8933
+      }
+    },
+    {
+      "name": "Sohra",
+      "slug": "sohra",
+      "overview": "Sohra (Cherrapunji) sits on a plateau in the East Khasi Hills, about 55 km from Shillong. It is one of the wettest places on earth, surrounded by waterfalls, gorges, caves and living root bridges.",
+      "location": {
+        "lat": 25.2702,
+        "lng": 91.7323
+      }
+    },
+    {
+      "name": "Mawlynnong",
+      "slug": "mawlynnong",
+      "overview": "A small Khasi village near the Bangladesh border, famous for its cleanliness, flower-lined paths and community-run tourism.",
+      "location": {
+        "lat": 25.2019,
+        "lng": 91.9161
+      }
+    },
+    {
+      "name": "Dawki",
+      "slug": "dawki",
+      "overview": "A border town in the West Jaintia Hills on the Umngot River, a trade crossing with Bangladesh known for its remarkably clear water.",
+      "location": {
+        "lat": 25.1883,
+        "lng": 92.0247
+      }
+    }
+  ],
+  "places": [
+    {
+      "name": "Double Decker Living Root Bridge",
+      "slug": "double-decker-living-root-bridge",
+      "city": "sohra",
+      "kind": "trek",
+      "categories": [
+        "adventure",
+        "nature"
+      ],
+      "shortDescription": "A two-level bridge grown from the roots of rubber fig trees, reached by a steep trek down to Nongriat village.",
+      "description": "From Tyrna village, about 3,500 steps drop through the forest to Nongriat, crossing swaying wire bridges over turquoise streams. At the bottom is the Umshiang Double Decker Root Bridge, with two tiers of living roots trained across a stream, and natural pools for swimming. The climb back up is tough; start early, carry water, or stay overnight in a Nongriat homestay. Rainbow Falls is a further hour's walk.",
+      "history": "Khasi and Jaintia communities have grown root bridges for generations by guiding the aerial roots of Ficus elastica trees across rivers until they strengthen into bridges that can last for centuries. The living root bridges of Meghalaya were added to UNESCO's Tentative List in 2022.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March for safer trails; the monsoon is dramatic but slippery.",
+      "entryFee": {
+        "note": "Small village entry and camera fees are collected along the route."
+      },
+      "timings": {
+        "hours": "Start the trek by morning; allow 4–6 hours round trip"
+      },
+      "location": {
+        "lat": 25.245,
+        "lng": 91.68,
+        "address": "Nongriat village, near Tyrna, East Khasi Hills, Meghalaya 793108"
+      },
+      "highlights": [
+        "Double-decker root bridge",
+        "3,500-step forest trek",
+        "Natural swimming pools",
+        "Rainbow Falls"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Living root bridge – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Living_root_bridge"
+        },
+        {
+          "title": "Meghalaya Tourism",
+          "url": "https://www.meghalayatourism.in/"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/double-decker-living-root-bridge.webp",
+          "alt": "Double Decker Living Root Bridge, Sohra",
+          "credit": "Arshiya Urveeja Bose",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Living_root_bridges,_Nongriat_village,_Meghalaya2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Nohkalikai Falls",
+      "slug": "nohkalikai-falls",
+      "city": "sohra",
+      "kind": "waterfall",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "India's tallest plunge waterfall, dropping about 340 metres into a green pool below the Sohra plateau.",
+      "description": "Nohkalikai Falls drops in a single plunge off the plateau edge, fed by rain collected on the tableland above. A viewing area at the top gives the classic view, and on a clear day you can see the vivid green pool far below. For the adventurous, a steep trail leads down to the pool. Mist can hide the falls entirely during the monsoon, so be prepared to wait for it to clear.",
+      "history": "The falls are named after a Khasi legend about a grief-stricken woman, Ka Likai, who leapt from the cliff.",
+      "bestMonths": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "bestTimeNote": "June to September for the strongest flow; October–November for clearer views.",
+      "entryFee": {
+        "note": "Small entry and parking fees."
+      },
+      "timings": {
+        "hours": "About 8:00 AM – 5:00 PM"
+      },
+      "location": {
+        "lat": 25.2754,
+        "lng": 91.6866,
+        "address": "Nohkalikai, Sohra, East Khasi Hills, Meghalaya 793108"
+      },
+      "highlights": [
+        "Single 340-metre plunge",
+        "Green plunge pool",
+        "Trail to the base"
+      ],
+      "sources": [
+        {
+          "title": "Nohkalikai Falls – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nohkalikai_Falls"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/nohkalikai-falls.webp",
+          "alt": "Nohkalikai Falls, Sohra",
+          "credit": "Vikramjit Kakati",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:NohKaLikai_Falls_V2_Wiki.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Mawsmai Cave",
+      "slug": "mawsmai-cave",
+      "city": "sohra",
+      "kind": "caves",
+      "categories": [
+        "adventure",
+        "nature"
+      ],
+      "shortDescription": "A lit limestone cave near Sohra where visitors squeeze through narrow passages among stalactites.",
+      "description": "Mawsmai is the most accessible of Meghalaya's many limestone caves. A route of about 150 metres is lit, with some narrow, low sections where you have to crouch or squeeze through. Stalactites, stalagmites and fossil-like formations line the walls. It is a short, fun stop between the waterfalls of Sohra.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "entryFee": {
+        "note": "Small entry fee."
+      },
+      "timings": {
+        "hours": "About 9:30 AM – 5:30 PM"
+      },
+      "location": {
+        "lat": 25.2491,
+        "lng": 91.7286,
+        "address": "Mawsmai village, Sohra, East Khasi Hills, Meghalaya 793108"
+      },
+      "highlights": [
+        "Lit limestone passages",
+        "Stalactites and stalagmites",
+        "Nearby Seven Sisters Falls"
+      ],
+      "sources": [
+        {
+          "title": "Sohra – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sohra"
+        }
+      ]
+    },
+    {
+      "name": "Mawlynnong Village",
+      "slug": "mawlynnong-village",
+      "city": "mawlynnong",
+      "kind": "village",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A spotless Khasi village with bamboo dustbins, orchid gardens and a tree-top 'sky walk' over the Bangladesh plains.",
+      "description": "Mawlynnong's residents share the work of keeping the village clean, and bamboo dustbins stand along its stone paths. Climb the bamboo sky walk for views towards Bangladesh, visit the small church, and walk to the Riwai living root bridge nearby. Several families run homestays serving local Khasi food.",
+      "history": "In 2003 a travel magazine named Mawlynnong the 'cleanest village in Asia', and the community has built tourism around that reputation ever since.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "entryFee": {
+        "note": "Small village fee; the sky walk and root bridge charge separately."
+      },
+      "timings": {
+        "hours": "Open all day"
+      },
+      "location": {
+        "lat": 25.2019,
+        "lng": 91.9161,
+        "address": "Mawlynnong, East Khasi Hills, Meghalaya 793110"
+      },
+      "highlights": [
+        "Bamboo sky walk",
+        "Riwai living root bridge",
+        "Village homestays",
+        "Balancing rock"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Mawlynnong – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mawlynnong"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/mawlynnong-village.webp",
+          "alt": "Mawlynnong Village, Mawlynnong",
+          "credit": "Madhumita Das",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mawlynnong_-_Cleanest_village_of_Asia.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Umngot River, Dawki",
+      "slug": "umngot-river-dawki",
+      "city": "dawki",
+      "kind": "river",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "A river so clear in winter that boats appear to float in mid-air above the riverbed.",
+      "description": "In the dry season the Umngot is clear enough to see the pebbles several metres below the boats. Hire a wooden boat at Dawki or the nearby village of Shnongpdeng, where you can also go snorkelling, cliff-jumping, kayaking and camping on the riverbank. The suspension bridge over the river dates from the British era.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "bestTimeNote": "November to April, when the water is clearest. Monsoon rains make it muddy.",
+      "entryFee": {
+        "note": "Boat rides are priced per boat; activities at Shnongpdeng are extra."
+      },
+      "timings": {
+        "hours": "Boating from morning to about 4:00 PM"
+      },
+      "location": {
+        "lat": 25.1883,
+        "lng": 92.0247,
+        "address": "Dawki, West Jaintia Hills, Meghalaya 793109"
+      },
+      "highlights": [
+        "Boating on clear water",
+        "Shnongpdeng camping and snorkelling",
+        "Dawki suspension bridge"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Dawki – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dawki"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/umngot-river-dawki.webp",
+          "alt": "Umngot River, Dawki, Dawki",
+          "credit": "Vikramjit Kakati",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Umngot_river,_Dawki.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Umiam Lake",
+      "slug": "umiam-lake",
+      "city": "shillong",
+      "kind": "lake",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "A large reservoir framed by pine-covered hills on the road into Shillong, with water sports and viewpoints.",
+      "description": "Umiam Lake (Barapani) is the first big view visitors see on the drive from Guwahati to Shillong. The water-sports complex offers kayaking, speed boats and water scooters, and lakeside resorts and viewpoints are good for sunset. Cycling and camping are popular around the shore.",
+      "history": "The lake was created in the early 1960s by damming the Umiam River for hydroelectric power.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "entryFee": {
+        "note": "Viewpoint and water-sports fees vary."
+      },
+      "timings": {
+        "hours": "Water sports about 9:00 AM – 5:00 PM"
+      },
+      "location": {
+        "lat": 25.655,
+        "lng": 91.89,
+        "address": "Umiam, Ri-Bhoi district, Meghalaya 793103"
+      },
+      "highlights": [
+        "Kayaking and boating",
+        "Sunset viewpoints",
+        "Pine-forest shoreline"
+      ],
+      "sources": [
+        {
+          "title": "Umiam Lake – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Umiam_Lake"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/umiam-lake.webp",
+          "alt": "Umiam Lake, Shillong",
+          "credit": "Vikramjit Kakati",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Umiam_Lake_-_by_Vikramjit_Kakati.png"
+        }
+      ]
+    },
+    {
+      "name": "Laitlum Canyons",
+      "slug": "laitlum-canyons",
+      "city": "shillong",
+      "kind": "valley",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "Grassy ridges that end in sheer drops over deep green gorges, an hour from Shillong.",
+      "description": "Laitlum means 'end of the hills', and the ridge here drops away into deep valleys with views that stretch for miles on a clear day. Walk along the edge for photographs, or take the long stone stairway down to the village of Rasong in the valley below. Mist often rolls in through the gorges in the afternoon, so come early.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "entryFee": {
+        "note": "Small entry and parking fees collected by the village."
+      },
+      "timings": {
+        "hours": "Daylight hours"
+      },
+      "location": {
+        "lat": 25.4625,
+        "lng": 91.9071,
+        "address": "Laitlum, Smit, East Khasi Hills, Meghalaya 793015"
+      },
+      "highlights": [
+        "Canyon-edge viewpoints",
+        "Stairway trek to Rasong village",
+        "Sunrise over the gorges"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Meghalaya Tourism",
+          "url": "https://www.meghalayatourism.in/"
+        }
+      ]
+    }
+  ]
+}

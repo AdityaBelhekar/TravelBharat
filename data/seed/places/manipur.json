@@ -1,0 +1,162 @@
+{
+  "cities": [
+    {
+      "name": "Moirang",
+      "slug": "moirang",
+      "overview": "A town on the edge of Loktak Lake in Bishnupur district, historically important as the headquarters of the Indian National Army in 1944.",
+      "location": {
+        "lat": 24.5006,
+        "lng": 93.7767
+      }
+    },
+    {
+      "name": "Imphal",
+      "slug": "imphal",
+      "overview": "Manipur's capital in an oval valley ringed by hills, known for its all-women Ima Market and its polo heritage.",
+      "location": {
+        "lat": 24.817,
+        "lng": 93.9368
+      }
+    }
+  ],
+  "places": [
+    {
+      "name": "Loktak Lake",
+      "slug": "loktak-lake",
+      "city": "moirang",
+      "kind": "lake",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "The largest freshwater lake in Northeast India, famous for its floating islands called phumdis.",
+      "description": "Loktak Lake is covered with phumdis, floating mats of vegetation and soil, some large enough to hold fishermen's huts. The view from Sendra Island at sunset, with fishing boats weaving between the circular phumdis, is one of Manipur's classic sights. The lake supplies water, fish and hydroelectric power to much of the state. Check current travel advisories for Manipur before planning a visit.",
+      "history": "Loktak was designated a Ramsar wetland of international importance in 1990. Its southern part forms Keibul Lamjao National Park.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March.",
+      "location": {
+        "lat": 24.55,
+        "lng": 93.7833,
+        "address": "Loktak Lake, Bishnupur district, Manipur"
+      },
+      "highlights": [
+        "Floating phumdis",
+        "Sendra Island viewpoint",
+        "Fishing boats at sunset",
+        "Moirang INA memorial nearby"
+      ],
+      "sources": [
+        {
+          "title": "Loktak Lake – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Loktak_Lake"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/loktak-lake.webp",
+          "alt": "Loktak Lake, Moirang",
+          "credit": "Sudiptorana",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Loktak_Lake.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Keibul Lamjao National Park",
+      "slug": "keibul-lamjao-national-park",
+      "city": "moirang",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "The world's only floating national park and the last natural home of the dancing sangai deer.",
+      "description": "Keibul Lamjao covers about 40 km² of floating phumdis at the southern end of Loktak Lake. It is the only natural habitat of the sangai, the brow-antlered deer whose delicate gait on the floating marsh earned it the name 'dancing deer', and it is Manipur's state animal. Watchtowers on Babet hillock give the best chance of seeing them in the early morning. Hog deer, otters and many water birds also live here.",
+      "history": "The park was created in 1977 after the sangai was thought extinct and then rediscovered in 1953. The Sangai Festival, held each November, is named after it.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "November to March, early morning.",
+      "location": {
+        "lat": 24.5,
+        "lng": 93.7667,
+        "address": "Keibul Lamjao, Bishnupur district, Manipur"
+      },
+      "highlights": [
+        "Sangai deer",
+        "Floating phumdis",
+        "Babet watchtower",
+        "Wetland birds"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Keibul Lamjao National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Keibul_Lamjao_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/keibul-lamjao-national-park.webp",
+          "alt": "Keibul Lamjao National Park, Moirang",
+          "credit": "ideonexus",
+          "license": "CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:CervusEldiAMNH.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kangla Fort",
+      "slug": "kangla-fort",
+      "city": "imphal",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The ancient seat of Manipur's kings, guarded by giant white dragon-lion statues in the heart of Imphal.",
+      "description": "Kangla, on the banks of the Imphal River, was the political and religious centre of Manipur for centuries. Inside its moated grounds are the reconstructed Kangla Sha, two great white dragon-lion statues that are symbols of the state, along with ruined temples, sacred ponds and a museum. The open lawns are a pleasant place to walk. Nearby, the Ima Keithel market is run entirely by women.",
+      "history": "Kangla was the seat of the Meitei kings until the Anglo-Manipur War of 1891, after which it was used by the British and later by the Assam Rifles. It was handed back to the state government in 2004 and opened to the public.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March.",
+      "entryFee": {
+        "note": "Small entry fee."
+      },
+      "timings": {
+        "hours": "About 9:00 AM – 4:00 PM"
+      },
+      "location": {
+        "lat": 24.808,
+        "lng": 93.94,
+        "address": "Kangla Fort, Imphal West, Manipur 795001"
+      },
+      "highlights": [
+        "Kangla Sha statues",
+        "Moat and sacred ponds",
+        "Kangla museum",
+        "Ima Keithel market nearby"
+      ],
+      "sources": [
+        {
+          "title": "Kangla Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kangla_Fort"
+        }
+      ]
+    }
+  ]
+}

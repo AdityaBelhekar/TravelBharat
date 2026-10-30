@@ -1,0 +1,187 @@
+{
+  "cities": [
+    {
+      "name": "Amritsar",
+      "slug": "amritsar",
+      "overview": "The spiritual centre of Sikhism, close to the Pakistan border, known for the Golden Temple, its food and the Attari–Wagah border ceremony.",
+      "location": {
+        "lat": 31.634,
+        "lng": 74.8723
+      }
+    },
+    {
+      "name": "Anandpur Sahib",
+      "slug": "anandpur-sahib",
+      "overview": "A holy town in the Shivalik foothills of Rupnagar district, where the Khalsa was founded in 1699.",
+      "location": {
+        "lat": 31.2393,
+        "lng": 76.5023
+      }
+    }
+  ],
+  "places": [
+    {
+      "name": "Golden Temple (Harmandir Sahib)",
+      "slug": "golden-temple",
+      "city": "amritsar",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious",
+        "heritage"
+      ],
+      "shortDescription": "Sikhism's holiest gurdwara, its gilded sanctum set in a sacred pool, open to everyone day and night.",
+      "description": "Sri Harmandir Sahib rises from the middle of the Amrit Sarovar, the pool of nectar, reached by a causeway from the marble walkway that surrounds it. Hymns from the Guru Granth Sahib are sung continuously from early morning until night. The langar, the community kitchen, serves free meals to tens of thousands of people of every faith each day, cooked and served largely by volunteers. Cover your head, remove your shoes and wash your feet before entering. Visit early morning or late night for the calmest experience.",
+      "history": "The temple was built under the fifth Guru, Arjan Dev, and completed in 1604, when the Guru Granth Sahib was first installed. It was rebuilt after attacks in the 18th century, and Maharaja Ranjit Singh covered its upper storeys with gold in the early 19th century.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March. Gurpurab and Diwali, when the temple is lit, are especially beautiful.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "Open 24 hours"
+      },
+      "location": {
+        "lat": 31.62,
+        "lng": 74.8767,
+        "address": "Golden Temple Road, Atta Mandi, Katra Ahluwalia, Amritsar, Punjab 143006"
+      },
+      "highlights": [
+        "Amrit Sarovar and causeway",
+        "Community langar",
+        "Palki Sahib ceremony",
+        "Central Sikh Museum"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Golden Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Golden_Temple"
+        },
+        {
+          "title": "Shiromani Gurdwara Parbandhak Committee (official)",
+          "url": "https://sgpc.net"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/golden-temple.webp",
+          "alt": "Golden Temple (Harmandir Sahib), Amritsar",
+          "credit": "Shagil Kannur",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Golden_Temple_of_Amrithsar_7.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Jallianwala Bagh",
+      "slug": "jallianwala-bagh",
+      "city": "amritsar",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "Memorial garden at the site of the 1919 massacre, a turning point in India's freedom struggle.",
+      "description": "Jallianwala Bagh is a walled garden a short walk from the Golden Temple. A flame-shaped memorial stands at its centre, bullet marks are preserved in the surrounding walls, and the Martyrs' Well recalls those who jumped in to escape the firing. Galleries tell the story of the massacre and its aftermath, and an evening light-and-sound show runs most days. Entry is through the same narrow lane the troops used.",
+      "history": "On 13 April 1919, Brigadier-General Reginald Dyer ordered troops to fire on a crowd gathered in the garden, killing hundreds of unarmed people. The massacre turned many Indians against British rule. The memorial was inaugurated in 1961.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "About 6:30 AM – 7:30 PM"
+      },
+      "location": {
+        "lat": 31.6205,
+        "lng": 74.8806,
+        "address": "Golden Temple Road, Jallianwala Bagh, Amritsar, Punjab 143006"
+      },
+      "highlights": [
+        "Flame of Liberty memorial",
+        "Bullet-marked walls",
+        "Martyrs' Well",
+        "Light-and-sound show"
+      ],
+      "sources": [
+        {
+          "title": "Jallianwala Bagh – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jallianwala_Bagh"
+        },
+        {
+          "title": "Jallianwala Bagh massacre – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jallianwala_Bagh_massacre"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/jallianwala-bagh.webp",
+          "alt": "Jallianwala Bagh, Amritsar",
+          "credit": "Bernard Gagnon",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jallianwala_Bagh,_Amritsar_01.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Takht Sri Kesgarh Sahib",
+      "slug": "takht-sri-kesgarh-sahib",
+      "city": "anandpur-sahib",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "The gurdwara at Anandpur Sahib marking the birthplace of the Khalsa, one of the five Takhts of Sikhism.",
+      "description": "Takht Sri Kesgarh Sahib stands on a hill in Anandpur Sahib, its white domes visible across the town. It marks the spot where Guru Gobind Singh created the Khalsa, and it keeps weapons associated with the Guru. The town comes alive at Hola Mohalla, held the day after Holi, when Nihang Sikhs display martial arts, horsemanship and mock battles. The Virasat-e-Khalsa museum nearby, with its striking modern architecture, tells the story of Sikh history.",
+      "history": "On Baisakhi day in 1699, Guru Gobind Singh initiated the first five members of the Khalsa here, the Panj Pyare.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March. Hola Mohalla falls in March, the day after Holi.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "Open all day"
+      },
+      "location": {
+        "lat": 31.235,
+        "lng": 76.4989,
+        "address": "Anandpur Sahib, Rupnagar district, Punjab 140118"
+      },
+      "highlights": [
+        "Birthplace of the Khalsa",
+        "Hola Mohalla festival",
+        "Virasat-e-Khalsa museum",
+        "Weapons of Guru Gobind Singh"
+      ],
+      "sources": [
+        {
+          "title": "Takht Sri Kesgarh Sahib – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Takht_Sri_Kesgarh_Sahib"
+        }
+      ]
+    }
+  ]
+}

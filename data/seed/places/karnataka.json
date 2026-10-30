@@ -1,0 +1,453 @@
+{
+  "cities": [
+    {
+      "name": "Hampi",
+      "slug": "hampi",
+      "overview": "A village set among the ruins of Vijayanagara, once one of the largest and richest cities in the world. Boulder-strewn hills, banana fields and the Tungabhadra River surround hundreds of temples and royal buildings.",
+      "location": {
+        "lat": 15.335,
+        "lng": 76.46
+      }
+    },
+    {
+      "name": "Mysuru",
+      "slug": "mysuru",
+      "overview": "The former capital of the Wodeyar kings, Mysuru is known for its palace, its ten-day Dasara festival, silk, sandalwood and Mysore pak.",
+      "location": {
+        "lat": 12.2958,
+        "lng": 76.6394
+      }
+    },
+    {
+      "name": "Madikeri",
+      "slug": "madikeri",
+      "overview": "The main town of Kodagu (Coorg), a misty hill region of coffee and pepper estates and the home of the Kodava people.",
+      "location": {
+        "lat": 12.4244,
+        "lng": 75.7382
+      }
+    },
+    {
+      "name": "Gokarna",
+      "slug": "gokarna",
+      "overview": "A temple town on the Karnataka coast, sacred to Lord Shiva, with a string of quiet beaches linked by clifftop trails.",
+      "location": {
+        "lat": 14.5479,
+        "lng": 74.3188
+      }
+    },
+    {
+      "name": "Badami",
+      "slug": "badami",
+      "overview": "A small town between red sandstone cliffs and a lake, once Vatapi, the capital of the early Chalukya kings. Aihole and Pattadakal are close by.",
+      "location": {
+        "lat": 15.9149,
+        "lng": 75.6768
+      }
+    },
+    {
+      "name": "Chikkamagaluru",
+      "slug": "chikkamagaluru",
+      "overview": "The district where coffee was first grown in India, with the state's highest peaks, shola forests and trekking trails in the Western Ghats.",
+      "location": {
+        "lat": 13.3153,
+        "lng": 75.7754
+      }
+    },
+    {
+      "name": "Shravanabelagola",
+      "slug": "shravanabelagola",
+      "overview": "A Jain pilgrimage town between two hills in Hassan district, crowned by a giant statue of Bahubali.",
+      "location": {
+        "lat": 12.8571,
+        "lng": 76.4884
+      }
+    }
+  ],
+  "places": [
+    {
+      "name": "Group of Monuments at Hampi",
+      "slug": "hampi",
+      "city": "hampi",
+      "kind": "monument",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "The vast ruins of the Vijayanagara capital, scattered across a surreal landscape of granite boulders.",
+      "description": "Hampi's ruins cover more than 25 square kilometres. The Virupaksha Temple is still in worship; the Vittala Temple has the famous stone chariot and 'musical' pillars; the Royal Enclosure has the Lotus Mahal, the Elephant Stables and a stepped tank. Explore by bicycle, moped or auto-rickshaw, cross the river by coracle, and climb Matanga Hill or Hemakuta Hill for sunrise or sunset.",
+      "history": "Vijayanagara was the capital of an empire that ruled much of South India from the 14th to the 16th century. It was sacked after the Battle of Talikota in 1565 and abandoned. It became a UNESCO World Heritage Site in 1986.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "bestTimeNote": "October to February. The Hampi Utsav festival is usually held in winter.",
+      "entryFee": {
+        "indian": 40,
+        "foreigner": 600,
+        "child": 0,
+        "note": "The ticket covers the Vittala Temple, Lotus Mahal and Elephant Stables on the same day."
+      },
+      "timings": {
+        "hours": "Sunrise to sunset"
+      },
+      "location": {
+        "lat": 15.335,
+        "lng": 76.46,
+        "address": "Hampi, Vijayanagara district, Karnataka 583239"
+      },
+      "highlights": [
+        "Stone chariot at the Vittala Temple",
+        "Virupaksha Temple",
+        "Lotus Mahal and Elephant Stables",
+        "Sunset from Hemakuta Hill",
+        "Coracle ride on the Tungabhadra"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Hampi – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hampi"
+        },
+        {
+          "title": "Group of Monuments at Hampi – UNESCO",
+          "url": "https://whc.unesco.org/en/list/241"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/hampi.webp",
+          "alt": "Group of Monuments at Hampi, Hampi",
+          "credit": "iMahesh",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wide_angle_of_Galigopuram_of_Virupaksha_Temple,_Hampi_(04)_(cropped).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Mysuru Palace",
+      "slug": "mysuru-palace",
+      "city": "mysuru",
+      "kind": "palace",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The ornate palace of the Wodeyar kings, lit up by nearly 100,000 bulbs on Sunday evenings and during Dasara.",
+      "description": "Mysuru Palace mixes Hindu, Mughal, Rajput and Gothic styles beneath its grey granite domes. Inside are the stained-glass Kalyana Mantapa (marriage hall), the pillared Durbar Hall, and galleries of paintings and royal artefacts. Shoes must be left outside and photography is restricted indoors. Come back after dark on a Sunday or public holiday to see the whole palace lit.",
+      "history": "The present palace was designed by the British architect Henry Irwin and completed in 1912, after the earlier wooden palace burned down in 1897. It is the centre of the Mysuru Dasara festival, which the Wodeyars have celebrated since the 17th century.",
+      "bestMonths": [
+        9,
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "bestTimeNote": "October for Dasara (dates vary each year); otherwise October to February.",
+      "entryFee": {
+        "note": "Ticketed; foreigners pay more. Check the official palace site for current rates."
+      },
+      "timings": {
+        "hours": "10:00 AM – 5:30 PM; illumination on Sundays and holidays 7:00–7:45 PM"
+      },
+      "location": {
+        "lat": 12.3052,
+        "lng": 76.6552,
+        "address": "Sayyaji Rao Road, Agrahara, Chamrajpura, Mysuru, Karnataka 570001"
+      },
+      "highlights": [
+        "Sunday evening illumination",
+        "Durbar Hall",
+        "Kalyana Mantapa",
+        "Mysuru Dasara procession"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Mysore Palace – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mysore_Palace"
+        },
+        {
+          "title": "Mysore Palace Board",
+          "url": "https://mysorepalace.karnataka.gov.in/"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/mysuru-palace.webp",
+          "alt": "Mysuru Palace, Mysuru",
+          "credit": "Muhammad Mahdi Karim",
+          "license": "GFDL 1.2",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mysore_Palace_Morning.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Abbey Falls",
+      "slug": "abbey-falls",
+      "city": "madikeri",
+      "kind": "waterfall",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A waterfall tucked between coffee and spice plantations, a short walk from Madikeri.",
+      "description": "A paved path leads down through coffee bushes, pepper vines and cardamom to a hanging bridge facing Abbey (Abbi) Falls, which tumble about 20 metres over rocks. It is at its most powerful during and just after the monsoon. Combine it with Raja's Seat for sunset and a coffee-estate stay.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "bestTimeNote": "July to December; the flow is weak in summer.",
+      "entryFee": {
+        "note": "Small entry and parking fees."
+      },
+      "timings": {
+        "hours": "About 9:00 AM – 5:00 PM"
+      },
+      "location": {
+        "lat": 12.4573,
+        "lng": 75.718,
+        "address": "Abbey Falls Road, Madikeri, Kodagu district, Karnataka 571201"
+      },
+      "highlights": [
+        "Walk through coffee plantations",
+        "Hanging bridge view",
+        "Monsoon flow"
+      ],
+      "sources": [
+        {
+          "title": "Abbey Falls – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Abbey_Falls"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/abbey-falls.webp",
+          "alt": "Abbey Falls, Madikeri",
+          "credit": "Santhoshkumar Sugumar",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abbey_Falls_New.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Om Beach",
+      "slug": "om-beach",
+      "city": "gokarna",
+      "kind": "beach",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "A beach shaped like the Om symbol, on a clifftop trail linking Gokarna's quiet coves.",
+      "description": "Om Beach is the best known of the beaches south of Gokarna town, with two curved bays joined by a rocky point. Many visitors walk the coastal trail from Kudle Beach over Om Beach to Half Moon and Paradise beaches, returning by boat. Water sports and simple shacks operate in season. Currents can be strong; swim only where it's safe.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "Open all day"
+      },
+      "location": {
+        "lat": 14.5191,
+        "lng": 74.3172,
+        "address": "Om Beach, Gokarna, Uttara Kannada district, Karnataka 581326"
+      },
+      "highlights": [
+        "Beach trek to Half Moon and Paradise",
+        "Om-shaped coastline",
+        "Sunset from the headland"
+      ],
+      "sources": [
+        {
+          "title": "Gokarna, Karnataka – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gokarna,_Karnataka"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/om-beach.webp",
+          "alt": "Om Beach, Gokarna",
+          "credit": "Aleksriis",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Delight_india.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Badami Cave Temples",
+      "slug": "badami-cave-temples",
+      "city": "badami",
+      "kind": "caves",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "Four 6th-century rock-cut temples carved into red sandstone cliffs above Agastya Lake.",
+      "description": "Badami's four caves climb the cliff one above another: three are Hindu (dedicated to Shiva and Vishnu) and one is Jain. Look for the 18-armed dancing Shiva in Cave 1 and the large Vishnu reliefs in Cave 3. Across Agastya Lake are the Bhutanatha temples and the North Fort. Nearby Aihole and the UNESCO-listed temples of Pattadakal make an excellent day circuit with far fewer crowds than Hampi.",
+      "history": "Carved under the early Chalukya kings, who made Badami (then Vatapi) their capital in the 6th century. Cave 3 has an inscription dated 578 CE.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "entryFee": {
+        "indian": 25,
+        "foreigner": 300,
+        "child": 0,
+        "note": "Verify current rates with the Archaeological Survey of India."
+      },
+      "timings": {
+        "hours": "Sunrise to sunset"
+      },
+      "location": {
+        "lat": 15.9183,
+        "lng": 75.6764,
+        "address": "Badami, Bagalkot district, Karnataka 587201"
+      },
+      "highlights": [
+        "Dancing Shiva in Cave 1",
+        "Vishnu reliefs in Cave 3",
+        "Agastya Lake",
+        "Day trip to Aihole and Pattadakal"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Badami cave temples – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Badami_cave_temples"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/badami-cave-temples.webp",
+          "alt": "Badami Cave Temples, Badami",
+          "credit": "Dineshkannambadi",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vishnu_image_inside_cave_number_3_in_Badami.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kudremukh Peak",
+      "slug": "kudremukh-peak",
+      "city": "chikkamagaluru",
+      "kind": "trek",
+      "categories": [
+        "adventure",
+        "nature"
+      ],
+      "shortDescription": "A full-day trek through shola forest and grassland to a 1,894-metre peak shaped like a horse's face.",
+      "description": "The trek to Kudremukh is about 20 km round trip, crossing streams and rolling green grassland inside Kudremukh National Park. On clear days the summit looks out over the Western Ghats towards the Arabian Sea. A forest-department permit and a guide are required, and the number of trekkers per day is limited, so book ahead.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "bestTimeNote": "October to February. Treks are usually closed during the monsoon.",
+      "entryFee": {
+        "note": "Trek permit and guide fees; book through the Karnataka forest department."
+      },
+      "timings": {
+        "hours": "Treks start early in the morning"
+      },
+      "location": {
+        "lat": 13.1349,
+        "lng": 75.2531,
+        "address": "Kudremukh National Park, Chikkamagaluru district, Karnataka 577142"
+      },
+      "highlights": [
+        "Shola forest and grassland",
+        "Summit views of the Western Ghats",
+        "Stream crossings"
+      ],
+      "sources": [
+        {
+          "title": "Kudremukha – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kudremukha"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kudremukh-peak.webp",
+          "alt": "Kudremukh Peak, Chikkamagaluru",
+          "credit": "Karunakar Rayker",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shola_Grasslands_and_forests_in_the_Kudremukh_National_Park,_Western_Ghats,_Karnataka.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Gommateshwara, Shravanabelagola",
+      "slug": "shravanabelagola-gommateshwara",
+      "city": "shravanabelagola",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious",
+        "heritage"
+      ],
+      "shortDescription": "A 17-metre monolithic statue of Bahubali on a granite hill, one of the largest free-standing statues in the world.",
+      "description": "About 600 rock-cut steps climb Vindhyagiri hill to the serene, unclothed figure of Bahubali (Gommateshwara), carved from a single block of granite, with vines climbing his legs to show his long meditation. The opposite hill, Chandragiri, has old Jain temples and inscriptions. Climb barefoot early in the morning before the rock heats up.",
+      "history": "The statue was commissioned around 981 CE by Chavundaraya, a minister of the Western Ganga dynasty. Every twelve years the Mahamastakabhisheka festival bathes it in milk, saffron and flowers; the last was held in 2018.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "About 6:30 AM – 6:30 PM"
+      },
+      "location": {
+        "lat": 12.8578,
+        "lng": 76.4847,
+        "address": "Vindhyagiri Hill, Shravanabelagola, Hassan district, Karnataka 573135"
+      },
+      "highlights": [
+        "Monolithic Bahubali statue",
+        "Climb up Vindhyagiri",
+        "Chandragiri temples",
+        "Mahamastakabhisheka festival"
+      ],
+      "sources": [
+        {
+          "title": "Gommateshwara statue – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gommateshwara_statue"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/shravanabelagola-gommateshwara.webp",
+          "alt": "Gommateshwara, Shravanabelagola, Shravanabelagola",
+          "credit": "Kuldeep S",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gommateshwara,_Shravanabelagola.jpg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "cities": [
+    {
+      "name": "Khajuraho",
+      "slug": "khajuraho",
+      "overview": "A small town in Chhatarpur district built around India's most celebrated group of medieval Hindu and Jain temples.",
+      "location": {
+        "lat": 24.8318,
+        "lng": 79.9199
+      }
+    },
+    {
+      "name": "Sanchi",
+      "slug": "sanchi",
+      "overview": "A hilltop village in Raisen district, about 45 km from Bhopal, crowned by the oldest stone structures in India.",
+      "location": {
+        "lat": 23.4792,
+        "lng": 77.7397
+      }
+    },
+    {
+      "name": "Bhopal",
+      "slug": "bhopal",
+      "overview": "Madhya Pradesh's capital, the City of Lakes, and a base for Sanchi and the rock shelters of Bhimbetka.",
+      "location": {
+        "lat": 23.2599,
+        "lng": 77.4126
+      }
+    },
+    {
+      "name": "Kanha",
+      "slug": "kanha",
+      "overview": "The forest country of Mandla and Balaghat districts, with lodges clustered around the Kisli, Mukki and Khatia gates of Kanha Tiger Reserve.",
+      "location": {
+        "lat": 22.2275,
+        "lng": 80.645
+      }
+    }
+  ],
+  "places": [
+    {
+      "name": "Khajuraho Group of Monuments",
+      "slug": "khajuraho-temples",
+      "city": "khajuraho",
+      "kind": "monument",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "UNESCO-listed Chandela temples famed for their soaring spires and intricate, often sensual, sculpture.",
+      "description": "About 25 of the original 85 temples at Khajuraho survive, grouped into Western, Eastern and Southern clusters. The Western Group, inside a landscaped ASI enclosure, holds the masterpieces: Kandariya Mahadeva, Lakshmana and Vishvanatha, their walls crowded with gods, dancers, warriors and the erotic couples that made Khajuraho famous. The Eastern Group includes elegant Jain temples. The evening sound-and-light show and the Khajuraho Dance Festival in February are highlights.",
+      "history": "The temples were built by the Chandela dynasty between about 950 and 1050 CE. Hidden by forest for centuries, they were brought to wider notice by British surveyor T. S. Burt in 1838 and inscribed as a UNESCO World Heritage Site in 1986.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March. The Khajuraho Dance Festival is held in February.",
+      "entryFee": {
+        "indian": 40,
+        "foreigner": 600,
+        "child": 0,
+        "note": "ASI World Heritage rates for the Western Group (slightly less online); verify before your visit."
+      },
+      "timings": {
+        "hours": "Sunrise – sunset"
+      },
+      "location": {
+        "lat": 24.8544,
+        "lng": 79.9214,
+        "address": "Western Group of Temples, Khajuraho, Chhatarpur district, Madhya Pradesh 471606"
+      },
+      "highlights": [
+        "Kandariya Mahadeva Temple",
+        "Lakshmana Temple",
+        "Jain temples of the Eastern Group",
+        "Khajuraho Dance Festival"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Khajuraho Group of Monuments – UNESCO",
+          "url": "https://whc.unesco.org/en/list/240"
+        },
+        {
+          "title": "Khajuraho Group of Monuments – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Khajuraho_Group_of_Monuments"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/khajuraho-temples.webp",
+          "alt": "Khajuraho Group of Monuments, Khajuraho",
+          "credit": "PLBechly",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:1_Khajuraho.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sanchi Stupa",
+      "slug": "sanchi-stupa",
+      "city": "sanchi",
+      "kind": "monument",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "The Great Stupa begun by Emperor Ashoka, with four exquisitely carved stone gateways.",
+      "description": "Sanchi's hilltop holds stupas, monasteries, temples and pillars spanning more than a thousand years of Buddhist history. The Great Stupa is ringed by four toranas, gateways carved with Jataka tales and scenes from the Buddha's life in which the Buddha himself appears only as symbols such as a footprint, a wheel or a tree. The ASI museum at the foot of the hill displays the lion capital of Ashoka's pillar found here. It is an easy day trip from Bhopal.",
+      "history": "The emperor Ashoka commissioned the first brick stupa in the 3rd century BCE; it was enlarged in stone and the gateways added around the 1st century BCE. The monuments were inscribed as a UNESCO World Heritage Site in 1989.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March.",
+      "entryFee": {
+        "indian": 40,
+        "foreigner": 600,
+        "child": 0,
+        "note": "ASI World Heritage rates (slightly less online); verify before your visit."
+      },
+      "timings": {
+        "hours": "Sunrise – sunset"
+      },
+      "location": {
+        "lat": 23.4792,
+        "lng": 77.7397,
+        "address": "Sanchi, Raisen district, Madhya Pradesh 464661"
+      },
+      "highlights": [
+        "Four carved toranas",
+        "Great Stupa",
+        "Ashokan pillar fragments",
+        "ASI site museum"
+      ],
+      "sources": [
+        {
+          "title": "Buddhist Monuments at Sanchi – UNESCO",
+          "url": "https://whc.unesco.org/en/list/524"
+        },
+        {
+          "title": "Sanchi – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sanchi"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/sanchi-stupa.webp",
+          "alt": "Sanchi Stupa, Sanchi",
+          "credit": "Biswarup Ganguly",
+          "license": "CC BY 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4398.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Bhimbetka Rock Shelters",
+      "slug": "bhimbetka-rock-shelters",
+      "city": "bhopal",
+      "kind": "caves",
+      "categories": [
+        "heritage",
+        "nature"
+      ],
+      "shortDescription": "Rock shelters with prehistoric paintings, some of the oldest traces of human life in India.",
+      "description": "In the forested Vindhya foothills south of Bhopal, hundreds of sandstone rock shelters hold paintings of hunters, dancers, horses, elephants and bison in red and white pigments. A paved trail leads past the most striking shelters, including the vast Auditorium Cave and the Zoo Rock with its crowded animal scenes. The paintings span from the Mesolithic to the medieval period. The site is about 45 km from Bhopal.",
+      "history": "The shelters were brought to scholarly attention by archaeologist V. S. Wakankar in 1957. They were inscribed as a UNESCO World Heritage Site in 2003.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March; mornings are best for light and temperature.",
+      "entryFee": {
+        "indian": 40,
+        "foreigner": 600,
+        "child": 0,
+        "note": "ASI World Heritage rates plus a vehicle fee; verify before your visit."
+      },
+      "timings": {
+        "hours": "About 7:00 AM – 6:00 PM"
+      },
+      "location": {
+        "lat": 22.9384,
+        "lng": 77.6131,
+        "address": "Bhimbetka, Raisen district, Madhya Pradesh 464551"
+      },
+      "highlights": [
+        "Auditorium Cave",
+        "Zoo Rock paintings",
+        "Mesolithic hunting scenes",
+        "Forest trail"
+      ],
+      "sources": [
+        {
+          "title": "Rock Shelters of Bhimbetka – UNESCO",
+          "url": "https://whc.unesco.org/en/list/925"
+        },
+        {
+          "title": "Bhimbetka rock shelters – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bhimbetka_rock_shelters"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/bhimbetka-rock-shelters.webp",
+          "alt": "Bhimbetka Rock Shelters, Bhopal",
+          "credit": "Bernard Gagnon",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rock_Shelter_8,_Bhimbetka_02.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kanha Tiger Reserve",
+      "slug": "kanha-tiger-reserve",
+      "city": "kanha",
+      "kind": "national-park",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "Sal forests and meadows that saved the hard-ground barasingha and offer some of India's best tiger safaris.",
+      "description": "Kanha's mix of sal forest, bamboo and open meadows supports tigers, leopards, gaur, wild dogs and the hard-ground barasingha, a swamp deer found nowhere else and brought back from the brink here. Jeep safaris run from the Kisli, Mukki, Khatia and Sarhi gates, and permits should be booked online well ahead. Bamni Dadar plateau offers sunset views over the forest. The landscape is often said to have inspired Kipling's Jungle Book.",
+      "history": "Kanha was declared a national park in 1955 and became one of the first tiger reserves under Project Tiger in 1973. Its conservation of the barasingha is one of India's wildlife success stories.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "bestTimeNote": "November to May (summer gives the best tiger sightings). Core zones are closed from 1 July to 15 October.",
+      "entryFee": {
+        "note": "Safari permits are booked online on the MP Forest Department portal; prices vary by zone and vehicle."
+      },
+      "timings": {
+        "hours": "Morning and afternoon safari slots"
+      },
+      "location": {
+        "lat": 22.2275,
+        "lng": 80.645,
+        "address": "Kanha Tiger Reserve, Mandla district, Madhya Pradesh 481768"
+      },
+      "highlights": [
+        "Tiger safaris",
+        "Hard-ground barasingha",
+        "Bamni Dadar sunset point",
+        "Kanha meadows"
+      ],
+      "sources": [
+        {
+          "title": "Kanha Tiger Reserve – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kanha_Tiger_Reserve"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kanha-tiger-reserve.webp",
+          "alt": "Kanha Tiger Reserve, Kanha",
+          "credit": "Davidvraju",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tiger_Kanha_National_Park.jpg"
+        }
+      ]
+    }
+  ]
+}

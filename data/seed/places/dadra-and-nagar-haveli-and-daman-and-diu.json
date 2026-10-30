@@ -1,0 +1,171 @@
+{
+  "cities": [
+    {
+      "name": "Diu",
+      "slug": "diu",
+      "overview": "A small island town off the coast of Gujarat's Saurashtra, a Portuguese possession until 1961, with forts, churches and quiet beaches.",
+      "location": {
+        "lat": 20.7144,
+        "lng": 70.9874
+      }
+    },
+    {
+      "name": "Daman",
+      "slug": "daman",
+      "overview": "A coastal town on the Gujarat–Maharashtra border, split by the Daman Ganga River into Moti Daman and Nani Daman, each with a Portuguese fort.",
+      "location": {
+        "lat": 20.417,
+        "lng": 72.8332
+      }
+    }
+  ],
+  "places": [
+    {
+      "name": "Diu Fort",
+      "slug": "diu-fort",
+      "city": "diu",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A 16th-century Portuguese sea fort guarding the eastern tip of Diu island, with cannons, ramparts and a lighthouse.",
+      "description": "Diu Fort's massive walls rise straight from the sea on three sides, with a moat cut into rock on the landward side. Inside, rusting cannons, chapels and a lighthouse look out over the Arabian Sea and the offshore prison fortress of Panikota. The ramparts are best walked in the late afternoon for the light and breeze. Diu town's whitewashed churches, such as St Paul's, are a short walk away.",
+      "history": "The Portuguese built the fort in 1535 after an alliance with Sultan Bahadur Shah of Gujarat, and held Diu until 1961, when it became part of India.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "About 9:00 AM – 6:00 PM"
+      },
+      "location": {
+        "lat": 20.7148,
+        "lng": 70.996,
+        "address": "Fort Road, Diu, Dadra and Nagar Haveli and Daman and Diu 362520"
+      },
+      "highlights": [
+        "Sea-facing ramparts",
+        "Cannons and lighthouse",
+        "Panikota sea fort view",
+        "St Paul's Church nearby"
+      ],
+      "sources": [
+        {
+          "title": "Diu Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Diu_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/diu-fort.webp",
+          "alt": "Diu Fort, Diu",
+          "credit": "Srinath G M",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Diu,Gujarat,India_(37).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Naida Caves",
+      "slug": "naida-caves",
+      "city": "diu",
+      "kind": "caves",
+      "categories": [
+        "nature",
+        "heritage"
+      ],
+      "shortDescription": "A labyrinth of rock chambers and sunlit openings just outside Diu's town walls, beloved by photographers.",
+      "description": "The Naida Caves are a network of passages, chambers and steps cut into soft rock near the Zampa Gate of Diu's old walls. Sunlight pours through square openings in the roofs, and tree roots wind down the walls, creating a photographer's playground of light and shadow. There are no guides or facilities, so wear good shoes and visit in daylight. It takes about 30 to 45 minutes to explore.",
+      "history": "The caves are thought to be quarries from which the Portuguese cut stone to build Diu's fort and walls in the 16th century.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March; mid-morning to early afternoon for shafts of light.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "About 8:00 AM – 6:00 PM"
+      },
+      "location": {
+        "lat": 20.711,
+        "lng": 70.9808,
+        "address": "Near Zampa Gate, Diu, Dadra and Nagar Haveli and Daman and Diu 362520"
+      },
+      "highlights": [
+        "Sunlit rock chambers",
+        "Tree roots through the walls",
+        "Photography",
+        "Zampa Gate nearby"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Diu, India – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Diu,_India"
+        }
+      ]
+    },
+    {
+      "name": "Moti Daman Fort",
+      "slug": "moti-daman-fort",
+      "city": "daman",
+      "kind": "fort",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A walled Portuguese fort town in Daman, enclosing the Bom Jesus church and quiet colonial lanes.",
+      "description": "Moti Daman Fort encloses a whole small town on the south bank of the Daman Ganga River, ringed by bastions and a moat. Inside, the Church of Bom Jesus has a richly carved and gilded altar, and the old lanes are lined with colonial buildings now used as government offices. A walk on the ramparts gives views of the river mouth and the smaller fort of Nani Daman across the water. Mornings and late afternoons are pleasant.",
+      "history": "The Portuguese began the fort in 1559 after taking Daman, and ruled the town until 1961. The Bom Jesus church dates from 1603.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "Open all day"
+      },
+      "location": {
+        "lat": 20.4058,
+        "lng": 72.8341,
+        "address": "Moti Daman Fort, Daman, Dadra and Nagar Haveli and Daman and Diu 396220"
+      },
+      "highlights": [
+        "Bom Jesus Church",
+        "Rampart walk",
+        "Lighthouse",
+        "Views of Nani Daman"
+      ],
+      "sources": [
+        {
+          "title": "Daman, India – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Daman,_India"
+        }
+      ]
+    }
+  ]
+}

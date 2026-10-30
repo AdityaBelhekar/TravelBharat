@@ -1,0 +1,378 @@
+{
+  "cities": [
+    {
+      "name": "Shimla",
+      "slug": "shimla",
+      "overview": "The former summer capital of British India, spread along a ridge at about 2,200 metres. Its colonial buildings, Mall Road and toy-train link to Kalka make it Himachal's best-known hill station.",
+      "location": {
+        "lat": 31.1048,
+        "lng": 77.1734
+      }
+    },
+    {
+      "name": "Manali",
+      "slug": "manali",
+      "overview": "A mountain town at the head of the Kullu Valley on the Beas River, the base for Solang Valley, the Atal Tunnel and the road to Lahaul, Spiti and Ladakh.",
+      "location": {
+        "lat": 32.2432,
+        "lng": 77.1892
+      }
+    },
+    {
+      "name": "Dharamshala",
+      "slug": "dharamshala",
+      "overview": "A town in the Kangra Valley beneath the Dhauladhar range. Upper Dharamshala, McLeod Ganj, is the home of the Dalai Lama and the Tibetan government-in-exile.",
+      "location": {
+        "lat": 32.219,
+        "lng": 76.3234
+      }
+    },
+    {
+      "name": "Bir",
+      "slug": "bir",
+      "overview": "A small village in Kangra district known for paragliding, Tibetan monasteries and a relaxed café culture.",
+      "location": {
+        "lat": 32.0441,
+        "lng": 76.7206
+      }
+    },
+    {
+      "name": "Kaza",
+      "slug": "kaza",
+      "overview": "The main town of the Spiti Valley at about 3,800 metres, a cold desert of ancient monasteries and remote villages near the Tibetan border.",
+      "location": {
+        "lat": 32.2276,
+        "lng": 78.0718
+      }
+    }
+  ],
+  "places": [
+    {
+      "name": "The Ridge and Mall Road, Shimla",
+      "slug": "the-ridge-shimla",
+      "city": "shimla",
+      "kind": "neighbourhood",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "Shimla's open promenade with Christ Church, colonial buildings and views of the Himalayan ranges.",
+      "description": "The Ridge is a wide, traffic-free space at the centre of Shimla, joined to the Mall Road with its shops, cafés and Tudor-style buildings. Christ Church, with its stained-glass windows, stands at one end. From here walk up to the Jakhoo Temple, or down to the Lakkar Bazaar for wooden handicrafts. On clear days the snow peaks are visible to the north.",
+      "history": "Shimla became the summer capital of British India in 1864. Christ Church was completed in 1857 and is the second-oldest church in North India. The Kalka–Shimla Railway was added to the Mountain Railways of India UNESCO listing in 2008.",
+      "bestMonths": [
+        3,
+        4,
+        5,
+        6,
+        10,
+        11,
+        12,
+        1
+      ],
+      "bestTimeNote": "March to June for pleasant days; December–January for a chance of snow.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "Open all day"
+      },
+      "location": {
+        "lat": 31.1048,
+        "lng": 77.1734,
+        "address": "The Ridge, Shimla, Himachal Pradesh 171001"
+      },
+      "highlights": [
+        "Christ Church",
+        "Mall Road",
+        "Jakhoo Temple walk",
+        "Kalka–Shimla toy train"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "The Ridge, Shimla – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Ridge,_Shimla"
+        },
+        {
+          "title": "Christ Church, Shimla – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Christ_Church,_Shimla"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/the-ridge-shimla.webp",
+          "alt": "The Ridge and Mall Road, Shimla, Shimla",
+          "credit": "Virusism",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Ridge_Shimla_5.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hadimba Devi Temple",
+      "slug": "hadimba-devi-temple",
+      "city": "manali",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious",
+        "heritage"
+      ],
+      "shortDescription": "A 16th-century wooden temple with a four-tiered pagoda roof in a cedar forest above Manali.",
+      "description": "The temple is built around a rock where Hadimba, wife of the Pandava prince Bhima in the Mahabharata, is said to have meditated. Its wooden doorway is richly carved with animals, gods and symbols. The surrounding Dhungri forest of tall deodar trees makes it one of the most atmospheric spots in Manali. A spring festival honouring the goddess is held in May.",
+      "history": "Built in 1553 by Maharaja Bahadur Singh of the Kullu kingdom.",
+      "bestMonths": [
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "About 8:00 AM – 6:00 PM"
+      },
+      "location": {
+        "lat": 32.2484,
+        "lng": 77.1816,
+        "address": "Hadimba Temple Road, Dhungri Van Vihar, Manali, Himachal Pradesh 175131"
+      },
+      "highlights": [
+        "Carved wooden doorway",
+        "Pagoda-style roof",
+        "Deodar forest",
+        "Spring festival in May"
+      ],
+      "sources": [
+        {
+          "title": "Hidimba Devi Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hidimba_Devi_Temple"
+        }
+      ]
+    },
+    {
+      "name": "Solang Valley",
+      "slug": "solang-valley",
+      "city": "manali",
+      "kind": "valley",
+      "categories": [
+        "adventure",
+        "nature"
+      ],
+      "shortDescription": "Manali's adventure hub for paragliding and zorbing in summer and skiing and snow play in winter.",
+      "description": "Solang Valley, 14 km from Manali, has slopes for short tandem paragliding flights, zorbing and ATV rides in summer, and skiing and snowboarding in winter. A ropeway climbs to Mount Phatru for views of glaciers and peaks. The south portal of the Atal Tunnel, which leads to Lahaul, is a short drive away.",
+      "bestMonths": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        10
+      ],
+      "bestTimeNote": "January to March for snow; May, June and October for paragliding.",
+      "entryFee": {
+        "note": "Activities and the ropeway are priced separately; agree rates with registered operators."
+      },
+      "timings": {
+        "hours": "Activities usually 9:00 AM – 5:00 PM, weather permitting"
+      },
+      "location": {
+        "lat": 32.3166,
+        "lng": 77.1572,
+        "address": "Solang, Burwa, Manali, Kullu district, Himachal Pradesh 175131"
+      },
+      "highlights": [
+        "Tandem paragliding",
+        "Winter skiing",
+        "Ropeway to Mount Phatru",
+        "Nearby Atal Tunnel"
+      ],
+      "sources": [
+        {
+          "title": "Manali – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Manali,_Himachal_Pradesh"
+        },
+        {
+          "title": "Himachal Tourism",
+          "url": "https://himachaltourism.gov.in/"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/solang-valley.webp",
+          "alt": "Solang Valley, Manali",
+          "credit": "Neerajsinghazm",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manali_City.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Tsuglagkhang Complex",
+      "slug": "tsuglagkhang-complex",
+      "city": "dharamshala",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "The main temple of McLeod Ganj and the residence of the 14th Dalai Lama.",
+      "description": "The complex includes the Tsuglagkhang temple with statues of the Buddha, Avalokiteshvara and Padmasambhava, the Namgyal Monastery, where monks can be seen debating in the courtyard, and the Tibet Museum, which tells the story of Tibetan exile. Visitors walk the kora, a forested circuit lined with prayer wheels and prayer flags, around the complex.",
+      "history": "Built after the Dalai Lama fled Tibet in 1959 and settled in Dharamshala, which became the seat of the Tibetan government-in-exile.",
+      "bestMonths": [
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0,
+        "note": "The Tibet Museum charges a small fee."
+      },
+      "timings": {
+        "hours": "About 5:00 AM – 8:00 PM"
+      },
+      "location": {
+        "lat": 32.2326,
+        "lng": 76.324,
+        "address": "Temple Road, McLeod Ganj, Dharamshala, Himachal Pradesh 176219"
+      },
+      "highlights": [
+        "Tsuglagkhang temple",
+        "Monks' debate at Namgyal Monastery",
+        "Lingkor kora walk",
+        "Tibet Museum"
+      ],
+      "sources": [
+        {
+          "title": "McLeod Ganj – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/McLeod_Ganj"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/tsuglagkhang-complex.webp",
+          "alt": "Tsuglagkhang Complex, Dharamshala",
+          "credit": "Rignam Wangkhang",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:McLeod_Ganj_Dharamkot_Dharmsala_Himachal_Pradesh_India_April_2014.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Bir Billing",
+      "slug": "bir-billing",
+      "city": "bir",
+      "kind": "village",
+      "categories": [
+        "adventure"
+      ],
+      "shortDescription": "One of the world's top paragliding sites, with flights from Billing's 2,400-metre take-off down to Bir.",
+      "description": "Tandem pilots launch from the meadow at Billing and glide for 15 to 30 minutes over pine forests, tea gardens and villages before landing at Bir. Experienced pilots fly cross-country for hours along the Dhauladhar range. Back on the ground, Bir has Tibetan monasteries, a colony of Tibetan refugees and laid-back cafés.",
+      "history": "Bir Billing hosted the Paragliding World Cup in 2015.",
+      "bestMonths": [
+        3,
+        4,
+        5,
+        10,
+        11
+      ],
+      "bestTimeNote": "March to May and October to November. Flying usually stops during the monsoon (mid-July to mid-September).",
+      "entryFee": {
+        "note": "Tandem flights are priced per flight; choose registered pilots with valid licences."
+      },
+      "timings": {
+        "hours": "Flights usually from late morning to mid-afternoon"
+      },
+      "location": {
+        "lat": 32.0441,
+        "lng": 76.7206,
+        "address": "Bir, Baijnath tehsil, Kangra district, Himachal Pradesh 176077"
+      },
+      "highlights": [
+        "Tandem paragliding",
+        "Billing take-off meadow",
+        "Tibetan monasteries in Bir",
+        "Café culture"
+      ],
+      "sources": [
+        {
+          "title": "Bir, Himachal Pradesh – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bir,_Himachal_Pradesh"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/bir-billing.webp",
+          "alt": "Bir Billing, Bir",
+          "credit": "Fredi Bach from Switzerland",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:An_aerial_view_of_Bir,_Kangra_valley_sights_nature_culture_Himachal_Pradesh_India_2015.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Key Monastery",
+      "slug": "key-monastery",
+      "city": "kaza",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious",
+        "heritage"
+      ],
+      "shortDescription": "A thousand-year-old Buddhist monastery stacked on a hilltop above the Spiti River at about 4,100 metres.",
+      "description": "Key (Kee) Gompa's whitewashed buildings climb a conical hill above the Spiti Valley like a small fortress. Inside are prayer halls, murals, old manuscripts and a community of monks, who often offer visitors butter tea. Nearby are the high villages of Kibber and Langza, among the highest villages connected by road. Give yourself time to adjust to the altitude.",
+      "history": "According to tradition the monastery was founded about a thousand years ago, around the time of the teacher Rinchen Zangpo. It was attacked several times over the centuries, which explains its fortress-like layout.",
+      "bestMonths": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "bestTimeNote": "May to October. The Manali–Kaza road via Kunzum Pass is usually open from June to October; the Shimla–Kinnaur route stays open longer.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "About 7:00 AM – 6:00 PM"
+      },
+      "location": {
+        "lat": 32.2976,
+        "lng": 78.0119,
+        "address": "Key Monastery, Kaza, Lahaul and Spiti district, Himachal Pradesh 172114"
+      },
+      "highlights": [
+        "Hilltop monastery views",
+        "Murals and manuscripts",
+        "Butter tea with the monks",
+        "Kibber and Langza villages"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Key Monastery – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Key_Monastery"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/key-monastery.webp",
+          "alt": "Key Monastery, Kaza",
+          "credit": "Pranav perspective",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:1000_Year_loop.jpg"
+        }
+      ]
+    }
+  ]
+}

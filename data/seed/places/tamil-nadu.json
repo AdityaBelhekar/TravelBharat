@@ -1,0 +1,466 @@
+{
+  "cities": [
+    {
+      "name": "Madurai",
+      "slug": "madurai",
+      "overview": "One of the oldest cities in South India and a centre of Tamil culture for over two thousand years, Madurai is built around the Meenakshi Temple and comes alive late into the night.",
+      "location": {
+        "lat": 9.9252,
+        "lng": 78.1198
+      }
+    },
+    {
+      "name": "Thanjavur",
+      "slug": "thanjavur",
+      "overview": "The capital of the Chola empire at its height, Thanjavur is known for the Brihadeeswarar Temple, Tanjore paintings, bronze casting and Carnatic music.",
+      "location": {
+        "lat": 10.787,
+        "lng": 79.1378
+      }
+    },
+    {
+      "name": "Mamallapuram",
+      "slug": "mamallapuram",
+      "overview": "Also called Mahabalipuram, this seaside town 55 km south of Chennai was a Pallava port. Its rock-cut temples and reliefs form a UNESCO World Heritage Site, and stone carvers still work in its streets.",
+      "location": {
+        "lat": 12.6208,
+        "lng": 80.1945
+      }
+    },
+    {
+      "name": "Udhagamandalam",
+      "slug": "ooty",
+      "overview": "Ooty, the 'Queen of Hill Stations', sits at about 2,200 metres in the Nilgiri Hills, with tea gardens, a botanical garden, a lake and cool weather all year.",
+      "location": {
+        "lat": 11.4102,
+        "lng": 76.695
+      }
+    },
+    {
+      "name": "Kanyakumari",
+      "slug": "kanyakumari",
+      "overview": "The southern tip of mainland India, where the Arabian Sea, the Bay of Bengal and the Indian Ocean meet. Sunrise and sunset can both be seen over the sea.",
+      "location": {
+        "lat": 8.0883,
+        "lng": 77.5385
+      }
+    },
+    {
+      "name": "Rameswaram",
+      "slug": "rameswaram",
+      "overview": "An island town connected to the mainland by the Pamban bridges, and one of the holiest Hindu pilgrimage sites, linked to the Ramayana.",
+      "location": {
+        "lat": 9.2876,
+        "lng": 79.3129
+      }
+    },
+    {
+      "name": "Karaikudi",
+      "slug": "karaikudi",
+      "overview": "The main town of the Chettinad region, known for its grand merchant mansions, antique markets, handloom saris and fiery cuisine.",
+      "location": {
+        "lat": 10.0731,
+        "lng": 78.7732
+      }
+    }
+  ],
+  "places": [
+    {
+      "name": "Meenakshi Amman Temple",
+      "slug": "meenakshi-amman-temple",
+      "city": "madurai",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious",
+        "heritage"
+      ],
+      "shortDescription": "A vast temple complex with fourteen colourful gopurams covered in thousands of painted figures.",
+      "description": "The temple is dedicated to Meenakshi, a form of Parvati, and her consort Sundareswarar (Shiva). Its gopurams are covered with brightly painted gods, demons and animals; the southern tower is about 52 metres high. Inside, explore the Hall of a Thousand Pillars, the Golden Lotus Tank, and the evening ceremony when Shiva is carried to Meenakshi's chamber for the night. Phones and cameras are not allowed inside.",
+      "history": "The temple has ancient roots but was largely rebuilt by the Nayak rulers in the 16th and 17th centuries. Its annual Chithirai Festival celebrates the divine wedding of Meenakshi and Sundareswarar.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "bestTimeNote": "October to March; April–May for the Chithirai Festival.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0,
+        "note": "Free entry; paid special darshan available."
+      },
+      "timings": {
+        "hours": "About 5:00 AM – 12:30 PM and 4:00 PM – 9:30 PM"
+      },
+      "location": {
+        "lat": 9.9195,
+        "lng": 78.1193,
+        "address": "Madurai Main, Madurai, Tamil Nadu 625001"
+      },
+      "highlights": [
+        "Fourteen painted gopurams",
+        "Hall of a Thousand Pillars",
+        "Golden Lotus Tank",
+        "Night ceremony"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Meenakshi Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Meenakshi_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/meenakshi-amman-temple.webp",
+          "alt": "Meenakshi Amman Temple, Madurai",
+          "credit": "எஸ்ஸார்",
+          "license": "CC BY 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:An_aerial_view_of_Madurai_city_from_atop_of_Meenakshi_Amman_temple.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Brihadeeswarar Temple",
+      "slug": "brihadeeswarar-temple",
+      "city": "thanjavur",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious",
+        "heritage"
+      ],
+      "shortDescription": "Rajaraja Chola's 1,000-year-old granite temple, whose 66-metre tower was one of the tallest in the world when built.",
+      "description": "Also called the Big Temple or Peruvudaiyar Kovil, this Shiva temple is a masterpiece of Chola architecture. Its towering vimana is crowned by a huge granite capstone, and a monolithic Nandi bull faces the shrine. The corridors hold Chola frescoes and a long line of lingas. The granite glows in the late-afternoon sun, and the temple is still in daily worship.",
+      "history": "Built by Rajaraja Chola I and completed in 1010 CE. It is part of the Great Living Chola Temples UNESCO World Heritage Site, inscribed in 1987.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "About 6:00 AM – 12:30 PM and 4:00 PM – 8:30 PM"
+      },
+      "location": {
+        "lat": 10.7828,
+        "lng": 79.1318,
+        "address": "Membalam Road, Balaganapathy Nagar, Thanjavur, Tamil Nadu 613007"
+      },
+      "highlights": [
+        "66-metre vimana",
+        "Monolithic Nandi",
+        "Chola frescoes",
+        "Golden evening light on granite"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Brihadisvara Temple, Thanjavur – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Brihadisvara_Temple,_Thanjavur"
+        },
+        {
+          "title": "Great Living Chola Temples – UNESCO",
+          "url": "https://whc.unesco.org/en/list/250"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/brihadeeswarar-temple.webp",
+          "alt": "Brihadeeswarar Temple, Thanjavur",
+          "credit": "Rainer Halama",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brihadisvara_Temple_during_Maha_Shivaratri-WUS03611_(edit).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Shore Temple, Mamallapuram",
+      "slug": "shore-temple-mamallapuram",
+      "city": "mamallapuram",
+      "kind": "monument",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A granite Pallava temple on the edge of the Bay of Bengal, one of South India's oldest structural stone temples.",
+      "description": "The Shore Temple's twin towers rise right beside the sea. One ticket also covers the Pancha Rathas, five chariot-shaped shrines each carved from a single rock. Free nearby are Arjuna's Penance, one of the world's largest open-air rock reliefs, and Krishna's Butter Ball, a giant boulder balanced on a slope.",
+      "history": "Built in the early 8th century under the Pallava king Narasimhavarman II (Rajasimha). The 2004 tsunami briefly exposed remains of other structures in the sea nearby. The monuments of Mamallapuram became a UNESCO World Heritage Site in 1984.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2
+      ],
+      "bestTimeNote": "November to February. The Mamallapuram Dance Festival is held in December–January.",
+      "entryFee": {
+        "indian": 40,
+        "foreigner": 600,
+        "child": 0,
+        "note": "Same ticket covers the Pancha Rathas. Children under 15 free."
+      },
+      "timings": {
+        "hours": "6:00 AM – 6:00 PM"
+      },
+      "location": {
+        "lat": 12.6166,
+        "lng": 80.1992,
+        "address": "Shore Temple Road, Mamallapuram, Chengalpattu district, Tamil Nadu 603104"
+      },
+      "highlights": [
+        "Seaside Shore Temple",
+        "Pancha Rathas",
+        "Arjuna's Penance relief",
+        "Krishna's Butter Ball"
+      ],
+      "sources": [
+        {
+          "title": "Shore Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shore_Temple"
+        },
+        {
+          "title": "Group of Monuments at Mahabalipuram – UNESCO",
+          "url": "https://whc.unesco.org/en/list/249"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/shore-temple-mamallapuram.webp",
+          "alt": "Shore Temple, Mamallapuram, Mamallapuram",
+          "credit": "Swarna1311",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shore_Temple_-Mamallapuram_-Tamil_Nadu_-N-TN-C55.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Nilgiri Mountain Railway",
+      "slug": "nilgiri-mountain-railway",
+      "city": "ooty",
+      "kind": "railway",
+      "categories": [
+        "heritage",
+        "nature"
+      ],
+      "shortDescription": "A UNESCO-listed toy train that climbs through tea estates and tunnels from Mettupalayam to Ooty.",
+      "description": "The 46 km ride takes about five hours uphill, crossing over 200 curves, more than 200 bridges and about 16 tunnels. Between Mettupalayam and Coonoor it uses a rack-and-pinion system, India's only one, to climb the steep gradient, and the section is still worked by steam locomotives. Book seats on the right-hand side going up for the best valley views; tickets sell out quickly.",
+      "history": "Completed in 1908, the line became part of the Mountain Railways of India UNESCO World Heritage Site in 2005.",
+      "bestMonths": [
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "bestTimeNote": "March to June and September to November. Landslides can suspend services in heavy rain.",
+      "entryFee": {
+        "note": "Rail ticket; book through Indian Railways (IRCTC) well in advance."
+      },
+      "timings": {
+        "hours": "Morning departure from Mettupalayam (about 7:10 AM)"
+      },
+      "location": {
+        "lat": 11.4054,
+        "lng": 76.6973,
+        "address": "Udhagamandalam Railway Station, Ooty, Nilgiris district, Tamil Nadu 643001"
+      },
+      "highlights": [
+        "Steam-hauled rack railway",
+        "Tea estates and tunnels",
+        "Coonoor station",
+        "Views of the Nilgiri slopes"
+      ],
+      "sources": [
+        {
+          "title": "Nilgiri Mountain Railway – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nilgiri_Mountain_Railway"
+        },
+        {
+          "title": "Mountain Railways of India – UNESCO",
+          "url": "https://whc.unesco.org/en/list/944"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/nilgiri-mountain-railway.webp",
+          "alt": "Nilgiri Mountain Railway, Udhagamandalam",
+          "credit": "A.M.Hurrell",
+          "license": "CC BY 2.5",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:NMR_train_at_Ketti_05-02-26_75.jpeg"
+        }
+      ]
+    },
+    {
+      "name": "Vivekananda Rock Memorial",
+      "slug": "vivekananda-rock-memorial",
+      "city": "kanyakumari",
+      "kind": "monument",
+      "categories": [
+        "religious",
+        "heritage"
+      ],
+      "shortDescription": "A memorial on a sea rock off Kanyakumari where Swami Vivekananda meditated in 1892.",
+      "description": "Ferries take visitors from the shore to the rock, where a mandapam combines architectural styles from across India and a meditation hall looks out to sea. A glass-floored footbridge now links it to the 133-foot statue of the Tamil poet Thiruvalluvar on the neighbouring rock. Stay on the mainland for sunrise and sunset over the meeting of three seas.",
+      "history": "Swami Vivekananda swam to the rock and meditated here for three days in December 1892, before his famous address in Chicago. The memorial was built by the Vivekananda Rock Memorial Committee and opened in 1970.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "note": "Ferry and memorial entry are ticketed. Services stop in rough seas."
+      },
+      "timings": {
+        "hours": "About 8:00 AM – 4:00 PM"
+      },
+      "location": {
+        "lat": 8.078,
+        "lng": 77.555,
+        "address": "Vivekananda Rock, Kanyakumari, Tamil Nadu 629702"
+      },
+      "highlights": [
+        "Ferry ride to the rock",
+        "Meditation hall",
+        "Thiruvalluvar Statue and glass bridge",
+        "Sunrise over three seas"
+      ],
+      "sources": [
+        {
+          "title": "Vivekananda Rock Memorial – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Vivekananda_Rock_Memorial"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/vivekananda-rock-memorial.webp",
+          "alt": "Vivekananda Rock Memorial, Kanyakumari",
+          "credit": "Gan13166",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:RockMemorial.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Ramanathaswamy Temple",
+      "slug": "ramanathaswamy-temple",
+      "city": "rameswaram",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious",
+        "heritage"
+      ],
+      "shortDescription": "A Jyotirlinga temple on Rameswaram island, famous for having the longest temple corridors in India.",
+      "description": "Pilgrims traditionally bathe in the sea at Agni Theertham and then in the temple's 22 sacred wells before worshipping the linga said to have been installed by Lord Rama. The outer corridor is lined with more than a thousand carved pillars and runs for over a kilometre around the temple. Dress modestly; bags and phones may need to be left outside.",
+      "history": "According to the Ramayana, Rama worshipped Shiva here after returning from Lanka. The temple was expanded over centuries, mainly by the Setupati rulers of Ramnad in the 17th and 18th centuries.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0,
+        "note": "Free darshan; paid special darshan and theertham bath tickets."
+      },
+      "timings": {
+        "hours": "About 5:00 AM – 1:00 PM and 3:00 PM – 9:00 PM"
+      },
+      "location": {
+        "lat": 9.2881,
+        "lng": 79.3174,
+        "address": "Rameswaram, Ramanathapuram district, Tamil Nadu 623526"
+      },
+      "highlights": [
+        "Pillared corridors",
+        "Bath in the 22 theerthams",
+        "Agni Theertham",
+        "Drive over the Pamban bridges"
+      ],
+      "sources": [
+        {
+          "title": "Ramanathaswamy Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ramanathaswamy_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/ramanathaswamy-temple.webp",
+          "alt": "Ramanathaswamy Temple, Rameswaram",
+          "credit": "Ssriram mt",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ramanathaswamy_temple7.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Chettinad Mansions",
+      "slug": "chettinad-mansions",
+      "city": "karaikudi",
+      "kind": "village",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "Palatial merchant homes with Burma teak pillars, Italian marble and Japanese tiles across quiet Chettinad villages.",
+      "description": "Wealthy Nattukottai Chettiar merchants built around 10,000 grand mansions across about 75 villages. Some are now heritage hotels and museums; others stand empty. In Kanadukathan and Karaikudi, see long courtyards, Athangudi tiles still made by hand, and the antique market. Stay for at least one Chettinad meal.",
+      "history": "The mansions were built mainly between the mid-19th and mid-20th centuries with fortunes made in banking and trade across Burma, Ceylon and South-East Asia. The region is on UNESCO's Tentative List as part of 'Chettinad, Village Clusters of the Tamil Merchants'.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "note": "Some mansions charge a small fee or ask for a donation; heritage hotels offer tours."
+      },
+      "timings": {
+        "hours": "Usually 9:00 AM – 5:00 PM for mansions open to visitors"
+      },
+      "location": {
+        "lat": 10.1756,
+        "lng": 78.7792,
+        "address": "Kanadukathan, Sivaganga district, Tamil Nadu 630103"
+      },
+      "highlights": [
+        "Chettinad Palace in Kanadukathan",
+        "Athangudi tile workshops",
+        "Karaikudi antique market",
+        "Chettinad cuisine"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Chettinad – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chettinad"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/chettinad-mansions.webp",
+          "alt": "Chettinad Mansions, Karaikudi",
+          "credit": "User:Karthick jack",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Chettinad_palace_karaikudi_2013-09-07_00-11.jpg"
+        }
+      ]
+    }
+  ]
+}

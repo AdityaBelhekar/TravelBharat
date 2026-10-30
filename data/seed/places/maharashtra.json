@@ -1,0 +1,4692 @@
+{
+  "cities": [
+    {
+      "name": "Pune",
+      "slug": "pune",
+      "overview": "Maharashtra's cultural capital and second-largest city, once the seat of the Peshwas. Known for its universities, Ganeshotsav, the hill forts all around it and easy weekend escapes into the Sahyadri.",
+      "history": "Pune grew around the Peshwas, the prime ministers of the Maratha Empire, who ruled from Shaniwar Wada from 1732 until the British took the city in 1818. Chhatrapati Shivaji Maharaj spent his childhood here at Lal Mahal. Under British rule it became the monsoon capital of the Bombay Presidency and a major army base, and its colleges earned it the name 'Oxford of the East'. Social reformers such as Jyotirao and Savitribai Phule, who opened one of India's first schools for girls here in 1848, and Bal Gangadhar Tilak, who made Ganeshotsav a public festival, worked in the city.",
+      "isHub": true,
+      "location": {
+        "lat": 18.5211,
+        "lng": 73.8553
+      }
+    },
+    {
+      "name": "Mumbai",
+      "slug": "mumbai",
+      "overview": "India's financial capital and the home of Bollywood. Mumbai mixes Victorian Gothic and Art Deco landmarks (both UNESCO-listed) with seaside promenades, busy markets and some of the country's best street food.",
+      "history": "Mumbai began as seven islands inhabited by Koli fishing communities. The Portuguese took them in 1534 and handed them to England in 1661 as part of Catherine of Braganza's dowry; the East India Company then turned the harbour into its western headquarters. Land reclamation in the 18th and 19th centuries joined the islands into one, and the cotton boom of the 1860s paid for the Victorian Gothic and Art Deco buildings of south Mumbai, both now a UNESCO World Heritage Site. The city was renamed from Bombay to Mumbai in 1995.",
+      "isHub": true,
+      "location": {
+        "lat": 19.076,
+        "lng": 72.8777
+      }
+    },
+    {
+      "name": "Nagpur",
+      "slug": "nagpur",
+      "overview": "The largest city of Vidarbha in eastern Maharashtra, famous for its oranges and close to the tiger reserves of Pench and Tadoba.",
+      "history": "Nagpur was founded in the early 18th century by the Gond king Bakht Buland Shah and became the capital of the Bhonsle rulers of the Maratha Empire. After the British annexed it in 1853 it served as the capital of the Central Provinces. Maharashtra's legislature holds its winter session here, and the Zero Mile Stone in the city marks the old centre of British India's survey. In 1956 Dr B. R. Ambedkar embraced Buddhism here, at what is now Deekshabhoomi.",
+      "isHub": true,
+      "location": {
+        "lat": 21.1497,
+        "lng": 79.0806
+      }
+    },
+    {
+      "name": "Nashik",
+      "slug": "nashik",
+      "overview": "A pilgrimage city on the Godavari and India's wine capital, with vineyards on its edges and the Trimbakeshwar Jyotirlinga nearby.",
+      "history": "Nashik is linked in the Ramayana with Panchavati, where Rama, Sita and Lakshmana are said to have lived during their exile. The Buddhist caves of Pandavleni on its southern hills date from the 1st century BCE, showing the city's age as a trade centre. Nashik is one of the four cities that host the Kumbh Mela, held on the Godavari every twelve years.",
+      "isHub": true,
+      "location": {
+        "lat": 19.9975,
+        "lng": 73.7898
+      }
+    },
+    {
+      "name": "Chhatrapati Sambhajinagar",
+      "slug": "chhatrapati-sambhajinagar",
+      "overview": "Formerly Aurangabad, this city is the gateway to the Ajanta and Ellora caves. It also has Bibi ka Maqbara, the Daulatabad Fort and the tradition of Paithani silk weaving nearby.",
+      "history": "The city was founded in 1610 as Khadki by Malik Ambar, the minister of the Ahmadnagar Sultanate. Aurangzeb renamed it Aurangabad and made it his base in the Deccan; his son built the Bibi Ka Maqbara here in memory of his mother. Known for its Himroo shawls and Paithani silk, the city was renamed Chhatrapati Sambhajinagar in 2023 after Chhatrapati Sambhaji Maharaj. It is the gateway to the Ajanta and Ellora caves.",
+      "isHub": true,
+      "location": {
+        "lat": 19.8762,
+        "lng": 75.3433
+      }
+    },
+    {
+      "name": "Kolhapur",
+      "slug": "kolhapur",
+      "overview": "A temple city in southern Maharashtra known for the Mahalakshmi Temple, Kolhapuri chappals, spicy cuisine and its wrestling tradition.",
+      "history": "Kolhapur was the seat of a Maratha princely state founded by Tarabai in the early 18th century. Its most celebrated ruler, Chhatrapati Shahu Maharaj (1894–1922), introduced reservations in government jobs for backward classes, free primary education and support for wrestling and the arts. The black-stone New Palace, now partly a museum, was built in 1884.",
+      "isHub": true,
+      "location": {
+        "lat": 16.705,
+        "lng": 74.2433
+      }
+    },
+    {
+      "name": "Lonavala",
+      "slug": "lonavala",
+      "overview": "A hill station in the Sahyadri between Mumbai and Pune, popular for monsoon getaways, chikki sweets and treks to nearby forts.",
+      "location": {
+        "lat": 18.7546,
+        "lng": 73.4062
+      }
+    },
+    {
+      "name": "Shirdi",
+      "slug": "shirdi",
+      "overview": "A town in Ahmednagar district where the saint Sai Baba lived and is buried. It is one of the most visited pilgrimage towns in India.",
+      "location": {
+        "lat": 19.7645,
+        "lng": 74.4762
+      }
+    },
+    {
+      "name": "Khadakwasla",
+      "slug": "khadakwasla",
+      "overview": "The dam and backwaters south-west of Pune, at the foot of Sinhagad fort.",
+      "location": {
+        "lat": 18.4392,
+        "lng": 73.7758
+      }
+    },
+    {
+      "name": "Velhe",
+      "slug": "velhe",
+      "overview": "A hilly taluka south-west of Pune, home to Rajgad and Torna, two of the most important forts of Shivaji Maharaj.",
+      "location": {
+        "lat": 18.2978,
+        "lng": 73.6363
+      }
+    },
+    {
+      "name": "Maval",
+      "slug": "maval",
+      "overview": "The rain-fed Maval taluka between Pune and Lonavala, dotted with dams and reservoirs, around the towns of Talegaon and Vadgaon.",
+      "location": {
+        "lat": 18.7337,
+        "lng": 73.6729
+      }
+    },
+    {
+      "name": "Mulshi",
+      "slug": "mulshi",
+      "overview": "A taluka west of Pune with a large reservoir and the green Tamhini Ghat road down to the Konkan.",
+      "location": {
+        "lat": 18.5,
+        "lng": 73.5137
+      }
+    },
+    {
+      "name": "Bhimashankar",
+      "slug": "bhimashankar",
+      "overview": "A forest village on the Sahyadri crest north-west of Pune, with a Jyotirlinga temple and a wildlife sanctuary.",
+      "location": {
+        "lat": 19.072,
+        "lng": 73.5358
+      }
+    },
+    {
+      "name": "Junnar",
+      "slug": "junnar",
+      "overview": "An ancient trading town north of Pune, ringed by Buddhist rock-cut caves and overlooked by Shivneri, the birthplace of Shivaji Maharaj.",
+      "location": {
+        "lat": 19.2094,
+        "lng": 73.8772
+      }
+    },
+    {
+      "name": "Jejuri",
+      "slug": "jejuri",
+      "overview": "A temple town south-east of Pune, the main seat of the god Khandoba.",
+      "location": {
+        "lat": 18.2769,
+        "lng": 74.1602
+      }
+    },
+    {
+      "name": "Bhandardara",
+      "slug": "bhandardara",
+      "overview": "A lakeside village in Akole taluka, about 73 km from Nashik, surrounded by Maharashtra's highest peaks and forts.",
+      "location": {
+        "lat": 19.5292,
+        "lng": 73.7514
+      }
+    },
+    {
+      "name": "Matheran",
+      "slug": "matheran",
+      "overview": "A small hill station near Mumbai where cars are banned and you walk, ride or take the toy train.",
+      "location": {
+        "lat": 18.9902,
+        "lng": 73.27
+      }
+    },
+    {
+      "name": "Alibag",
+      "slug": "alibag",
+      "overview": "A seaside town south of Mumbai, reached by ferry across the harbour, with beaches and a sea fort.",
+      "location": {
+        "lat": 18.6498,
+        "lng": 72.8765
+      }
+    },
+    {
+      "name": "Murud",
+      "slug": "murud",
+      "overview": "A coastal town in Raigad district known for Janjira sea fort and the beaches of Kashid.",
+      "location": {
+        "lat": 18.322,
+        "lng": 72.9605
+      }
+    },
+    {
+      "name": "Panvel",
+      "slug": "panvel",
+      "overview": "A town on Mumbai's south-eastern edge, at the start of the Mumbai–Pune and Mumbai–Goa highways.",
+      "location": {
+        "lat": 18.9895,
+        "lng": 73.1222
+      }
+    },
+    {
+      "name": "Diveagar",
+      "slug": "diveagar",
+      "overview": "A quiet coastal village in Shrivardhan taluka, about 170 km south of Mumbai.",
+      "location": {
+        "lat": 18.1733,
+        "lng": 72.9917
+      }
+    },
+    {
+      "name": "Ratnagiri",
+      "slug": "ratnagiri",
+      "overview": "A port town on the Konkan coast, famous for Alphonso mangoes and as the birthplace of Lokmanya Tilak.",
+      "location": {
+        "lat": 16.9934,
+        "lng": 73.2954
+      }
+    },
+    {
+      "name": "Malvan",
+      "slug": "malvan",
+      "overview": "A fishing town in Sindhudurg known for Malvani seafood, Sindhudurg sea fort and the clear water of Tarkarli.",
+      "location": {
+        "lat": 16.0606,
+        "lng": 73.4669
+      }
+    },
+    {
+      "name": "Devgad",
+      "slug": "devgad",
+      "overview": "A coastal taluka in Sindhudurg known for its mangoes and the sea fort of Vijaydurg.",
+      "location": {
+        "lat": 16.377,
+        "lng": 73.3796
+      }
+    },
+    {
+      "name": "Amboli",
+      "slug": "amboli",
+      "overview": "A misty hill village at about 700 m on the last ghat road before Goa, one of the wettest places in Maharashtra.",
+      "location": {
+        "lat": 15.9667,
+        "lng": 74.0105
+      }
+    },
+    {
+      "name": "Mahabaleshwar",
+      "slug": "mahabaleshwar",
+      "overview": "Maharashtra's best-known hill station, source of the Krishna river and famous for strawberries.",
+      "location": {
+        "lat": 17.925,
+        "lng": 73.6575
+      }
+    },
+    {
+      "name": "Panchgani",
+      "slug": "panchgani",
+      "overview": "A hill town of old boarding schools and the flat Table Land plateau, 18 km from Mahabaleshwar.",
+      "location": {
+        "lat": 17.924,
+        "lng": 73.7993
+      }
+    },
+    {
+      "name": "Satara",
+      "slug": "satara",
+      "overview": "A historic Maratha town, later capital of Shahu's kingdom, and the base for the Kaas Plateau and Thoseghar waterfalls.",
+      "location": {
+        "lat": 17.6883,
+        "lng": 74.0042
+      }
+    },
+    {
+      "name": "Koynanagar",
+      "slug": "koynanagar",
+      "overview": "The township beside the Koyna Dam, in forested hills between Karad and Chiplun.",
+      "location": {
+        "lat": 17.392,
+        "lng": 73.7422
+      }
+    },
+    {
+      "name": "Panhala",
+      "slug": "panhala",
+      "overview": "A hill town built inside the walls of Panhala Fort, 20 km north-west of Kolhapur.",
+      "location": {
+        "lat": 16.8067,
+        "lng": 74.1126
+      }
+    },
+    {
+      "name": "Radhanagari",
+      "slug": "radhanagari",
+      "overview": "A forested taluka south-west of Kolhapur, known for its dam and wildlife sanctuary.",
+      "location": {
+        "lat": 16.4278,
+        "lng": 73.9862
+      }
+    },
+    {
+      "name": "Trimbak",
+      "slug": "trimbak",
+      "overview": "A temple town near the source of the Godavari, 28 km from Nashik.",
+      "location": {
+        "lat": 19.9354,
+        "lng": 73.5302
+      }
+    },
+    {
+      "name": "Vani",
+      "slug": "vani",
+      "overview": "A village about 60 km north of Nashik at the foot of the Saptashrungi hills.",
+      "location": {
+        "lat": 20.3306,
+        "lng": 73.8895
+      }
+    },
+    {
+      "name": "Verul (Ellora)",
+      "slug": "verul",
+      "overview": "The village beside the Ellora Caves, 30 km from Chhatrapati Sambhajinagar, also home to the Grishneshwar Jyotirlinga.",
+      "location": {
+        "lat": 20.0268,
+        "lng": 75.1775
+      }
+    },
+    {
+      "name": "Ajanta",
+      "slug": "ajanta",
+      "overview": "The village near the Ajanta Caves, about 100 km north of Chhatrapati Sambhajinagar.",
+      "location": {
+        "lat": 20.5325,
+        "lng": 75.7514
+      }
+    },
+    {
+      "name": "Daulatabad",
+      "slug": "daulatabad",
+      "overview": "A village on the road to Ellora, below the hilltop citadel of Daulatabad.",
+      "location": {
+        "lat": 19.9392,
+        "lng": 75.2196
+      }
+    },
+    {
+      "name": "Paithan",
+      "slug": "paithan",
+      "overview": "An ancient town on the Godavari, once the Satavahana capital Pratishthana and home of Paithani silk.",
+      "location": {
+        "lat": 19.4734,
+        "lng": 75.3868
+      }
+    },
+    {
+      "name": "Lonar",
+      "slug": "lonar",
+      "overview": "A small town in Buldhana district built on the rim of a meteorite crater.",
+      "location": {
+        "lat": 19.9779,
+        "lng": 76.5201
+      }
+    },
+    {
+      "name": "Pench (Maharashtra)",
+      "slug": "pench",
+      "overview": "The Maharashtra side of the Pench Tiger Reserve, about 70 km north of Nagpur.",
+      "location": {
+        "lat": 21.6951,
+        "lng": 79.2488
+      }
+    },
+    {
+      "name": "Chandrapur",
+      "slug": "chandrapur",
+      "overview": "A city in eastern Vidarbha and the gateway to Tadoba Andhari Tiger Reserve.",
+      "location": {
+        "lat": 19.9508,
+        "lng": 79.2987
+      }
+    },
+    {
+      "name": "Chikhaldara",
+      "slug": "chikhaldara",
+      "overview": "The only hill station of Vidarbha, in the Satpura range of Amravati district, beside the Melghat forests.",
+      "location": {
+        "lat": 21.4049,
+        "lng": 77.3167
+      }
+    },
+    {
+      "name": "Pandharpur",
+      "slug": "pandharpur",
+      "overview": "A pilgrimage town on the Bhima river and the destination of the Wari, the great walking pilgrimage of the Varkaris.",
+      "location": {
+        "lat": 17.6769,
+        "lng": 75.3327
+      }
+    },
+    {
+      "name": "Mahad",
+      "slug": "mahad",
+      "overview": "A historic town in Raigad district and the base for climbing Raigad Fort.",
+      "location": {
+        "lat": 18.0808,
+        "lng": 73.4244
+      }
+    }
+  ],
+  "places": [
+    {
+      "name": "Gateway of India",
+      "slug": "gateway-of-india",
+      "city": "mumbai",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "Mumbai's 26-metre basalt arch on the waterfront, facing the Arabian Sea opposite the Taj Mahal Palace hotel.",
+      "description": "The Gateway of India is Mumbai's best-known landmark and the departure point for ferries to Elephanta Island and Alibaug. The arch combines Hindu, Muslim and European styles. Visit in the early morning or at dusk to avoid the crowds, then walk through the Colaba Causeway market nearby.",
+      "history": "Built to commemorate the 1911 landing of King George V and Queen Mary in Bombay, it was designed by George Wittet and completed in 1924. The last British troops left India through this arch in 1948.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "Open all day"
+      },
+      "location": {
+        "lat": 18.922,
+        "lng": 72.8347,
+        "address": "Apollo Bandar, Colaba, Mumbai, Maharashtra 400001"
+      },
+      "highlights": [
+        "Sea-facing arch",
+        "Ferries to Elephanta",
+        "Taj Mahal Palace hotel",
+        "Colaba Causeway"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Gateway of India – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gateway_of_India"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/gateway-of-india.webp",
+          "alt": "Gateway of India, Mumbai",
+          "credit": "A.Savin",
+          "license": "FAL",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mumbai_03-2016_30_Gateway_of_India.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Chhatrapati Shivaji Maharaj Terminus",
+      "slug": "chhatrapati-shivaji-maharaj-terminus",
+      "city": "mumbai",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A UNESCO-listed Victorian Gothic railway station that still handles millions of commuters every day.",
+      "description": "CSMT, still widely called VT (Victoria Terminus), is a working railway station with stone domes, turrets, gargoyles and stained glass. The best view of the façade is from across the road, especially when it is lit at night. A small heritage gallery and guided walks show parts of the building not normally open to the public.",
+      "history": "Designed by Frederick William Stevens and built between 1878 and 1888, it combines Victorian Gothic with traditional Indian elements. It was inscribed as a UNESCO World Heritage Site in 2004.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "note": "Free to view; the heritage gallery tour is ticketed."
+      },
+      "timings": {
+        "hours": "Station open all day; heritage gallery on weekdays"
+      },
+      "location": {
+        "lat": 18.9398,
+        "lng": 72.8355,
+        "address": "Chhatrapati Shivaji Terminus Area, Fort, Mumbai, Maharashtra 400001"
+      },
+      "highlights": [
+        "Gothic façade and central dome",
+        "Night illumination",
+        "Heritage gallery tour"
+      ],
+      "sources": [
+        {
+          "title": "Chhatrapati Shivaji Terminus – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chhatrapati_Shivaji_Terminus"
+        },
+        {
+          "title": "Chhatrapati Shivaji Terminus – UNESCO",
+          "url": "https://whc.unesco.org/en/list/945"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/chhatrapati-shivaji-maharaj-terminus.webp",
+          "alt": "Chhatrapati Shivaji Maharaj Terminus, Mumbai",
+          "credit": "Sailko",
+          "license": "CC BY 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chhatrapati_shivaji_terminus,_esterno_01.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Elephanta Caves",
+      "slug": "elephanta-caves",
+      "city": "mumbai",
+      "kind": "caves",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "Rock-cut cave temples to Lord Shiva on an island in Mumbai harbour, an hour's ferry ride from the Gateway of India.",
+      "description": "The main cave on Elephanta Island holds a 6-metre carving of Sadashiva, the three-faced form of Shiva, along with panels of Shiva as Nataraja and as Ardhanarishvara. From the jetty, a toy train and about 120 steps lead up to the caves, lined with souvenir stalls. Ferries run until the early afternoon and the last boat back leaves around 5:30 PM.",
+      "history": "The caves are dated to around the 5th–6th century CE. The Portuguese named the island after a large stone elephant found there, now displayed at Mumbai's Bhau Daji Lad museum. It became a UNESCO World Heritage Site in 1987.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "November to March. Ferries may be suspended in rough monsoon weather.",
+      "entryFee": {
+        "indian": 40,
+        "foreigner": 600,
+        "child": 0,
+        "note": "Ferry ticket is separate. Children under 15 free."
+      },
+      "timings": {
+        "hours": "9:00 AM – 5:30 PM",
+        "closedOn": "Monday"
+      },
+      "location": {
+        "lat": 18.9633,
+        "lng": 72.9315,
+        "address": "Gharapuri, Elephanta Island, Raigad district, Maharashtra 400094"
+      },
+      "highlights": [
+        "Trimurti Sadashiva sculpture",
+        "Ferry across Mumbai harbour",
+        "Shiva Nataraja panel"
+      ],
+      "sources": [
+        {
+          "title": "Elephanta Caves – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Elephanta_Caves"
+        },
+        {
+          "title": "Elephanta Caves – UNESCO",
+          "url": "https://whc.unesco.org/en/list/244"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/elephanta-caves.webp",
+          "alt": "Elephanta Caves, Mumbai",
+          "credit": "Christian Haugen",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elephanta_Caves_Trimurti.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Ajanta Caves",
+      "slug": "ajanta-caves",
+      "city": "ajanta",
+      "kind": "caves",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "Thirty Buddhist caves cut into a horseshoe gorge, with some of the finest surviving ancient Indian paintings.",
+      "description": "The Ajanta caves curve along a cliff above the Waghur River. Their walls and ceilings are covered with paintings of the Buddha's life and Jataka tales, with figures such as the Bodhisattva Padmapani in Cave 1. Lighting inside is kept low to protect the paintings, so allow time for your eyes to adjust. Buses run from the visitor centre to the caves.",
+      "history": "The caves were carved in two phases, from about the 2nd century BCE and again in the 5th century CE. Forgotten for centuries, they were rediscovered in 1819 by a British officer on a tiger hunt. They became a UNESCO World Heritage Site in 1983.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "The gorge is greenest just after the monsoon; winter is most comfortable.",
+      "entryFee": {
+        "indian": 40,
+        "foreigner": 600,
+        "child": 0,
+        "note": "Children under 15 free. Bus from the visitor centre costs extra."
+      },
+      "timings": {
+        "hours": "9:00 AM – 5:30 PM",
+        "closedOn": "Monday"
+      },
+      "location": {
+        "lat": 20.5519,
+        "lng": 75.7033,
+        "address": "Ajanta, Chhatrapati Sambhajinagar district, Maharashtra 431117"
+      },
+      "highlights": [
+        "Padmapani painting in Cave 1",
+        "Chaitya hall in Cave 26",
+        "Viewpoint over the gorge"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Ajanta Caves – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ajanta_Caves"
+        },
+        {
+          "title": "Ajanta Caves – UNESCO",
+          "url": "https://whc.unesco.org/en/list/242"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/ajanta-caves.webp",
+          "alt": "Ajanta Caves, Chhatrapati Sambhajinagar",
+          "credit": "Soman",
+          "license": "CC BY 2.5",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ajanta_(63).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Ellora Caves",
+      "slug": "ellora-caves",
+      "city": "verul",
+      "kind": "caves",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "Thirty-four Buddhist, Hindu and Jain cave temples, including the Kailasa temple carved from a single rock.",
+      "description": "Ellora's caves line a 2 km basalt cliff. The highlight is Cave 16, the Kailasa temple, a complete multi-storey temple carved downwards from the hillside, with life-size elephants, galleries and towers. Buddhist caves sit at the south end and Jain caves at the north. Allow most of a day.",
+      "history": "The caves were carved between about 600 and 1000 CE. The Kailasa temple was commissioned by the Rashtrakuta king Krishna I in the 8th century. Ellora became a UNESCO World Heritage Site in 1983.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "indian": 40,
+        "foreigner": 600,
+        "child": 0,
+        "note": "Children under 15 free."
+      },
+      "timings": {
+        "hours": "Sunrise to sunset",
+        "closedOn": "Tuesday"
+      },
+      "location": {
+        "lat": 20.0268,
+        "lng": 75.1771,
+        "address": "Ellora, Chhatrapati Sambhajinagar district, Maharashtra 431102"
+      },
+      "highlights": [
+        "Kailasa temple (Cave 16)",
+        "Buddhist Vishwakarma cave",
+        "Jain Indra Sabha",
+        "Monsoon waterfalls over the cliff"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Ellora Caves – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ellora_Caves"
+        },
+        {
+          "title": "Ellora Caves – UNESCO",
+          "url": "https://whc.unesco.org/en/list/243"
+        }
+      ]
+    },
+    {
+      "name": "Rajmachi Fort",
+      "slug": "rajmachi-fort",
+      "city": "lonavala",
+      "kind": "fort",
+      "categories": [
+        "adventure",
+        "heritage",
+        "nature"
+      ],
+      "shortDescription": "Twin hill forts reached by a forest trek from Lonavala, famous for monsoon waterfalls and pre-monsoon fireflies.",
+      "description": "Rajmachi has two fortified peaks, Shrivardhan and Manaranjan, with a small village between them. The usual route is a 15 km walk along a jeep track from Lonavala, or a steeper climb from Kondivade village. In the monsoon the hills turn green and dozens of waterfalls appear; in late May and early June the forest lights up with fireflies. Village homestays offer simple meals and overnight stays.",
+      "history": "The forts guarded the old trade route through the Bor Ghat between the Konkan coast and the Deccan. Chhatrapati Shivaji Maharaj captured them in 1657.",
+      "bestMonths": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "bestTimeNote": "June to November; late May for the firefly season.",
+      "timings": {
+        "hours": "Day trek or overnight stay"
+      },
+      "location": {
+        "lat": 18.8297,
+        "lng": 73.3968,
+        "address": "Rajmachi village, Lonavala, Pune district, Maharashtra 410401"
+      },
+      "highlights": [
+        "Monsoon waterfalls",
+        "Firefly festival",
+        "Village homestays",
+        "Views of the Konkan"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Rajmachi – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Rajmachi"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/rajmachi-fort.webp",
+          "alt": "Rajmachi Fort, Lonavala",
+          "credit": "Kandoi.sid",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rajmachi.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Shri Saibaba Samadhi Mandir",
+      "slug": "shirdi-sai-baba-temple",
+      "city": "shirdi",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "The shrine of the saint Sai Baba of Shirdi, revered by Hindus and Muslims alike.",
+      "description": "The Samadhi Mandir holds the tomb of Sai Baba and a white marble statue of the saint. Daily aartis, from the early-morning Kakad Aarti to the night Shej Aarti, draw large crowds. Nearby are the Dwarkamai mosque where Sai Baba lived and the Chavadi where he slept on alternate nights. Book darshan and aarti passes online at busy times.",
+      "history": "Sai Baba lived in Shirdi from the late 19th century until his death in 1918, when he was laid to rest in a building known as Buti Wada, which became the present shrine.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "Thursdays, weekends and festivals such as Ram Navami and Guru Purnima are very crowded.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0,
+        "note": "Free darshan; paid passes for faster darshan and aarti."
+      },
+      "timings": {
+        "hours": "About 4:00 AM – 11:00 PM"
+      },
+      "location": {
+        "lat": 19.7663,
+        "lng": 74.4772,
+        "address": "Shirdi, Ahilyanagar district, Maharashtra 423109"
+      },
+      "highlights": [
+        "Samadhi of Sai Baba",
+        "Dwarkamai",
+        "Chavadi",
+        "Daily aartis"
+      ],
+      "sources": [
+        {
+          "title": "Shirdi – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shirdi"
+        },
+        {
+          "title": "Shri Saibaba Sansthan Trust",
+          "url": "https://sai.org.in/"
+        }
+      ]
+    },
+    {
+      "name": "Shaniwar Wada",
+      "slug": "shaniwar-wada",
+      "city": "pune",
+      "kind": "palace",
+      "categories": [
+        "heritage"
+      ],
+      "isFeatured": true,
+      "shortDescription": "The fortified palace of the Peshwas, built in 1732 at the heart of old Pune.",
+      "description": "Shaniwar Wada was the seat of the Peshwas, the prime ministers who led the Maratha Empire for most of the 18th century. Its massive stone walls and five gateways, including the spiked Delhi Darwaza built to stop elephant charges, still stand, though the seven-storey palace inside was destroyed by fire in 1828. Inside, foundations, fountains and gardens show the scale of the old residence. An evening light-and-sound show tells the story of the Peshwas, including the murder of the young Narayanrao.",
+      "history": "Built by Peshwa Bajirao I in 1732, it remained the seat of power until the British took Pune in 1818. A fire of unknown cause destroyed most of the buildings in 1828.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March; the evening light-and-sound show is worth staying for.",
+      "entryFee": {
+        "indian": 25,
+        "foreigner": 300,
+        "child": 0,
+        "note": "ASI rates (slightly less online); verify before your visit."
+      },
+      "timings": {
+        "hours": "8:00 AM – 6:30 PM"
+      },
+      "location": {
+        "lat": 18.5191,
+        "lng": 73.8555,
+        "address": "Shaniwar Peth, Pune, Maharashtra 411030"
+      },
+      "highlights": [
+        "Delhi Darwaza with elephant spikes",
+        "Hazari Karanje fountain remains",
+        "Light-and-sound show",
+        "Lal Mahal nearby"
+      ],
+      "sources": [
+        {
+          "title": "Shaniwar Wada – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shaniwar_Wada"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/shaniwar-wada.webp",
+          "alt": "Shaniwar Wada, Pune",
+          "credit": "DesiBoy101",
+          "license": "CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Front_view_of_Shaniwar_Wada_illuminated.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Aga Khan Palace",
+      "slug": "aga-khan-palace",
+      "city": "pune",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A palace where Gandhi was held during the Quit India Movement, now a memorial with the samadhi of Kasturba Gandhi.",
+      "description": "The Aga Khan Palace is a graceful arched building set in large lawns in Yerawada. Mahatma Gandhi, Kasturba Gandhi and Gandhi's secretary Mahadev Desai were imprisoned here in 1942–44 during the Quit India Movement, and both Kasturba and Desai died here; their samadhis are in the garden. The rooms now hold photographs, letters and personal belongings of Gandhi. It is a calm, moving place to spend an hour.",
+      "history": "Sultan Muhammed Shah Aga Khan III built the palace in 1892 to give work to people hit by famine. It was donated to India in 1969 and is maintained by the Gandhi National Memorial Society.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "indian": 25,
+        "foreigner": 300,
+        "child": 0,
+        "note": "ASI rates (slightly less online); verify before your visit."
+      },
+      "timings": {
+        "hours": "9:00 AM – 5:30 PM"
+      },
+      "location": {
+        "lat": 18.5523,
+        "lng": 73.9015,
+        "address": "Pune–Nagar Road, Kalyani Nagar, Pune, Maharashtra 411006"
+      },
+      "highlights": [
+        "Samadhi of Kasturba Gandhi",
+        "Gandhi memorabilia",
+        "Arched verandahs",
+        "Landscaped gardens"
+      ],
+      "sources": [
+        {
+          "title": "Aga Khan Palace – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Aga_Khan_Palace"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/aga-khan-palace.webp",
+          "alt": "Aga Khan Palace, Pune",
+          "credit": "Khushroo Cooper",
+          "license": "CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pune_Palace.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Dagadusheth Halwai Ganapati Temple",
+      "slug": "dagadusheth-ganapati-temple",
+      "city": "pune",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "Pune's most famous Ganesha temple, with a gold-adorned idol and the city's grandest Ganeshotsav celebrations.",
+      "description": "This temple in the old city houses a richly decorated Ganesha idol, visible from the street through the open front, so passers-by stop to pray without going in. During the ten-day Ganeshotsav the temple and its pandal are lit up and draw huge crowds through the night. The temple trust runs charitable work across the city. Visit early in the morning or late at night to avoid queues.",
+      "history": "The temple was founded by Dagadusheth Halwai, a sweet-seller, and his wife Lakshmibai after they lost their son to plague in the late 19th century.",
+      "bestMonths": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "bestTimeNote": "Ganeshotsav (August–September) is the most spectacular, and the most crowded, time.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "About 6:00 AM – 11:00 PM"
+      },
+      "location": {
+        "lat": 18.5164,
+        "lng": 73.8561,
+        "address": "Budhwar Peth, Pune, Maharashtra 411002"
+      },
+      "highlights": [
+        "Gold-adorned Ganesha idol",
+        "Ganeshotsav decorations",
+        "Old-city lanes of Budhwar Peth",
+        "Tulsi Baug market nearby"
+      ],
+      "sources": [
+        {
+          "title": "Dagadusheth Halwai Ganapati Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dagadusheth_Halwai_Ganapati_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/dagadusheth-ganapati-temple.webp",
+          "alt": "Dagadusheth Halwai Ganapati Temple, Pune",
+          "credit": "Universalashic",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dagdusheth_Ganpati_Temple_Decorated_during_Ganesh_Chaturti_September_2012_(1).JPG"
+        }
+      ]
+    },
+    {
+      "name": "Raja Dinkar Kelkar Museum",
+      "slug": "raja-dinkar-kelkar-museum",
+      "city": "pune",
+      "kind": "museum",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "One man's collection of Indian everyday art: lamps, nutcrackers, musical instruments and a recreated Mastani Mahal.",
+      "description": "Dinkar Kelkar spent his life collecting objects of daily Indian life, and the museum named after his son holds about 20,000 of them. Galleries show brass lamps, ornate nutcrackers, pottery, textiles, weapons and one of the finest collections of musical instruments in India. A highlight is the reconstructed Mastani Mahal, a palace room linked to Bajirao I and Mastani. The three-storey building is in the old city near Shaniwar Wada.",
+      "history": "Dr Dinkar G. Kelkar (1896–1990) donated his collection to the Government of Maharashtra in 1975.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "note": "Ticketed; separate rates for Indian and foreign visitors."
+      },
+      "timings": {
+        "hours": "10:00 AM – 5:30 PM"
+      },
+      "location": {
+        "lat": 18.5108,
+        "lng": 73.8544,
+        "address": "Bajirao Road, Shukrawar Peth, Pune, Maharashtra 411002"
+      },
+      "highlights": [
+        "Musical instruments gallery",
+        "Lamps and nutcrackers",
+        "Mastani Mahal reconstruction",
+        "Textiles and pottery"
+      ],
+      "sources": [
+        {
+          "title": "Raja Dinkar Kelkar Museum – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Raja_Dinkar_Kelkar_Museum"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/raja-dinkar-kelkar-museum.webp",
+          "alt": "Raja Dinkar Kelkar Museum, Pune",
+          "credit": "DesiBoy101",
+          "license": "CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Building_of_Raja_Dinkar_Kelkar_Museum,_Pune.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Pataleshwar Caves",
+      "slug": "pataleshwar-caves",
+      "city": "pune",
+      "kind": "caves",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "isHiddenGem": true,
+      "shortDescription": "An 8th-century rock-cut Shiva temple hidden in the middle of busy Shivajinagar.",
+      "description": "Steps off Jangli Maharaj Road lead down into a cave temple cut out of a single basalt rock in the 8th century. A circular Nandi mandapa stands in the courtyard, and the pillared hall leads to three shrine cells. Unfinished parts show how the rock was carved. It is free, quiet and a surprising contrast to the traffic outside.",
+      "history": "The temple dates from the Rashtrakuta period, around the 8th century CE. It is a protected monument.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "Sunrise – sunset"
+      },
+      "location": {
+        "lat": 18.527,
+        "lng": 73.8498,
+        "address": "Jangli Maharaj Road, Shivajinagar, Pune, Maharashtra 411005"
+      },
+      "highlights": [
+        "Circular Nandi mandapa",
+        "Monolithic pillared hall",
+        "Unfinished carvings",
+        "Jangli Maharaj temple next door"
+      ],
+      "sources": [
+        {
+          "title": "Pataleshwar Caves – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pataleshwar_Caves"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/pataleshwar-caves.webp",
+          "alt": "Pataleshwar Caves, Pune",
+          "credit": "Photograph by Mukul Hinge",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pataleshwar_cave_temple.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Rajiv Gandhi Zoological Park (Katraj Zoo)",
+      "slug": "katraj-zoo",
+      "city": "pune",
+      "kind": "zoo",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "Pune's 130-acre zoo around Katraj Lake, with a snake park and an animal orphanage.",
+      "description": "Katraj Zoo is divided into a zoo, a snake park and an animal rescue centre, around the 42-acre Katraj Lake. Tigers, leopards, sloth bears, elephants and many species of deer live in open enclosures, and the snake park holds one of the largest collections of reptiles in Maharashtra. Battery cars run along the main path. It is a good half-day out with children.",
+      "history": "The snake park opened in 1986 and the zoo was developed around it; it is run by Pune Municipal Corporation.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "note": "Small entry fee; battery car rides extra."
+      },
+      "timings": {
+        "hours": "About 9:30 AM – 6:00 PM; closed Wednesdays"
+      },
+      "location": {
+        "lat": 18.4529,
+        "lng": 73.8612,
+        "address": "Pune–Satara Road, Katraj, Pune, Maharashtra 411046"
+      },
+      "highlights": [
+        "Snake park",
+        "Tigers and leopards",
+        "Katraj Lake",
+        "Animal rescue centre"
+      ],
+      "sources": [
+        {
+          "title": "Rajiv Gandhi Zoological Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Rajiv_Gandhi_Zoological_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/katraj-zoo.webp",
+          "alt": "Rajiv Gandhi Zoological Park (Katraj Zoo), Pune",
+          "credit": "Rupturestriker",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rajiv_Gandhi_zoo_entrance.png"
+        }
+      ]
+    },
+    {
+      "name": "Parvati Hill",
+      "slug": "parvati-hill",
+      "city": "pune",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious",
+        "heritage"
+      ],
+      "shortDescription": "A hilltop temple complex built by the Peshwas, reached by 103 steps, with sweeping views over Pune.",
+      "description": "Parvati Hill rises in the south of the city, and a wide stone staircase leads to temples dedicated to Shiva, Parvati, Vishnu and Kartikeya at the top. The Peshwa museum here holds old manuscripts, coins and weapons. Early morning and sunset bring walkers and the best views across Pune to Sinhagad. The climb takes about fifteen minutes.",
+      "history": "The Parvati temple was built in 1749 by Peshwa Balaji Bajirao, who is said to have watched the last days of his reign from here.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0,
+        "note": "The Peshwa museum charges a small fee."
+      },
+      "timings": {
+        "hours": "5:00 AM – 8:00 PM"
+      },
+      "location": {
+        "lat": 18.4972,
+        "lng": 73.8467,
+        "address": "Parvati Paytha, Pune, Maharashtra 411009"
+      },
+      "highlights": [
+        "Stone stairway climb",
+        "Peshwa-era temples",
+        "Peshwa museum",
+        "Sunset over Pune"
+      ],
+      "sources": [
+        {
+          "title": "Parvati Hill – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Parvati_Hill"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/parvati-hill.webp",
+          "alt": "Parvati Hill, Pune",
+          "credit": "Siddhesh Nampurkar",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parvati.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Sinhagad",
+      "slug": "sinhagad",
+      "city": "khadakwasla",
+      "kind": "fort",
+      "categories": [
+        "heritage",
+        "adventure"
+      ],
+      "isFeatured": true,
+      "shortDescription": "The Lion's Fort south-west of Pune, a classic weekend climb with Maratha history and kanda bhaji at the top.",
+      "description": "Sinhagad sits on a steep hill about 28 km from Pune and is one of the city's favourite escapes. You can drive almost to the top or hike up from the base village of Donje in about an hour. Up top are the Kalyan and Pune gates, Tanaji's memorial and stalls selling pithla bhakri, kanda bhaji and dahi. On clear days you can see Rajgad, Torna and the Khadakwasla backwaters.",
+      "history": "Previously known as Kondhana, the fort was captured in 1670 by Tanaji Malusare, who died in the battle; Shivaji Maharaj is said to have renamed it Sinhagad in his honour.",
+      "bestMonths": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "bestTimeNote": "The monsoon makes the hill green and misty; weekends are very crowded.",
+      "entryFee": {
+        "note": "Small vehicle entry fee at the forest checkpoint."
+      },
+      "timings": {
+        "hours": "Sunrise – sunset"
+      },
+      "location": {
+        "lat": 18.3657,
+        "lng": 73.7553,
+        "address": "Sinhagad Ghat Road, Haveli taluka, Pune district, Maharashtra 411025"
+      },
+      "highlights": [
+        "Hike from Donje village",
+        "Tanaji Malusare memorial",
+        "Pune Darwaza",
+        "Pithla bhakri and kanda bhaji"
+      ],
+      "sources": [
+        {
+          "title": "Sinhagad – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sinhagad"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/sinhagad.webp",
+          "alt": "Sinhagad, Khadakwasla",
+          "credit": "Amit mitkar at English Wikipedia",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sinhagad.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Khadakwasla Dam",
+      "slug": "khadakwasla-dam",
+      "city": "khadakwasla",
+      "kind": "dam",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "The dam on the Mutha river that supplies Pune, with backwaters popular for evening drives and snacks.",
+      "description": "Khadakwasla Dam, 21 km from central Pune, creates the reservoir that is the city's main water source. In the evenings families gather along the backwaters on the Sinhagad road for corn, chai and sunset views, and the National Defence Academy lies across the water. Swimming is not allowed and the water is deep, so stay on the banks. It pairs naturally with a trip up Sinhagad.",
+      "history": "The masonry dam was built in the 1870s, one of the oldest in the region; a newer dam replaced the original after the Panshet dam burst of 1961 damaged it.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "bestTimeNote": "Monsoon and the months after, when the reservoir is full.",
+      "location": {
+        "lat": 18.4531,
+        "lng": 73.7689,
+        "address": "Khadakwasla, Haveli taluka, Pune district, Maharashtra 411024"
+      },
+      "highlights": [
+        "Sunset over the backwaters",
+        "Roadside corn and chai",
+        "View of the NDA campus",
+        "Gateway to Sinhagad"
+      ],
+      "sources": [
+        {
+          "title": "Khadakwasla Dam – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Khadakwasla_Dam"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/khadakwasla-dam.webp",
+          "alt": "Khadakwasla Dam, Khadakwasla",
+          "credit": "Advaitk at English Wikipedia",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khadakwasla_Dam_image.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Rajgad Fort",
+      "slug": "rajgad-fort",
+      "city": "velhe",
+      "kind": "fort",
+      "categories": [
+        "heritage",
+        "adventure"
+      ],
+      "shortDescription": "The first capital of Shivaji Maharaj, a vast hill fort with three spurs and one of Maharashtra's best treks.",
+      "description": "Rajgad, the 'king of forts', was Shivaji Maharaj's capital for about 26 years. The trek up from Gunjavane or Pali takes three to four hours, and the fort spreads across three machis, or spurs (Padmavati, Suvela and Sanjeevani), around a towering citadel called the Balekilla. Many trekkers stay overnight in the Padmavati temple on top. Carry water and avoid the steep Balekilla climb in heavy rain.",
+      "history": "Formerly called Murumbdev, it was rebuilt by Shivaji Maharaj using treasure found at nearby Torna and remained his capital until he moved to Raigad.",
+      "bestMonths": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "bestTimeNote": "Monsoon to winter; summers are harsh on the exposed ridges.",
+      "location": {
+        "lat": 18.246,
+        "lng": 73.6822,
+        "address": "Gunjavane, Velhe taluka, Pune district, Maharashtra 412212"
+      },
+      "highlights": [
+        "Balekilla citadel",
+        "Suvela and Sanjeevani spurs",
+        "Overnight stay at Padmavati temple",
+        "Views of Torna"
+      ],
+      "sources": [
+        {
+          "title": "Rajgad – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Rajgad"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/rajgad-fort.webp",
+          "alt": "Rajgad Fort, Velhe",
+          "credit": "Rohan sangodkar",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suvela_machi,Rajgad_fort,_Maharashtra,India_July2015.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Torna Fort",
+      "slug": "torna-fort",
+      "city": "velhe",
+      "kind": "fort",
+      "categories": [
+        "heritage",
+        "adventure"
+      ],
+      "shortDescription": "The highest hill fort in Pune district and the first fort Shivaji Maharaj captured, at the age of 16.",
+      "description": "Torna, also called Prachandagad ('the huge fort'), rises to 1,403 m above Velhe village. The climb is steep in places, with rock patches near the top, and takes two to three hours. Its long ridge ends in the Zunjar Machi and Budhla Machi spurs, with drops on both sides and views across to Rajgad. It is a serious trek in the monsoon; go with someone who knows the route.",
+      "history": "Shivaji Maharaj captured Torna in 1646, beginning the campaign that founded the Maratha kingdom; treasure found here helped build Rajgad.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "location": {
+        "lat": 18.2761,
+        "lng": 73.6227,
+        "address": "Velhe, Pune district, Maharashtra 412212"
+      },
+      "highlights": [
+        "Highest fort in Pune district",
+        "Zunjar Machi ridge",
+        "Menghai Devi temple",
+        "Rajgad view"
+      ],
+      "sources": [
+        {
+          "title": "Torna Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Torna_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/torna-fort.webp",
+          "alt": "Torna Fort, Velhe",
+          "credit": "Sopan Patil",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Torna_Fort_aka_Kille_Prachangad.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kasarsai Dam",
+      "slug": "kasarsai-dam",
+      "city": "maval",
+      "kind": "dam",
+      "categories": [
+        "nature"
+      ],
+      "isHiddenGem": true,
+      "shortDescription": "A small, quiet reservoir near Hinjawadi where Pune unwinds on weekend mornings and evenings.",
+      "description": "Kasarsai Dam lies in the countryside of Maval taluka, about 10 km past the Hinjawadi IT park, which makes it one of the quickest escapes from west Pune. Low hills surround the water, and the banks are popular for sunrise rides, picnics and photography, especially when the reservoir fills in the monsoon. There is little in the way of facilities, so carry water and take your rubbish back. Swimming is unsafe.",
+      "history": "A small irrigation dam serving the villages of Maval taluka; the area has grown popular as Pune expanded west.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1
+      ],
+      "bestTimeNote": "July to January, when the reservoir is full and the hills are green.",
+      "location": {
+        "lat": 18.6185,
+        "lng": 73.6645,
+        "address": "Kasarsai, Maval taluka, Pune district, Maharashtra 410506"
+      },
+      "highlights": [
+        "Sunrise over the reservoir",
+        "Quick ride from Hinjawadi",
+        "Monsoon greenery",
+        "Quiet picnic spots"
+      ],
+      "sources": [
+        {
+          "title": "Kasarsai Dam – OpenStreetMap",
+          "url": "https://www.openstreetmap.org/search?query=Kasarsai%20Dam"
+        },
+        {
+          "title": "Water Resources Department, Government of Maharashtra",
+          "url": "https://wrd.maharashtra.gov.in"
+        }
+      ]
+    },
+    {
+      "name": "Pavana Lake",
+      "slug": "pavana-lake",
+      "city": "maval",
+      "kind": "lake",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "The reservoir behind Pavana Dam, ringed by forts and famous for lakeside camping near Lonavala.",
+      "description": "Pavana Lake is the reservoir of Pavana Dam in Maval, about 20 km from Lonavala. Lohagad, Visapur, Tikona and Tung forts rise around its shores, and dozens of campsites offer overnight tents with bonfires and stargazing. Mornings bring mist over the water. It is a popular stop for groups from both Pune and Mumbai.",
+      "history": "Pavana Dam on the Pavana river supplies water to Pimpri-Chinchwad and irrigates villages in Maval.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "bestTimeNote": "After the monsoon for full water; winter nights are ideal for camping.",
+      "location": {
+        "lat": 18.6776,
+        "lng": 73.4958,
+        "address": "Pavananagar, Maval taluka, Pune district, Maharashtra 410406"
+      },
+      "highlights": [
+        "Lakeside camping",
+        "Views of Tung and Tikona forts",
+        "Morning mist",
+        "Stargazing"
+      ],
+      "sources": [
+        {
+          "title": "Pavana Dam – OpenStreetMap",
+          "url": "https://www.openstreetmap.org/search?query=Pavana%20Dam"
+        },
+        {
+          "title": "Pavana River – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pavana_River"
+        }
+      ]
+    },
+    {
+      "name": "Mulshi Dam",
+      "slug": "mulshi-dam",
+      "city": "mulshi",
+      "kind": "dam",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A large reservoir on the Mula river west of Pune, surrounded by green hills and lakeside resorts.",
+      "description": "Mulshi Dam holds back a long, winding reservoir in the hills about 50 km west of Pune. The drive along its shore is one of the prettiest in the region in the monsoon, and resorts and homestays line the backwaters. The water also powers Tata Power's Bhira hydroelectric station. Combine it with the Tamhini Ghat road beyond.",
+      "history": "The dam was built by the Tata company in the 1920s; its Bhira power station has run since 1927.",
+      "bestMonths": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1
+      ],
+      "location": {
+        "lat": 18.5441,
+        "lng": 73.465,
+        "address": "Mulshi, Pune district, Maharashtra 412108"
+      },
+      "highlights": [
+        "Backwater drive",
+        "Monsoon greenery",
+        "Lakeside resorts",
+        "Gateway to Tamhini Ghat"
+      ],
+      "sources": [
+        {
+          "title": "Mulshi Dam – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mulshi_Dam"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/mulshi-dam.webp",
+          "alt": "Mulshi Dam, Mulshi",
+          "credit": "Vishalsdhumal",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mulashi-2.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Tamhini Ghat",
+      "slug": "tamhini-ghat",
+      "city": "mulshi",
+      "kind": "mountain-pass",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "A mountain road from Mulshi down to the Konkan, lined with dozens of waterfalls in the monsoon.",
+      "description": "Tamhini Ghat climbs over the crest of the Sahyadri between Mulshi and the Konkan. In the monsoon the cliffs come alive with waterfalls on both sides of the road, and the dense forest is home to rare plants and birds. Families stop at the roadside falls; drive slowly as the road can be slippery and foggy. The Tamhini wildlife sanctuary protects the forest around.",
+      "history": "The route follows an old trade path between the Deccan and the coast and was paved as a state highway.",
+      "bestMonths": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "bestTimeNote": "July to September for waterfalls; October to December for clear weather.",
+      "location": {
+        "lat": 18.4493,
+        "lng": 73.4227,
+        "address": "Tamhini, Mulshi taluka, Pune district, Maharashtra"
+      },
+      "highlights": [
+        "Monsoon waterfalls",
+        "Misty forest drive",
+        "Birdwatching",
+        "Devkund falls trek nearby"
+      ],
+      "sources": [
+        {
+          "title": "Tamhini Ghat – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Tamhini_Ghat"
+        }
+      ]
+    },
+    {
+      "name": "Lonavala and Khandala",
+      "slug": "lonavala-khandala",
+      "city": "lonavala",
+      "kind": "hill-station",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "Twin hill stations on the Mumbai–Pune road, known for monsoon views, chikki and easy fort treks.",
+      "description": "Lonavala and Khandala sit on the Bhor Ghat between Mumbai and Pune, so both cities flock here for weekends. Viewpoints such as Tiger's Leap and Rajmachi Point overlook deep valleys, and the Bhushi Dam overflow is a monsoon favourite. Lonavala is famous for chikki, a nut-and-jaggery sweet. Forts and caves at Lohagad, Visapur, Karla and Bhaja are a short drive away.",
+      "history": "The British developed the area as a hill retreat after the Bhor Ghat railway opened in 1863.",
+      "bestMonths": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "bestTimeNote": "The monsoon is the most beautiful and the most crowded; avoid long weekends.",
+      "location": {
+        "lat": 18.7481,
+        "lng": 73.4072,
+        "address": "Lonavala, Maval taluka, Pune district, Maharashtra 410401"
+      },
+      "highlights": [
+        "Tiger's Leap viewpoint",
+        "Bhushi Dam",
+        "Lonavala chikki",
+        "Rajmachi Point"
+      ],
+      "sources": [
+        {
+          "title": "Lonavala – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lonavala"
+        }
+      ]
+    },
+    {
+      "name": "Lohagad",
+      "slug": "lohagad",
+      "city": "lonavala",
+      "kind": "fort",
+      "categories": [
+        "heritage",
+        "adventure"
+      ],
+      "shortDescription": "The 'iron fort' near Lonavala, an easy climb up wide steps to the Vinchu Kata scorpion-tail ridge.",
+      "description": "Lohagad rises to 1,033 m near Lonavala and is one of the easiest forts to climb, with stone steps leading through four gateways. At the top, the narrow Vinchu Kata ridge stretches out like a scorpion's tail, and the twin fort of Visapur stands next door. It is especially popular in the monsoon, when clouds roll over the ramparts. The base village of Lohagadwadi has food stalls.",
+      "history": "The fort changed hands between dynasties for centuries; Shivaji Maharaj captured it in 1648, and it was later used to store treasure.",
+      "bestMonths": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "entryFee": {
+        "note": "Small entry fee."
+      },
+      "timings": {
+        "hours": "Sunrise – sunset"
+      },
+      "location": {
+        "lat": 18.7089,
+        "lng": 73.4767,
+        "address": "Lohagadwadi, Maval taluka, Pune district, Maharashtra 410406"
+      },
+      "highlights": [
+        "Vinchu Kata ridge",
+        "Four great gateways",
+        "Monsoon clouds",
+        "Visapur next door"
+      ],
+      "sources": [
+        {
+          "title": "Lohagad – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lohagad"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/lohagad.webp",
+          "alt": "Lohagad, Lonavala",
+          "credit": "Rangan Datta Wiki",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panoramic_view_of_the_bastions_of_Lohagad_Fort_2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Visapur Fort",
+      "slug": "visapur-fort",
+      "city": "lonavala",
+      "kind": "fort",
+      "categories": [
+        "heritage",
+        "adventure"
+      ],
+      "shortDescription": "Lohagad's larger, wilder twin, with a monsoon trail that climbs up a waterfall.",
+      "description": "Visapur Fort sits on a plateau beside Lohagad and is bigger and quieter than its neighbour. In the monsoon the most popular route follows a stream up a rocky staircase of small waterfalls, which is great fun but slippery; go in a group. The flat top has old buildings, water cisterns and wide views over the Pavana valley.",
+      "history": "Built by the Peshwa Balaji Vishwanath in the early 18th century as part of the Lohagad-Visapur fortification.",
+      "bestMonths": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1
+      ],
+      "location": {
+        "lat": 18.7217,
+        "lng": 73.4902,
+        "address": "Visapur, Maval taluka, Pune district, Maharashtra 410405"
+      },
+      "highlights": [
+        "Waterfall trail in the monsoon",
+        "Large summit plateau",
+        "Old cisterns",
+        "Views of Lohagad"
+      ],
+      "sources": [
+        {
+          "title": "Visapur Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Visapur_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/visapur-fort.webp",
+          "alt": "Visapur Fort, Lonavala",
+          "credit": "shripophali",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fortification_wall_at_visapur.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Karla Caves",
+      "slug": "karla-caves",
+      "city": "lonavala",
+      "kind": "caves",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "Ancient Buddhist caves near Lonavala with one of the largest and finest rock-cut prayer halls in India.",
+      "description": "The great chaitya hall at Karla is a vast rock-cut prayer hall with a vaulted ceiling, still holding its original teak ribs, and rows of carved pillars topped with elephants and riders. A stupa stands at the far end, and the façade is carved with couples and elephants. The steps up pass the Ekvira Devi temple, which draws crowds on festival days. Bhaja Caves are across the valley.",
+      "history": "The shrines were carved between the 2nd century BCE and the 5th century CE on a trade route from the coast to the Deccan.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "entryFee": {
+        "indian": 25,
+        "foreigner": 300,
+        "child": 0,
+        "note": "ASI rates (slightly less online); verify before your visit."
+      },
+      "timings": {
+        "hours": "9:00 AM – 5:00 PM"
+      },
+      "location": {
+        "lat": 18.7833,
+        "lng": 73.4706,
+        "address": "Karli, Maval taluka, Pune district, Maharashtra 410405"
+      },
+      "highlights": [
+        "Great chaitya hall",
+        "Original teak ceiling ribs",
+        "Carved elephant pillars",
+        "Ekvira Devi temple"
+      ],
+      "sources": [
+        {
+          "title": "Karla Caves – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Karla_Caves"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/karla-caves.webp",
+          "alt": "Karla Caves, Lonavala",
+          "credit": "Kevin Standage (kevinstandage1@googlemail.com) INDIAN TRAVEL PHOTOGRAPHY",
+          "license": "CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Karla_caves_Chaitya.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Bhaja Caves",
+      "slug": "bhaja-caves",
+      "city": "lonavala",
+      "kind": "caves",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A group of 22 Buddhist rock-cut caves from the 2nd century BCE above Bhaja village, with a cluster of stupas.",
+      "description": "The Bhaja Caves are cut into the hillside about 120 m above the village, reached by a short climb. The main chaitya hall is among the earliest of its kind, and a group of fourteen stupas stands in a row nearby. Reliefs show figures on elephants and chariots. A seasonal waterfall falls beside the caves in the monsoon.",
+      "history": "The caves date from the 2nd century BCE and lay on an ancient trade route from the Arabian Sea to the Deccan.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "entryFee": {
+        "indian": 25,
+        "foreigner": 300,
+        "child": 0,
+        "note": "ASI rates (slightly less online); verify before your visit."
+      },
+      "timings": {
+        "hours": "9:00 AM – 5:00 PM"
+      },
+      "location": {
+        "lat": 18.7278,
+        "lng": 73.4819,
+        "address": "Bhaje, Maval taluka, Pune district, Maharashtra 410406"
+      },
+      "highlights": [
+        "Early chaitya hall",
+        "Group of fourteen stupas",
+        "Ancient reliefs",
+        "Monsoon waterfall"
+      ],
+      "sources": [
+        {
+          "title": "Bhaja Caves – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bhaja_Caves"
+        }
+      ]
+    },
+    {
+      "name": "Bhimashankar Temple",
+      "slug": "bhimashankar-temple",
+      "city": "bhimashankar",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "One of the twelve Jyotirlinga temples of Shiva, set in forest on the Sahyadri crest.",
+      "description": "Bhimashankar Temple stands at the head of a forested valley about 110 km from Pune. The stone temple in the Nagara style houses one of the three Jyotirlingas of Maharashtra and is the source of the Bhima river. Many pilgrims trek up from the Konkan side through the forest. Mahashivratri and the Shravan month bring the biggest crowds.",
+      "history": "The present temple dates largely from the 18th century; the Peshwa minister Nana Phadnavis added the shikhara.",
+      "bestMonths": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "location": {
+        "lat": 19.072,
+        "lng": 73.536,
+        "address": "Bhimashankar, Khed taluka, Pune district, Maharashtra 410509"
+      },
+      "highlights": [
+        "Jyotirlinga shrine",
+        "Source of the Bhima river",
+        "Forest setting",
+        "Trek from the Konkan side"
+      ],
+      "sources": [
+        {
+          "title": "Bhimashankar Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bhimashankar_Temple"
+        }
+      ]
+    },
+    {
+      "name": "Bhimashankar Wildlife Sanctuary",
+      "slug": "bhimashankar-wildlife-sanctuary",
+      "city": "bhimashankar",
+      "kind": "sanctuary",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "Evergreen Sahyadri forest created to protect the Indian giant squirrel, Maharashtra's state animal.",
+      "description": "The sanctuary spreads across the forests of Pune, Raigad and Thane districts around the Bhimashankar temple. Its main resident is the shekru, the Indian giant squirrel, a large maroon-and-cream squirrel often seen in the treetops. Trails lead to viewpoints such as Nagphani, and the forest is rich in birds, butterflies and medicinal plants. The monsoon is spectacular but leeches are plentiful.",
+      "history": "The sanctuary was created in 1985 mainly to protect the habitat of the Indian giant squirrel.",
+      "bestMonths": [
+        9,
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "entryFee": {
+        "note": "Small forest entry fee."
+      },
+      "location": {
+        "lat": 19.132,
+        "lng": 73.554,
+        "address": "Bhimashankar, Pune district, Maharashtra 410509"
+      },
+      "highlights": [
+        "Indian giant squirrel (shekru)",
+        "Nagphani viewpoint",
+        "Evergreen forest",
+        "Birds and butterflies"
+      ],
+      "sources": [
+        {
+          "title": "Bhimashankar Wildlife Sanctuary – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bhimashankar_Wildlife_Sanctuary"
+        }
+      ]
+    },
+    {
+      "name": "Shivneri Fort",
+      "slug": "shivneri-fort",
+      "city": "junnar",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The hill fort near Junnar where Chhatrapati Shivaji Maharaj was born in 1630.",
+      "description": "Shivneri rises above Junnar with seven gateways guarding a winding path to the top. The building where Shivaji Maharaj was born has been restored, with a statue of the young Shivaji and his mother Jijabai nearby. Rock-cut Buddhist caves are carved into the hill's cliffs. The climb takes under an hour by the steps.",
+      "history": "Shivaji Maharaj was born here on 19 February 1630, when his father Shahaji served the Ahmadnagar Sultanate; Shiv Jayanti is celebrated grandly at the fort.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "bestTimeNote": "Shiv Jayanti on 19 February brings large celebrations.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "Sunrise – sunset"
+      },
+      "location": {
+        "lat": 19.1966,
+        "lng": 73.859,
+        "address": "Junnar, Pune district, Maharashtra 410502"
+      },
+      "highlights": [
+        "Birthplace of Shivaji Maharaj",
+        "Statue of Jijabai and young Shivaji",
+        "Seven gateways",
+        "Buddhist caves"
+      ],
+      "sources": [
+        {
+          "title": "Shivneri Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shivneri_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/shivneri-fort.webp",
+          "alt": "Shivneri Fort, Junnar",
+          "credit": "Milind.dumbare at English Wikipedia",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shivneri_fort1.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Lenyadri",
+      "slug": "lenyadri",
+      "city": "junnar",
+      "kind": "caves",
+      "categories": [
+        "religious",
+        "heritage"
+      ],
+      "shortDescription": "Buddhist caves above Junnar, one of which became a Ganesha shrine and part of the Ashtavinayak pilgrimage.",
+      "description": "Lenyadri is a group of about 30 rock-cut caves on a cliff north of Junnar, reached by roughly 300 steps. Cave 7, once a Buddhist vihara, now houses the Girijatmaj Ganesha, one of the eight Ashtavinayak shrines visited by pilgrims across Maharashtra. Other caves keep their simple Buddhist halls and stupas. The views over the Kukadi valley are lovely in the morning.",
+      "history": "The caves were carved between the 1st and 3rd centuries CE; the Ganesha shrine was established much later.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "entryFee": {
+        "note": "ASI ticket for the caves."
+      },
+      "location": {
+        "lat": 19.2428,
+        "lng": 73.8856,
+        "address": "Golegaon, Junnar taluka, Pune district, Maharashtra 410502"
+      },
+      "highlights": [
+        "Girijatmaj Ashtavinayak shrine",
+        "Buddhist chaitya",
+        "Cliffside steps",
+        "Kukadi valley views"
+      ],
+      "sources": [
+        {
+          "title": "Lenyadri – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lenyadri"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/lenyadri.webp",
+          "alt": "Lenyadri, Junnar",
+          "credit": "Niemru from MUMBAI, INDIA",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lenyadri.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Khandoba Temple, Jejuri",
+      "slug": "jejuri-khandoba-temple",
+      "city": "jejuri",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "Hilltop temple of Khandoba where pilgrims throw turmeric, turning the steps golden.",
+      "description": "The Khandoba temple stands on a hill above Jejuri, about 50 km from Pune, reached by more than 200 steps lined with lamp pillars. Devotees shower bhandara (turmeric powder) on each other and the god, so the whole hill glows yellow during festivals. Khandoba is the family deity of many farming and herding communities in the Deccan. The Somvati Amavasya festival is the most colourful time to visit.",
+      "history": "Khandoba is worshipped as a form of Shiva; the temple was expanded by Maratha rulers including the Holkars of Indore.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "location": {
+        "lat": 18.2724,
+        "lng": 74.1604,
+        "address": "Jejuri, Purandar taluka, Pune district, Maharashtra 412303"
+      },
+      "highlights": [
+        "Turmeric-covered steps",
+        "Lamp pillars",
+        "Somvati Amavasya festival",
+        "Views over the Deccan plain"
+      ],
+      "sources": [
+        {
+          "title": "Khandoba Temple, Jejuri – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Khandoba_Temple,_Jejuri"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/jejuri-khandoba-temple.webp",
+          "alt": "Khandoba Temple, Jejuri, Jejuri",
+          "credit": "PKharote",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khandoba_temple_Pune.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kalsubai",
+      "slug": "kalsubai",
+      "city": "bhandardara",
+      "kind": "trek",
+      "categories": [
+        "adventure",
+        "nature"
+      ],
+      "isFeatured": true,
+      "shortDescription": "The highest peak in Maharashtra at 1,646 m, the 'Everest of Maharashtra', climbed with ladders and chains.",
+      "description": "Kalsubai is the highest point of the Sahyadri and of the state. The trek from Bari village takes three to four hours and uses iron ladders and chains on the steep sections. A small temple of the goddess Kalsubai sits on the summit, with views over Bhandardara lake and the forts of Alang, Madan and Kulang. Night treks to see the sunrise are popular; it is very windy at the top.",
+      "history": "The peak lies within the Kalsubai-Harishchandragad Wildlife Sanctuary and is named after a local goddess.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "bestTimeNote": "Monsoon for clouds and greenery; winter for clear sunrise views.",
+      "location": {
+        "lat": 19.6011,
+        "lng": 73.7092,
+        "address": "Bari, Akole taluka, Ahilyanagar district, Maharashtra 422604"
+      },
+      "highlights": [
+        "Highest point in Maharashtra",
+        "Iron ladders on the climb",
+        "Summit temple",
+        "Sunrise over Bhandardara"
+      ],
+      "sources": [
+        {
+          "title": "Kalsubai – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kalsubai"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kalsubai.webp",
+          "alt": "Kalsubai, Bhandardara",
+          "credit": "Mvkulkarni23",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kalasubai_from_base.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Harishchandragad",
+      "slug": "harishchandragad",
+      "city": "bhandardara",
+      "kind": "trek",
+      "categories": [
+        "adventure",
+        "heritage"
+      ],
+      "shortDescription": "An ancient hill fort famed for the Konkan Kada cliff and a temple standing in water inside a cave.",
+      "description": "Harishchandragad is one of the most loved treks in Maharashtra. Its highlight is Konkan Kada, a huge overhanging cliff shaped like a cobra's hood, where you may see a rare circular rainbow in the monsoon. The fort has the 6th-century Harishchandreshwar temple and the Kedareshwar cave, where a Shiva lingam stands in waist-deep cold water. Most people camp overnight on top.",
+      "history": "The fort's caves and temples date to around the 6th century; its history is linked with the Malshej Ghat trade route below.",
+      "bestMonths": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "location": {
+        "lat": 19.3882,
+        "lng": 73.7759,
+        "address": "Pachnai, Akole taluka, Ahilyanagar district, Maharashtra"
+      },
+      "highlights": [
+        "Konkan Kada cliff",
+        "Kedareshwar cave temple",
+        "Harishchandreshwar temple",
+        "Overnight camping"
+      ],
+      "sources": [
+        {
+          "title": "Harishchandragad – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Harishchandragad"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/harishchandragad.webp",
+          "alt": "Harishchandragad, Bhandardara",
+          "credit": "Cj.samson",
+          "license": "GFDL 1.2",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kalbhairav_pinnacle_Scj.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Bhandardara",
+      "slug": "bhandardara-lake",
+      "city": "bhandardara",
+      "kind": "lake",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "Arthur Lake and Wilson Dam in the Sahyadri, a lakeside retreat beneath Maharashtra's highest peaks.",
+      "description": "Bhandardara's Arthur Lake stretches behind the old Wilson Dam, ringed by the peaks of Kalsubai, Ratangad and Harishchandragad. In the monsoon dozens of waterfalls pour off the hills, including Randha Falls on the Pravara river nearby, and in May the fields around Purushwadi glow with fireflies. Lakeside camping and homestays make it an easy two-day trip from Mumbai, Pune or Nashik.",
+      "history": "Wilson Dam on the Pravara river was completed in 1910, one of the oldest in India.",
+      "bestMonths": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1
+      ],
+      "bestTimeNote": "Monsoon for waterfalls; late May for fireflies.",
+      "location": {
+        "lat": 19.548,
+        "lng": 73.7568,
+        "address": "Bhandardara, Akole taluka, Ahilyanagar district, Maharashtra 422604"
+      },
+      "highlights": [
+        "Arthur Lake",
+        "Wilson Dam",
+        "Monsoon waterfalls",
+        "Fireflies before the monsoon"
+      ],
+      "sources": [
+        {
+          "title": "Bhandardara – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bhandardara"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/bhandardara-lake.webp",
+          "alt": "Bhandardara",
+          "credit": "Amod Bhagwat",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bhandardara_lake.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Marine Drive",
+      "slug": "marine-drive",
+      "city": "mumbai",
+      "kind": "neighbourhood",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "Mumbai's 3 km seafront promenade, the 'Queen's Necklace', lined with Art Deco buildings.",
+      "description": "Marine Drive curves along Back Bay from Nariman Point to Girgaon Chowpatty. At night its streetlights form the glittering arc that gave it the name Queen's Necklace. The sea wall is where the city comes to walk, sit and watch the waves, and in the monsoon spray crashes over the promenade. The Art Deco buildings facing the sea are part of a UNESCO World Heritage Site.",
+      "history": "The road and promenade were built on reclaimed land and completed around 1940 by Pallonji Mistry.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        6,
+        7,
+        8
+      ],
+      "bestTimeNote": "Winter evenings, or monsoon days to see the waves.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "Open all day"
+      },
+      "location": {
+        "lat": 18.944,
+        "lng": 72.823,
+        "address": "Netaji Subhash Chandra Bose Road, Marine Lines, Mumbai, Maharashtra 400020"
+      },
+      "highlights": [
+        "Queen's Necklace at night",
+        "Art Deco skyline",
+        "Girgaon Chowpatty",
+        "Monsoon waves"
+      ],
+      "sources": [
+        {
+          "title": "Marine Drive, Mumbai – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Marine_Drive,_Mumbai"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/marine-drive.webp",
+          "alt": "Marine Drive, Mumbai",
+          "credit": "A.Savin",
+          "license": "FAL",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mumbai_03-2016_27_skyline_at_Marine_Drive.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Haji Ali Dargah",
+      "slug": "haji-ali-dargah",
+      "city": "mumbai",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious",
+        "heritage"
+      ],
+      "shortDescription": "A white Sufi shrine on an islet off Worli, reached by a causeway that disappears at high tide.",
+      "description": "The Haji Ali Dargah holds the tomb of the Sufi saint Pir Haji Ali Shah Bukhari and is visited by people of all faiths. It stands about 500 m offshore, linked by a narrow causeway that can be walked only at low tide. The Indo-Islamic building with its domes and minaret is especially striking at sunset. Check the tide times before you go.",
+      "history": "Built in 1431, the dargah honours a wealthy merchant from Bukhara who gave up worldly life to become a saint.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March; plan around low tide.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "About 5:30 AM – 10:00 PM"
+      },
+      "location": {
+        "lat": 18.985,
+        "lng": 72.81,
+        "address": "Dargah Road, Haji Ali, Mumbai, Maharashtra 400026"
+      },
+      "highlights": [
+        "Low-tide causeway",
+        "Tomb of Haji Ali",
+        "Qawwali on Thursdays and Fridays",
+        "Sunset over the sea"
+      ],
+      "sources": [
+        {
+          "title": "Haji Ali Dargah – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Haji_Ali_Dargah"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/haji-ali-dargah.webp",
+          "alt": "Haji Ali Dargah, Mumbai",
+          "credit": "A.Savin",
+          "license": "FAL",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mumbai_03-2016_12_Haji_Ali_Dargah.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Siddhivinayak Temple",
+      "slug": "siddhivinayak-temple",
+      "city": "mumbai",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "Mumbai's best-known Ganesha temple in Prabhadevi, visited by lakhs on Tuesdays.",
+      "description": "Shri Siddhivinayak Ganapati Mandir houses a small black-stone idol of Ganesha with his trunk turned to the right. The temple has grown into a multi-storey shrine with a gold-plated dome and is visited by people from film stars to office workers. Tuesdays and Angarki Chaturthi bring very long queues; a paid darshan line is available. Phones and bags must be deposited.",
+      "history": "The original temple was built in 1801 by Laxman Vithu and Deubai Patil.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "About 5:30 AM – 9:50 PM"
+      },
+      "location": {
+        "lat": 19.0169,
+        "lng": 72.8304,
+        "address": "SK Bole Marg, Prabhadevi, Mumbai, Maharashtra 400028"
+      },
+      "highlights": [
+        "Right-trunked Ganesha idol",
+        "Gold-plated dome",
+        "Tuesday darshan",
+        "Angarki Chaturthi"
+      ],
+      "sources": [
+        {
+          "title": "Siddhivinayak Temple, Mumbai – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Siddhivinayak_Temple,_Mumbai"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/siddhivinayak-temple.webp",
+          "alt": "Siddhivinayak Temple, Mumbai",
+          "credit": "Darwininan",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shree_Siddhivinayak_Temple_Mumbai.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sanjay Gandhi National Park",
+      "slug": "sanjay-gandhi-national-park",
+      "city": "mumbai",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "isFeatured": true,
+      "shortDescription": "A 104 km² forest inside Mumbai, home to leopards, lakes and the ancient Kanheri Caves.",
+      "description": "Sanjay Gandhi National Park in Borivali is one of very few national parks within a major city. Its forested hills feed the Vihar and Tulsi lakes and shelter leopards, deer and over 250 species of birds. Visitors can cycle the trails, take the lion and tiger safari, ride the toy train or walk up to the Kanheri Caves. It draws more than two million visitors a year.",
+      "history": "Protected since the 1950s as Krishnagiri National Park, it was renamed after Sanjay Gandhi in 1981.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        7,
+        8
+      ],
+      "bestTimeNote": "Winter for birds and walks; the monsoon turns the park lush.",
+      "entryFee": {
+        "note": "Small entry fee; safaris and cycles charged separately."
+      },
+      "timings": {
+        "hours": "7:30 AM – 6:30 PM; closed Mondays"
+      },
+      "location": {
+        "lat": 19.25,
+        "lng": 72.9167,
+        "address": "Borivali East, Mumbai, Maharashtra 400066"
+      },
+      "highlights": [
+        "Kanheri Caves",
+        "Lion and tiger safari",
+        "Cycling trails",
+        "Birdwatching"
+      ],
+      "sources": [
+        {
+          "title": "Sanjay Gandhi National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sanjay_Gandhi_National_Park"
+        }
+      ]
+    },
+    {
+      "name": "Kanheri Caves",
+      "slug": "kanheri-caves",
+      "city": "mumbai",
+      "kind": "caves",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "More than a hundred Buddhist caves cut into a basalt hill inside Sanjay Gandhi National Park.",
+      "description": "The Kanheri Caves were a Buddhist monastic settlement for about a thousand years. Over 100 caves include living cells with stone beds, water cisterns and a great chaitya hall with a seven-metre standing Buddha at its entrance. Paths and steps connect the caves across the hillside, with views over the forest. Reach them through the national park's main gate in Borivali.",
+      "history": "The caves date from the 1st century CE to the 10th century CE; the name comes from the Sanskrit Krishnagiri, the black mountain.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        7,
+        8
+      ],
+      "entryFee": {
+        "indian": 25,
+        "foreigner": 300,
+        "child": 0,
+        "note": "ASI rates (slightly less online); verify before your visit."
+      },
+      "timings": {
+        "hours": "9:00 AM – 5:00 PM; closed Mondays"
+      },
+      "location": {
+        "lat": 19.2083,
+        "lng": 72.9064,
+        "address": "Sanjay Gandhi National Park, Borivali East, Mumbai, Maharashtra 400066"
+      },
+      "highlights": [
+        "Great chaitya hall",
+        "Standing Buddha figures",
+        "Stone water cisterns",
+        "Forest views"
+      ],
+      "sources": [
+        {
+          "title": "Kanheri Caves – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kanheri_Caves"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kanheri-caves.webp",
+          "alt": "Kanheri Caves, Mumbai",
+          "credit": "AKS.9955",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kanheri_Caves_prayer_hall.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Juhu Beach",
+      "slug": "juhu-beach",
+      "city": "mumbai",
+      "kind": "beach",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "Mumbai's most famous beach, best for sunsets and street food rather than swimming.",
+      "description": "Juhu Beach stretches for several kilometres along the western suburbs. Evenings bring families, joggers and food stalls selling pav bhaji, bhel puri and gola, and the sunset over the Arabian Sea is the main attraction. The water is not safe or clean enough for swimming. Ganesh idols are immersed here at the end of Ganeshotsav.",
+      "history": "Juhu grew from a fishing village into one of Mumbai's most fashionable suburbs, home to many film stars.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "Open all day"
+      },
+      "location": {
+        "lat": 19.1027,
+        "lng": 72.8247,
+        "address": "Juhu Tara Road, Juhu, Mumbai, Maharashtra 400049"
+      },
+      "highlights": [
+        "Sunset over the Arabian Sea",
+        "Pav bhaji and bhel puri",
+        "Ganesh immersion",
+        "Evening promenade"
+      ],
+      "sources": [
+        {
+          "title": "Juhu – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Juhu"
+        }
+      ]
+    },
+    {
+      "name": "Byculla Zoo (Jijamata Udyaan)",
+      "slug": "byculla-zoo",
+      "city": "mumbai",
+      "kind": "zoo",
+      "categories": [
+        "nature",
+        "heritage"
+      ],
+      "shortDescription": "Mumbai's oldest public garden and zoo, home to Humboldt penguins and the Bhau Daji Lad Museum.",
+      "description": "Jijamata Udyaan, still widely called Victoria Gardens or the Byculla Zoo, covers 50 acres of old trees in central Mumbai. The penguin enclosure with Humboldt penguins is the best-known attraction, along with leopards, birds and a large botanical collection. The Dr Bhau Daji Lad Museum, the city's oldest museum, stands at the entrance.",
+      "history": "The garden was opened in 1861 as Victoria Gardens and renamed after Jijamata, the mother of Shivaji Maharaj, after independence.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "note": "Small entry fee."
+      },
+      "timings": {
+        "hours": "9:30 AM – 6:00 PM; closed Wednesdays"
+      },
+      "location": {
+        "lat": 18.9781,
+        "lng": 72.8367,
+        "address": "Dr Ambedkar Road, Byculla East, Mumbai, Maharashtra 400027"
+      },
+      "highlights": [
+        "Humboldt penguins",
+        "Heritage trees",
+        "Bhau Daji Lad Museum",
+        "Victorian gateway"
+      ],
+      "sources": [
+        {
+          "title": "Jijamata Udyaan – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jijamata_Udyaan"
+        }
+      ]
+    },
+    {
+      "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+      "slug": "csmvs-museum",
+      "city": "mumbai",
+      "kind": "museum",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "Mumbai's main museum of Indian art and history, in an Indo-Saracenic building near the Gateway of India.",
+      "description": "The museum, formerly the Prince of Wales Museum, traces India's history from prehistoric times to the modern era. Its galleries hold Gupta and Chalukya sculpture, Indus Valley artefacts, miniature paintings, arms and armour, and natural history collections. The domed building and gardens are part of Mumbai's UNESCO-listed Victorian and Art Deco ensemble. Allow at least two hours.",
+      "history": "Founded by citizens of Bombay to mark the 1905 visit of the Prince of Wales, the building was designed by George Wittet and opened in 1922.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "note": "Ticketed; separate rates for Indian and foreign visitors."
+      },
+      "timings": {
+        "hours": "10:15 AM – 6:00 PM"
+      },
+      "location": {
+        "lat": 18.9267,
+        "lng": 72.8322,
+        "address": "Mahatma Gandhi Road, Kala Ghoda, Fort, Mumbai, Maharashtra 400023"
+      },
+      "highlights": [
+        "Indian miniature paintings",
+        "Sculpture gallery",
+        "Arms and armour",
+        "Domed Indo-Saracenic building"
+      ],
+      "sources": [
+        {
+          "title": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/csmvs-museum.webp",
+          "alt": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya, Mumbai",
+          "credit": "Anoop Ravi",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Global Vipassana Pagoda",
+      "slug": "global-vipassana-pagoda",
+      "city": "mumbai",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A golden pagoda at Gorai holding the world's largest meditation hall without pillars.",
+      "description": "The Global Vipassana Pagoda is a gleaming golden dome on the Gorai peninsula, modelled on the Shwedagon Pagoda in Myanmar. Its hall can seat about 8,000 meditators under a dome built without supporting pillars. Visitors can join a short guided meditation and learn about Vipassana. Reach it by ferry from Borivali or by road.",
+      "history": "The pagoda was inaugurated in 2009 in gratitude to the Buddha and to the teacher S. N. Goenka's tradition of Vipassana.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "9:00 AM – 7:00 PM"
+      },
+      "location": {
+        "lat": 19.2281,
+        "lng": 72.8061,
+        "address": "Gorai, Borivali West, Mumbai, Maharashtra 400091"
+      },
+      "highlights": [
+        "Pillarless meditation dome",
+        "Short guided meditation",
+        "Golden pagoda",
+        "Ferry from Borivali"
+      ],
+      "sources": [
+        {
+          "title": "Global Vipassana Pagoda – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Global_Vipassana_Pagoda"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/global-vipassana-pagoda.webp",
+          "alt": "Global Vipassana Pagoda, Mumbai",
+          "credit": "Pradeep717",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:GlobalVipasanaPagoda.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Matheran",
+      "slug": "matheran",
+      "city": "matheran",
+      "kind": "hill-station",
+      "categories": [
+        "nature"
+      ],
+      "isFeatured": true,
+      "shortDescription": "Asia's only car-free hill station, reached by a toy train from Neral, 90 km from Mumbai.",
+      "description": "Matheran sits at about 800 m on a forested plateau where motor vehicles are banned, so visitors walk, ride horses or use hand-pulled rickshaws on red-earth paths. Around 30 viewpoints such as Panorama Point and Louisa Point look over the Sahyadri. The narrow-gauge Neral–Matheran toy train is part of the experience. It is one of India's smallest hill stations and an easy weekend from Mumbai or Pune.",
+      "history": "Hugh Malet, collector of Thane, explored the hill in 1850 and the British developed it as a summer retreat; the toy train opened in 1907.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "bestTimeNote": "October to May; the toy train is often suspended in the monsoon.",
+      "entryFee": {
+        "note": "Small municipal entry fee at Dasturi."
+      },
+      "location": {
+        "lat": 18.9866,
+        "lng": 73.2679,
+        "address": "Matheran, Karjat taluka, Raigad district, Maharashtra 410102"
+      },
+      "highlights": [
+        "Car-free red-earth paths",
+        "Neral–Matheran toy train",
+        "Panorama Point",
+        "Charlotte Lake"
+      ],
+      "sources": [
+        {
+          "title": "Matheran – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Matheran"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/matheran.webp",
+          "alt": "Matheran",
+          "credit": "Le Priyavrat",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Matheran_In_Clouds.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kolaba Fort",
+      "slug": "kolaba-fort",
+      "city": "alibag",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A Maratha sea fort off Alibag beach that you can walk to at low tide.",
+      "description": "Kolaba Fort stands in the sea about a kilometre off Alibag beach. At low tide you can walk or take a horse cart across the sand to its gates; at high tide boats are needed. Inside are a Ganesha temple, freshwater wells and cannons on the ramparts. Alibag itself is a short ferry ride from the Gateway of India, making this an easy day out from Mumbai.",
+      "history": "The fort was built under Shivaji Maharaj in 1680 and later became the base of the Maratha admiral Kanhoji Angre.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March; check tide times.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "location": {
+        "lat": 18.6343,
+        "lng": 72.8642,
+        "address": "Alibag beach, Alibag, Raigad district, Maharashtra 402201"
+      },
+      "highlights": [
+        "Walk across at low tide",
+        "Kanhoji Angre history",
+        "Freshwater wells",
+        "Ferry from the Gateway of India"
+      ],
+      "sources": [
+        {
+          "title": "Kolaba Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kolaba_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kolaba-fort.webp",
+          "alt": "Kolaba Fort, Alibag",
+          "credit": "Chirag Upadhyay",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kolaba_Fort_-_Alibag.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Kashid Beach",
+      "slug": "kashid-beach",
+      "city": "murud",
+      "kind": "beach",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A white-sand beach between two rocky hills on the Alibag–Murud road, 135 km from Mumbai.",
+      "description": "Kashid is a curved bay of pale sand framed by wooded hills, considered one of the cleanest beaches near Mumbai. The sea is shallow near the shore, and water sports such as parasailing and banana rides run in season. Casuarina trees shade the back of the beach. Janjira sea fort is 15 km south.",
+      "history": "A fishing village on the North Konkan coast that grew into a weekend resort for Mumbai and Pune.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "location": {
+        "lat": 18.4417,
+        "lng": 72.9056,
+        "address": "Kashid, Murud taluka, Raigad district, Maharashtra 402401"
+      },
+      "highlights": [
+        "White sand",
+        "Water sports",
+        "Casuarina groves",
+        "Near Murud-Janjira"
+      ],
+      "sources": [
+        {
+          "title": "Kashid – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kashid"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kashid-beach.webp",
+          "alt": "Kashid Beach, Murud",
+          "credit": "Wikimedia Commons contributor",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kashid_Beach_1.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Murud-Janjira",
+      "slug": "murud-janjira",
+      "city": "murud",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "isFeatured": true,
+      "shortDescription": "An island fortress that was never captured, held for centuries by the Siddis.",
+      "description": "Janjira rises straight out of the sea off the fishing village of Rajapuri, its 19 rounded bastions still armed with cannons. Sailboats take visitors across; the entrance is hidden from view until you are close. Inside are ruins of palaces, mosques and two freshwater tanks. Allow about two hours including the boat ride.",
+      "history": "Built in its present form around 1567 by the Siddis under Malik Ambar's patronage, it withstood attacks by the Marathas, Mughals and Portuguese.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "bestTimeNote": "Boats do not run in the monsoon (June to September).",
+      "entryFee": {
+        "note": "ASI ticket plus boat fare from Rajapuri jetty."
+      },
+      "timings": {
+        "hours": "About 7:00 AM – 6:00 PM"
+      },
+      "location": {
+        "lat": 18.2996,
+        "lng": 72.9644,
+        "address": "Rajapuri, Murud taluka, Raigad district, Maharashtra 402401"
+      },
+      "highlights": [
+        "Sailboat ride across",
+        "Hidden entrance",
+        "Kalal Bangadi cannon",
+        "Freshwater tanks"
+      ],
+      "sources": [
+        {
+          "title": "Murud-Janjira – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Murud-Janjira"
+        }
+      ]
+    },
+    {
+      "name": "Karnala Bird Sanctuary",
+      "slug": "karnala-bird-sanctuary",
+      "city": "panvel",
+      "kind": "sanctuary",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "Maharashtra's first bird sanctuary near Panvel, with a fort on a thumb-shaped pinnacle.",
+      "description": "Karnala Bird Sanctuary covers about 12 km² of forest on the Mumbai–Goa highway. More than 200 species of birds have been recorded, and early mornings in winter are the best for spotting them. A trail climbs to Karnala Fort, whose basalt pinnacle can be seen from far away. It is one of the few protected forests within easy reach of Mumbai.",
+      "history": "Declared Maharashtra's first bird sanctuary in 1968.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "note": "Small entry fee."
+      },
+      "timings": {
+        "hours": "7:00 AM – 6:00 PM"
+      },
+      "location": {
+        "lat": 18.9086,
+        "lng": 73.1025,
+        "address": "Mumbai–Goa Highway, Panvel, Raigad district, Maharashtra 410206"
+      },
+      "highlights": [
+        "200+ bird species",
+        "Karnala Fort trek",
+        "Thumb-shaped pinnacle",
+        "Forest trails"
+      ],
+      "sources": [
+        {
+          "title": "Karnala Bird Sanctuary – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Karnala_Bird_Sanctuary"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/karnala-bird-sanctuary.webp",
+          "alt": "Karnala Bird Sanctuary, Panvel",
+          "credit": "Ravi Vaidyanathan",
+          "license": "CC BY 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Karnala_006.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Diveagar Beach",
+      "slug": "diveagar-beach",
+      "city": "diveagar",
+      "kind": "beach",
+      "categories": [
+        "nature"
+      ],
+      "isHiddenGem": true,
+      "shortDescription": "A long, quiet beach in a coconut-and-betel village on the Raigad coast, about 170 km from Mumbai.",
+      "description": "Diveagar has one of the longest and least crowded beaches near Mumbai, backed by casuarina groves and plantations of coconut and betel nut. Homestays in old Konkan houses serve fish thalis and modak. The village is also known for its Suvarna Ganesh temple. Nearby Velas beach hosts an Olive Ridley turtle festival in spring.",
+      "history": "A fishing and farming village in Shrivardhan taluka that has opened to small-scale tourism.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "location": {
+        "lat": 18.1733,
+        "lng": 72.9917,
+        "address": "Diveagar, Shrivardhan taluka, Raigad district, Maharashtra 402404"
+      },
+      "highlights": [
+        "Long uncrowded beach",
+        "Konkan homestays",
+        "Suvarna Ganesh temple",
+        "Velas turtle festival nearby"
+      ],
+      "sources": [
+        {
+          "title": "Diveagar – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Diveagar"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/diveagar-beach.webp",
+          "alt": "Diveagar Beach, Diveagar",
+          "credit": "Pankaj Dhande",
+          "license": "CC BY 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Diveagar_beach_another_view.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Ganpatipule",
+      "slug": "ganpatipule",
+      "city": "ratnagiri",
+      "kind": "beach",
+      "categories": [
+        "nature",
+        "religious"
+      ],
+      "shortDescription": "A beach town on the Ratnagiri coast built around a 400-year-old Ganesha temple on the sand.",
+      "description": "Ganpatipule's temple houses a self-manifested Ganesha idol, and the beach right in front of it is one of the cleanest in the Konkan. Pilgrims walk around the hill behind the temple, which is believed to be the god himself. The sea is calm in winter, though currents can be strong. Ratnagiri town, famous for Alphonso mangoes, is 25 km away.",
+      "history": "The temple is said to be about 400 years old; the town grew around it as a pilgrimage and beach destination.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "location": {
+        "lat": 17.1448,
+        "lng": 73.2666,
+        "address": "Ganpatipule, Ratnagiri district, Maharashtra 415622"
+      },
+      "highlights": [
+        "Swayambhu Ganesha temple",
+        "Clean sandy beach",
+        "Pradakshina path around the hill",
+        "Alphonso mango season (April–May)"
+      ],
+      "sources": [
+        {
+          "title": "Ganpatipule – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ganpatipule"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/ganpatipule.webp",
+          "alt": "Ganpatipule, Ratnagiri",
+          "credit": "Dmpendse (",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_Beach_at_GanapatiPule.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Tarkarli Beach",
+      "slug": "tarkarli-beach",
+      "city": "malvan",
+      "kind": "beach",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "The 'Queen beach of the Konkan', with clear water for snorkelling and scuba diving near Malvan.",
+      "description": "Tarkarli is a long white-sand beach where the Karli river meets the sea. Its unusually clear water makes it Maharashtra's main spot for snorkelling and scuba diving, with dive centres near Malvan. Houseboat rides on the Karli backwaters and dolphin-spotting trips leave in the mornings. Fresh Malvani fish curry is a must.",
+      "history": "A fishing village in Malvan taluka; the government set up the Indian Institute of Scuba Diving and Aquatic Sports here.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "bestTimeNote": "October to April; water sports stop in the monsoon.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "location": {
+        "lat": 15.9987,
+        "lng": 73.4916,
+        "address": "Tarkarli, Malvan taluka, Sindhudurg district, Maharashtra 416606"
+      },
+      "highlights": [
+        "Snorkelling and scuba diving",
+        "Karli backwater houseboats",
+        "Dolphin trips",
+        "Malvani seafood"
+      ],
+      "sources": [
+        {
+          "title": "Tarkarli – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Tarkarli"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/tarkarli-beach.webp",
+          "alt": "Tarkarli Beach, Malvan",
+          "credit": "Rohit Keluskar",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tarkarli_Photo_by_Sandeep_Wairkar.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sindhudurg Fort",
+      "slug": "sindhudurg-fort",
+      "city": "malvan",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "Shivaji Maharaj's great sea fort off Malvan, with his handprint and footprint preserved in its walls.",
+      "description": "Sindhudurg stands on a rocky island off Malvan, reached by a short boat ride. Its walls stretch for about 3 km with dozens of bastions, built partly on lead-sealed foundations. Inside are a temple to Shivaji Maharaj, one of very few in India, and imprints of his hand and foot in lime. Families still live within the fort.",
+      "history": "Commissioned by Shivaji Maharaj, the fort was built between 1664 and 1667 to counter Siddi and European naval power.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "bestTimeNote": "Boats do not run in the monsoon.",
+      "entryFee": {
+        "note": "Boat fare from Malvan jetty; small entry fee."
+      },
+      "location": {
+        "lat": 16.0438,
+        "lng": 73.4614,
+        "address": "Malvan, Sindhudurg district, Maharashtra 416606"
+      },
+      "highlights": [
+        "Shivrajeshwar temple",
+        "Hand and footprint of Shivaji Maharaj",
+        "3 km of sea walls",
+        "Boat ride from Malvan"
+      ],
+      "sources": [
+        {
+          "title": "Sindhudurg Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sindhudurg_Fort"
+        }
+      ]
+    },
+    {
+      "name": "Vijaydurg Fort",
+      "slug": "vijaydurg-fort",
+      "city": "devgad",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The oldest fort on the Sindhudurg coast, a Maratha naval base on a rocky headland.",
+      "description": "Vijaydurg's triple walls rise from a headland at the mouth of the Waghotan creek. It was the main base of the Maratha navy, and its underwater wall, discovered by divers, is thought to have wrecked enemy ships. Inside are cisterns, storehouses and the ruins of a palace. It sees far fewer visitors than Sindhudurg.",
+      "history": "First built under the Shilahara king Bhoja II between 1193 and 1205, it was rebuilt and renamed by Shivaji Maharaj.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "location": {
+        "lat": 16.5608,
+        "lng": 73.3333,
+        "address": "Vijaydurg, Devgad taluka, Sindhudurg district, Maharashtra 416806"
+      },
+      "highlights": [
+        "Triple ring of walls",
+        "Underwater wall",
+        "Maratha navy history",
+        "Few crowds"
+      ],
+      "sources": [
+        {
+          "title": "Vijaydurg Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Vijaydurg_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/vijaydurg-fort.webp",
+          "alt": "Vijaydurg Fort, Devgad",
+          "credit": "Ravi Vaidyanathan",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bastions_of_vijaydurg.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Amboli",
+      "slug": "amboli",
+      "city": "amboli",
+      "kind": "hill-station",
+      "categories": [
+        "nature"
+      ],
+      "isHiddenGem": true,
+      "shortDescription": "A rain-soaked hill station on the last ghat before Goa, full of waterfalls and rare frogs.",
+      "description": "Amboli sits at about 700 m in the Western Ghats of Sindhudurg and receives some of the heaviest rain in Maharashtra. In the monsoon the main waterfall beside the ghat road and many smaller ones come alive, and the forest is a hotspot for frogs, snakes and endemic plants, attracting naturalists. Mist often hides the view entirely. Winters are clear and cool.",
+      "history": "Developed as a small hill resort in British times; it lies in one of the world's biodiversity hotspots.",
+      "bestMonths": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1
+      ],
+      "bestTimeNote": "The monsoon for waterfalls and frogs; carry rain gear.",
+      "location": {
+        "lat": 15.9625,
+        "lng": 73.9978,
+        "address": "Amboli, Sawantwadi taluka, Sindhudurg district, Maharashtra 416510"
+      },
+      "highlights": [
+        "Amboli waterfall",
+        "Hiranyakeshi river source",
+        "Night walks for frogs",
+        "Sunset Point"
+      ],
+      "sources": [
+        {
+          "title": "Amboli, Sindhudurg – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Amboli,_Sindhudurg"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/amboli.webp",
+          "alt": "Amboli",
+          "credit": "Nilesh2 str at en.wikipedia",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amboli5.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Mahabaleshwar",
+      "slug": "mahabaleshwar",
+      "city": "mahabaleshwar",
+      "kind": "hill-station",
+      "categories": [
+        "nature",
+        "religious"
+      ],
+      "isFeatured": true,
+      "shortDescription": "Maharashtra's favourite hill station and source of the Krishna river, famous for strawberries.",
+      "description": "Mahabaleshwar sits at about 1,350 m in the Sahyadri. Viewpoints like Arthur's Seat, Wilson Point and Elephant's Head look over deep valleys, and Venna Lake offers boating. In winter and spring roadside farms sell fresh strawberries with cream. The old Panchganga temple marks the source of the Krishna and four other rivers.",
+      "history": "The British developed it as a hill station in the 1820s, and it served as the summer capital of the Bombay Presidency.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "bestTimeNote": "October to May; many viewpoints are fogged in during the heavy monsoon.",
+      "location": {
+        "lat": 17.925,
+        "lng": 73.6575,
+        "address": "Mahabaleshwar, Satara district, Maharashtra 412806"
+      },
+      "highlights": [
+        "Arthur's Seat",
+        "Strawberry farms",
+        "Panchganga temple",
+        "Wilson Point sunrise"
+      ],
+      "sources": [
+        {
+          "title": "Mahabaleshwar – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mahabaleshwar"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/mahabaleshwar.webp",
+          "alt": "Mahabaleshwar",
+          "credit": "Amitban77",
+          "license": "CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:MAHABALESWAR_LANDSCAPE.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Venna Lake",
+      "slug": "venna-lake",
+      "city": "mahabaleshwar",
+      "kind": "lake",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A tree-lined lake in Mahabaleshwar for boating, horse rides and corn on the cob.",
+      "description": "Venna Lake is the centre of Mahabaleshwar's evening life. Rowing and pedal boats go out on the water, horse rides run along the bank, and stalls sell corn, strawberries and chikki. In winter the lake can be misty in the early morning. It is a short walk from the main market.",
+      "history": "The lake was built in 1842 by Shahaji, the last raja of the Satara princely state.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "entryFee": {
+        "note": "Boating charged separately."
+      },
+      "location": {
+        "lat": 17.934,
+        "lng": 73.665,
+        "address": "Mahabaleshwar–Panchgani Road, Mahabaleshwar, Maharashtra 412806"
+      },
+      "highlights": [
+        "Boating",
+        "Horse rides",
+        "Strawberries and corn",
+        "Morning mist"
+      ],
+      "sources": [
+        {
+          "title": "Venna Lake – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Venna_Lake"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/venna-lake.webp",
+          "alt": "Venna Lake, Mahabaleshwar",
+          "credit": "Ganesh G (Ganeshrg)",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boats_On_Venna_Lake.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Pratapgad",
+      "slug": "pratapgad",
+      "city": "mahabaleshwar",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The mountain fort where Shivaji Maharaj defeated Afzal Khan in 1659, 24 km from Mahabaleshwar.",
+      "description": "Pratapgad guards the Par pass on the old road from the Deccan to the Konkan. Steps lead up to the Bhavani temple, which Shivaji Maharaj built, and a bronze equestrian statue of him stands on the upper fort. The battle against the Bijapur general Afzal Khan at the foot of this fort is one of the most famous events of Maratha history. A road reaches most of the way up.",
+      "history": "Built in 1656 under Shivaji Maharaj; the Battle of Pratapgad took place here on 10 November 1659.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "location": {
+        "lat": 17.9362,
+        "lng": 73.5776,
+        "address": "Pratapgad, Mahabaleshwar taluka, Satara district, Maharashtra 412806"
+      },
+      "highlights": [
+        "Bhavani temple",
+        "Equestrian statue of Shivaji Maharaj",
+        "Afzal Khan's tomb below",
+        "Views of the Konkan"
+      ],
+      "sources": [
+        {
+          "title": "Pratapgad – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pratapgad"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/pratapgad.webp",
+          "alt": "Pratapgad, Mahabaleshwar",
+          "credit": "Neeraj Rane",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pratapgad_The_Fort_of_Valour.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Panchgani",
+      "slug": "panchgani",
+      "city": "panchgani",
+      "kind": "hill-station",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A hill town of boarding schools and the Table Land plateau, between five hills above the Krishna valley.",
+      "description": "Panchgani takes its name from the five hills around it. Its best-known sight is Table Land, one of the largest volcanic plateaus in Asia, popular for walks, horse rides and sunset. Viewpoints such as Sydney Point look down on the Krishna valley and Dhom Dam. The town keeps an old-world feel with its century-old schools.",
+      "history": "Founded in the 1860s by the British as a summer resort, under the supervision of John Chesson.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 17.925,
+        "lng": 73.8,
+        "address": "Panchgani, Mahabaleshwar taluka, Satara district, Maharashtra 412805"
+      },
+      "highlights": [
+        "Table Land plateau",
+        "Sydney Point",
+        "Parsi Point",
+        "Colonial boarding schools"
+      ],
+      "sources": [
+        {
+          "title": "Panchgani – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Panchgani"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/panchgani.webp",
+          "alt": "Panchgani",
+          "credit": "Akhilesh Dasgupta",
+          "license": "CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panchghani_Hill.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kaas Plateau",
+      "slug": "kaas-plateau",
+      "city": "satara",
+      "kind": "valley",
+      "categories": [
+        "nature"
+      ],
+      "isFeatured": true,
+      "shortDescription": "A UNESCO-listed plateau near Satara that turns into a carpet of wildflowers each monsoon.",
+      "description": "For a few weeks after the monsoon, Kaas Pathar near Satara blooms with hundreds of species of wildflowers, many found nowhere else, in waves of pink, purple, yellow and white. Walking is restricted to marked paths to protect the plants, and daily visitor numbers are capped, so book online. Kaas Lake and the Thoseghar waterfalls are nearby.",
+      "history": "The plateau became part of the Western Ghats UNESCO World Natural Heritage Site in 2012.",
+      "bestMonths": [
+        8,
+        9,
+        10
+      ],
+      "bestTimeNote": "Late August to early October; online booking required in the flowering season.",
+      "entryFee": {
+        "note": "Entry ticket, booked online during the flowering season."
+      },
+      "location": {
+        "lat": 17.7202,
+        "lng": 73.8228,
+        "address": "Kas, Satara district, Maharashtra 415002"
+      },
+      "highlights": [
+        "Wildflower carpets",
+        "Endemic plants and butterflies",
+        "Kaas Lake",
+        "Booked-slot visits"
+      ],
+      "sources": [
+        {
+          "title": "Kas Plateau Reserved Forest – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kas_Plateau_Reserved_Forest"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kaas-plateau.webp",
+          "alt": "Kaas Plateau, Satara",
+          "credit": "Parabsachin",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaas-7016.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Thoseghar Waterfalls",
+      "slug": "thoseghar-waterfalls",
+      "city": "satara",
+      "kind": "waterfall",
+      "categories": [
+        "nature"
+      ],
+      "isHiddenGem": true,
+      "shortDescription": "A series of waterfalls near Satara, the tallest dropping about 200 m into a forested gorge.",
+      "description": "Thoseghar, 20 km from Satara, is a cluster of waterfalls at the edge of the Konkan. The highest plunges about 200 m, and viewing galleries let you look into the gorge safely. The falls are at their fullest from July to September and dry up by winter. Combine with Kaas Plateau on the same day.",
+      "history": "The area is protected by the forest department, which built the viewing platforms and steps.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "bestTimeNote": "July to October; little water after November.",
+      "entryFee": {
+        "note": "Small entry fee."
+      },
+      "location": {
+        "lat": 17.5966,
+        "lng": 73.8458,
+        "address": "Thoseghar, Satara district, Maharashtra 415013"
+      },
+      "highlights": [
+        "200 m main fall",
+        "Viewing galleries",
+        "Monsoon mist",
+        "Near Kaas Plateau"
+      ],
+      "sources": [
+        {
+          "title": "Thoseghar Waterfalls – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Thoseghar_Waterfalls"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/thoseghar-waterfalls.webp",
+          "alt": "Thoseghar Waterfalls, Satara",
+          "credit": "VikasHegde",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E0%B2%A4%E0%B3%8B%E0%B2%B6%E0%B3%86%E0%B2%98%E0%B2%B0%E0%B3%8D_%E0%B2%9C%E0%B2%B2%E0%B2%AA%E0%B2%BE%E0%B2%A4.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Koyna Dam",
+      "slug": "koyna-dam",
+      "city": "koynanagar",
+      "kind": "dam",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "One of Maharashtra's largest dams, holding back Shivsagar lake in the forested Koyna valley.",
+      "description": "The Koyna Dam, on the river that rises at Mahabaleshwar, creates the long Shivsagar reservoir and powers one of India's largest hydroelectric projects. The Nehru Garden overlooks the dam, and when the gates open in the monsoon the spillway is dramatic. The surrounding Koyna Wildlife Sanctuary forms part of the Sahyadri Tiger Reserve.",
+      "history": "Built in the 1960s; the region was hit by a major earthquake in 1967 that the dam survived.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1
+      ],
+      "location": {
+        "lat": 17.4017,
+        "lng": 73.7522,
+        "address": "Koynanagar, Patan taluka, Satara district, Maharashtra 415206"
+      },
+      "highlights": [
+        "Shivsagar reservoir",
+        "Nehru Garden viewpoint",
+        "Monsoon spillway",
+        "Koyna Wildlife Sanctuary"
+      ],
+      "sources": [
+        {
+          "title": "Koyna Dam – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Koyna_Dam"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/koyna-dam.webp",
+          "alt": "Koyna Dam, Koynanagar",
+          "credit": "वर्षा देशपांडे",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Water_being_released_from_the_gates_of_Koyana_Dam_in_Satara_district,_Maharashtra,_India.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Raigad Fort",
+      "slug": "raigad-fort",
+      "city": "mahad",
+      "kind": "fort",
+      "categories": [
+        "heritage",
+        "adventure"
+      ],
+      "isFeatured": true,
+      "shortDescription": "The capital of the Maratha kingdom, where Shivaji Maharaj was crowned in 1674; reached by ropeway or 1,400 steps.",
+      "description": "Raigad rises steeply above Mahad and covers a vast hilltop of about 1,200 acres. Climb the stone steps or take the ropeway to see the Maha Darwaja, the remains of the palace and the royal market, the Ganga Sagar lake and Shivaji Maharaj's samadhi. The coronation site with his statue is the emotional heart of the fort. Plan a full day.",
+      "history": "Shivaji Maharaj rebuilt the fort with his engineer Hiroji Indulkar and was crowned Chhatrapati here in 1674; he died here in 1680.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        7,
+        8,
+        9
+      ],
+      "bestTimeNote": "Winter for clear views; the ropeway may stop in heavy rain.",
+      "entryFee": {
+        "note": "ASI ticket; ropeway charged separately."
+      },
+      "timings": {
+        "hours": "Sunrise – sunset"
+      },
+      "location": {
+        "lat": 18.2335,
+        "lng": 73.4406,
+        "address": "Raigad, Mahad taluka, Raigad district, Maharashtra 402305"
+      },
+      "highlights": [
+        "Coronation site and statue",
+        "Samadhi of Shivaji Maharaj",
+        "Raigad ropeway",
+        "Royal market ruins"
+      ],
+      "sources": [
+        {
+          "title": "Raigad Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Raigad_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/raigad-fort.webp",
+          "alt": "Raigad Fort, Mahad",
+          "credit": "Nilamgandhre",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nagarkhana,_Raigad_Fort,_India.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Mahalakshmi Temple, Kolhapur",
+      "slug": "mahalakshmi-temple-kolhapur",
+      "city": "kolhapur",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious",
+        "heritage"
+      ],
+      "shortDescription": "The ancient Ambabai temple of Kolhapur, one of India's most important shrines of the goddess.",
+      "description": "The Mahalakshmi or Ambabai temple is a black-stone shrine in the old heart of Kolhapur, richly carved and crowded with devotees. Twice a year, during Kiranotsav, the setting sun shines straight onto the idol's face through the temple windows. Many pilgrims combine a visit with Tirumala in Andhra Pradesh. The market lanes around sell Kolhapuri chappals and jaggery.",
+      "history": "The temple's oldest parts date from the Chalukya period, around the 7th century; it was expanded by later rulers.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "Navratri (September–October) is the biggest festival.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "About 4:30 AM – 10:00 PM"
+      },
+      "location": {
+        "lat": 16.6949,
+        "lng": 74.2229,
+        "address": "Mahadwar Road, Kolhapur, Maharashtra 416012"
+      },
+      "highlights": [
+        "Ambabai idol",
+        "Kiranotsav sun rays",
+        "Carved stone halls",
+        "Old-city markets"
+      ],
+      "sources": [
+        {
+          "title": "Mahalakshmi Temple, Kolhapur – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mahalakshmi_Temple,_Kolhapur"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/mahalakshmi-temple-kolhapur.webp",
+          "alt": "Mahalakshmi Temple, Kolhapur, Kolhapur",
+          "credit": "Lovelitjadhav",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mahalaxmi_Temple,_Kolhapur.jpg"
+        }
+      ]
+    },
+    {
+      "name": "New Palace, Kolhapur",
+      "slug": "new-palace-kolhapur",
+      "city": "kolhapur",
+      "kind": "palace",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The black-stone palace of the Kolhapur maharajas, part of which is now the Shahaji Chhatrapati Museum.",
+      "description": "Built in polished black stone with an octagonal plan and a central clock tower, the New Palace blends Jain, Hindu, Rajasthani and Mughal styles. Its museum displays royal weapons, costumes, hunting trophies and letters, including those of Chhatrapati Shahu Maharaj. The royal family still lives in part of the palace. The gardens and a small zoo surround it.",
+      "history": "Constructed between 1877 and 1884 at a cost of about seven lakh rupees.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "note": "Museum ticket."
+      },
+      "timings": {
+        "hours": "9:30 AM – 5:30 PM"
+      },
+      "location": {
+        "lat": 16.7187,
+        "lng": 74.2333,
+        "address": "New Palace Road, Kolhapur, Maharashtra 416003"
+      },
+      "highlights": [
+        "Black-stone architecture",
+        "Shahaji Chhatrapati Museum",
+        "Clock tower",
+        "Royal armoury"
+      ],
+      "sources": [
+        {
+          "title": "New Palace, Kolhapur – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/New_Palace,_Kolhapur"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/new-palace-kolhapur.webp",
+          "alt": "New Palace, Kolhapur, Kolhapur",
+          "credit": "Vijayshankar.munoli",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kolhapur_New_Palace.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Rankala Lake",
+      "slug": "rankala-lake",
+      "city": "kolhapur",
+      "kind": "lake",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "Kolhapur's lakeside promenade, where the city gathers for sunset, horse rides and street food.",
+      "description": "Rankala Lake lies on the western edge of old Kolhapur. Its promenade, Rankala Chowpatty, buzzes in the evening with horse rides, boating and stalls selling bhel and Kolhapuri snacks. The Shalini Palace stands on its western bank. Early mornings are calm and good for walks.",
+      "history": "The lake has been Kolhapur's favourite public space since the days of the Kolhapur princely state, whose rulers built the Shalini Palace on its western bank.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "location": {
+        "lat": 16.6886,
+        "lng": 74.211,
+        "address": "Rankala, Kolhapur, Maharashtra 416012"
+      },
+      "highlights": [
+        "Sunset at Rankala Chowpatty",
+        "Shalini Palace",
+        "Boating",
+        "Kolhapuri street food"
+      ],
+      "sources": [
+        {
+          "title": "Rankala Lake – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Rankala_Lake"
+        }
+      ]
+    },
+    {
+      "name": "Panhala Fort",
+      "slug": "panhala-fort",
+      "city": "panhala",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A large hill fort near Kolhapur linked with Shivaji Maharaj's daring escape in 1660.",
+      "description": "Panhala is one of the largest Deccan forts, with a whole town inside its walls, reached by road. Its granaries, the Teen Darwaza gateway and Sajja Kothi, where Shivaji Maharaj stayed, survive. The fort is famous for his escape during the siege of 1660, when Baji Prabhu Deshpande held the pass at Pavankhind so he could reach Vishalgad. It has a pleasant climate and sunset views.",
+      "history": "Built by the Shilahara king Bhoja II around the 12th century, it later served the Bijapur Sultanate and the Marathas.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "location": {
+        "lat": 16.8089,
+        "lng": 74.1092,
+        "address": "Panhala, Kolhapur district, Maharashtra 416201"
+      },
+      "highlights": [
+        "Teen Darwaza",
+        "Sajja Kothi",
+        "Ambarkhana granaries",
+        "Pavankhind story"
+      ],
+      "sources": [
+        {
+          "title": "Panhala Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Panhala_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/panhala-fort.webp",
+          "alt": "Panhala Fort, Panhala",
+          "credit": "Unknown authorUnknown author",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Teen_darwaza_panhala.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Radhanagari Wildlife Sanctuary",
+      "slug": "radhanagari-wildlife-sanctuary",
+      "city": "radhanagari",
+      "kind": "sanctuary",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "Maharashtra's first wildlife sanctuary, a forest of gaur and birds in the Western Ghats near Kolhapur.",
+      "description": "Radhanagari, also called Dajipur sanctuary, protects evergreen and semi-evergreen forest at the southern end of the Sahyadri. It is best known for herds of gaur (Indian bison), along with leopards, sloth bears and more than 200 species of birds. Jeep safaris run from Dajipur. The forest is part of the Western Ghats World Heritage Site.",
+      "history": "Notified in 1958 as Dajipur Wildlife Sanctuary, Maharashtra's first; listed by UNESCO in 2012.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "entryFee": {
+        "note": "Forest entry and safari fees."
+      },
+      "location": {
+        "lat": 16.3848,
+        "lng": 73.9553,
+        "address": "Dajipur, Radhanagari taluka, Kolhapur district, Maharashtra 416212"
+      },
+      "highlights": [
+        "Gaur herds",
+        "Jeep safaris",
+        "Birdwatching",
+        "Radhanagari Dam"
+      ],
+      "sources": [
+        {
+          "title": "Radhanagari Wildlife Sanctuary – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Radhanagari_Wildlife_Sanctuary"
+        }
+      ]
+    },
+    {
+      "name": "Trimbakeshwar Temple",
+      "slug": "trimbakeshwar-temple",
+      "city": "trimbak",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious",
+        "heritage"
+      ],
+      "shortDescription": "A black-stone Jyotirlinga temple near the source of the Godavari, 28 km from Nashik.",
+      "description": "Trimbakeshwar is one of the twelve Jyotirlingas, unusual because its lingam has three faces representing Brahma, Vishnu and Shiva. The temple, in black basalt with fine carvings, stands at the foot of the Brahmagiri hills, where the Godavari rises. Priests here keep genealogy registers for pilgrim families. Non-Hindus may view it from outside.",
+      "history": "The present temple was built in the 18th century by the Peshwa Balaji Bajirao (Nanasaheb).",
+      "bestMonths": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "entryFee": {
+        "indian": 0,
+        "note": "Paid quick darshan available."
+      },
+      "location": {
+        "lat": 19.9322,
+        "lng": 73.5308,
+        "address": "Trimbak, Nashik district, Maharashtra 422212"
+      },
+      "highlights": [
+        "Three-faced Jyotirlinga",
+        "Black-stone carvings",
+        "Brahmagiri hill",
+        "Kushavarta tank"
+      ],
+      "sources": [
+        {
+          "title": "Trimbakeshwar Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Trimbakeshwar_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/trimbakeshwar-temple.webp",
+          "alt": "Trimbakeshwar Temple, Trimbak",
+          "credit": "Abhideo21",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trimbakeshwar_Temple-Nashik-Maharashtra-1.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Harihar Fort",
+      "slug": "harihar-fort",
+      "city": "trimbak",
+      "kind": "trek",
+      "categories": [
+        "adventure",
+        "heritage"
+      ],
+      "shortDescription": "A hill fort famous for its near-vertical rock-cut steps, one of the most thrilling short treks in Maharashtra.",
+      "description": "Harihar Fort, also called Harshagad, sits on a triangular rock prism near Trimbak. The final climb is a staircase of about 117 steps cut into a near-vertical rock face, with footholds and handholds carved into the stone. The view from the top takes in the Brahmagiri range and the Vaitarna reservoir. Avoid it in heavy rain and on crowded weekends.",
+      "history": "Built in the Yadava period, it was among the forts surrendered to the Mughals in 1636 and later taken by the British in 1818.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "bestTimeNote": "Monsoon is beautiful but slippery; go early on weekdays.",
+      "location": {
+        "lat": 19.905,
+        "lng": 73.472,
+        "address": "Harshewadi, Trimbakeshwar taluka, Nashik district, Maharashtra"
+      },
+      "highlights": [
+        "Rock-cut vertical steps",
+        "Triangular rock summit",
+        "Brahmagiri views",
+        "Monsoon clouds"
+      ],
+      "sources": [
+        {
+          "title": "Harihar fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Harihar_fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/harihar-fort.webp",
+          "alt": "Harihar Fort, Trimbak",
+          "credit": "Ccmarathe",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hariharfort.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Pandavleni Caves",
+      "slug": "pandavleni-caves",
+      "city": "nashik",
+      "kind": "caves",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "Twenty-four Buddhist caves on Trirashmi hill in Nashik, with inscriptions from the Satavahana period.",
+      "description": "The Pandavleni or Nashik Caves are carved into a hill about 8 km from the city centre, reached by a staircase. Most are monasteries (viharas), and Cave 18 is a 1st-century BCE prayer hall with a carved façade. Inscriptions record gifts by Satavahana and Western Kshatrapa rulers. Sunset views over Nashik are a bonus.",
+      "history": "The caves were carved between the 1st century BCE and the 3rd century CE; Cave 11 is a later Jain cave.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "indian": 25,
+        "foreigner": 300,
+        "child": 0,
+        "note": "ASI rates (slightly less online); verify before your visit."
+      },
+      "timings": {
+        "hours": "8:00 AM – 6:00 PM"
+      },
+      "location": {
+        "lat": 19.9412,
+        "lng": 73.7486,
+        "address": "Pathardi Phata, Nashik, Maharashtra 422010"
+      },
+      "highlights": [
+        "Cave 18 chaitya",
+        "Satavahana inscriptions",
+        "Carved pillars",
+        "Sunset over Nashik"
+      ],
+      "sources": [
+        {
+          "title": "Nasik Caves – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nasik_Caves"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/pandavleni-caves.webp",
+          "alt": "Pandavleni Caves, Nashik",
+          "credit": "Kaho",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nasik_cave_17.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Saptashrungi",
+      "slug": "saptashrungi",
+      "city": "vani",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A hilltop shrine of the goddess Saptashrungi, set among seven peaks 60 km from Nashik.",
+      "description": "The goddess Saptashrungi Nivasini is believed to live among seven peaks above the village of Vani. Pilgrims climb about 500 steps or take the funicular trolley to the cave shrine, where an 18-armed idol is carved into the rock. It is counted among the three and a half Shakti Peethas of Maharashtra. Navratri and Chaitra festivals draw huge crowds.",
+      "history": "An ancient shrine; the funicular opened in 2018 to make the climb easier.",
+      "bestMonths": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "entryFee": {
+        "indian": 0,
+        "note": "Funicular ticket extra."
+      },
+      "location": {
+        "lat": 20.3903,
+        "lng": 73.9086,
+        "address": "Saptashrungi Gad, Kalwan taluka, Nashik district, Maharashtra 422215"
+      },
+      "highlights": [
+        "Eighteen-armed goddess",
+        "Funicular ride",
+        "Seven peaks",
+        "Navratri festival"
+      ],
+      "sources": [
+        {
+          "title": "Saptashrungi – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Saptashrungi"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/saptashrungi.webp",
+          "alt": "Saptashrungi, Vani",
+          "credit": "AmitUdeshi",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Goddess_Saptashrungi_Devi_Temple1.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Bibi Ka Maqbara",
+      "slug": "bibi-ka-maqbara",
+      "city": "chhatrapati-sambhajinagar",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The 'Taj of the Deccan', a 17th-century Mughal tomb modelled on the Taj Mahal.",
+      "description": "Bibi Ka Maqbara is the tomb of Dilras Banu Begum, wife of Aurangzeb. Its white dome, minarets and long water channel echo the Taj Mahal at a smaller scale, which is why it is called the Taj of the Deccan. The lower walls use marble, while the upper parts are finished in fine lime plaster. Visit in the late afternoon for soft light.",
+      "history": "Commissioned in 1660 by Prince Azam Shah in memory of his mother; designed by Ata-ullah, son of one of the Taj Mahal's architects.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "indian": 25,
+        "foreigner": 300,
+        "child": 0,
+        "note": "ASI rates (slightly less online); verify before your visit."
+      },
+      "timings": {
+        "hours": "Sunrise – 10:00 PM"
+      },
+      "location": {
+        "lat": 19.9015,
+        "lng": 75.3202,
+        "address": "Begumpura, Chhatrapati Sambhajinagar, Maharashtra 431004"
+      },
+      "highlights": [
+        "Taj-like dome",
+        "Charbagh garden",
+        "Evening illumination",
+        "Marble screens"
+      ],
+      "sources": [
+        {
+          "title": "Bibi Ka Maqbara – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bibi_Ka_Maqbara"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/bibi-ka-maqbara.webp",
+          "alt": "Bibi Ka Maqbara, Chhatrapati Sambhajinagar",
+          "credit": "Ameya Kulkarni",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Tomb_of_Dilras_Banu_Begum.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Aurangabad Caves",
+      "slug": "aurangabad-caves",
+      "city": "chhatrapati-sambhajinagar",
+      "kind": "caves",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "isHiddenGem": true,
+      "shortDescription": "Twelve 6th–7th century Buddhist caves on a hill above the city, with fine sculptures and few visitors.",
+      "description": "Often skipped for Ajanta and Ellora, these caves on the hill behind Bibi Ka Maqbara hold beautiful Buddhist sculpture, including large Bodhisattva figures and groups of female musicians and dancers. They are divided into eastern and western groups. The views over the city are wide and the paths quiet.",
+      "history": "Carved during the 6th and 7th centuries CE into comparatively soft basalt.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "indian": 25,
+        "foreigner": 300,
+        "child": 0,
+        "note": "ASI rates (slightly less online); verify before your visit."
+      },
+      "timings": {
+        "hours": "Sunrise – sunset"
+      },
+      "location": {
+        "lat": 19.9169,
+        "lng": 75.3119,
+        "address": "Near Bibi Ka Maqbara, Chhatrapati Sambhajinagar, Maharashtra 431004"
+      },
+      "highlights": [
+        "Dancing and music relief",
+        "Bodhisattva sculptures",
+        "Quiet hillside",
+        "City views"
+      ],
+      "sources": [
+        {
+          "title": "Chhatrapati Sambhajinagar Caves – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chhatrapati_Sambhajinagar_Caves"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/aurangabad-caves.webp",
+          "alt": "Aurangabad Caves, Chhatrapati Sambhajinagar",
+          "credit": "Ms Sarah Welch",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:1_Hinayana_style_Aurangabad_Buddhist_Cave_with_stupa.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Daulatabad Fort",
+      "slug": "daulatabad-fort",
+      "city": "daulatabad",
+      "kind": "fort",
+      "categories": [
+        "heritage",
+        "adventure"
+      ],
+      "shortDescription": "The 'invincible' Devagiri fort, with a dark spiral tunnel, moats and the Chand Minar tower.",
+      "description": "Daulatabad Fort crowns a cone-shaped hill on the road to Ellora. To reach the top you pass three rings of walls, the 63 m Chand Minar, a moat and a pitch-dark tunnel once used to confuse attackers. The climb takes about an hour and rewards with views across the Deccan. Carry a torch.",
+      "history": "As Devagiri it was the capital of the Yadavas; Muhammad bin Tughluq moved the capital of the Delhi Sultanate here in 1327 and renamed it Daulatabad.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "indian": 25,
+        "foreigner": 300,
+        "child": 0,
+        "note": "ASI rates (slightly less online); verify before your visit."
+      },
+      "timings": {
+        "hours": "6:00 AM – 6:00 PM"
+      },
+      "location": {
+        "lat": 19.9427,
+        "lng": 75.2132,
+        "address": "Daulatabad, Chhatrapati Sambhajinagar district, Maharashtra 431002"
+      },
+      "highlights": [
+        "Chand Minar",
+        "Dark spiral tunnel",
+        "Moat and walls",
+        "Summit views"
+      ],
+      "sources": [
+        {
+          "title": "Daulatabad Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Daulatabad_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/daulatabad-fort.webp",
+          "alt": "Daulatabad Fort, Daulatabad",
+          "credit": "Aak.jain54",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Daulatabad_Fort_a_view.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Grishneshwar Temple",
+      "slug": "grishneshwar-temple",
+      "city": "verul",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious",
+        "heritage"
+      ],
+      "shortDescription": "The twelfth Jyotirlinga, a red-stone temple a short walk from the Ellora Caves.",
+      "description": "Grishneshwar is one of the twelve Jyotirlinga shrines of Shiva, in Verul village 1.5 km from Ellora. Its walls of red basalt are carved with gods and scenes from Hindu stories, under a five-tiered shikhara. Men must remove their shirts to enter the inner sanctum. Combine it with Ellora and Daulatabad in one day.",
+      "history": "The present temple was rebuilt in the 18th century by Ahilyabai Holkar.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "About 5:30 AM – 9:30 PM"
+      },
+      "location": {
+        "lat": 20.025,
+        "lng": 75.1699,
+        "address": "Verul, Khuldabad taluka, Chhatrapati Sambhajinagar district, Maharashtra 431102"
+      },
+      "highlights": [
+        "Jyotirlinga shrine",
+        "Red basalt carvings",
+        "Near Ellora Caves",
+        "Ahilyabai Holkar's restoration"
+      ],
+      "sources": [
+        {
+          "title": "Ghrishneshwar Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ghrishneshwar_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/grishneshwar-temple.webp",
+          "alt": "Grishneshwar Temple, Verul (Ellora)",
+          "credit": "Rashmi.parab",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grishneshwar_temple_in_Aurangabad_district.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Jayakwadi Dam and Bird Sanctuary",
+      "slug": "jayakwadi-dam",
+      "city": "paithan",
+      "kind": "dam",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A huge reservoir on the Godavari at Paithan, whose shores host flamingos and migratory birds in winter.",
+      "description": "Jayakwadi Dam creates the Nath Sagar reservoir, one of the largest in Maharashtra. Its shallow edges form a bird sanctuary visited by flamingos, bar-headed geese and many waders in winter. The Dnyaneshwar Udyan garden below the dam is modelled on Mysuru's Brindavan Gardens. Paithan town, known for Paithani silk and the saint Eknath, is next door.",
+      "history": "Completed in 1976 to irrigate the drought-prone Marathwada region.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "November to March for migratory birds.",
+      "location": {
+        "lat": 19.4857,
+        "lng": 75.37,
+        "address": "Paithan, Chhatrapati Sambhajinagar district, Maharashtra 431107"
+      },
+      "highlights": [
+        "Winter flamingos",
+        "Nath Sagar reservoir",
+        "Dnyaneshwar Udyan",
+        "Paithani weaving in Paithan"
+      ],
+      "sources": [
+        {
+          "title": "Jayakwadi Dam – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jayakwadi_Dam"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/jayakwadi-dam.webp",
+          "alt": "Jayakwadi Dam and Bird Sanctuary, Paithan",
+          "credit": "Prasad P. Khangaonkar",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jayakwadi_Dam.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Lonar Lake",
+      "slug": "lonar-lake",
+      "city": "lonar",
+      "kind": "lake",
+      "categories": [
+        "nature"
+      ],
+      "isFeatured": true,
+      "shortDescription": "A saline lake inside a 1.8 km meteorite crater, India's only crater lake of meteoritic origin.",
+      "description": "Lonar Lake fills a crater 150 m deep formed by a meteorite impact tens of thousands of years ago. Its alkaline green water is ringed by forest and ancient temples, including the Daitya Sudan temple in town. A trail leads down to the shore, and the rim offers views of the whole crater. It is a National Geological Monument and a Ramsar wetland.",
+      "history": "Estimates of the crater's age vary; it has been studied by geologists since the 19th century and was declared a Ramsar site in 2020.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "location": {
+        "lat": 19.975,
+        "lng": 76.5075,
+        "address": "Lonar, Buldhana district, Maharashtra 443302"
+      },
+      "highlights": [
+        "Meteorite crater rim walk",
+        "Green saline lake",
+        "Daitya Sudan temple",
+        "Ramsar wetland birds"
+      ],
+      "sources": [
+        {
+          "title": "Lonar Lake – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lonar_Lake"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/lonar-lake.webp",
+          "alt": "Lonar Lake, Lonar",
+          "credit": "Aditya Laghate",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lonar_Crater,_Panorama.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Deekshabhoomi",
+      "slug": "deekshabhoomi",
+      "city": "nagpur",
+      "kind": "monument",
+      "categories": [
+        "religious",
+        "heritage"
+      ],
+      "shortDescription": "The great stupa in Nagpur where Dr B. R. Ambedkar and lakhs of followers embraced Buddhism in 1956.",
+      "description": "Deekshabhoomi is a sacred site of Navayana Buddhism, marked by a large hollow stupa that holds relics of the Buddha and a museum on Dr Ambedkar's life. Every year on Ashoka Vijaya Dashami lakhs of people gather to mark the anniversary of the 1956 conversion. The white dome is surrounded by gardens and a Bodhi tree grown from a sapling of the tree in Sri Lanka.",
+      "history": "On 14 October 1956 Dr B. R. Ambedkar embraced Buddhism here with around 400,000 followers; the stupa was inaugurated in 2001.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "bestTimeNote": "Dhammachakra Pravartan Din (Dussehra, October) draws huge gatherings.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "8:00 AM – 9:00 PM"
+      },
+      "location": {
+        "lat": 21.1281,
+        "lng": 79.0669,
+        "address": "Deekshabhoomi, Ramdaspeth, Nagpur, Maharashtra 440010"
+      },
+      "highlights": [
+        "Great stupa",
+        "Buddha relics",
+        "Ambedkar museum",
+        "Bodhi tree"
+      ],
+      "sources": [
+        {
+          "title": "Deekshabhoomi – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Deekshabhoomi"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/deekshabhoomi.webp",
+          "alt": "Deekshabhoomi, Nagpur",
+          "credit": "Nikkul (",
+          "license": "CC BY 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dheekshabhoomi_in_Nagpur.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Tadoba Andhari Tiger Reserve",
+      "slug": "tadoba-andhari-tiger-reserve",
+      "city": "chandrapur",
+      "kind": "national-park",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "isFeatured": true,
+      "shortDescription": "Maharashtra's oldest and best-known tiger reserve, with some of the most reliable tiger sightings in India.",
+      "description": "Tadoba's dry teak and bamboo forests around Tadoba Lake shelter a healthy population of tigers, along with leopards, sloth bears, wild dogs and gaur. Jeep safaris run in morning and afternoon slots from several gates, and summer is the best time to see tigers at waterholes. Permits must be booked online in advance. It is about 140 km from Nagpur.",
+      "history": "Tadoba National Park was created in 1955, and with the Andhari sanctuary it became a tiger reserve in 1995.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "bestTimeNote": "March to May for tigers; the core zone is closed in the monsoon.",
+      "entryFee": {
+        "note": "Safari permits booked online on the official portal; prices vary by gate."
+      },
+      "location": {
+        "lat": 20.2667,
+        "lng": 79.4,
+        "address": "Tadoba, Chandrapur district, Maharashtra 442401"
+      },
+      "highlights": [
+        "Tiger safaris",
+        "Tadoba Lake",
+        "Sloth bears and wild dogs",
+        "Moharli gate"
+      ],
+      "sources": [
+        {
+          "title": "Tadoba Andhari Tiger Reserve – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Tadoba_Andhari_Tiger_Reserve"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/tadoba-andhari-tiger-reserve.webp",
+          "alt": "Tadoba Andhari Tiger Reserve, Chandrapur",
+          "credit": "Stephenekka",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panthera_tigris_tigris_Tidoba_20150306.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Pench Tiger Reserve (Maharashtra)",
+      "slug": "pench-tiger-reserve-maharashtra",
+      "city": "pench",
+      "kind": "national-park",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "The Maharashtra half of the forest that inspired The Jungle Book, 70 km from Nagpur.",
+      "description": "Pench Tiger Reserve straddles the Maharashtra–Madhya Pradesh border along the Pench river. The Maharashtra side, entered through gates such as Sillari and Khursapar, has teak forest, grassy meadows and a large reservoir, with tigers, leopards, wild dogs and many birds. It is a quieter alternative to Tadoba and an easy trip from Nagpur.",
+      "history": "The Maharashtra part was declared a tiger reserve in 1999; Rudyard Kipling set The Jungle Book in the Seoni forests of this landscape.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "entryFee": {
+        "note": "Safari permits booked online."
+      },
+      "location": {
+        "lat": 21.6951,
+        "lng": 79.2488,
+        "address": "Pench, Ramtek taluka, Nagpur district, Maharashtra"
+      },
+      "highlights": [
+        "Jeep safaris",
+        "Pench reservoir",
+        "Jungle Book landscape",
+        "Birdwatching"
+      ],
+      "sources": [
+        {
+          "title": "Pench Tiger Reserve – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pench_Tiger_Reserve"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/pench-tiger-reserve-maharashtra.webp",
+          "alt": "Pench Tiger Reserve (Maharashtra), Pench (Maharashtra)",
+          "credit": "Nconnet",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Collarwali_Tigress_of_Pench.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Chikhaldara",
+      "slug": "chikhaldara",
+      "city": "chikhaldara",
+      "kind": "hill-station",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "The only hill station in Vidarbha, a coffee-growing plateau in the Satpura hills above Melghat.",
+      "description": "Chikhaldara sits at about 1,100 m in the Satpura range of Amravati district. Viewpoints such as Bhimkund and Hurricane Point look over steep valleys, and the town grows coffee. Gavilgad Fort and the Melghat Tiger Reserve are nearby. It is a cool retreat from the hot Vidarbha plains.",
+      "history": "The name is linked with the Mahabharata legend of Bhima killing Keechaka; the British developed it as a hill station.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "location": {
+        "lat": 21.4049,
+        "lng": 77.3167,
+        "address": "Chikhaldara, Amravati district, Maharashtra 444807"
+      },
+      "highlights": [
+        "Bhimkund viewpoint",
+        "Coffee plantations",
+        "Gavilgad Fort",
+        "Gateway to Melghat"
+      ],
+      "sources": [
+        {
+          "title": "Chikhaldara – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chikhaldara"
+        }
+      ]
+    },
+    {
+      "name": "Melghat Tiger Reserve",
+      "slug": "melghat-tiger-reserve",
+      "city": "chikhaldara",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "One of India's first nine tiger reserves, covering 2,768 km² of Satpura forest in Amravati district.",
+      "description": "Melghat is a vast, hilly forest of teak and bamboo cut by the Tapti and its tributaries. Tigers live here at low density, so sightings are less common than at Tadoba, but the reserve rewards visitors with gaur, sloth bears, leopards and remote Korku villages. Safaris start near Semadoh and Chikhaldara.",
+      "history": "Notified in 1973 as one of the first nine reserves under Project Tiger.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "entryFee": {
+        "note": "Safari and entry fees at the gates."
+      },
+      "location": {
+        "lat": 21.4458,
+        "lng": 77.1972,
+        "address": "Melghat, Amravati district, Maharashtra"
+      },
+      "highlights": [
+        "Satpura forest",
+        "Gaur and sloth bears",
+        "Semadoh nature camp",
+        "Korku villages"
+      ],
+      "sources": [
+        {
+          "title": "Melghat – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Melghat"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/melghat-tiger-reserve.webp",
+          "alt": "Melghat Tiger Reserve, Chikhaldara",
+          "credit": "Bendale.kaustubh",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Melghat_Tiger_Reserve.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Vithoba Temple, Pandharpur",
+      "slug": "vithoba-temple-pandharpur",
+      "city": "pandharpur",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "The temple of Vithoba on the Bhima river, destination of the Wari, Maharashtra's great walking pilgrimage.",
+      "description": "The Vitthal-Rukmini temple is the heart of the Varkari tradition. Every year in Ashadhi Ekadashi (June–July), lakhs of pilgrims arrive after walking about 250 km from Alandi and Dehu, singing the songs of the saints Dnyaneshwar and Tukaram. The temple stands near the Chandrabhaga ghats, where pilgrims bathe. Queues for darshan can be very long on festival days.",
+      "history": "The temple has existed since at least the 12th–13th century and grew with the Varkari movement.",
+      "bestMonths": [
+        6,
+        7,
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "bestTimeNote": "Ashadhi Ekadashi (June–July) for the Wari; winter for quieter darshan.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "About 4:00 AM – 11:00 PM"
+      },
+      "location": {
+        "lat": 17.67,
+        "lng": 75.33,
+        "address": "Pandharpur, Solapur district, Maharashtra 413304"
+      },
+      "highlights": [
+        "Vithoba and Rukmini shrines",
+        "Ashadhi Ekadashi Wari",
+        "Chandrabhaga ghats",
+        "Abhang singing"
+      ],
+      "sources": [
+        {
+          "title": "Vithoba Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Vithoba_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/vithoba-temple-pandharpur.webp",
+          "alt": "Vithoba Temple, Pandharpur, Pandharpur",
+          "credit": "Udaykumar PR",
+          "license": "CC BY 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pandharpur_2013_Aashad_-_panoramio_(10)_(cropped).jpg"
+        }
+      ]
+    }
+  ]
+}

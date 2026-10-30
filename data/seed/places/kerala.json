@@ -1,0 +1,459 @@
+{
+  "cities": [
+    {
+      "name": "Kochi",
+      "slug": "kochi",
+      "overview": "Kochi has been a spice-trading port for centuries, shaped by Arab, Chinese, Portuguese, Dutch, British and Jewish communities. Its historic quarters of Fort Kochi and Mattancherry sit on a peninsula facing the Arabian Sea.",
+      "location": {
+        "lat": 9.9312,
+        "lng": 76.2673
+      }
+    },
+    {
+      "name": "Munnar",
+      "slug": "munnar",
+      "overview": "A hill station at around 1,600 metres in the Western Ghats, surrounded by rolling tea estates, misty peaks and spice plantations.",
+      "location": {
+        "lat": 10.0889,
+        "lng": 77.0595
+      }
+    },
+    {
+      "name": "Alappuzha",
+      "slug": "alappuzha",
+      "overview": "Alappuzha (Alleppey) sits at the heart of Kerala's backwaters, a network of canals, lagoons and rivers that runs parallel to the coast. It is the main starting point for houseboat cruises.",
+      "location": {
+        "lat": 9.4981,
+        "lng": 76.3388
+      }
+    },
+    {
+      "name": "Thekkady",
+      "slug": "thekkady",
+      "overview": "A small town in the Cardamom Hills on the edge of Periyar Tiger Reserve, known for spice plantations and forest activities.",
+      "location": {
+        "lat": 9.6031,
+        "lng": 77.1615
+      }
+    },
+    {
+      "name": "Thiruvananthapuram",
+      "slug": "thiruvananthapuram",
+      "overview": "Kerala's capital is a green, low-rise city of temples, palaces and museums, close to the beaches of Kovalam and Varkala.",
+      "location": {
+        "lat": 8.5241,
+        "lng": 76.9366
+      }
+    },
+    {
+      "name": "Varkala",
+      "slug": "varkala",
+      "overview": "A coastal town where red laterite cliffs drop to the sea, about 50 km north of Thiruvananthapuram.",
+      "location": {
+        "lat": 8.7379,
+        "lng": 76.7163
+      }
+    },
+    {
+      "name": "Wayanad",
+      "slug": "wayanad",
+      "overview": "A highland district in northern Kerala of forests, coffee and spice plantations, waterfalls and ancient caves.",
+      "location": {
+        "lat": 11.6854,
+        "lng": 76.132
+      }
+    }
+  ],
+  "places": [
+    {
+      "name": "Alappuzha Backwaters",
+      "slug": "alappuzha-backwaters",
+      "city": "alappuzha",
+      "kind": "river",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "Cruise Kerala's palm-fringed canals and Vembanad Lake on a traditional kettuvallam houseboat.",
+      "description": "The backwaters around Alappuzha are best experienced from a houseboat, a converted rice barge with bedrooms, a deck and an onboard cook. Overnight cruises drift past paddy fields below water level, village churches and toddy shops, while shikara boats and canoes reach narrower canals. Choose a licensed operator; boats must moor at night.",
+      "history": "Alappuzha hosts the Nehru Trophy Boat Race on Punnamada Lake every August, named after Jawaharlal Nehru, who watched a snake-boat race here in 1952.",
+      "bestMonths": [
+        9,
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "September to March. Visit in August for the Nehru Trophy Boat Race.",
+      "entryFee": {
+        "note": "Houseboats are priced per night by size and season; shikara rides are priced per hour."
+      },
+      "timings": {
+        "hours": "Houseboat check-in around noon; check-out the next morning"
+      },
+      "location": {
+        "lat": 9.5005,
+        "lng": 76.3655,
+        "address": "Punnamada Finishing Point, Alappuzha, Kerala 688013"
+      },
+      "highlights": [
+        "Overnight houseboat cruise",
+        "Vembanad Lake",
+        "Village canal canoe rides",
+        "Nehru Trophy Boat Race"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Alappuzha – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Alappuzha"
+        },
+        {
+          "title": "Kerala Tourism",
+          "url": "https://www.keralatourism.org/"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/alappuzha-backwaters.webp",
+          "alt": "Alappuzha Backwaters, Alappuzha",
+          "credit": "Augustus Binu/ facebook",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alappuzha_Boat_Beauty_W.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Eravikulam National Park",
+      "slug": "eravikulam-national-park",
+      "city": "munnar",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "High grasslands near Munnar that protect the endangered Nilgiri tahr and bloom blue with Neelakurinji every 12 years.",
+      "description": "Forest-department buses carry visitors from the Rajamalai entrance up into rolling grassland and shola forest, where Nilgiri tahr (a mountain goat found only in the Western Ghats) graze close to the road. Anamudi, the highest peak in South India at 2,695 m, rises inside the park. Once every twelve years the slopes turn blue with Neelakurinji flowers; the next bloom is expected around 2030.",
+      "history": "Declared a sanctuary in 1975 to protect the Nilgiri tahr and upgraded to a national park in 1978.",
+      "bestMonths": [
+        9,
+        10,
+        11,
+        12,
+        1
+      ],
+      "bestTimeNote": "September to January. The park usually closes in February and March for the tahr calving season.",
+      "entryFee": {
+        "note": "Entry includes the park bus; foreigners pay more. Book online at weekends."
+      },
+      "timings": {
+        "hours": "About 7:30 AM – 4:00 PM",
+        "closedOn": "Usually closed February–March"
+      },
+      "location": {
+        "lat": 10.19,
+        "lng": 77.06,
+        "address": "Rajamalai, Munnar, Idukki district, Kerala 685612"
+      },
+      "highlights": [
+        "Nilgiri tahr",
+        "Views of Anamudi",
+        "Neelakurinji bloom (every 12 years)",
+        "Lakkam waterfall nearby"
+      ],
+      "sources": [
+        {
+          "title": "Eravikulam National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Eravikulam_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/eravikulam-national-park.webp",
+          "alt": "Eravikulam National Park, Munnar",
+          "credit": "Mike Prince from Bangalore, India",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eravikulam_National_Park_(49444006652).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Fort Kochi",
+      "slug": "fort-kochi",
+      "city": "kochi",
+      "kind": "neighbourhood",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A walkable colonial-era quarter of Chinese fishing nets, old churches, art cafés and the Paradesi Synagogue.",
+      "description": "Start at the giant cantilevered Chinese fishing nets on the seafront at sunset, then walk to St Francis Church and the Santa Cruz Basilica. Nearby Mattancherry has the Dutch Palace with its mural-lined rooms and Jew Town, home to spice warehouses, antique shops and the Paradesi Synagogue. In season, the Kochi-Muziris Biennale turns warehouses across the area into art venues.",
+      "history": "Vasco da Gama was first buried at St Francis Church, built by the Portuguese in 1503 and one of the oldest European churches in India. The Paradesi Synagogue dates from 1568. The Portuguese, Dutch and British each ruled the port in turn.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March; the Biennale typically runs from December to April.",
+      "entryFee": {
+        "note": "Free to explore; the Dutch Palace and synagogue charge small fees and close on some days."
+      },
+      "timings": {
+        "hours": "Open all day; most monuments about 10:00 AM – 5:00 PM"
+      },
+      "location": {
+        "lat": 9.9658,
+        "lng": 76.2421,
+        "address": "Fort Kochi, Kochi, Kerala 682001"
+      },
+      "highlights": [
+        "Chinese fishing nets at sunset",
+        "St Francis Church",
+        "Mattancherry Dutch Palace",
+        "Paradesi Synagogue",
+        "Kochi-Muziris Biennale"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Fort Kochi – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Fort_Kochi"
+        },
+        {
+          "title": "Paradesi Synagogue – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Paradesi_Synagogue"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/fort-kochi.webp",
+          "alt": "Fort Kochi, Kochi",
+          "credit": "Vyacheslav Argenberg",
+          "license": "CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kochi,_Fishing_nets_at_sunset,_Kerala,_India.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Periyar Tiger Reserve",
+      "slug": "periyar-tiger-reserve",
+      "city": "thekkady",
+      "kind": "national-park",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "Evergreen forest around an artificial lake, known for elephant herds, boat cruises and bamboo rafting.",
+      "description": "A boat cruise on Periyar Lake is the easiest way to spot elephants, gaur and sambar coming down to drink. For a closer look, the forest department runs guided nature walks, bamboo rafting, border hikes and night patrols led by local tribal guides. Tigers live here but are rarely seen. Thekkady town has spice gardens, Kathakali shows and martial-arts (kalaripayattu) performances.",
+      "history": "The lake was created in 1895 when the Mullaperiyar Dam was built across the Periyar River. The forest around it became a tiger reserve in 1978.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "bestTimeNote": "October to April; animals gather at the lake in the drier months.",
+      "entryFee": {
+        "note": "Entry, boat cruise and activity fees are separate; book through the official Periyar site."
+      },
+      "timings": {
+        "hours": "Boat cruises from about 7:30 AM to 3:30 PM"
+      },
+      "location": {
+        "lat": 9.5737,
+        "lng": 77.1599,
+        "address": "Thekkady, Kumily, Idukki district, Kerala 685536"
+      },
+      "highlights": [
+        "Lake boat cruise",
+        "Bamboo rafting",
+        "Guided nature walks",
+        "Spice plantation tours"
+      ],
+      "sources": [
+        {
+          "title": "Periyar National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Periyar_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/periyar-tiger-reserve.webp",
+          "alt": "Periyar Tiger Reserve, Thekkady",
+          "credit": "Wouter Hagens",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Periyar_National_Park.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Sree Padmanabhaswamy Temple",
+      "slug": "padmanabhaswamy-temple",
+      "city": "thiruvananthapuram",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious",
+        "heritage"
+      ],
+      "shortDescription": "A Vishnu temple where the deity reclines on the serpent Anantha, and one of the richest temples in the world.",
+      "description": "The temple's seven-storey gopuram overlooks a large tank in the heart of Thiruvananthapuram. Inside, the 18-foot image of Padmanabha (Vishnu reclining on the serpent Anantha) is viewed through three doors. Entry is only for Hindus, and a strict dress code applies: men wear a mundu or dhoti and no shirt; women wear a sari, or a mundu over other clothes. Dhotis can be hired at the entrance.",
+      "history": "The temple's origins are ancient and it is mentioned in Tamil Sangam literature. The present structure was largely rebuilt by Maharaja Marthanda Varma of Travancore in the 18th century. In 2011, vaults in the temple were found to hold treasure worth billions of dollars.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "indian": 0,
+        "note": "Free darshan; paid options for special darshan. Entry for Hindus only."
+      },
+      "timings": {
+        "hours": "Early-morning and evening darshan slots; check the temple website"
+      },
+      "location": {
+        "lat": 8.4828,
+        "lng": 76.9436,
+        "address": "West Nada, Fort, East Fort, Thiruvananthapuram, Kerala 695023"
+      },
+      "highlights": [
+        "Reclining Vishnu idol",
+        "Seven-storey gopuram",
+        "Padma Theertham tank",
+        "Kerala-style stone corridors"
+      ],
+      "sources": [
+        {
+          "title": "Padmanabhaswamy Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Padmanabhaswamy_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/padmanabhaswamy-temple.webp",
+          "alt": "Sree Padmanabhaswamy Temple, Thiruvananthapuram",
+          "credit": "Rahulrnath001",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sree_Padmanabhaswamy_temple_01.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Varkala Cliff",
+      "slug": "varkala-cliff",
+      "city": "varkala",
+      "kind": "beach",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "Red laterite cliffs above a sweeping beach, with a clifftop path of cafés and yoga shalas.",
+      "description": "Varkala is the only place in southern Kerala where cliffs meet the Arabian Sea. A footpath runs along the North Cliff past guesthouses, cafés and Ayurveda centres, with steps leading down to Papanasam Beach, where pilgrims perform rites for their ancestors. The sea can be rough, so swim only near lifeguards. Sunset from the cliff is the highlight of the day.",
+      "history": "The 2,000-year-old Janardana Swamy Temple near the beach makes Varkala a pilgrimage town, and the cliffs are a protected geological monument.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "Open all day"
+      },
+      "location": {
+        "lat": 8.736,
+        "lng": 76.703,
+        "address": "North Cliff, Varkala, Thiruvananthapuram district, Kerala 695141"
+      },
+      "highlights": [
+        "Clifftop sunset",
+        "Papanasam Beach",
+        "Janardana Swamy Temple",
+        "Yoga and Ayurveda"
+      ],
+      "sources": [
+        {
+          "title": "Varkala – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Varkala"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/varkala-cliff.webp",
+          "alt": "Varkala Cliff, Varkala",
+          "credit": "Devender Goyal",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Varkala_Beach,_Varkala,_Kerala.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Edakkal Caves",
+      "slug": "edakkal-caves",
+      "city": "wayanad",
+      "kind": "caves",
+      "categories": [
+        "heritage",
+        "adventure"
+      ],
+      "shortDescription": "A hilltop rock shelter in Wayanad with prehistoric carvings of humans, animals and symbols.",
+      "description": "The Edakkal 'caves' are a natural cleft formed where a huge boulder fell across a crack in Ambukuthi Mala. Reaching them means a steep walk of about a kilometre and some rocky steps, rewarded by walls covered in engraved figures and views over Wayanad. Visitor numbers are limited each day, so arrive early.",
+      "history": "The carvings are among the oldest in South India; some are believed to be thousands of years old, and the site also has later inscriptions. They were brought to wider attention in 1890 by Fred Fawcett, a police superintendent.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "bestTimeNote": "October to May; the climb can be slippery and closed in heavy rain.",
+      "entryFee": {
+        "note": "Small entry fee; daily visitor cap."
+      },
+      "timings": {
+        "hours": "About 9:00 AM – 4:00 PM",
+        "closedOn": "Monday"
+      },
+      "location": {
+        "lat": 11.6264,
+        "lng": 76.2353,
+        "address": "Ambukuthi Mala, Ambalavayal, Wayanad district, Kerala 673593"
+      },
+      "highlights": [
+        "Prehistoric petroglyphs",
+        "Hill walk with valley views",
+        "Nearby Phantom Rock"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Edakkal Caves – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Edakkal_Caves"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/edakkal-caves.webp",
+          "alt": "Edakkal Caves, Wayanad",
+          "credit": "നിരക്ഷരൻ at Malayalam Wikipedia",
+          "license": "CC BY 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edakkal_Cave.jpg"
+        }
+      ]
+    }
+  ]
+}

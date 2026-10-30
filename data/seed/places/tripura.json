@@ -1,0 +1,197 @@
+{
+  "cities": [
+    {
+      "name": "Agartala",
+      "slug": "agartala",
+      "overview": "Tripura's capital, close to the Bangladesh border, a relaxed city built around the royal palace of the Manikya kings.",
+      "location": {
+        "lat": 23.8315,
+        "lng": 91.2868
+      }
+    },
+    {
+      "name": "Melaghar",
+      "slug": "melaghar",
+      "overview": "A town in Sipahijala district on the shore of Rudrasagar Lake, about 55 km from Agartala.",
+      "location": {
+        "lat": 23.4947,
+        "lng": 91.3301
+      }
+    },
+    {
+      "name": "Kailashahar",
+      "slug": "kailashahar",
+      "overview": "A town in northern Tripura, the headquarters of Unakoti district and an old seat of the Tripuri kings.",
+      "location": {
+        "lat": 24.2784,
+        "lng": 92.004
+      }
+    }
+  ],
+  "places": [
+    {
+      "name": "Ujjayanta Palace",
+      "slug": "ujjayanta-palace",
+      "city": "agartala",
+      "kind": "palace",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The white Indo-Saracenic palace of Tripura's kings, now the state museum, set behind Mughal-style gardens.",
+      "description": "Ujjayanta Palace faces a pair of lakes and formal gardens in the centre of Agartala, its domes and towers gleaming white. Since 2013 it has housed the Tripura State Museum, with galleries on the state's tribal communities, royal history and the art of Northeast India. The tiled floors, carved doors and great hall reflect the palace's grandeur. The grounds are lit up in the evening.",
+      "history": "Maharaja Radha Kishore Manikya built the palace between 1899 and 1901. Rabindranath Tagore, a friend of the royal family, is said to have suggested its name. It served as the state legislative assembly building until 2011.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March.",
+      "entryFee": {
+        "note": "Small entry fee for the museum; extra for cameras."
+      },
+      "timings": {
+        "hours": "About 10:00 AM – 5:00 PM; closed Mondays"
+      },
+      "location": {
+        "lat": 23.837,
+        "lng": 91.282,
+        "address": "Palace Compound, Agartala, Tripura 799001"
+      },
+      "highlights": [
+        "Tripura State Museum",
+        "Mughal-style gardens",
+        "Royal great hall",
+        "Evening illumination"
+      ],
+      "sources": [
+        {
+          "title": "Ujjayanta Palace – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ujjayanta_Palace"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/ujjayanta-palace.webp",
+          "alt": "Ujjayanta Palace, Agartala",
+          "credit": "Sharada Prasad CS",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Neermahal",
+      "slug": "neermahal",
+      "city": "melaghar",
+      "kind": "palace",
+      "categories": [
+        "heritage",
+        "nature"
+      ],
+      "shortDescription": "A royal summer palace rising from the middle of Rudrasagar Lake, reached by boat.",
+      "description": "Neermahal, the water palace, stands in Rudrasagar Lake, its red-and-white domes and pavilions blending Hindu and Mughal styles. Boats from the Melaghar jetty take about 15 minutes to reach it. Inside are courtyards, a royal open-air stage and terraces overlooking the water. The lake hosts migratory birds in winter, and the Neermahal Water Festival with boat races is held in August.",
+      "history": "Maharaja Bir Bikram Kishore Manikya built the palace as a summer residence; it was completed in 1938. It is the largest of only two water palaces in India.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        8
+      ],
+      "bestTimeNote": "October to March; August for the Neermahal Water Festival.",
+      "entryFee": {
+        "note": "Small entry fee plus boat fare from Melaghar."
+      },
+      "timings": {
+        "hours": "About 9:00 AM – 5:00 PM"
+      },
+      "location": {
+        "lat": 23.5067,
+        "lng": 91.3154,
+        "address": "Rudrasagar Lake, Melaghar, Sipahijala district, Tripura 799115"
+      },
+      "highlights": [
+        "Boat ride across Rudrasagar",
+        "Royal pavilions",
+        "Winter birdlife",
+        "Neermahal Water Festival"
+      ],
+      "sources": [
+        {
+          "title": "Neermahal – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Neermahal"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/neermahal.webp",
+          "alt": "Neermahal, Melaghar",
+          "credit": "Kingshuk Mondal",
+          "license": "CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Neer_Mahal,_the_water_palace_of_Tripura_02.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Unakoti",
+      "slug": "unakoti",
+      "city": "kailashahar",
+      "kind": "monument",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "Giant rock-cut carvings of Shiva and other deities hidden in a forested hillside in north Tripura.",
+      "description": "Unakoti is a forested hill where enormous figures are carved into the rock faces and boulders along a stream. The most striking is the Unakotishvara Kal Bhairava, a head of Shiva about 10 m tall with an elaborate headdress, flanked by goddesses. Hundreds of smaller images of Ganesha, Durga, Vishnu and others lie scattered around the site. Steps and paths lead down through the forest. The Ashokastami fair in March–April draws large crowds.",
+      "history": "The carvings are generally dated to the 7th–9th centuries CE. Legend says Shiva cursed a crore minus one gods to turn to stone here, giving the site its name, 'one less than a crore'. It is on UNESCO's tentative list.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March; the Ashokastami fair is in March or April.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "Sunrise – sunset"
+      },
+      "location": {
+        "lat": 24.3166,
+        "lng": 92.0666,
+        "address": "Unakoti, near Kailashahar, Unakoti district, Tripura 799277"
+      },
+      "highlights": [
+        "10 m Shiva head",
+        "Forest stream setting",
+        "Rock-cut Ganesha images",
+        "Ashokastami fair"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Unakoti – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Unakoti"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/unakoti.webp",
+          "alt": "Unakoti, Kailashahar",
+          "credit": "Barunghosh",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Unakoti_3.jpg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,486 @@
+{
+  "cities": [
+    {
+      "name": "Agra",
+      "slug": "agra",
+      "overview": "Agra, on the Yamuna, was the capital of the Mughal Empire for much of the 16th and 17th centuries. It holds three UNESCO World Heritage Sites: the Taj Mahal, Agra Fort and nearby Fatehpur Sikri.",
+      "location": {
+        "lat": 27.1767,
+        "lng": 78.0081
+      }
+    },
+    {
+      "name": "Fatehpur Sikri",
+      "slug": "fatehpur-sikri",
+      "overview": "A town 37 km west of Agra built around Emperor Akbar's short-lived red sandstone capital.",
+      "location": {
+        "lat": 27.0937,
+        "lng": 77.661
+      }
+    },
+    {
+      "name": "Varanasi",
+      "slug": "varanasi",
+      "overview": "One of the oldest continuously inhabited cities in the world, Varanasi (Kashi or Banaras) is Hinduism's holiest city. Life, prayer and cremation all take place on its 80-odd ghats along the Ganga.",
+      "location": {
+        "lat": 25.3176,
+        "lng": 82.9739
+      }
+    },
+    {
+      "name": "Lucknow",
+      "slug": "lucknow",
+      "overview": "The capital of Uttar Pradesh was once the seat of the Nawabs of Awadh. It is known for its imambaras, refined Urdu culture, chikankari embroidery and kebabs.",
+      "location": {
+        "lat": 26.8467,
+        "lng": 80.9462
+      }
+    },
+    {
+      "name": "Lakhimpur Kheri",
+      "slug": "lakhimpur-kheri",
+      "overview": "A district in the Terai along the Nepal border, home to Dudhwa National Park.",
+      "location": {
+        "lat": 27.9462,
+        "lng": 80.7787
+      }
+    }
+  ],
+  "places": [
+    {
+      "name": "Taj Mahal",
+      "slug": "taj-mahal",
+      "city": "agra",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The white marble mausoleum built by Shah Jahan for Mumtaz Mahal, and one of the most recognised buildings on earth.",
+      "description": "The Taj Mahal stands at the end of a formal Mughal garden on the bank of the Yamuna. Its white Makrana marble changes colour through the day, from pink at dawn to gold at sunset. Look closely to see the pietra dura inlay of semi-precious stones and the calligraphy that frames the arches. The mosque and guest house on either side are built in red sandstone, and Mehtab Bagh across the river offers a quieter sunset view.",
+      "history": "Emperor Shah Jahan commissioned the tomb after the death of his wife Mumtaz Mahal in 1631. Around 20,000 artisans worked on it, and the main complex was completed by about 1653. It became a UNESCO World Heritage Site in 1983.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March. Visit at sunrise for soft light and fewer people.",
+      "entryFee": {
+        "indian": 50,
+        "foreigner": 1100,
+        "child": 0,
+        "note": "₹200 extra to enter the main mausoleum. Children under 15 free. Online tickets are slightly cheaper."
+      },
+      "timings": {
+        "hours": "30 minutes before sunrise to 30 minutes before sunset",
+        "closedOn": "Friday"
+      },
+      "location": {
+        "lat": 27.1751,
+        "lng": 78.0421,
+        "address": "Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001"
+      },
+      "highlights": [
+        "Sunrise view of the main dome",
+        "Pietra dura inlay work",
+        "Mughal charbagh garden",
+        "Sunset from Mehtab Bagh",
+        "Night viewing on full-moon nights"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Taj Mahal – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Taj_Mahal"
+        },
+        {
+          "title": "Taj Mahal – UNESCO",
+          "url": "https://whc.unesco.org/en/list/252"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/taj-mahal.webp",
+          "alt": "Taj Mahal, Agra",
+          "credit": "Yann; edited by Jim Carter",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_(Edited).jpeg"
+        }
+      ]
+    },
+    {
+      "name": "Agra Fort",
+      "slug": "agra-fort",
+      "city": "agra",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The red sandstone fortress-palace of the Mughal emperors, with views across the Yamuna to the Taj Mahal.",
+      "description": "Agra Fort's 2.5 km of walls enclose palaces, audience halls and mosques. Highlights include the Jahangiri Mahal, the white marble Khas Mahal and the Musamman Burj, an octagonal tower with a clear view of the Taj Mahal. Only part of the fort is open to the public; the rest is still used by the Indian Army.",
+      "history": "Emperor Akbar rebuilt an older fort in red sandstone from 1565. His grandson Shah Jahan added marble palaces, and he spent his last years held captive here by his son Aurangzeb, looking out at the tomb he had built for his wife. It was inscribed as a UNESCO World Heritage Site in 1983.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "indian": 50,
+        "foreigner": 650,
+        "child": 0,
+        "note": "Children under 15 free. Online tickets are slightly cheaper."
+      },
+      "timings": {
+        "hours": "Sunrise to sunset"
+      },
+      "location": {
+        "lat": 27.1795,
+        "lng": 78.0211,
+        "address": "Rakabganj, Agra, Uttar Pradesh 282003"
+      },
+      "highlights": [
+        "Musamman Burj with Taj view",
+        "Diwan-i-Khas",
+        "Jahangiri Mahal",
+        "Amar Singh Gate"
+      ],
+      "sources": [
+        {
+          "title": "Agra Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Agra_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/agra-fort.webp",
+          "alt": "Agra Fort, Agra",
+          "credit": "A.Savin",
+          "license": "FAL",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Agra_03-2016_16_Agra_Fort.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Fatehpur Sikri",
+      "slug": "fatehpur-sikri",
+      "city": "fatehpur-sikri",
+      "kind": "monument",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "Emperor Akbar's red sandstone capital, abandoned within a few decades and preserved almost intact.",
+      "description": "Fatehpur Sikri has two parts: the royal palaces, including the Diwan-i-Khas with its carved central pillar and the five-storey Panch Mahal, and the Jama Masjid, entered through the 54-metre Buland Darwaza. Inside the mosque courtyard is the white marble tomb of the Sufi saint Salim Chishti, where visitors tie threads on the screens to make a wish.",
+      "history": "Akbar built the city between 1571 and 1585 to honour Salim Chishti, who had foretold the birth of his son. It served as the Mughal capital for about 14 years before being largely abandoned. It became a UNESCO World Heritage Site in 1986.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "indian": 50,
+        "foreigner": 610,
+        "child": 0,
+        "note": "For the palace complex. The Jama Masjid and Salim Chishti's tomb are free."
+      },
+      "timings": {
+        "hours": "Sunrise to sunset"
+      },
+      "location": {
+        "lat": 27.0945,
+        "lng": 77.6679,
+        "address": "Fatehpur Sikri, Agra district, Uttar Pradesh 283110"
+      },
+      "highlights": [
+        "Buland Darwaza",
+        "Tomb of Salim Chishti",
+        "Panch Mahal",
+        "Diwan-i-Khas pillar"
+      ],
+      "sources": [
+        {
+          "title": "Fatehpur Sikri – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Fatehpur_Sikri"
+        },
+        {
+          "title": "Fatehpur Sikri – UNESCO",
+          "url": "https://whc.unesco.org/en/list/255"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/fatehpur-sikri.webp",
+          "alt": "Fatehpur Sikri",
+          "credit": "Marcin Białek",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fatehput_Sikiri_Buland_Darwaza_gate_2010.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kashi Vishwanath Temple",
+      "slug": "kashi-vishwanath-temple",
+      "city": "varanasi",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "One of the twelve Jyotirlingas of Lord Shiva and the spiritual heart of Varanasi.",
+      "description": "The temple's gold-plated spire rises above the old city near the Ganga. The Kashi Vishwanath Dham corridor, opened in 2021, now links the temple directly to the riverbank ghats with wide courtyards. Expect queues and security checks; phones, bags and cameras must be left in lockers. Early-morning mangala aarti requires advance booking.",
+      "history": "A temple to Vishwanath has stood here for many centuries and was destroyed and rebuilt several times. The present temple was built in 1780 by Ahilyabai Holkar of Indore, and Maharaja Ranjit Singh later donated gold for its spire.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March. Mahashivratri and the month of Shravan are especially crowded.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0,
+        "note": "Free darshan; paid options for faster entry and aarti."
+      },
+      "timings": {
+        "hours": "About 3:00 AM – 11:00 PM, with breaks for aarti"
+      },
+      "location": {
+        "lat": 25.3109,
+        "lng": 83.0107,
+        "address": "Lahori Tola, Domari, Varanasi, Uttar Pradesh 221001"
+      },
+      "highlights": [
+        "Jyotirlinga darshan",
+        "Kashi Vishwanath Dham corridor",
+        "Mangala aarti before dawn"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Kashi Vishwanath Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kashi_Vishwanath_Temple"
+        },
+        {
+          "title": "Shri Kashi Vishwanath Temple Trust",
+          "url": "https://shrikashivishwanath.org/"
+        }
+      ]
+    },
+    {
+      "name": "Dashashwamedh Ghat",
+      "slug": "dashashwamedh-ghat",
+      "city": "varanasi",
+      "kind": "river",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "Varanasi's busiest ghat, where the grand Ganga Aarti is performed every evening.",
+      "description": "Each evening at sunset, young priests perform the Ganga Aarti here with large brass lamps, conch shells and chanting, watched by crowds on the steps and from boats on the river. In the morning the ghat fills with bathers and pilgrims. A dawn boat ride from here along the ghats to Manikarnika, the main cremation ghat, is the classic way to see Varanasi.",
+      "history": "According to legend, Lord Brahma performed a ten-horse (dashashwamedha) sacrifice here to welcome Lord Shiva.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March. Dev Deepawali, in November, lights up every ghat with lamps.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "Open all day; Ganga Aarti at sunset (about 6:00–7:00 PM)"
+      },
+      "location": {
+        "lat": 25.306,
+        "lng": 83.0104,
+        "address": "Dashashwamedh Ghat Rd, Ghats of Varanasi, Varanasi, Uttar Pradesh 221001"
+      },
+      "highlights": [
+        "Evening Ganga Aarti",
+        "Sunrise boat ride",
+        "Dev Deepawali festival"
+      ],
+      "sources": [
+        {
+          "title": "Dashashwamedh Ghat – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dashashwamedh_Ghat"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/dashashwamedh-ghat.webp",
+          "alt": "Dashashwamedh Ghat, Varanasi",
+          "credit": "Saaremees",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dasaswamedh_ghat-varanasi_india-andres_larin.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sarnath",
+      "slug": "sarnath",
+      "city": "varanasi",
+      "kind": "monument",
+      "categories": [
+        "religious",
+        "heritage"
+      ],
+      "shortDescription": "The deer park where the Buddha gave his first sermon, with the Dhamek Stupa and the original Lion Capital of Ashoka.",
+      "description": "Sarnath, 10 km from Varanasi, is one of the four main Buddhist pilgrimage sites. Walk among monastery ruins to the 34-metre Dhamek Stupa, visit temples built by Buddhist countries, and see the Lion Capital of Ashoka (India's national emblem) in the Sarnath Archaeological Museum.",
+      "history": "After his enlightenment at Bodh Gaya, the Buddha came here around 528 BCE and preached his first sermon to five disciples. Emperor Ashoka built stupas and a pillar here in the 3rd century BCE, and the site flourished for over a thousand years.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "note": "Small fees for the excavated site and the museum. The museum is closed on Fridays."
+      },
+      "timings": {
+        "hours": "Sunrise to sunset"
+      },
+      "location": {
+        "lat": 25.3811,
+        "lng": 83.0225,
+        "address": "Sarnath, Varanasi, Uttar Pradesh 221007"
+      },
+      "highlights": [
+        "Dhamek Stupa",
+        "Lion Capital of Ashoka at the museum",
+        "Mulagandha Kuti Vihar",
+        "Deer park"
+      ],
+      "sources": [
+        {
+          "title": "Sarnath – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sarnath"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/sarnath.webp",
+          "alt": "Sarnath, Varanasi",
+          "credit": "Yusuke Kawasaki",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ancient_Buddhist_monasteries_near_Dhamekh_Stupa_Monument_Site,_Sarnath.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Bara Imambara",
+      "slug": "bara-imambara",
+      "city": "lucknow",
+      "kind": "monument",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A grand Nawabi complex with one of the world's largest vaulted halls and the Bhool Bhulaiya labyrinth.",
+      "description": "The central hall of the Bara Imambara is about 50 metres long and built without beams or pillars to hold up the roof. Above it is the Bhool Bhulaiya, a maze of over a thousand narrow passages leading to rooftop views. The complex also includes the Asfi Mosque and a stepwell. Hire an authorised guide for the maze.",
+      "history": "Nawab Asaf-ud-Daula built it in 1784 as a famine-relief project, giving work to thousands of people during a severe drought.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "note": "Ticket includes the Bhool Bhulaiya and nearby monuments. Check rates at the gate."
+      },
+      "timings": {
+        "hours": "About 6:00 AM – 5:00 PM",
+        "closedOn": "Closed during prayer times on some days"
+      },
+      "location": {
+        "lat": 26.8692,
+        "lng": 80.9128,
+        "address": "Machchhi Bhawan, Lucknow, Uttar Pradesh 226003"
+      },
+      "highlights": [
+        "Bhool Bhulaiya labyrinth",
+        "Pillarless central hall",
+        "Asfi Mosque",
+        "Shahi Baoli stepwell"
+      ],
+      "sources": [
+        {
+          "title": "Bara Imambara – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bara_Imambara"
+        }
+      ]
+    },
+    {
+      "name": "Dudhwa National Park",
+      "slug": "dudhwa-national-park",
+      "city": "lakhimpur-kheri",
+      "kind": "national-park",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "Terai grasslands and sal forest on the Nepal border with tigers, swamp deer and rhinos.",
+      "description": "Dudhwa is one of the few places where you can see tigers, leopards, one-horned rhinos and large herds of swamp deer (barasingha) in the same park. Explore its grasslands, wetlands and sal forest on jeep or elephant safaris. It is far less crowded than India's better-known tiger reserves and is a rewarding place for birdwatching.",
+      "history": "Declared a national park in 1977 and part of a tiger reserve since 1987. One-horned rhinos were reintroduced here from Assam and Nepal in 1984.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "bestTimeNote": "The park is usually open from 15 November to 15 June.",
+      "entryFee": {
+        "note": "Entry, vehicle and guide fees apply. Book safaris through the UP forest department."
+      },
+      "timings": {
+        "hours": "Morning and afternoon safari slots",
+        "closedOn": "Closed mid-June to mid-November"
+      },
+      "location": {
+        "lat": 28.5,
+        "lng": 80.65,
+        "address": "Dudhwa, Palia Kalan, Lakhimpur Kheri district, Uttar Pradesh 262902"
+      },
+      "highlights": [
+        "Swamp deer herds",
+        "One-horned rhinos",
+        "Tiger and leopard sightings",
+        "Over 400 bird species"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Dudhwa National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dudhwa_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/dudhwa-national-park.webp",
+          "alt": "Dudhwa National Park, Lakhimpur Kheri",
+          "credit": "Biswarup11",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dudhwa_Tiger.jpg"
+        }
+      ]
+    }
+  ]
+}

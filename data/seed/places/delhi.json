@@ -1,0 +1,425 @@
+{
+  "cities": [
+    {
+      "name": "New Delhi",
+      "slug": "new-delhi",
+      "overview": "Built by the British in the 1920s and 30s, New Delhi has wide tree-lined avenues, government buildings designed by Edwin Lutyens and Herbert Baker, and many of the city's museums and memorials.",
+      "location": {
+        "lat": 28.6139,
+        "lng": 77.209
+      }
+    },
+    {
+      "name": "Old Delhi",
+      "slug": "old-delhi",
+      "overview": "Shahjahanabad, the walled city founded by Shah Jahan in 1639, is a dense tangle of bazaars, havelis, mosques and street-food lanes around Chandni Chowk.",
+      "location": {
+        "lat": 28.6506,
+        "lng": 77.2303
+      }
+    },
+    {
+      "name": "South Delhi",
+      "slug": "south-delhi",
+      "overview": "South Delhi holds the oldest of Delhi's historic cities, including Mehrauli and the Qutub complex, along with Hauz Khas village and many modern landmarks.",
+      "location": {
+        "lat": 28.5245,
+        "lng": 77.2066
+      }
+    }
+  ],
+  "places": [
+    {
+      "name": "Red Fort",
+      "slug": "red-fort",
+      "city": "old-delhi",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "Shah Jahan's red sandstone palace-fortress, from whose ramparts the Prime Minister addresses the nation each Independence Day.",
+      "description": "Enter through the Lahori Gate and the covered Chhatta Chowk bazaar to reach the Diwan-i-Aam, where the emperor heard petitions, and the marble Diwan-i-Khas, once home to the Peacock Throne. Several museums inside cover Mughal history and the freedom struggle. An evening light and sound show tells the fort's story.",
+      "history": "Built between 1639 and 1648 when Shah Jahan moved his capital from Agra to Delhi. India's first Prime Minister raised the national flag here on 15 August 1947, a tradition that continues every year. It became a UNESCO World Heritage Site in 2007.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "indian": 40,
+        "foreigner": 600,
+        "child": 0,
+        "note": "Online tickets are slightly cheaper. Children under 15 free."
+      },
+      "timings": {
+        "hours": "9:30 AM – 4:30 PM",
+        "closedOn": "Monday"
+      },
+      "location": {
+        "lat": 28.6562,
+        "lng": 77.241,
+        "address": "Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi 110006"
+      },
+      "highlights": [
+        "Lahori Gate",
+        "Diwan-i-Khas",
+        "Chhatta Chowk bazaar",
+        "Light and sound show"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Red Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Red_Fort"
+        },
+        {
+          "title": "Red Fort Complex – UNESCO",
+          "url": "https://whc.unesco.org/en/list/231"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/red-fort.webp",
+          "alt": "Red Fort, Old Delhi",
+          "credit": "PerSona77",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Delhi_fort.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Qutub Minar",
+      "slug": "qutub-minar",
+      "city": "south-delhi",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A 72.5-metre fluted victory tower from the Delhi Sultanate, with an iron pillar that has resisted rust for 1,600 years.",
+      "description": "The Qutub Minar's five storeys of red and buff sandstone are banded with carved Quranic verses. Around it lie the Quwwat-ul-Islam Mosque, built from the remains of earlier temples, the unfinished Alai Minar and Alai Darwaza gateway, and the 4th-century Iron Pillar. The complex is lit up in the evening.",
+      "history": "Qutb-ud-din Aibak began the minar around 1199, and his successor Iltutmish completed it; later rulers repaired the upper storeys after lightning strikes. It became a UNESCO World Heritage Site in 1993.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "indian": 40,
+        "foreigner": 600,
+        "child": 0,
+        "note": "Online tickets are slightly cheaper. Children under 15 free."
+      },
+      "timings": {
+        "hours": "7:00 AM – 5:00 PM"
+      },
+      "location": {
+        "lat": 28.5245,
+        "lng": 77.1855,
+        "address": "Seth Sarai, Mehrauli, New Delhi, Delhi 110030"
+      },
+      "highlights": [
+        "Carved sandstone tower",
+        "Iron Pillar",
+        "Alai Darwaza",
+        "Quwwat-ul-Islam Mosque"
+      ],
+      "sources": [
+        {
+          "title": "Qutb Minar – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Qutb_Minar"
+        },
+        {
+          "title": "Qutb Minar and its Monuments – UNESCO",
+          "url": "https://whc.unesco.org/en/list/233"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/qutub-minar.webp",
+          "alt": "Qutub Minar, South Delhi",
+          "credit": "Wasir kasab",
+          "license": "CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qutb_Minar_2022.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Humayun's Tomb",
+      "slug": "humayuns-tomb",
+      "city": "new-delhi",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The first great garden-tomb of the Mughals and an inspiration for the Taj Mahal.",
+      "description": "Humayun's Tomb sits in a walled charbagh garden divided by water channels. Its red sandstone and white marble double dome set the pattern for later Mughal tombs. The complex also includes the tomb of Isa Khan, the Afsarwala tomb and the Arab Serai. Restoration has brought back its gardens and fountains, and it is especially lovely in the late afternoon.",
+      "history": "Commissioned by Humayun's widow, Bega Begum, after the emperor's death in 1556 and completed around 1570 to a design by the Persian architect Mirak Mirza Ghiyas. It became a UNESCO World Heritage Site in 1993.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "indian": 40,
+        "foreigner": 600,
+        "child": 0,
+        "note": "Online tickets are slightly cheaper. Children under 15 free."
+      },
+      "timings": {
+        "hours": "Sunrise to sunset"
+      },
+      "location": {
+        "lat": 28.5933,
+        "lng": 77.2507,
+        "address": "Mathura Road, Nizamuddin, New Delhi, Delhi 110013"
+      },
+      "highlights": [
+        "Double-domed mausoleum",
+        "Charbagh garden",
+        "Isa Khan's tomb",
+        "Late-afternoon light"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Humayun's Tomb – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Humayun%27s_Tomb"
+        },
+        {
+          "title": "Humayun's Tomb – UNESCO",
+          "url": "https://whc.unesco.org/en/list/232"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/humayuns-tomb.webp",
+          "alt": "Humayun's Tomb, New Delhi",
+          "credit": "Muhammad Mahdi Karim",
+          "license": "GFDL 1.2",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tomb_of_Humayun,_Delhi.jpg"
+        }
+      ]
+    },
+    {
+      "name": "India Gate",
+      "slug": "india-gate",
+      "city": "new-delhi",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A 42-metre war memorial arch at the heart of New Delhi, surrounded by lawns along Kartavya Path.",
+      "description": "India Gate is inscribed with the names of thousands of Indian soldiers. In the evening the arch is lit and the surrounding lawns fill with families and food vendors. Next to it is the National War Memorial, opened in 2019, which honours soldiers who died in conflicts since Independence and now holds the eternal flame of the Amar Jawan Jyoti.",
+      "history": "Designed by Edwin Lutyens and completed in 1931 to commemorate soldiers of the British Indian Army who died in the First World War and the Third Anglo-Afghan War.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "Open all day; best after sunset when lit"
+      },
+      "location": {
+        "lat": 28.6129,
+        "lng": 77.2295,
+        "address": "Kartavya Path, India Gate, New Delhi, Delhi 110001"
+      },
+      "highlights": [
+        "Evening illumination",
+        "National War Memorial",
+        "Kartavya Path lawns"
+      ],
+      "sources": [
+        {
+          "title": "India Gate – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/India_Gate"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/india-gate.webp",
+          "alt": "India Gate, New Delhi",
+          "credit": "AKS.9955",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:India_Gate_front.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Lotus Temple",
+      "slug": "lotus-temple",
+      "city": "south-delhi",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A Bahá'í House of Worship shaped like a lotus flower, open to people of all faiths.",
+      "description": "The Lotus Temple's 27 white marble 'petals' rise from nine pools and gardens. Inside is a single silent hall where anyone can sit, pray or meditate; there are no idols, sermons or rituals. Visitors queue in the gardens and enter in small groups, and silence is requested inside.",
+      "history": "Designed by the Iranian-born architect Fariborz Sahba and opened in 1986. It has won many architecture awards and is one of the most visited buildings in the world.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "About 9:00 AM – 5:30 PM (shorter in winter)",
+        "closedOn": "Monday"
+      },
+      "location": {
+        "lat": 28.5535,
+        "lng": 77.2588,
+        "address": "Lotus Temple Rd, Bahapur, Kalkaji, New Delhi, Delhi 110019"
+      },
+      "highlights": [
+        "Lotus-shaped marble structure",
+        "Silent prayer hall",
+        "Reflecting pools"
+      ],
+      "sources": [
+        {
+          "title": "Lotus Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lotus_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/lotus-temple.webp",
+          "alt": "Lotus Temple, South Delhi",
+          "credit": "Vandelizer",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:LotusDelhi.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Swaminarayan Akshardham",
+      "slug": "akshardham-delhi",
+      "city": "new-delhi",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A vast, intricately carved sandstone and marble temple complex on the banks of the Yamuna.",
+      "description": "Akshardham's central monument is carved with thousands of figures of deities, devotees, animals and flowers, and stands on a plinth lined with life-size stone elephants. The complex also has exhibition halls, a boat ride through Indian history, and an evening water and light show. Phones, cameras and bags are not allowed inside, so plan to use the cloakroom.",
+      "history": "Built by the BAPS Swaminarayan Sanstha with the help of thousands of artisans and volunteers, and opened in 2005.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0,
+        "note": "Free entry to the complex; exhibitions and the water show are ticketed."
+      },
+      "timings": {
+        "hours": "About 10:00 AM – 8:00 PM",
+        "closedOn": "Monday"
+      },
+      "location": {
+        "lat": 28.6127,
+        "lng": 77.2773,
+        "address": "Noida Mor, Pandav Nagar, New Delhi, Delhi 110092"
+      },
+      "highlights": [
+        "Carved central monument",
+        "Gajendra Pith elephant plinth",
+        "Water and light show"
+      ],
+      "sources": [
+        {
+          "title": "Akshardham (Delhi) – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Akshardham_(Delhi)"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/akshardham-delhi.webp",
+          "alt": "Swaminarayan Akshardham, New Delhi",
+          "credit": "Swaminarayan Sanstha",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:New_Delhi_Temple.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Agrasen ki Baoli",
+      "slug": "agrasen-ki-baoli",
+      "city": "new-delhi",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A 60-metre-long medieval stepwell hidden among office towers near Connaught Place.",
+      "description": "Agrasen ki Baoli is a quiet surprise in the middle of the city: 108 stone steps lead down between arched walls to the dry well at the bottom, where the noise of traffic falls away. Pigeons and bats nest in the niches. It is free, takes half an hour, and is a short walk from Connaught Place.",
+      "history": "Tradition credits the legendary King Agrasen, but the present structure is thought to date from the 14th century, during the Tughlaq or Lodi period. It is protected by the Archaeological Survey of India.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "7:00 AM – 6:00 PM"
+      },
+      "location": {
+        "lat": 28.6264,
+        "lng": 77.2252,
+        "address": "Hailey Road, KG Marg, Connaught Place, New Delhi, Delhi 110001"
+      },
+      "highlights": [
+        "108 stone steps",
+        "Arched stone galleries",
+        "Short walk from Connaught Place"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Agrasen ki Baoli – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Agrasen_ki_Baoli"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/agrasen-ki-baoli.webp",
+          "alt": "Agrasen ki Baoli, New Delhi",
+          "credit": "Slyronit",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Agrasen_ki_Baoli,_New_Delhi.jpg"
+        }
+      ]
+    }
+  ]
+}

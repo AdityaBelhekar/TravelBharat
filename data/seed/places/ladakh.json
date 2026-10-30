@@ -1,0 +1,183 @@
+{
+  "cities": [
+    {
+      "name": "Leh",
+      "slug": "leh",
+      "overview": "Ladakh's main town at about 3,500 m, overlooked by Leh Palace. Spend at least two days here acclimatising before going higher.",
+      "location": {
+        "lat": 34.1526,
+        "lng": 77.5771
+      }
+    },
+    {
+      "name": "Spangmik",
+      "slug": "spangmik",
+      "overview": "A small village on the shore of Pangong Tso, about 150 km from Leh, with camps and homestays for overnight stays.",
+      "location": {
+        "lat": 33.9077,
+        "lng": 78.4573
+      }
+    },
+    {
+      "name": "Diskit",
+      "slug": "diskit",
+      "overview": "The main village of the Nubra Valley, reached from Leh over the Khardung La pass.",
+      "location": {
+        "lat": 34.5512,
+        "lng": 77.5507
+      }
+    }
+  ],
+  "places": [
+    {
+      "name": "Pangong Tso",
+      "slug": "pangong-tso",
+      "city": "spangmik",
+      "kind": "lake",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "A long high-altitude lake at about 4,225 m whose water shifts from turquoise to deep blue through the day.",
+      "description": "Pangong Tso stretches for about 134 km across the border between Ladakh and Tibet, with roughly a third of it in India. The road from Leh crosses the Chang La pass at about 5,300 m before the lake appears, its colours changing with the light against bare brown mountains. Camps and homestays at Spangmik and Lukung allow an overnight stay to see the sunrise; nights are cold even in summer. Check the current permit rules with the Ladakh administration before you go.",
+      "history": "The lake is endorheic, with no outflow, and its water is brackish. It freezes completely in winter, when it is sometimes used for ice hockey and a frozen-lake marathon.",
+      "bestMonths": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "bestTimeNote": "May to September. The lake freezes from about December to March and roads can close after snow.",
+      "entryFee": {
+        "note": "Check current permit and environment fee rules with the Ladakh administration."
+      },
+      "location": {
+        "lat": 33.9077,
+        "lng": 78.4573,
+        "address": "Spangmik, Pangong Tso, Leh district, Ladakh"
+      },
+      "highlights": [
+        "Colour-changing water",
+        "Chang La pass drive",
+        "Lakeside camps",
+        "Sunrise over the lake"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Pangong Tso – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pangong_Tso"
+        }
+      ]
+    },
+    {
+      "name": "Thiksey Monastery",
+      "slug": "thiksey-monastery",
+      "city": "leh",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious",
+        "heritage"
+      ],
+      "shortDescription": "A hilltop Gelug monastery near Leh, often compared to Lhasa's Potala Palace, with a 15 m Maitreya Buddha.",
+      "description": "Thiksey's whitewashed buildings climb a hill above the Indus valley about 19 km from Leh. The highlight is the temple of Maitreya, the future Buddha, whose seated statue rises about 15 m through two storeys. Arrive early to watch the morning prayers, when monks chant and blow long horns from the roof. The rooftop gives sweeping views of the valley and the Stok range.",
+      "history": "Thiksey was founded in the 15th century and belongs to the Gelug school of Tibetan Buddhism. The Maitreya statue was installed to mark the Dalai Lama's visit in 1970.",
+      "bestMonths": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "bestTimeNote": "May to October. The Gustor festival with masked dances is held in autumn.",
+      "entryFee": {
+        "note": "Small entry fee."
+      },
+      "timings": {
+        "hours": "About 7:00 AM – 6:00 PM; morning prayers around 6:00 AM"
+      },
+      "location": {
+        "lat": 34.0564,
+        "lng": 77.6667,
+        "address": "Thiksey, Leh district, Ladakh 194101"
+      },
+      "highlights": [
+        "Maitreya Buddha statue",
+        "Morning prayers",
+        "Rooftop views of the Indus valley",
+        "Gustor festival"
+      ],
+      "sources": [
+        {
+          "title": "Thikse Monastery – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Thikse_Monastery"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/thiksey-monastery.webp",
+          "alt": "Thiksey Monastery, Leh",
+          "credit": "Aksveer",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thikse_Monastery_.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Nubra Valley",
+      "slug": "nubra-valley",
+      "city": "diskit",
+      "kind": "valley",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "A high desert valley beyond Khardung La, with sand dunes, double-humped camels and the hilltop Diskit Monastery.",
+      "description": "Nubra lies where the Shyok and Nubra rivers meet, reached from Leh over the Khardung La pass. At Hunder, sand dunes sit beneath snowy peaks and visitors can ride Bactrian (double-humped) camels, descendants of animals from the old Silk Route caravans. Diskit Monastery, the oldest in Nubra, is crowned by a 32 m statue of the Maitreya Buddha facing down the valley. Turtuk, a Balti village near the Line of Control, makes a fascinating extension.",
+      "history": "Nubra was on the trade route between Ladakh, Central Asia and Tibet. Diskit Monastery was founded in the 14th century.",
+      "bestMonths": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "bestTimeNote": "May to September; Khardung La can close after snowfall.",
+      "entryFee": {
+        "note": "Check current permit rules with the Ladakh administration."
+      },
+      "location": {
+        "lat": 34.5841,
+        "lng": 77.4718,
+        "address": "Hunder, Nubra, Leh district, Ladakh 194401"
+      },
+      "highlights": [
+        "Hunder sand dunes",
+        "Bactrian camel rides",
+        "Diskit Monastery Maitreya statue",
+        "Khardung La pass"
+      ],
+      "sources": [
+        {
+          "title": "Nubra Valley – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nubra_Valley"
+        },
+        {
+          "title": "Diskit Monastery – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Diskit_Monastery"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/nubra-valley.webp",
+          "alt": "Nubra Valley, Diskit",
+          "credit": "Addy6697",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:5_Nubra_valley.jpg"
+        }
+      ]
+    }
+  ]
+}

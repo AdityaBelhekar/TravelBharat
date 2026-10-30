@@ -1,0 +1,177 @@
+{
+  "cities": [
+    {
+      "name": "Gangtok",
+      "slug": "gangtok",
+      "overview": "Sikkim's capital, strung along a ridge at about 1,650 m with views of Kangchenjunga on clear mornings and a pedestrian-only MG Marg at its heart.",
+      "location": {
+        "lat": 27.3389,
+        "lng": 88.6065
+      }
+    },
+    {
+      "name": "Lachung",
+      "slug": "lachung",
+      "overview": "A mountain village at about 2,700 m in North Sikkim, the overnight base for Yumthang Valley. Visits need a permit arranged through a registered tour operator.",
+      "location": {
+        "lat": 27.6897,
+        "lng": 88.7426
+      }
+    }
+  ],
+  "places": [
+    {
+      "name": "Rumtek Monastery",
+      "slug": "rumtek-monastery",
+      "city": "gangtok",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious",
+        "heritage"
+      ],
+      "shortDescription": "The largest monastery in Sikkim and a seat of the Karma Kagyu school of Tibetan Buddhism.",
+      "description": "Rumtek sits on a hillside about 24 km from Gangtok, facing the town across the valley. Its main prayer hall is richly painted with murals and thangkas, and the Golden Stupa holds relics of the 16th Karmapa. Monks chant in the hall in the mornings and afternoons. The monastery also houses a college for Buddhist studies. Carry a photo ID, as there is a security check at the gate.",
+      "history": "The 16th Karmapa, Rangjung Rigpe Dorje, rebuilt Rumtek in the 1960s after leaving Tibet, on the site of an older monastery from the 18th century.",
+      "bestMonths": [
+        3,
+        4,
+        5,
+        10,
+        11,
+        12
+      ],
+      "bestTimeNote": "March to May and October to December for clear skies.",
+      "entryFee": {
+        "note": "Small entry fee."
+      },
+      "timings": {
+        "hours": "About 6:00 AM – 6:00 PM"
+      },
+      "location": {
+        "lat": 27.2886,
+        "lng": 88.5614,
+        "address": "Rumtek, East Sikkim, Sikkim 737135"
+      },
+      "highlights": [
+        "Main prayer hall murals",
+        "Golden Stupa",
+        "Monks' chanting",
+        "Views of Gangtok"
+      ],
+      "sources": [
+        {
+          "title": "Rumtek Monastery – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Rumtek_Monastery"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/rumtek-monastery.webp",
+          "alt": "Rumtek Monastery, Gangtok",
+          "credit": "Anjan Kumar Kundu",
+          "license": "CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rumtek_Monastery_alias_Dharma_Chakra_Centre_near_Gangtok,_East_Sikkim_09.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Tsomgo Lake",
+      "slug": "tsomgo-lake",
+      "city": "gangtok",
+      "kind": "lake",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A glacial lake at 3,753 m on the road to Nathu La, frozen in winter and ringed by rhododendrons in spring.",
+      "description": "Tsomgo (Changu) Lake lies in a high bowl about 40 km from Gangtok on the road to the Nathu La pass. The oval lake changes colour with the seasons, from frozen white in winter to deep blue in summer, and is held sacred by local Sikkimese. Yak rides and tea stalls line the shore. Visitors need a protected-area permit, arranged by Gangtok tour operators, and the altitude can cause breathlessness, so avoid exertion.",
+      "history": "The lake is fed by melting snow from the surrounding mountains. The road beyond it leads to Nathu La on the India–China border, once part of a trade route between Sikkim and Tibet.",
+      "bestMonths": [
+        3,
+        4,
+        5,
+        10,
+        11,
+        12
+      ],
+      "bestTimeNote": "March to May for flowers, October to December for clear views; the road may close after heavy snow.",
+      "entryFee": {
+        "note": "Permit required (arranged by registered tour operators in Gangtok); foreigners may visit with a permit."
+      },
+      "location": {
+        "lat": 27.3753,
+        "lng": 88.7639,
+        "address": "Tsomgo Lake, Jawaharlal Nehru Road, East Sikkim, Sikkim"
+      },
+      "highlights": [
+        "High-altitude glacial lake",
+        "Frozen winter scenery",
+        "Spring rhododendrons",
+        "Road to Nathu La"
+      ],
+      "sources": [
+        {
+          "title": "Tsomgo Lake – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Tsomgo_Lake"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/tsomgo-lake.webp",
+          "alt": "Tsomgo Lake, Gangtok",
+          "credit": "Indrajit Das",
+          "license": "CC BY 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tsongmo_Lake_or_Changu_Lake_-_East_Sikkim.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Yumthang Valley",
+      "slug": "yumthang-valley",
+      "city": "lachung",
+      "kind": "valley",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "The Valley of Flowers of Sikkim, a high meadow that bursts into rhododendron and primula blooms in spring.",
+      "description": "Yumthang Valley lies at about 3,560 m, 25 km north of Lachung, with the Lachung River running through meadows ringed by snow peaks. In April and May the Shingba Rhododendron Sanctuary along the way turns pink, red and white with dozens of species in flower. Hot springs lie near the river. Most visitors stay overnight in Lachung on a permit tour from Gangtok, continuing to Zero Point in good weather.",
+      "history": "The Shingba Rhododendron Sanctuary was set up in 1984 to protect the valley's exceptional diversity of rhododendrons.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        10,
+        11
+      ],
+      "bestTimeNote": "April to June for flowers; October–November for clear skies. Landslides can close roads in the monsoon.",
+      "entryFee": {
+        "note": "Permit required, arranged by registered tour operators in Gangtok."
+      },
+      "location": {
+        "lat": 27.8268,
+        "lng": 88.6959,
+        "address": "Yumthang Valley, Lachung, Mangan district, Sikkim"
+      },
+      "highlights": [
+        "Shingba Rhododendron Sanctuary",
+        "Lachung River meadows",
+        "Hot springs",
+        "Zero Point"
+      ],
+      "sources": [
+        {
+          "title": "Yumthang Valley – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Yumthang_Valley"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/yumthang-valley.webp",
+          "alt": "Yumthang Valley, Lachung",
+          "credit": "Joginder Pathak",
+          "license": "CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yumthang_valley,_Lachung_Sikkim_India_2012.jpg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "cities": [
+    {
+      "name": "Bodh Gaya",
+      "slug": "bodh-gaya",
+      "overview": "The town where the Buddha attained enlightenment, and one of the four main Buddhist pilgrimage sites, with monasteries built by many Buddhist nations.",
+      "location": {
+        "lat": 24.6961,
+        "lng": 84.987
+      }
+    },
+    {
+      "name": "Nalanda",
+      "slug": "nalanda",
+      "overview": "The village of Bargaon in Nalanda district, beside the ruins of the ancient university, about 15 km from Rajgir.",
+      "location": {
+        "lat": 25.1368,
+        "lng": 85.4438
+      }
+    },
+    {
+      "name": "Patna",
+      "slug": "patna",
+      "overview": "Bihar's capital on the south bank of the Ganga, built on the site of ancient Pataliputra, capital of the Mauryan empire.",
+      "location": {
+        "lat": 25.5941,
+        "lng": 85.1376
+      }
+    }
+  ],
+  "places": [
+    {
+      "name": "Mahabodhi Temple",
+      "slug": "mahabodhi-temple",
+      "city": "bodh-gaya",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious",
+        "heritage"
+      ],
+      "shortDescription": "UNESCO-listed temple complex marking the spot where the Buddha attained enlightenment under the Bodhi tree.",
+      "description": "The Mahabodhi Temple Complex surrounds the place where Siddhartha Gautama meditated and became the Buddha. Its 55 m pyramidal tower rises above a shrine with a gilded Buddha image, and behind it grows a descendant of the original Bodhi tree beside the Vajrasana, the diamond throne. Monks and pilgrims from across Asia chant and meditate in the gardens. Phones are not allowed inside; there is a fee to carry a camera.",
+      "history": "The emperor Ashoka built the first shrine here in the 3rd century BCE. The present temple dates largely from the 5th–6th centuries CE and is one of the earliest brick temples still standing in India. It was inscribed as a UNESCO World Heritage Site in 2002.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March. December–January is peak season for international pilgrims.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0,
+        "note": "Free entry; small fee for cameras. Phones must be deposited."
+      },
+      "timings": {
+        "hours": "About 5:00 AM – 9:00 PM"
+      },
+      "location": {
+        "lat": 24.696,
+        "lng": 84.9913,
+        "address": "Bodh Gaya, Gaya district, Bihar 824231"
+      },
+      "highlights": [
+        "Bodhi tree and Vajrasana",
+        "55 m temple tower",
+        "Animesh Lochan Chaitya",
+        "International monasteries nearby"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Mahabodhi Temple Complex at Bodh Gaya – UNESCO",
+          "url": "https://whc.unesco.org/en/list/1056"
+        },
+        {
+          "title": "Mahabodhi Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mahabodhi_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/mahabodhi-temple.webp",
+          "alt": "Mahabodhi Temple, Bodh Gaya",
+          "credit": "Bpilgrim",
+          "license": "CC BY-SA 2.5",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mahabodhitemple.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Nalanda Mahavihara",
+      "slug": "nalanda-mahavihara",
+      "city": "nalanda",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "Ruins of one of the world's oldest universities, a great centre of Buddhist learning for some 800 years.",
+      "description": "The excavated ruins of Nalanda spread across red-brick monasteries and temples, with lecture halls, dormitory cells, wells and kitchens laid out in neat rows. The towering Sariputta Stupa, built up in layers over centuries, is the centrepiece. The site museum across the road holds bronzes and sculptures found here, and the modern Xuanzang Memorial Hall remembers the Chinese pilgrim who studied at Nalanda. Hire a guide at the gate to bring the ruins to life.",
+      "history": "Nalanda flourished from the 5th century CE under the Guptas and later the Palas, drawing scholars from across Asia. It was sacked around 1200 CE. The ruins were inscribed as a UNESCO World Heritage Site in 2016.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March. Summers are very hot on the open site.",
+      "entryFee": {
+        "indian": 40,
+        "foreigner": 600,
+        "child": 0,
+        "note": "ASI World Heritage rates (slightly less online); verify before your visit."
+      },
+      "timings": {
+        "hours": "Sunrise – sunset"
+      },
+      "location": {
+        "lat": 25.1368,
+        "lng": 85.4438,
+        "address": "Nalanda, Bargaon, Nalanda district, Bihar 803111"
+      },
+      "highlights": [
+        "Sariputta Stupa",
+        "Monastery courtyards and cells",
+        "Nalanda Archaeological Museum",
+        "Xuanzang Memorial Hall"
+      ],
+      "sources": [
+        {
+          "title": "Archaeological Site of Nalanda Mahavihara – UNESCO",
+          "url": "https://whc.unesco.org/en/list/1502"
+        },
+        {
+          "title": "Nalanda mahavihara – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nalanda_mahavihara"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/nalanda-mahavihara.webp",
+          "alt": "Nalanda Mahavihara, Nalanda",
+          "credit": "Odantapuribs",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Temple_No.-_3,_Nalanda_Archaeological_Site.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Takht Sri Patna Sahib",
+      "slug": "takht-sri-patna-sahib",
+      "city": "patna",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "The birthplace of Guru Gobind Singh and one of the five Takhts, the highest seats of Sikh authority.",
+      "description": "Takht Sri Harimandir Ji Patna Sahib stands in the old city of Patna on the site where the tenth Sikh Guru, Gobind Singh, was born. The white marble gurdwara displays relics associated with the Guru, including weapons and a cradle. As at every gurdwara, all visitors are welcome, heads must be covered and shoes removed, and the community kitchen serves free meals. The Guru's birth anniversary (Prakash Parv) brings large celebrations, usually in December or January.",
+      "history": "Guru Gobind Singh was born here in 1666. The present building was rebuilt after an earthquake in 1934, replacing an earlier structure associated with Maharaja Ranjit Singh's patronage.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March. Prakash Parv of Guru Gobind Singh is the busiest and most festive time.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0
+      },
+      "timings": {
+        "hours": "Open all day"
+      },
+      "location": {
+        "lat": 25.5961,
+        "lng": 85.2301,
+        "address": "Harmandir Gali, Patna City, Patna, Bihar 800008"
+      },
+      "highlights": [
+        "Relics of Guru Gobind Singh",
+        "Langar community kitchen",
+        "Prakash Parv celebrations",
+        "Old Patna City lanes"
+      ],
+      "sources": [
+        {
+          "title": "Takht Sri Patna Sahib – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Takht_Sri_Patna_Sahib"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/takht-sri-patna-sahib.webp",
+          "alt": "Takht Sri Patna Sahib, Patna",
+          "credit": "Harishu3011",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:TheJoyof350thAnniversary@IncredibleIndia.jpg"
+        }
+      ]
+    }
+  ]
+}

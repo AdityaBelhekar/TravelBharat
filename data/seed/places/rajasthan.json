@@ -1,0 +1,485 @@
+{
+  "cities": [
+    {
+      "name": "Jaipur",
+      "slug": "jaipur",
+      "overview": "Rajasthan's capital, the 'Pink City', was founded in 1727 by Maharaja Sawai Jai Singh II as one of India's first planned cities. Its walled old town, bazaars, forts and observatory are part of a UNESCO World Heritage listing.",
+      "location": {
+        "lat": 26.9124,
+        "lng": 75.7873
+      }
+    },
+    {
+      "name": "Udaipur",
+      "slug": "udaipur",
+      "overview": "The 'City of Lakes' was the capital of the Mewar kingdom. Palaces rise from the shores of Lake Pichola and Fateh Sagar, framed by the Aravalli hills.",
+      "location": {
+        "lat": 24.5854,
+        "lng": 73.7125
+      }
+    },
+    {
+      "name": "Jodhpur",
+      "slug": "jodhpur",
+      "overview": "The 'Blue City' sits at the edge of the Thar Desert beneath the cliff-top Mehrangarh Fort. Its old town is a maze of indigo-washed houses and busy markets around the clock tower.",
+      "location": {
+        "lat": 26.2389,
+        "lng": 73.0243
+      }
+    },
+    {
+      "name": "Jaisalmer",
+      "slug": "jaisalmer",
+      "overview": "The 'Golden City' rises out of the Thar Desert, built almost entirely from yellow sandstone. It is the base for camel safaris and nights under the stars in the dunes.",
+      "location": {
+        "lat": 26.9157,
+        "lng": 70.9083
+      }
+    },
+    {
+      "name": "Abhaneri",
+      "slug": "abhaneri",
+      "overview": "A small village in Dausa district, about 95 km from Jaipur, known for one of India's deepest and most striking stepwells.",
+      "location": {
+        "lat": 27.0074,
+        "lng": 76.6066
+      }
+    },
+    {
+      "name": "Ranakpur",
+      "slug": "ranakpur",
+      "overview": "A village in a forested valley of the Aravallis in Pali district, between Udaipur and Jodhpur, known for its marble Jain temple.",
+      "location": {
+        "lat": 25.1166,
+        "lng": 73.4729
+      }
+    }
+  ],
+  "places": [
+    {
+      "name": "Amber Fort",
+      "slug": "amber-fort",
+      "city": "jaipur",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A honey-coloured hill fort above Maota Lake, famous for its mirror-work Sheesh Mahal and Rajput–Mughal architecture.",
+      "description": "Amber (Amer) Fort climbs a ridge 11 km north of Jaipur, its sandstone and marble halls set around a series of courtyards. Visitors walk or take a jeep up from Maota Lake, pass through the painted Ganesh Pol gateway, and explore the hall of public audience, the private chambers and the Sheesh Mahal, whose ceilings are inlaid with thousands of tiny mirrors. A light and sound show is held in the evenings.",
+      "history": "Raja Man Singh I began the present fort in 1592 on the site of an earlier stronghold, and later rulers of the Kachwaha dynasty expanded it until the capital moved to Jaipur in 1727. It is one of the six Hill Forts of Rajasthan inscribed as a UNESCO World Heritage Site in 2013.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "October to March. Arrive at opening time to avoid crowds and heat.",
+      "entryFee": {
+        "indian": 100,
+        "foreigner": 500,
+        "note": "Composite tickets for several Jaipur monuments are available. Verify current rates on the official site."
+      },
+      "timings": {
+        "hours": "8:00 AM – 5:30 PM; separate evening visit and light show"
+      },
+      "location": {
+        "lat": 26.9855,
+        "lng": 75.8513,
+        "address": "Devisinghpura, Amer, Jaipur, Rajasthan 302001"
+      },
+      "highlights": [
+        "Sheesh Mahal (mirror palace)",
+        "Ganesh Pol gateway",
+        "Diwan-e-Aam",
+        "Views over Maota Lake",
+        "Evening light and sound show"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Amer Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Amer_Fort"
+        },
+        {
+          "title": "Hill Forts of Rajasthan – UNESCO",
+          "url": "https://whc.unesco.org/en/list/247"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/amber-fort.webp",
+          "alt": "Amber Fort, Jaipur",
+          "credit": "Jakub Hałun",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:20191219_Fort_Amber,_Amer,_Jaipur_0955_9481.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hawa Mahal",
+      "slug": "hawa-mahal",
+      "city": "jaipur",
+      "kind": "palace",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "Jaipur's 'Palace of Winds', a five-storey pink sandstone screen with 953 small windows.",
+      "description": "Hawa Mahal's honeycomb façade is the symbol of Jaipur. Its many latticed windows (jharokhas) let cool air through and allowed royal women to watch street processions without being seen. The building is only one room deep in places; climb to the upper floors for views over the old city and Jantar Mantar. The façade is best photographed from the cafés across the road in the early morning light.",
+      "history": "Built in 1799 by Maharaja Sawai Pratap Singh and designed by Lal Chand Ustad, the palace is shaped to resemble the crown of Lord Krishna.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "indian": 50,
+        "foreigner": 200,
+        "note": "Included in Jaipur's composite ticket. Verify current rates on the official site."
+      },
+      "timings": {
+        "hours": "9:00 AM – 5:00 PM"
+      },
+      "location": {
+        "lat": 26.9239,
+        "lng": 75.8267,
+        "address": "Hawa Mahal Rd, Badi Choupad, Jaipur, Rajasthan 302002"
+      },
+      "highlights": [
+        "953 latticed windows",
+        "Rooftop views of the Pink City",
+        "Early-morning façade photographs"
+      ],
+      "sources": [
+        {
+          "title": "Hawa Mahal – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hawa_Mahal"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/hawa-mahal.webp",
+          "alt": "Hawa Mahal, Jaipur",
+          "credit": "Chainwit",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:East_facade_Hawa_Mahal_Jaipur_from_ground_level_(July_2022)_-_img_01.jpg"
+        }
+      ]
+    },
+    {
+      "name": "City Palace, Udaipur",
+      "slug": "city-palace-udaipur",
+      "city": "udaipur",
+      "kind": "palace",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "Rajasthan's largest palace complex, rising above Lake Pichola with courtyards, museums and lake views.",
+      "description": "The City Palace is a series of palaces built over nearly four centuries, stretching along the eastern shore of Lake Pichola. Its museum takes you through mirror rooms, peacock mosaics, painted walls and royal collections, and the terraces look out to the Lake Palace and Jag Mandir. Boat rides on Lake Pichola leave from the palace jetty.",
+      "history": "Maharana Udai Singh II founded Udaipur and began the palace in 1559 after moving the Mewar capital from Chittorgarh. Later Maharanas added to it, and part of the complex is still home to the former royal family.",
+      "bestMonths": [
+        9,
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "September to March; the lakes are fullest after the monsoon.",
+      "entryFee": {
+        "note": "Ticketed; prices differ for the museum, camera and boat ride. Check the official site."
+      },
+      "timings": {
+        "hours": "9:30 AM – 5:30 PM"
+      },
+      "location": {
+        "lat": 24.5764,
+        "lng": 73.6835,
+        "address": "City Palace Complex, Old City, Udaipur, Rajasthan 313001"
+      },
+      "highlights": [
+        "Mor Chowk peacock mosaics",
+        "Views of Lake Pichola",
+        "Sunset boat ride",
+        "Crystal gallery"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "City Palace, Udaipur – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/City_Palace,_Udaipur"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/city-palace-udaipur.webp",
+          "alt": "City Palace, Udaipur, Udaipur",
+          "credit": "Henrik Bennetsen",
+          "license": "CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Udaipur_City_Palace.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Mehrangarh Fort",
+      "slug": "mehrangarh-fort",
+      "city": "jodhpur",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A massive fort on a 120-metre cliff above Jodhpur's blue old city, with one of Rajasthan's best museums.",
+      "description": "Mehrangarh towers over Jodhpur with walls up to 36 metres high. Inside, carved palaces such as Moti Mahal and Phool Mahal hold a museum of palanquins, howdahs, weapons, paintings and textiles; the audio guide is excellent. The ramparts give sweeping views of the blue houses below, and adventurous visitors can ride the zip lines around the fort.",
+      "history": "Rao Jodha, founder of Jodhpur, laid the foundation in 1459. The fort was expanded by later Rathore rulers and has never been taken by siege.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "entryFee": {
+        "indian": 200,
+        "foreigner": 600,
+        "note": "Includes the museum. Verify current rates on the official site."
+      },
+      "timings": {
+        "hours": "9:00 AM – 5:00 PM"
+      },
+      "location": {
+        "lat": 26.2979,
+        "lng": 73.0187,
+        "address": "Fort Road, Jodhpur, Rajasthan 342006"
+      },
+      "highlights": [
+        "Phool Mahal and Moti Mahal",
+        "Fort museum and audio tour",
+        "Rampart views of the Blue City",
+        "Zip-line tour"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Mehrangarh – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mehrangarh"
+        },
+        {
+          "title": "Mehrangarh Museum Trust",
+          "url": "https://www.mehrangarh.org/"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/mehrangarh-fort.webp",
+          "alt": "Mehrangarh Fort, Jodhpur",
+          "credit": "Sanhitasinha",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mehrangarh_Fort_sanhita.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Jaisalmer Fort",
+      "slug": "jaisalmer-fort",
+      "city": "jaisalmer",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A 'living fort' of golden sandstone where about a quarter of the old city's people still live.",
+      "description": "Known as Sonar Qila (the Golden Fort), Jaisalmer Fort glows yellow in the afternoon sun. Inside its walls are narrow lanes of houses, shops, guesthouses, a royal palace museum and a group of finely carved Jain temples. It is one of the few forts in the world still lived in, which also makes it fragile: water use from tourism has damaged its foundations.",
+      "history": "Rawal Jaisal founded the fort in 1156 on Trikuta hill. It sat on a key caravan route, and its merchants grew rich on the trade, building the carved havelis seen in the town below. It is one of the six Hill Forts of Rajasthan on the UNESCO World Heritage list.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2
+      ],
+      "bestTimeNote": "November to February; desert summers are extremely hot.",
+      "entryFee": {
+        "indian": 0,
+        "foreigner": 0,
+        "note": "Free to enter the fort. The palace museum and Jain temples charge separately."
+      },
+      "timings": {
+        "hours": "Fort open all day; palace museum about 9:00 AM – 6:00 PM"
+      },
+      "location": {
+        "lat": 26.9124,
+        "lng": 70.9126,
+        "address": "Fort Road, Jaisalmer, Rajasthan 345001"
+      },
+      "highlights": [
+        "Jain temples",
+        "Raj Mahal palace museum",
+        "Sunset from the ramparts",
+        "Nearby Patwon ki Haveli"
+      ],
+      "sources": [
+        {
+          "title": "Jaisalmer Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jaisalmer_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/jaisalmer-fort.webp",
+          "alt": "Jaisalmer Fort, Jaisalmer",
+          "credit": "Gérard Janot",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jaisalmer_forteresse.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sam Sand Dunes",
+      "slug": "sam-sand-dunes",
+      "city": "jaisalmer",
+      "kind": "desert",
+      "categories": [
+        "adventure",
+        "nature"
+      ],
+      "shortDescription": "Rolling Thar Desert dunes 40 km from Jaisalmer, known for camel rides, jeep safaris and desert camps.",
+      "description": "Sam is the most popular place to see the Thar Desert's dunes. Visitors arrive in the late afternoon for camel or jeep rides across the sand, watch the sunset, and stay the night in tented camps with Rajasthani folk music and dance. For quieter dunes, travellers head to Khuri, south of Jaisalmer.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2
+      ],
+      "bestTimeNote": "November to February. The Desert Festival is held in February.",
+      "timings": {
+        "hours": "Open all day; sunset is the busiest time"
+      },
+      "location": {
+        "lat": 26.83,
+        "lng": 70.5,
+        "address": "Sam, Jaisalmer district, Rajasthan 345001"
+      },
+      "highlights": [
+        "Camel safari at sunset",
+        "Jeep dune-bashing",
+        "Overnight desert camps",
+        "Folk music and dance"
+      ],
+      "sources": [
+        {
+          "title": "Jaisalmer – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jaisalmer"
+        },
+        {
+          "title": "Rajasthan Tourism",
+          "url": "https://www.tourism.rajasthan.gov.in/"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/sam-sand-dunes.webp",
+          "alt": "Sam Sand Dunes, Jaisalmer",
+          "credit": "Adrian Sulc",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jaisalmer_Fort.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Chand Baori",
+      "slug": "chand-baori",
+      "city": "abhaneri",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A 9th-century stepwell with about 3,500 steps arranged in perfect symmetry down thirteen storeys.",
+      "description": "Chand Baori is a square stepwell whose zig-zag flights of steps drop about 20 metres to a pool of water. It was built to collect and store rainwater in this dry region, and the deep shaft stays noticeably cooler than the surface. Across the road is the ruined but finely carved Harshat Mata Temple. The site is an easy detour on the Jaipur–Agra highway.",
+      "history": "The stepwell is believed to have been built by King Chanda of the Nikumbha dynasty in the 8th–9th century. Pavilions on its upper side were added later in the Mughal period.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "timings": {
+        "hours": "Sunrise to sunset"
+      },
+      "location": {
+        "lat": 27.0074,
+        "lng": 76.6066,
+        "address": "Abhaneri, Dausa district, Rajasthan 303326"
+      },
+      "highlights": [
+        "Geometric flights of steps",
+        "Harshat Mata Temple",
+        "Easy stop between Jaipur and Agra"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Chand Baori – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chand_Baori"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/chand-baori.webp",
+          "alt": "Chand Baori, Abhaneri",
+          "credit": "Chainwit",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chand_Baori_perspective_panorama_(July_2022).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Ranakpur Jain Temple",
+      "slug": "ranakpur-jain-temple",
+      "city": "ranakpur",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious",
+        "heritage"
+      ],
+      "shortDescription": "A white marble Jain temple with over 1,400 intricately carved pillars, no two alike.",
+      "description": "The Chaturmukha Dharana Vihara at Ranakpur is dedicated to Adinath, the first Jain tirthankara. Light falls through its domes onto a forest of carved pillars and ceilings, and the temple has four entrances facing the four directions. Visitors must dress modestly and leave leather items outside; an audio guide is available.",
+      "history": "Built in the 15th century by the merchant Dharna Shah with the support of Rana Kumbha of Mewar, to a design by the architect Depa.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "timings": {
+        "hours": "Non-Jain visitors: about 12:00 PM – 5:00 PM"
+      },
+      "entryFee": {
+        "note": "Free for Indian visitors; foreign visitors and cameras are charged. Check at the temple."
+      },
+      "location": {
+        "lat": 25.1166,
+        "lng": 73.4729,
+        "address": "Ranakpur, Desuri tehsil, Pali district, Rajasthan 306702"
+      },
+      "highlights": [
+        "1,444 carved marble pillars",
+        "Carved ceiling domes",
+        "Forest setting in the Aravallis"
+      ],
+      "sources": [
+        {
+          "title": "Ranakpur Jain temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ranakpur_Jain_temple"
+        }
+      ]
+    }
+  ]
+}
