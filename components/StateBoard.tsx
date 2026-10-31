@@ -14,15 +14,18 @@ export function StateBoard({
   size = "lg",
   as: Tag = "div",
   className = "",
+  posts = false,
 }: {
   name: string;
   localName: LocalName;
   size?: keyof typeof SIZES;
   as?: "div" | "h1" | "h2" | "h3";
   className?: string;
+  /** Stand the board on two posts, as on a real platform. It needs to sit at the bottom edge of its section. */
+  posts?: boolean;
 }) {
   const s = SIZES[size];
-  return (
+  const board = (
     <Tag className={`block rounded bg-yellow p-2 text-center text-board-ink ${className}`}>
       <span className={`grid gap-2 rounded-sm border-2 border-board-ink ${s.pad}`}>
         <span className={`flex flex-wrap justify-center gap-x-7 gap-y-1 font-semibold leading-tight ${s.scripts}`}>
@@ -36,5 +39,15 @@ export function StateBoard({
         <span className={`type-board text-balance ${s.en}`}>{name}</span>
       </span>
     </Tag>
+  );
+  if (!posts) return board;
+  return (
+    <div>
+      {board}
+      <div aria-hidden className="flex justify-around px-[12%]">
+        <span className="h-7 w-2.5 bg-board-ink" />
+        <span className="h-7 w-2.5 bg-board-ink" />
+      </div>
+    </div>
   );
 }

@@ -4,18 +4,20 @@
 
 Every railway station in India has the same sign: a yellow board with the station's name in the regional script, in Hindi and in English. It is one of the most recognised pieces of design in the country, and it says exactly what this site is about: arriving somewhere in India.
 
-TravelBharat uses that board as its single bold element. Each state is introduced by its own board, in its own scripts: Kerala as കേരളം, केरल and KERALA, Tamil Nadu as தமிழ்நாடு, तमिलनाडु and TAMIL NADU. Everything around the boards is quiet: white paper, deep indigo ink and large real photographs.
+TravelBharat uses that board as its single bold element. Each state is introduced by its own board, in its own scripts: Kerala as കേരളം, केरल and KERALA, Tamil Nadu as தமிழ்நாடு, तमिलनाडु and TAMIL NADU. Everything around the boards is quiet: white paper, sign-black ink and large real photographs.
 
 ## Colour
 
 | Token | Hex | Use |
 |---|---|---|
-| Board yellow | `#FFC72C` | Station boards, the selected state on the map. Never for text. |
-| Indigo ink | `#14204A` | Text, primary buttons, board lettering (10.1:1 on yellow, 15.7:1 on white) |
+| Board yellow | `#FFC72C` | Station boards, the rail line, the selected state on the map. Never for text on paper. |
+| Sign black | `#1B1714` | Text and board lettering: real boards are black on yellow |
+| Coach maroon | `#7B1E2B` | Buttons, links and the footer, from Indian Railways coaches |
 | Paper | `#FFFFFF` | Page background |
-| Mist | `#EEF1F7` | Bands behind sections, unselected states on the map |
-| Rule | `#D3D8E6` | Hairlines and form borders |
-| Slate | `#4D5778` | Secondary text (7.1:1 on white) |
+| Platform stone | `#F1EFEA` | Bands behind sections |
+| Map stone | `#DFD9CF` | Unselected states on the map |
+| Rule | `#DCD7CE` | Hairlines and form borders |
+| Slate | `#5F574F` | Secondary text (7:1 on white) |
 
 Categories are map-legend symbols, so they are told apart by shape as well as colour:
 
@@ -24,9 +26,9 @@ Categories are map-legend symbols, so they are told apart by shape as well as co
 | Heritage | Square | Sandstone `#B4442C` (Red Fort, Fatehpur Sikri) |
 | Nature | Triangle | Forest `#24704E` |
 | Religious | Circle | Marigold `#B87000` |
-| Adventure | Diamond | Glacier `#2563A8` |
+| Adventure | Diamond | Peacock `#1F6F8B` |
 
-Dark mode swaps paper for indigo night `#0F1733`, mist for `#1A2450` and ink for `#E8EBF5`. The board stays yellow with indigo lettering, as it does at night on a real platform.
+There is one light theme. Photographs carry the colour, and an earlier indigo dark mode read as a generic template.
 
 ## Type
 
@@ -56,19 +58,20 @@ Home
 ┌──────────────────────────────────────────────────────────────┐
 │ TravelBharat          [ Search places, cities, states     ] │
 ├──────────────────────────────────────────────────────────────┤
-│ Where in India do you          ┌──────────────────────────┐ │
-│ want to go?                    │  കേരളം        केरल        │ │
-│                                │        KERALA            │ │
-│ [ India map: hover or tab   ]  └──────────────────────────┘ │
-│ [ to a state and its board  ]  Capital    Thiruvananthapuram │
-│ [ appears on the right      ]  Places     7                  │
-│                                Best time  Oct to Mar        │
-│                                [photo][photo][photo]        │
-│                                [ Open Kerala ]              │
+│ Full-screen photo of the current stop                        │
+│ Next stop?                                                   │
+│ What the site covers                                         │
+│                                     ┌──────────────────────┐ │
+│ Place name, photo credit            │ लद्दाख / LADAKH      │ │
+│                                     └───┬──────────────┬───┘ │
+│ ●━━━━━━●━━━━━━●━━━━━━●━━━━━━●━━━━━━●━━━━━━●━━━━━━●           │
+│ Ladakh  UP  Rajasthan  Meghalaya  Goa  Karnataka  Kerala  TN │
+├──────────────────────────────────────────────────────────────┤
+│ Choose a state on the map      [ board, photo, Open state ] │
 ├──────────────────────────────────────────────────────────────┤
 │ Good in October     [big photo][big photo][big photo] ›     │
 ├──────────────────────────────────────────────────────────────┤
-│ By interest:  ■ Heritage 61   ▲ Nature 64   ● Religious 40  │
+│ By interest: four photo tiles, one for each category         │
 ├──────────────────────────────────────────────────────────────┤
 │ Featured: one large photo, four smaller beside it           │
 └──────────────────────────────────────────────────────────────┘
@@ -84,13 +87,17 @@ State page
 └──────────────────────────────────────────────────────────────┘
 ```
 
+## The hero
+
+The home page opens on a rail line across India. Choosing a stop changes the full-screen photo and the board, which stands on two posts at the line. Stops are user-driven with no auto-play, and photos other than the first load only when a stop is hovered, focused or chosen. The photos are 1920px WebP files in `public/hero/`, listed with their credits in `data/hero.json`.
+
 ## Motion
 
-One moment only: when you move across the map, the board's lettering changes with a short vertical flip (150ms). It is switched off for people who prefer reduced motion. Nothing else animates on its own.
+Only in response to the visitor: the board's lettering flips (150ms) and the hero photo crossfades when a stop changes, the map board flips as you move across states, and card photos zoom slightly on hover. All of it respects reduced motion, and nothing animates on its own.
 
 ## Photography
 
-Real photographs only, from Wikimedia Commons under free licences, with the photographer and licence credited on every card and place page. They are stored in the project as 1280px WebP files (`scripts/fetch-photos.ts`) rather than linked from Wikimedia, which rate-limits hotlinked images. Each one was checked by hand; places without a suitable free photo show a quiet placeholder with their category symbol until one is added in the admin panel. No AI-generated images of real places: an encyclopedia that shows a generated Taj Mahal is showing something that does not exist.
+Real photographs only, from Wikimedia Commons under free licences, with the photographer and licence credited on every place page and in the hero. They are stored in the project as 1280px WebP files (`scripts/fetch-photos.ts`) rather than linked from Wikimedia, which rate-limits hotlinked images. Each one was checked by hand; places without a suitable free photo show a quiet placeholder with their category symbol until one is added in the admin panel. No AI-generated images of real places: an encyclopedia that shows a generated Taj Mahal is showing something that does not exist.
 
 ## What this replaces, and why
 

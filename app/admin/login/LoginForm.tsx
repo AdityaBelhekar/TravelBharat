@@ -9,7 +9,7 @@ export function LoginForm() {
   return (
     <form action={action} className="flex flex-col gap-4">
       {state?.error && (
-        <p role="alert" className="rounded bg-red-700/10 px-3 py-2 text-sm text-red-800 dark:text-red-300">
+        <p role="alert" className="rounded bg-red-700/10 px-3 py-2 text-sm text-red-800">
           {state.error}
         </p>
       )}

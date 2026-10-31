@@ -29,17 +29,17 @@ export default function PublicLayout({ children }: LayoutProps<"/">) {
         {children}
       </main>
 
-      <footer className="mt-16 border-t border-border text-[0.9375rem] text-muted">
+      <footer className="mt-16 border-t-[6px] border-yellow bg-brand text-[0.9375rem] text-on-brand">
         <div className="mx-auto flex max-w-[77.5rem] flex-wrap justify-between gap-4 px-4 py-8 sm:px-6">
           <p className="max-w-[60ch]">
             TravelBharat is a guide to tourist places in all 28 states and 8 union territories. Photos are from Wikimedia
-            Commons and credited where they appear.
+            Commons, with the photographer and licence credited on each place page.
           </p>
           <nav aria-label="Footer" className="flex gap-6">
-            <Link href="/states" className="hover:underline">
+            <Link href="/states" className="underline underline-offset-4 hover:text-yellow">
               All states
             </Link>
-            <Link href="/about" className="hover:underline">
+            <Link href="/about" className="underline underline-offset-4 hover:text-yellow">
               About and sources
             </Link>
           </nav>

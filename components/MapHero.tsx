@@ -62,7 +62,6 @@ export function MapHero({ states, initial, children }: { states: MapState[]; ini
                 src={state.lead.image.url}
                 alt={state.lead.image.alt}
                 fill
-                priority={slug === initial}
                 quality={75}
                 sizes="(min-width: 1024px) 34vw, 100vw"
                 className="object-cover"
