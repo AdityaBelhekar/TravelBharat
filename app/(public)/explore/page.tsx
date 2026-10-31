@@ -86,7 +86,7 @@ async function Results({ searchParams }: Pick<PageProps<"/explore">, "searchPara
 
       {result.total > 0 ? (
         <div className="mt-4">
-          <PlaceCardGrid places={result.places} />
+          <PlaceCardGrid places={result.places} lead />
         </div>
       ) : (
         <div className="mt-4 border-y border-border py-10">
