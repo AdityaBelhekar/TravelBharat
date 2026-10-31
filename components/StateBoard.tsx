@@ -3,7 +3,7 @@ import type { LocalName } from "@/lib/queries.ts";
 const SIZES = {
   lg: { en: "text-[clamp(3rem,8vw,6.5rem)]", scripts: "text-[clamp(1.25rem,2.6vw,2rem)]", pad: "px-6 pb-6 pt-5" },
   md: { en: "text-[clamp(2.75rem,6vw,4.75rem)]", scripts: "text-[clamp(1.125rem,2vw,1.625rem)]", pad: "px-5 pb-5 pt-4" },
-  sm: { en: "text-[1.75rem]", scripts: "text-base", pad: "px-3 pb-3 pt-2.5" },
+  sm: { en: "text-[1.75rem]", scripts: "text-base type-small-print", pad: "px-3 pb-3 pt-2.5" },
 };
 
 // A state's name lettered like an Indian railway platform board: the regional script and Hindi above,

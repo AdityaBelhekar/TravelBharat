@@ -1,6 +1,6 @@
 "use client";
 
-import Image from "next/image";
+import { getImageProps } from "next/image";
 import Link from "next/link";
 import { useState } from "react";
 import type { LocalName } from "@/lib/queries.ts";
@@ -20,6 +20,7 @@ export type HeroStop = {
 
 // Opens on the Taj Mahal: its board needs only the Devanagari font, where Ladakh's would add a 200 KB Tibetan one.
 const START = 1;
+const PHONE = "(max-width: 640px)";
 
 // The home page opening: a journey down India on a rail line. Choosing a stop changes the photo and the station
 // board. Photos load only when a stop is first hovered or chosen, so the page starts with just one.
@@ -31,20 +32,19 @@ export function Hero({ stops, placeCount }: { stops: HeroStop[]; placeCount: num
 
   return (
     <section className="relative isolate flex min-h-[max(38rem,calc(100svh-8rem))] sm:min-h-[max(40rem,calc(100svh-4.75rem))] flex-col overflow-hidden bg-board-ink text-white">
-      {stops.map((s, i) =>
-        loaded.has(i) ? (
-          <Image
-            key={s.place}
-            src={s.image}
-            alt={i === active ? s.alt : ""}
-            fill
-            priority={i === START}
-            quality={75}
-            sizes="100vw"
-            className={`-z-20 object-cover transition-opacity duration-500 motion-reduce:transition-none ${i === active ? "opacity-100" : "opacity-0"}`}
-          />
-        ) : null,
-      )}
+      {stops.map((s, i) => {
+        if (!loaded.has(i)) return null;
+        const { props: wide } = getImageProps({ src: s.image, alt: i === active ? s.alt : "", fill: true, priority: i === START, quality: 75, sizes: "100vw" });
+        const phone = s.image.replace("/hero/", "/hero/phone/");
+        return (
+          // Phones get a portrait crop of about 40 KB rather than the wide photo.
+          <picture key={s.place}>
+            {i === START && <link rel="preload" as="image" href={phone} media={PHONE} fetchPriority="high" />}
+            <source media={PHONE} srcSet={phone} />
+            <img {...wide} alt={wide.alt} className={`-z-20 object-cover transition-opacity duration-500 motion-reduce:transition-none ${i === active ? "opacity-100" : "opacity-0"}`} />
+          </picture>
+        );
+      })}
       {/* Keeps white type readable on any photo. */}
       <div aria-hidden className="absolute inset-0 -z-10 bg-[linear-gradient(to_right,rgb(0_0_0/0.45),transparent_60%),linear-gradient(to_bottom,rgb(0_0_0/0.5),rgb(0_0_0/0.05)_50%,rgb(0_0_0/0.75))]" />
 

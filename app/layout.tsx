@@ -1,11 +1,11 @@
 import type { Metadata } from "next";
+import localFont from "next/font/local";
 import {
   Anek_Bangla,
   Anek_Devanagari,
   Anek_Gujarati,
   Anek_Gurmukhi,
   Anek_Kannada,
-  Anek_Latin,
   Anek_Malayalam,
   Anek_Odia,
   Anek_Tamil,
@@ -17,9 +17,14 @@ import {
 import "./globals.css";
 
 // Anek (EkType) covers Latin and ten Indian scripts with one design. Only Latin is preloaded, as a variable
-// font for the width axis. The scripts appear only on boards, so each loads just its semibold weight (a full
+// font cut down to what the site uses: weights 400 to 700, widths 75 to 100 and Western characters (63 KB, not 102). The scripts appear only on boards, so each loads just its semibold weight (a full
 // variable Devanagari font is ~700 KB), and only when a page shows that script, e.g. Malayalam on Kerala's board.
-const latin = Anek_Latin({ variable: "--font-anek-latin", subsets: ["latin"], axes: ["wdth"] });
+const latin = localFont({
+  variable: "--font-anek-latin",
+  src: "./fonts/anek-latin.woff2",
+  weight: "400 700",
+  declarations: [{ prop: "font-stretch", value: "75% 100%" }],
+});
 const devanagari = Anek_Devanagari({ variable: "--font-anek-devanagari", subsets: ["devanagari"], weight: "600", preload: false });
 const tamil = Anek_Tamil({ variable: "--font-anek-tamil", subsets: ["tamil"], weight: "600", preload: false });
 const malayalam = Anek_Malayalam({ variable: "--font-anek-malayalam", subsets: ["malayalam"], weight: "600", preload: false });
