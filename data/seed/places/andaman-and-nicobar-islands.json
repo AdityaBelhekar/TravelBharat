@@ -4,6 +4,8 @@
       "name": "Sri Vijaya Puram (Port Blair)",
       "slug": "sri-vijaya-puram",
       "overview": "The capital of the Andaman and Nicobar Islands, renamed from Port Blair in 2024, and the arrival point for flights and ferries.",
+      "history": "Founded as Port Blair by the British, who set up a penal colony here in 1858. It was renamed Sri Vijaya Puram in 2024. The Japanese occupied the islands during the Second World War.",
+      "isHub": true,
       "location": {
         "lat": 11.6645,
         "lng": 92.739
@@ -16,6 +18,51 @@
       "location": {
         "lat": 11.9652,
         "lng": 92.9956
+      }
+    },
+    {
+      "name": "Shaheed Dweep",
+      "slug": "shaheed-dweep",
+      "overview": "A small coral island south of Havelock, known for quiet beaches and a natural rock bridge.",
+      "location": {
+        "lat": 11.83,
+        "lng": 93.04
+      }
+    },
+    {
+      "name": "Baratang",
+      "slug": "baratang",
+      "overview": "An island on the road north, with limestone caves and a mud volcano.",
+      "location": {
+        "lat": 12.18,
+        "lng": 92.8
+      }
+    },
+    {
+      "name": "Diglipur",
+      "slug": "diglipur",
+      "overview": "The main town of North Andaman, close to the islands' highest peak and to Ross and Smith Islands.",
+      "location": {
+        "lat": 13.2667,
+        "lng": 93
+      }
+    },
+    {
+      "name": "Long Island",
+      "slug": "long-island",
+      "overview": "A quiet forested island in Middle Andaman with few visitors.",
+      "location": {
+        "lat": 12.38,
+        "lng": 92.93
+      }
+    },
+    {
+      "name": "Campbell Bay",
+      "slug": "campbell-bay",
+      "overview": "The main settlement on Great Nicobar.",
+      "location": {
+        "lat": 7.0074,
+        "lng": 93.9237
       }
     }
   ],
@@ -179,6 +226,545 @@
           "credit": "Harvinder Chandigarh",
           "license": "CC BY-SA 4.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Radha_Nagar_beach,_Havelock_Island,_Andamn,_India-_Sun_set_view.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Mahatma Gandhi Marine National Park",
+      "slug": "mahatma-gandhi-marine-national-park",
+      "city": "sri-vijaya-puram",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A marine national park near Wandoor, known for snorkelling among coral at Jolly Buoy and Red Skin.",
+      "description": "Boats run from Wandoor to the islands of Jolly Buoy and Red Skin, in turn by season, to see coral and fish through glass-bottom boats.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "bestTimeNote": "The two main islands open on rotation, so check which is open before you go.",
+      "location": {
+        "lat": 11.53,
+        "lng": 92.6,
+        "address": "Sri Vijaya Puram (Port Blair), Andaman and Nicobar Islands"
+      },
+      "highlights": [
+        "Jolly Buoy",
+        "Glass-bottom boats",
+        "Coral reefs"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Mahatma Gandhi Marine National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mahatma_Gandhi_Marine_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/mahatma-gandhi-marine-national-park.webp",
+          "alt": "Mahatma Gandhi Marine National Park, Sri Vijaya Puram (Port Blair)",
+          "credit": "Nilanjan pathak",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mahatma_Gandhi_Marine_National_Park.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Viper Island",
+      "slug": "viper-island",
+      "city": "sri-vijaya-puram",
+      "kind": "island",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A small island near Sri Vijaya Puram, with the ruins of a British gallows and a prison.",
+      "description": "The site of an early penal colony and gallows, now on the harbour cruise. It predates the Cellular Jail.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "location": {
+        "lat": 11.661,
+        "lng": 92.697,
+        "address": "Sri Vijaya Puram (Port Blair), Andaman and Nicobar Islands"
+      },
+      "highlights": [
+        "Gallows ruins",
+        "Harbour cruise",
+        "Early penal colony"
+      ],
+      "sources": [
+        {
+          "title": "Viper Island – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Viper_Island"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/viper-island.webp",
+          "alt": "Viper Island, Sri Vijaya Puram (Port Blair)",
+          "credit": "Biswarup Ganguly",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Viper_Island.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Corbyn's Cove",
+      "slug": "corbyns-cove",
+      "city": "sri-vijaya-puram",
+      "kind": "beach",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A palm-lined beach near Sri Vijaya Puram, with water sports and a Japanese bunker close by.",
+      "description": "A small, curved beach about 7 km from town, with jet skis and banana boats. It's the closest swimming beach to the capital.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "location": {
+        "lat": 11.6429,
+        "lng": 92.7475,
+        "address": "Sri Vijaya Puram (Port Blair), Andaman and Nicobar Islands"
+      },
+      "highlights": [
+        "Jet skiing",
+        "Japanese bunkers",
+        "Coconut palms"
+      ],
+      "sources": [
+        {
+          "title": "Port Blair – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Port_Blair"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/corbyns-cove.webp",
+          "alt": "Corbyn's Cove, Sri Vijaya Puram (Port Blair)",
+          "credit": "Yercaud-elango",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Corbyns_cove_beach-3-port_blair-andaman-India.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Chidiya Tapu",
+      "slug": "chidiya-tapu",
+      "city": "sri-vijaya-puram",
+      "kind": "beach",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A forested bird-rich point at the southern tip of South Andaman, known for its sunsets.",
+      "description": "The name means Bird Island. A walk through forest leads to Munda Pahar Beach, and the sunset here is the best on the island.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "location": {
+        "lat": 11.5032,
+        "lng": 92.7013,
+        "address": "Sri Vijaya Puram (Port Blair), Andaman and Nicobar Islands"
+      },
+      "highlights": [
+        "Sunset point",
+        "Munda Pahar Beach",
+        "Andaman birds"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Port Blair – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Port_Blair"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/chidiya-tapu.webp",
+          "alt": "Chidiya Tapu, Sri Vijaya Puram (Port Blair)",
+          "credit": "Sudeshnas25",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chidiya_tapu_sunset,_Andaman.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Rani Jhansi Marine National Park",
+      "slug": "rani-jhansi-marine-national-park",
+      "city": "swaraj-dweep",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A marine park in Ritchie's Archipelago, founded in 1996, with coral reefs and mangroves.",
+      "description": "Coral, mangroves and clear water in the islands around Havelock. It's a protected area, so most trips require permission.",
+      "history": "Founded in 1996.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "location": {
+        "lat": 11.7833,
+        "lng": 92.6667,
+        "address": "Swaraj Dweep (Havelock), Andaman and Nicobar Islands"
+      },
+      "highlights": [
+        "Coral reefs",
+        "Mangroves",
+        "Ritchie's Archipelago"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Rani Jhansi Marine National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Rani_Jhansi_Marine_National_Park"
+        }
+      ]
+    },
+    {
+      "name": "Elephant Beach",
+      "slug": "elephant-beach-havelock",
+      "city": "swaraj-dweep",
+      "kind": "beach",
+      "categories": [
+        "adventure"
+      ],
+      "shortDescription": "A popular snorkelling beach on the north side of Swaraj Dweep, reached by boat or forest walk.",
+      "description": "Clear shallows and coral close to shore, with sea walking and banana boats. A boat is quick, and the jungle walk is a good alternative.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "location": {
+        "lat": 11.96,
+        "lng": 93,
+        "address": "Swaraj Dweep (Havelock), Andaman and Nicobar Islands"
+      },
+      "highlights": [
+        "Snorkelling",
+        "Sea walking",
+        "Forest trail"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Havelock Island – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Havelock_Island"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/elephant-beach-havelock.webp",
+          "alt": "Elephant Beach, Swaraj Dweep (Havelock)",
+          "credit": "Dr. K. Vedhagiri",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Havelock,_Andaman_%26_Nicobar_Islands.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Neil Island",
+      "slug": "neil-island",
+      "city": "shaheed-dweep",
+      "kind": "island",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A quiet coral island with white beaches and a natural rock bridge, now Shaheed Dweep.",
+      "description": "An easy cycling island, with Bharatpur Beach for swimming, Laxmanpur for sunset and the natural bridge exposed at low tide.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "location": {
+        "lat": 11.83,
+        "lng": 93.04,
+        "address": "Shaheed Dweep, Andaman and Nicobar Islands"
+      },
+      "highlights": [
+        "Natural rock bridge",
+        "Bharatpur Beach",
+        "Laxmanpur sunset"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Neil Island – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Neil_Island"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/neil-island.webp",
+          "alt": "Neil Island, Shaheed Dweep",
+          "credit": "Dorhodor",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Keshet_neal_island_india.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Baratang Limestone Caves",
+      "slug": "baratang-limestone-caves",
+      "city": "baratang",
+      "kind": "caves",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "Limestone caves on Baratang, reached by boat through mangrove creeks, plus a mud volcano.",
+      "description": "A boat trip through mangrove tunnels and a short forest walk lead you to these caves. The island's mud volcano is close by.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "location": {
+        "lat": 12.18,
+        "lng": 92.8,
+        "address": "Baratang, Andaman and Nicobar Islands"
+      },
+      "highlights": [
+        "Mangrove creek boat",
+        "Limestone caves",
+        "Mud volcano"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Baratang Island – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Baratang_Island"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/baratang-limestone-caves.webp",
+          "alt": "Baratang Limestone Caves, Baratang",
+          "credit": "Harvinder Chandigarh",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baratang_Island_Middle_Strait_entry_point,_Andaman_Islands,_India.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Barren Island",
+      "slug": "barren-island",
+      "city": "baratang",
+      "kind": "island",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "India's only active volcano, an uninhabited island in the Andaman Sea, seen only from boats.",
+      "description": "No landing is allowed, but liveaboard dive boats sometimes circle the island. It's among the world's dive destinations.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 12.28,
+        "lng": 93.86,
+        "address": "Baratang, Andaman and Nicobar Islands"
+      },
+      "highlights": [
+        "Active volcano",
+        "Dive liveaboards",
+        "No landing"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Barren Island (Andaman Islands) – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Barren_Island_(Andaman_Islands)"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/barren-island.webp",
+          "alt": "Barren Island, Baratang",
+          "credit": "Rohitjahnavi",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barren_Island_Active_Volcano.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Saddle Peak National Park",
+      "slug": "saddle-peak-national-park",
+      "city": "diglipur",
+      "kind": "trek",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "A forest around the highest point in the Andaman Islands, near Diglipur.",
+      "description": "A full-day trek through tropical forest brings you to the top of the 732 m peak, with a view over the sea.",
+      "history": "Set up in 1979.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "location": {
+        "lat": 13.1586,
+        "lng": 93.0056,
+        "address": "Diglipur, Andaman and Nicobar Islands"
+      },
+      "highlights": [
+        "732 m peak",
+        "Tropical forest",
+        "Sea view"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Saddle Peak National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Saddle_Peak_National_Park"
+        }
+      ]
+    },
+    {
+      "name": "Long Island",
+      "slug": "long-island-andaman",
+      "city": "long-island",
+      "kind": "island",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A forested, car-free island in Middle Andaman, with the quiet Lalaji Bay beach.",
+      "description": "Boats bring you to a small settlement, followed by a forest walk or boat to Lalaji Bay. It's a real escape from Havelock's crowds.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "location": {
+        "lat": 12.38,
+        "lng": 92.93,
+        "address": "Long Island, Andaman and Nicobar Islands"
+      },
+      "highlights": [
+        "Lalaji Bay",
+        "Forest walks",
+        "Few visitors"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Long Island (Andaman Islands) – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Long_Island_(Andaman_Islands)"
+        }
+      ]
+    },
+    {
+      "name": "Campbell Bay National Park",
+      "slug": "campbell-bay-national-park",
+      "city": "campbell-bay",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A remote rainforest national park on Great Nicobar, part of the biosphere reserve.",
+      "description": "Dense tropical forest on India's southern tip, home to giant robber crabs. It's largely closed to tourists.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "The Nicobar Islands are closed to most tourists, and even Indian citizens need special permission.",
+      "location": {
+        "lat": 7.1128,
+        "lng": 93.7619,
+        "address": "Campbell Bay, Andaman and Nicobar Islands"
+      },
+      "highlights": [
+        "Rainforest",
+        "Robber crabs",
+        "Biosphere reserve"
+      ],
+      "sources": [
+        {
+          "title": "Campbell Bay National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Campbell_Bay_National_Park"
+        }
+      ]
+    },
+    {
+      "name": "Galathea National Park",
+      "slug": "galathea-national-park",
+      "city": "campbell-bay",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A remote national park on Great Nicobar, known for nesting giant leatherback turtles.",
+      "description": "Forest and beach near the Galathea River, one of the main nesting sites in the Indian Ocean for leatherback turtles.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "The Nicobar Islands are closed to most tourists, and even Indian citizens need special permission.",
+      "location": {
+        "lat": 6.923,
+        "lng": 93.833,
+        "address": "Campbell Bay, Andaman and Nicobar Islands"
+      },
+      "highlights": [
+        "Leatherback turtles",
+        "Galathea Bay",
+        "Tropical forest"
+      ],
+      "sources": [
+        {
+          "title": "Galathea National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Galathea_National_Park"
         }
       ]
     }

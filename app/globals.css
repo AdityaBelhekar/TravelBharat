@@ -1,42 +1,25 @@
 @import "tailwindcss";
 
-/* Design tokens: see DESIGN.md. Board yellow is never used for text. */
+/* Design tokens: see DESIGN.md. Board yellow is never used for text on paper. */
 :root {
+  color-scheme: light;
   --background: #ffffff; /* paper */
-  --foreground: #14204a; /* indigo ink */
-  --muted: #4d5778; /* slate, 7.1:1 on paper */
-  --surface: #eef1f7; /* mist */
-  --border: #d3d8e6; /* rule */
-  --brand: #14204a; /* primary buttons */
+  --foreground: #1b1714; /* sign black */
+  --muted: #5f574f; /* 7:1 on paper */
+  --surface: #f1efea; /* platform stone */
+  --border: #dcd7ce; /* rule */
+  --brand: #7b1e2b; /* coach maroon: buttons and the footer */
   --on-brand: #ffffff;
-  --brand-ink: #2b3f99; /* links and hover */
+  --brand-ink: #7b1e2b; /* links and hover */
   --yellow: #ffc72c;
-  --board-ink: #14204a; /* 10.1:1 on yellow */
-  --map-fill: #cfd6e8;
+  --board-ink: #1b1714; /* black on yellow, as on a real board */
+  --map-fill: #dfd9cf;
 
   /* Category symbols (3:1 or more on paper, as graphics) */
   --cat-heritage: #b4442c;
   --cat-nature: #24704e;
   --cat-religious: #b87000;
-  --cat-adventure: #2563a8;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0f1733;
-    --foreground: #e8ebf5;
-    --muted: #a9b1ce;
-    --surface: #1a2450;
-    --border: #2e3a6b;
-    --brand: #ffc72c;
-    --on-brand: #14204a;
-    --brand-ink: #ffd666;
-    --map-fill: #2a3567;
-    --cat-heritage: #e2805f;
-    --cat-nature: #4fb286;
-    --cat-religious: #e0a12e;
-    --cat-adventure: #6aa5e8;
-  }
+  --cat-adventure: #1f6f8b;
 }
 
 @theme inline {

@@ -22,6 +22,8 @@
       "name": "Bhopal",
       "slug": "bhopal",
       "overview": "Madhya Pradesh's capital, the City of Lakes, and a base for Sanchi and the rock shelters of Bhimbetka.",
+      "history": "Founded in the early 18th century by the Afghan soldier Dost Mohammad Khan. It was ruled for over a century by a remarkable line of women, the Begums of Bhopal.",
+      "isHub": true,
       "location": {
         "lat": 23.2599,
         "lng": 77.4126
@@ -34,6 +36,128 @@
       "location": {
         "lat": 22.2275,
         "lng": 80.645
+      }
+    },
+    {
+      "name": "Indore",
+      "slug": "indore",
+      "overview": "Madhya Pradesh's largest city, an old Holkar capital with a famous street food market at Sarafa.",
+      "history": "Built up under the Holkars of the Maratha empire, most famously under the queen Ahilyabai Holkar's rule. It's now the commercial capital of the state.",
+      "isHub": true,
+      "location": {
+        "lat": 22.7186,
+        "lng": 75.855
+      }
+    },
+    {
+      "name": "Gwalior",
+      "slug": "gwalior",
+      "overview": "A city under one of India's greatest hill forts, and a long-standing centre of Hindustani classical music.",
+      "history": "Ruled over the centuries by the Tomars, the Mughals and finally the Scindia family of the Marathas, who made it a princely capital in the 18th century.",
+      "isHub": true,
+      "location": {
+        "lat": 26.2125,
+        "lng": 78.1775
+      }
+    },
+    {
+      "name": "Ujjain",
+      "slug": "ujjain",
+      "overview": "One of Hinduism's seven sacred cities, on the Shipra River, host of the Simhastha Kumbh Mela.",
+      "location": {
+        "lat": 23.17,
+        "lng": 75.79
+      }
+    },
+    {
+      "name": "Orchha",
+      "slug": "orchha",
+      "overview": "A small town of Bundela palaces and cenotaphs on the Betwa River.",
+      "location": {
+        "lat": 25.35,
+        "lng": 78.64
+      }
+    },
+    {
+      "name": "Jabalpur",
+      "slug": "jabalpur",
+      "overview": "A city on the Narmada, the base for the Marble Rocks and for Kanha and Bandhavgarh.",
+      "isHub": true,
+      "location": {
+        "lat": 23.1667,
+        "lng": 79.9333
+      }
+    },
+    {
+      "name": "Mandu",
+      "slug": "mandu",
+      "overview": "A ruined Afghan city on a plateau in the Malwa hills, spread out above the Narmada plain.",
+      "location": {
+        "lat": 22.3353,
+        "lng": 75.4158
+      }
+    },
+    {
+      "name": "Maheshwar",
+      "slug": "maheshwar",
+      "overview": "A town on the Narmada, with a fort and ghats from the reign of Ahilyabai Holkar, and a name for its handloom saris.",
+      "location": {
+        "lat": 22.11,
+        "lng": 75.35
+      }
+    },
+    {
+      "name": "Pachmarhi",
+      "slug": "pachmarhi",
+      "overview": "The hill station of Madhya Pradesh, in the Satpura Range, among forests, waterfalls and cave shelters.",
+      "location": {
+        "lat": 22.4667,
+        "lng": 78.411
+      }
+    },
+    {
+      "name": "Umaria",
+      "slug": "umaria",
+      "overview": "A forest-district town, the rail gateway for Bandhavgarh.",
+      "location": {
+        "lat": 23.5247,
+        "lng": 80.8368
+      }
+    },
+    {
+      "name": "Amarkantak",
+      "slug": "amarkantak",
+      "overview": "A hill town where the Vindhyas meet the Satpuras, and the source of the Narmada.",
+      "location": {
+        "lat": 22.6733,
+        "lng": 81.7595
+      }
+    },
+    {
+      "name": "Sheopur",
+      "slug": "sheopur",
+      "overview": "A town near the Chambal, close to Kuno National Park.",
+      "location": {
+        "lat": 25.6667,
+        "lng": 76.7
+      }
+    },
+    {
+      "name": "Ashoknagar",
+      "slug": "ashoknagar",
+      "overview": "A district town in northern Madhya Pradesh and the base for Chanderi.",
+      "location": {
+        "lat": 24.5774,
+        "lng": 77.7316
+      }
+    },
+    {
+      "name": "Khandwa",
+      "slug": "khandwa",
+      "overview": "A Nimar town, the rail head for the island temple of Omkareshwar.",
+      "location": {
+        "lat": 21.8257,
+        "lng": 76.3526
       }
     }
   ],
@@ -274,6 +398,1170 @@
           "credit": "Davidvraju",
           "license": "CC BY-SA 4.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tiger_Kanha_National_Park.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Taj-ul-Masajid",
+      "slug": "taj-ul-masajid",
+      "city": "bhopal",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "One of the largest mosques in India, in pink stone with white domes, in the old city of Bhopal.",
+      "description": "Huge courtyard, tall minarets and a capacity of about 26,000 worshippers. Its name means the Crown of Mosques, and it's still an active seat of learning.",
+      "history": "Started by Shah Jahan Begum in the 19th century, and finished only in the 1980s.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 23.263,
+        "lng": 77.393,
+        "address": "Bhopal, Madhya Pradesh"
+      },
+      "highlights": [
+        "Huge courtyard",
+        "Pink minarets",
+        "Old Bhopal bazaar"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Taj-ul-Masajid – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Taj-ul-Masajid"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/taj-ul-masajid.webp",
+          "alt": "Taj-ul-Masajid, Bhopal",
+          "credit": "Yann (",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taj-ul-Masjid,_Bhopal,_India.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Upper Lake, Bhopal",
+      "slug": "upper-lake-bhopal",
+      "city": "bhopal",
+      "kind": "lake",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "Bhojtal, a large old lake on the western side of Bhopal, the source of 40% of the city's water.",
+      "description": "A huge lake at the edge of the city, with boat rides, and Van Vihar along the south bank. The sunset from the VIP Road is a Bhopal favourite.",
+      "history": "Traditionally linked to the Paramara king Bhoja in the 11th century.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 23.25,
+        "lng": 77.34,
+        "address": "Bhopal, Madhya Pradesh"
+      },
+      "highlights": [
+        "Boat Club rides",
+        "Sunset from VIP Road",
+        "Raja Bhoj statue"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Bhojtal – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bhojtal"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/upper-lake-bhopal.webp",
+          "alt": "Upper Lake, Bhopal, Bhopal",
+          "credit": "Sgbot321",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Upper_Lake,_Bhopal,_M.P.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Van Vihar National Park",
+      "slug": "van-vihar-national-park",
+      "city": "bhopal",
+      "kind": "zoo",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A national park that's run like a zoo in Bhopal, with rescued animals along the Upper Lake.",
+      "description": "A small park of 4.45 sq km, with a road for walkers, cyclists and cars to pass by the open enclosures of tigers, lions and bears.",
+      "history": "Declared a national park in 1979.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 23.23,
+        "lng": 77.3664,
+        "address": "Bhopal, Madhya Pradesh"
+      },
+      "highlights": [
+        "Rescued tigers and bears",
+        "Cycling the park",
+        "Lake views"
+      ],
+      "sources": [
+        {
+          "title": "Van Vihar National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Van_Vihar_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/van-vihar-national-park.webp",
+          "alt": "Van Vihar National Park, Bhopal",
+          "credit": "Sudheer Pandey",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alligator_at_Van_Vihar_National_Park.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Bhojeshwar Temple",
+      "slug": "bhojeshwar-temple",
+      "city": "sanchi",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "An unfinished 11th-century Shiva temple at Bhojpur, with a 7.5-foot lingam in its sanctum.",
+      "description": "An incomplete temple of huge pillars, and a rare look at how such a place was built. Plans carved on nearby rocks and the earth ramp are still visible.",
+      "history": "Traditionally attributed to the Paramara king Bhoja, in the 11th century.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 23.1003,
+        "lng": 77.5797,
+        "address": "Sanchi, Madhya Pradesh"
+      },
+      "highlights": [
+        "Huge lingam",
+        "Unfinished ramp",
+        "Carved architectural plans"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Bhojeshwar Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bhojeshwar_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/bhojeshwar-temple.webp",
+          "alt": "Bhojeshwar Temple, Sanchi",
+          "credit": "Bernard Gagnon",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shiva_Temple,_Bhojpur_01.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Udayagiri Caves",
+      "slug": "udayagiri-caves-vidisha",
+      "city": "sanchi",
+      "kind": "caves",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "Twenty rock-cut caves near Vidisha, with some of the oldest surviving Hindu sculptures in India.",
+      "description": "A low hill near Vidisha, with a giant Varaha panel showing Vishnu as a boar. It's quiet and just a short way from the crowds at Sanchi.",
+      "history": "Carved in the Gupta period, from the early 3rd to the 5th century CE.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 23.5364,
+        "lng": 77.7722,
+        "address": "Sanchi, Madhya Pradesh"
+      },
+      "highlights": [
+        "Varaha relief",
+        "Gupta inscriptions",
+        "Quiet hill views"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Udayagiri Caves – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Udayagiri_Caves"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/udayagiri-caves-vidisha.webp",
+          "alt": "Udayagiri Caves, Sanchi",
+          "credit": "Asitjain",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Varahavtar_Panel.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Gwalior Fort",
+      "slug": "gwalior-fort",
+      "city": "gwalior",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A huge hill fort that Babur called the pearl amongst the fortresses of Hind.",
+      "description": "Blue-tiled Man Singh Palace, Sas-Bahu temples and giant rock-cut Jain figures, all spread along a long plateau.",
+      "history": "Its history reaches back at least to the 6th century. The Tomar king Man Singh built its greatest palace.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 26.2303,
+        "lng": 78.1689,
+        "address": "Gwalior, Madhya Pradesh"
+      },
+      "highlights": [
+        "Man Singh Palace tiles",
+        "Sas-Bahu temples",
+        "Rock-cut Jain statues"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Gwalior Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gwalior_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/gwalior-fort.webp",
+          "alt": "Gwalior Fort, Gwalior",
+          "credit": "Anuppyr007",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gwalior_Fort_front.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Jai Vilas Palace",
+      "slug": "jai-vilas-palace",
+      "city": "gwalior",
+      "kind": "palace",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "An 1874 palace of the Scindias, with two of the largest chandeliers in the world.",
+      "description": "A huge European-style palace, part of it a museum. A silver toy train carried drinks around the dining table, and it's still on show.",
+      "history": "Built in 1874 by Jayajirao Scindia, the Maharaja of Gwalior.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 26.2047,
+        "lng": 78.1686,
+        "address": "Gwalior, Madhya Pradesh"
+      },
+      "highlights": [
+        "Giant chandeliers",
+        "Silver toy train",
+        "Scindia Museum"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Jai Vilas Mahal – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jai_Vilas_Mahal"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/jai-vilas-palace.webp",
+          "alt": "Jai Vilas Palace, Gwalior",
+          "credit": "Mohitkjain123",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jai_Vilas_Palace_(_Scindia_Palace).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Bateshwar Temples",
+      "slug": "bateshwar-temples",
+      "city": "gwalior",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "About 200 sandstone temples in the Morena hills, north of Gwalior, restored from ruin.",
+      "description": "Rows of small post-Gupta temples, on a quiet hillside, that were pieced back together by archaeologists after being found in ruins.",
+      "history": "Built in the post-Gupta, early Gurjara-Pratihara period.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 26.4271,
+        "lng": 78.1968,
+        "address": "Gwalior, Madhya Pradesh"
+      },
+      "highlights": [
+        "Rows of small temples",
+        "Restoration story",
+        "Chambal country"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Bateshwar Hindu temples, Madhya Pradesh – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bateshwar_Hindu_temples,_Madhya_Pradesh"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/bateshwar-temples.webp",
+          "alt": "Bateshwar Temples, Gwalior",
+          "credit": "Varun Shiv Kapur from New Delhi, India",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bateshwar_Temples_(15695822503).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kuno National Park",
+      "slug": "kuno-national-park",
+      "city": "sheopur",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A national park in the Gwalior Chambal region, known for India's cheetah reintroduction project.",
+      "description": "Dry forest and grassland along the Kuno River. India's cheetah project brought African cheetahs here from 2022, and safaris are now open.",
+      "history": "Established in 1981 as a wildlife sanctuary.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "location": {
+        "lat": 25.6667,
+        "lng": 77.1667,
+        "address": "Sheopur, Madhya Pradesh"
+      },
+      "highlights": [
+        "Cheetah project",
+        "Palpur ruined fort",
+        "Kuno River"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Kuno National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kuno_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kuno-national-park.webp",
+          "alt": "Kuno National Park, Sheopur",
+          "credit": "M G Chandrasekr",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kuno_river.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Chanderi",
+      "slug": "chanderi",
+      "city": "ashoknagar",
+      "kind": "village",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A historic town in the Vindhyas, known for its handwoven saris, fort and old mosques.",
+      "description": "A small town of Sultanate gates and mosques, with a tall fort and active handlooms. It's a good place to buy Chanderi silk.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 24.72,
+        "lng": 78.13,
+        "address": "Ashoknagar, Madhya Pradesh"
+      },
+      "highlights": [
+        "Chanderi handlooms",
+        "Koshak Mahal",
+        "Badal Mahal Gate"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Chanderi – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chanderi"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/chanderi.webp",
+          "alt": "Chanderi, Ashoknagar",
+          "credit": "GymPediaWarrior",
+          "license": "CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chanderi_Fort_03.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Jahangir Mahal",
+      "slug": "jahangir-mahal-orchha",
+      "city": "orchha",
+      "kind": "palace",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A vast Bundela palace in Orchha, built for the Mughal emperor Jahangir's visit.",
+      "description": "Domed pavilions, carved windows and rooftop views of the Betwa. It's the finest building in the Orchha fort complex.",
+      "history": "Raja Bir Singh Deo built it to mark Jahangir's visit in the 17th century.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 25.3507,
+        "lng": 78.6442,
+        "address": "Orchha, Madhya Pradesh"
+      },
+      "highlights": [
+        "Rooftop views",
+        "Carved elephants",
+        "Fort complex"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Jahangir Mahal, Orchha – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jahangir_Mahal,_Orchha"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/jahangir-mahal-orchha.webp",
+          "alt": "Jahangir Mahal, Orchha",
+          "credit": "Jean-Pierre Dalbéra from Paris, France",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Le_Jehangir_Mahal_(Orchha)_(8451914174).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Orchha Fort Complex",
+      "slug": "orchha-fort-complex",
+      "city": "orchha",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "An island fort on the Betwa River, with three palaces, gardens and royal halls.",
+      "description": "A set of palaces and temples reached by a bridge. Raj Mahal has fine murals, and the evening light on the Betwa cenotaphs is lovely.",
+      "history": "The Bundela ruler Rudra Pratap Singh made Orchha his capital in the 16th century.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 25.3499,
+        "lng": 78.6444,
+        "address": "Orchha, Madhya Pradesh"
+      },
+      "highlights": [
+        "Raj Mahal murals",
+        "Rai Praveen Mahal",
+        "Betwa cenotaphs"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Orchha Fort complex – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Orchha_Fort_complex"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/orchha-fort-complex.webp",
+          "alt": "Orchha Fort Complex, Orchha",
+          "credit": "Mandy",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Orchha_Fort_and_Bridge.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Mahakaleshwar Temple",
+      "slug": "mahakaleshwar-temple-ujjain",
+      "city": "ujjain",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A Shiva Jyotirlinga on the Shipra in Ujjain, known for its pre-dawn Bhasma Aarti.",
+      "description": "One of the twelve holiest Shiva shrines, with a south-facing lingam. The Mahakal Lok corridor now leads pilgrims in, and you need to book the dawn aarti ahead.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 23.1828,
+        "lng": 75.7683,
+        "address": "Ujjain, Madhya Pradesh"
+      },
+      "highlights": [
+        "Bhasma Aarti",
+        "Mahakal Lok corridor",
+        "Shipra River ghats"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Mahakaleshwar Jyotirlinga – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mahakaleshwar_Jyotirlinga"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/mahakaleshwar-temple-ujjain.webp",
+          "alt": "Mahakaleshwar Temple, Ujjain",
+          "credit": "Ashverse",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mahakaleshwar_Temple,_Ujjain.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Rajwada",
+      "slug": "rajwada",
+      "city": "indore",
+      "kind": "palace",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The 200-year-old Holkar palace at the centre of Indore, with a seven-storey gate.",
+      "description": "A blend of Maratha, Mughal and French styles, right in the middle of the bazaar. The evening food market at Sarafa is only a few minutes away.",
+      "history": "Built by the Holkars around two centuries ago.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 22.7184,
+        "lng": 75.8552,
+        "address": "Indore, Madhya Pradesh"
+      },
+      "highlights": [
+        "Seven-storey gateway",
+        "Old city bazaars",
+        "Sarafa night food market"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Rajwada – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Rajwada"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/rajwada.webp",
+          "alt": "Rajwada, Indore",
+          "credit": "DeepakNigam",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Indore_Rajwada01.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Lalbagh Palace",
+      "slug": "lalbagh-palace-indore",
+      "city": "indore",
+      "kind": "palace",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The grand Holkar palace on the Khan River in Indore, with European-style rooms.",
+      "description": "A palace of Italian marble and Greek-style halls, a sharp contrast with Rajwada. Its gates are modelled on Buckingham Palace.",
+      "history": "Built by the Holkar dynasty between 1886 and 1921.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 22.7001,
+        "lng": 75.8471,
+        "address": "Indore, Madhya Pradesh"
+      },
+      "highlights": [
+        "European interiors",
+        "Buckingham-style gates",
+        "Quiet grounds"
+      ],
+      "sources": [
+        {
+          "title": "Lalbagh Palace – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lalbagh_Palace"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/lalbagh-palace-indore.webp",
+          "alt": "Lalbagh Palace, Indore",
+          "credit": "Dipan S",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lalbagh_palace,_Indore.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Omkareshwar",
+      "slug": "omkareshwar-temple",
+      "city": "khandwa",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "An island Jyotirlinga temple on the Narmada, in an island shaped like the sacred syllable Om.",
+      "description": "A white temple high above the river on Mandhata island, reached by bridge or boat. A giant statue of Adi Shankara now stands on the hill.",
+      "history": "One of the twelve revered Jyotirlinga shrines of Shiva.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 22.2456,
+        "lng": 76.1511,
+        "address": "Khandwa, Madhya Pradesh"
+      },
+      "highlights": [
+        "Narmada boat ride",
+        "Island circuit",
+        "Adi Shankara statue"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Omkareshwar Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Omkareshwar_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/omkareshwar-temple.webp",
+          "alt": "Omkareshwar, Khandwa",
+          "credit": "Deveshc92",
+          "license": "CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Omkareswar_Jyotirlinga.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Maheshwar Fort and Ghats",
+      "slug": "maheshwar-fort-and-ghats",
+      "city": "maheshwar",
+      "kind": "fort",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "Ahilyabai Holkar's fort, ghats and temples on the Narmada, the setting for many Hindi films.",
+      "description": "Stone ghats and temples rise from the river, with the fort above. The Rehwa handloom weavers work in the fort, and the sunset boats are lovely.",
+      "history": "The Maratha queen Ahilyabai Holkar made it her capital in the 18th century.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 22.11,
+        "lng": 75.35,
+        "address": "Maheshwar, Madhya Pradesh"
+      },
+      "highlights": [
+        "Ahilya Ghat",
+        "Maheshwari handlooms",
+        "Sunset boats"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Maheshwar – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Maheshwar"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/maheshwar-fort-and-ghats.webp",
+          "alt": "Maheshwar Fort and Ghats, Maheshwar",
+          "credit": "Lukas Vacovsky",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maheshwar_fort.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Mandu",
+      "slug": "mandu-fort-city",
+      "city": "mandu",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A ruined Afghan city on a plateau in Malwa, with the Jahaz Mahal, a palace shaped like a ship.",
+      "description": "Palaces, mosques and tombs are spread across the green plateau. Don't miss the ship-like Jahaz Mahal, Hoshang Shah's marble tomb and Rani Roopmati's Pavilion.",
+      "history": "It was the capital of the Malwa sultans, and is the setting of the love story of Baz Bahadur and Roopmati.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "location": {
+        "lat": 22.3353,
+        "lng": 75.4158,
+        "address": "Mandu, Madhya Pradesh"
+      },
+      "highlights": [
+        "Jahaz Mahal",
+        "Hoshang Shah's Tomb",
+        "Roopmati's Pavilion"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Mandu, Madhya Pradesh – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mandu,_Madhya_Pradesh"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/mandu-fort-city.webp",
+          "alt": "Mandu",
+          "credit": "Aamin",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:JahazMahal.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Pachmarhi",
+      "slug": "pachmarhi-hill-station",
+      "city": "pachmarhi",
+      "kind": "hill-station",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "Satpura ki Rani, a green plateau hill station with waterfalls, caves and old church towers.",
+      "description": "Waterfalls, forest walks and rock paintings in a British-era cantonment. Bee Falls and Dhupgarh, the highest point in the region, are favourites.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "location": {
+        "lat": 22.4667,
+        "lng": 78.411,
+        "address": "Pachmarhi, Madhya Pradesh"
+      },
+      "highlights": [
+        "Bee Falls",
+        "Dhupgarh sunset",
+        "Pandav Caves"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Pachmarhi – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pachmarhi"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/pachmarhi-hill-station.webp",
+          "alt": "Pachmarhi",
+          "credit": "Abhayashok",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pachmarhi_valley_Madhya_Pradesh_INDIA.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Satpura Tiger Reserve",
+      "slug": "satpura-tiger-reserve",
+      "city": "pachmarhi",
+      "kind": "national-park",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "A rugged tiger reserve in Narmadapuram, known for walking and canoe safaris.",
+      "description": "One of the few reserves in India where you can explore on foot or by canoe. Sloth bears and leopards live in sal forests and sandstone hills.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "location": {
+        "lat": 22.495,
+        "lng": 78.231,
+        "address": "Pachmarhi, Madhya Pradesh"
+      },
+      "highlights": [
+        "Walking safaris",
+        "Canoeing on Denwa",
+        "Sloth bears"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Satpura Tiger Reserve – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Satpura_Tiger_Reserve"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/satpura-tiger-reserve.webp",
+          "alt": "Satpura Tiger Reserve, Pachmarhi",
+          "credit": "BSSKrishnaS",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amazing_Landscape_@Satpura_Tiger_Reserve.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Bandhavgarh National Park",
+      "slug": "bandhavgarh-national-park",
+      "city": "umaria",
+      "kind": "national-park",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "A national park in Umaria with one of India's highest densities of tigers and an old hill fort.",
+      "description": "Sal forest and rocky hills around the ruined Bandhavgarh Fort. It's probably the best place in India to see a tiger, particularly in the Tala zone.",
+      "history": "Declared a national park in 1968, and a tiger reserve in 1993.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "location": {
+        "lat": 23.6994,
+        "lng": 80.9619,
+        "address": "Umaria, Madhya Pradesh"
+      },
+      "highlights": [
+        "Tala zone tigers",
+        "Bandhavgarh Fort",
+        "Sleeping Vishnu statue"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Bandhavgarh National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bandhavgarh_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/bandhavgarh-national-park.webp",
+          "alt": "Bandhavgarh National Park, Umaria",
+          "credit": "This Image was created by User:Archith. If you would like to use the image please mail me at archith",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tigress_in_Bandhavgarh_NP.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Panna National Park",
+      "slug": "panna-national-park",
+      "city": "khajuraho",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A tiger reserve near Khajuraho, with gorges and the Ken River, where tigers were brought back.",
+      "description": "Rocky plateau and gorges along the Ken River, a short drive from Khajuraho. Tigers disappeared by 2009 and were successfully brought back.",
+      "history": "Declared India's 22nd tiger reserve in 1994.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "location": {
+        "lat": 24.7304,
+        "lng": 80.0102,
+        "address": "Khajuraho, Madhya Pradesh"
+      },
+      "highlights": [
+        "Ken River boat trip",
+        "Pandav Falls",
+        "Tiger comeback"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Panna National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Panna_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/panna-national-park.webp",
+          "alt": "Panna National Park, Khajuraho",
+          "credit": "Mehaknoni",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peaceful_time_away_from_the_wild_hustle._01.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Marble Rocks, Bhedaghat",
+      "slug": "marble-rocks-bhedaghat",
+      "city": "jabalpur",
+      "kind": "river",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "White marble cliffs along the Narmada near Jabalpur, seen by boat, best under the moon.",
+      "description": "The river runs for kilometres through a gorge of shining white and blue marble cliffs. Boat rides are the thing to do, and they run under the moon on some nights.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 23.132,
+        "lng": 79.801,
+        "address": "Jabalpur, Madhya Pradesh"
+      },
+      "highlights": [
+        "Moonlit boat rides",
+        "Marble gorge",
+        "Chausath Yogini Temple"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Bhedaghat – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bhedaghat"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/marble-rocks-bhedaghat.webp",
+          "alt": "Marble Rocks, Bhedaghat, Jabalpur",
+          "credit": "Aksveer",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bhedaghat_Jbp.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Dhuandhar Falls",
+      "slug": "dhuandhar-falls",
+      "city": "jabalpur",
+      "kind": "waterfall",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A foggy waterfall on the Narmada near Bhedaghat, and the river's most dramatic drop.",
+      "description": "The Narmada crashes down in a thick smoke of spray, giving the falls their name. A cable car crosses right above it.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1
+      ],
+      "location": {
+        "lat": 23.1263,
+        "lng": 79.8076,
+        "address": "Jabalpur, Madhya Pradesh"
+      },
+      "highlights": [
+        "Cable car",
+        "Rising spray",
+        "Marble rocks nearby"
+      ],
+      "sources": [
+        {
+          "title": "Dhuandhar Falls – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dhuandhar_Falls"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/dhuandhar-falls.webp",
+          "alt": "Dhuandhar Falls, Jabalpur",
+          "credit": "Monish 006",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dhuandhar_Waterfalls_in_Bhedaghat,_India.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Narmada Udgam, Amarkantak",
+      "slug": "narmada-udgam-amarkantak",
+      "city": "amarkantak",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious",
+        "nature"
+      ],
+      "shortDescription": "The source of the Narmada, in a holy tank in the temple town of Amarkantak.",
+      "description": "A small white temple complex marks where the Narmada begins, and nearby are old Kalachuri temples, along with the falls at Kapildhara.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 22.6733,
+        "lng": 81.7595,
+        "address": "Amarkantak, Madhya Pradesh"
+      },
+      "highlights": [
+        "Narmada Kund",
+        "Kalachuri temples",
+        "Kapildhara Falls"
+      ],
+      "sources": [
+        {
+          "title": "Amarkantak – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Amarkantak"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/narmada-udgam-amarkantak.webp",
+          "alt": "Narmada Udgam, Amarkantak, Amarkantak",
+          "credit": "R Singh",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_Hindu_temple,_Amarkantak_Madhya_Pradesh_India.jpg"
         }
       ]
     }

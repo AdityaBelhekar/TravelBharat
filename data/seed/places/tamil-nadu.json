@@ -4,6 +4,8 @@
       "name": "Madurai",
       "slug": "madurai",
       "overview": "One of the oldest cities in South India and a centre of Tamil culture for over two thousand years, Madurai is built around the Meenakshi Temple and comes alive late into the night.",
+      "history": "An ancient city and the capital of the Pandya kings, known for its early Tamil literary academies. The Nayaks rebuilt it in the 16th and 17th centuries around the Meenakshi Temple.",
+      "isHub": true,
       "location": {
         "lat": 9.9252,
         "lng": 78.1198
@@ -13,6 +15,8 @@
       "name": "Thanjavur",
       "slug": "thanjavur",
       "overview": "The capital of the Chola empire at its height, Thanjavur is known for the Brihadeeswarar Temple, Tanjore paintings, bronze casting and Carnatic music.",
+      "history": "The capital of the Chola empire at its height, when Rajaraja I built the Brihadeeswarar Temple. Later it was ruled by the Nayaks and then by a Maratha dynasty.",
+      "isHub": true,
       "location": {
         "lat": 10.787,
         "lng": 79.1378
@@ -31,6 +35,7 @@
       "name": "Udhagamandalam",
       "slug": "ooty",
       "overview": "Ooty, the 'Queen of Hill Stations', sits at about 2,200 metres in the Nilgiri Hills, with tea gardens, a botanical garden, a lake and cool weather all year.",
+      "isHub": true,
       "location": {
         "lat": 11.4102,
         "lng": 76.695
@@ -61,6 +66,126 @@
       "location": {
         "lat": 10.0731,
         "lng": 78.7732
+      }
+    },
+    {
+      "name": "Chennai",
+      "slug": "chennai",
+      "overview": "Tamil Nadu's capital on the Bay of Bengal, a city of Carnatic music, old temples and colonial landmarks along a long beach.",
+      "history": "It grew around Fort St. George, built by the East India Company in 1639, on a coast where old villages like Mylapore already stood. As Madras, it became the seat of a large British presidency.",
+      "isHub": true,
+      "location": {
+        "lat": 13.0825,
+        "lng": 80.275
+      }
+    },
+    {
+      "name": "Tiruchirappalli",
+      "slug": "tiruchirappalli",
+      "overview": "A river city on the Kaveri, known for its Rockfort and the temple island of Srirangam.",
+      "isHub": true,
+      "location": {
+        "lat": 10.8064,
+        "lng": 78.6892
+      }
+    },
+    {
+      "name": "Kanchipuram",
+      "slug": "kanchipuram",
+      "overview": "The city of a thousand temples, once the capital of the Pallavas, and famous for its silk sarees.",
+      "location": {
+        "lat": 12.832,
+        "lng": 79.7037
+      }
+    },
+    {
+      "name": "Kumbakonam",
+      "slug": "kumbakonam",
+      "overview": "A temple town between the Kaveri and Arasalar rivers, in the rice bowl of the Chola country.",
+      "location": {
+        "lat": 10.9602,
+        "lng": 79.3845
+      }
+    },
+    {
+      "name": "Kodaikanal",
+      "slug": "kodaikanal",
+      "overview": "A hill station at 2,225 m in the Palani Hills, built around a star-shaped lake by American missionaries in 1845.",
+      "location": {
+        "lat": 10.23,
+        "lng": 77.48
+      }
+    },
+    {
+      "name": "Coimbatore",
+      "slug": "coimbatore",
+      "overview": "An industrial city by the Noyyal River, with the Anamalai hills and Ooty both within reach.",
+      "location": {
+        "lat": 11.0008,
+        "lng": 76.9633
+      }
+    },
+    {
+      "name": "Tiruvannamalai",
+      "slug": "tiruvannamalai",
+      "overview": "A temple town at the foot of the sacred Arunachala hill, a favourite with spiritual seekers.",
+      "location": {
+        "lat": 12.2253,
+        "lng": 79.0747
+      }
+    },
+    {
+      "name": "Chidambaram",
+      "slug": "chidambaram",
+      "overview": "A temple town near the Coromandel coast, with mangroves at Pichavaram close by.",
+      "location": {
+        "lat": 11.3992,
+        "lng": 79.6936
+      }
+    },
+    {
+      "name": "Vellore",
+      "slug": "vellore",
+      "overview": "A city with a huge moated fort and the golden temple at Sripuram.",
+      "location": {
+        "lat": 12.9165,
+        "lng": 79.1325
+      }
+    },
+    {
+      "name": "Salem",
+      "slug": "salem",
+      "overview": "A hill-ringed city in the north of the state, the base for Yercaud and the Hogenakkal falls.",
+      "location": {
+        "lat": 11.6643,
+        "lng": 78.146
+      }
+    },
+    {
+      "name": "Tenkasi",
+      "slug": "tenkasi",
+      "overview": "A town in the far south at the foot of the Western Ghats, known for the Courtallam falls.",
+      "location": {
+        "lat": 8.9594,
+        "lng": 77.3152
+      }
+    },
+    {
+      "name": "Nagapattinam",
+      "slug": "nagapattinam",
+      "overview": "A port on the Bay of Bengal, the base for the shrine at Velankanni and the Point Calimere marshes.",
+      "location": {
+        "lat": 10.7672,
+        "lng": 79.8449
+      }
+    },
+    {
+      "name": "Palani",
+      "slug": "palani",
+      "overview": "A pilgrim town at the foot of the Palani Hills, known for its hilltop Murugan temple.",
+      "location": {
+        "lat": 10.45,
+        "lng": 77.5167
       }
     }
   ],
@@ -459,6 +584,1844 @@
           "credit": "User:Karthick jack",
           "license": "CC BY-SA 3.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Chettinad_palace_karaikudi_2013-09-07_00-11.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kapaleeshwarar Temple",
+      "slug": "kapaleeshwarar-temple",
+      "city": "chennai",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A colourful Shiva temple in Mylapore with a soaring gopuram, the heart of old Chennai.",
+      "description": "Its tower is packed with painted figures, and the temple tank is the focus of life in the old neighbourhood. The Arubathimoovar festival in spring brings out great crowds.",
+      "history": "The present temple dates from around the 17th century.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 13.0337,
+        "lng": 80.2699,
+        "address": "Chennai, Tamil Nadu"
+      },
+      "highlights": [
+        "Painted gopuram",
+        "Temple tank",
+        "Arubathimoovar procession"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Kapaleeshwarar Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kapaleeshwarar_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kapaleeshwarar-temple.webp",
+          "alt": "Kapaleeshwarar Temple, Chennai",
+          "credit": "Mohan Krishnan (en:User",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kapaleeswarar1.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Marina Beach",
+      "slug": "marina-beach",
+      "city": "chennai",
+      "kind": "beach",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A 6 km urban beach along the Bay of Bengal, the city's evening meeting place.",
+      "description": "One of the longest urban beaches in the world, with food stalls, kites and evening crowds. The strong current makes it unsafe for swimming.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 13.0542,
+        "lng": 80.2837,
+        "address": "Chennai, Tamil Nadu"
+      },
+      "highlights": [
+        "Morning walk",
+        "Evening food stalls",
+        "Leaders' memorials"
+      ],
+      "sources": [
+        {
+          "title": "Marina Beach – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Marina_Beach"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/marina-beach.webp",
+          "alt": "Marina Beach, Chennai",
+          "credit": "SlowPhoton",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chennai_-_bird%27s-eye_view.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Fort St. George",
+      "slug": "fort-st-george",
+      "city": "chennai",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The first English fortress in India, founded in 1639, and the place where modern Chennai began.",
+      "description": "Still in use as the state government's seat, with a fine museum of Company-era arms and coins and India's oldest Anglican church, St. Mary's.",
+      "history": "Founded in 1639 by the East India Company, and it provided the impetus for the growth of the city.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 13.0797,
+        "lng": 80.2869,
+        "address": "Chennai, Tamil Nadu"
+      },
+      "highlights": [
+        "Fort Museum",
+        "St. Mary's Church",
+        "Tall flagstaff"
+      ],
+      "sources": [
+        {
+          "title": "Fort St. George – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Fort_St._George"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/fort-st-george.webp",
+          "alt": "Fort St. George, Chennai",
+          "credit": "L.vivian.richard at English Wikipedia",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fort_St._George,_Chennai_2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "San Thome Basilica",
+      "slug": "san-thome-basilica",
+      "city": "chennai",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A white Neo-Gothic basilica built over the tomb of St. Thomas the Apostle.",
+      "description": "One of very few churches in the world built over the tomb of an apostle. The tall white spire can be seen from the beach, and the museum tells the story of Thomas in India.",
+      "history": "The present building dates from the late 19th century.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 13.0336,
+        "lng": 80.2778,
+        "address": "Chennai, Tamil Nadu"
+      },
+      "highlights": [
+        "Tomb of St. Thomas",
+        "Stained glass",
+        "Small museum"
+      ],
+      "sources": [
+        {
+          "title": "St. Thomas Cathedral Basilica, Chennai – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/St._Thomas_Cathedral_Basilica,_Chennai"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/san-thome-basilica.webp",
+          "alt": "San Thome Basilica, Chennai",
+          "credit": "w:user:PlaneMad",
+          "license": "CC BY-SA 2.5",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Santhome_Basilica.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Government Museum, Chennai",
+      "slug": "government-museum-chennai",
+      "city": "chennai",
+      "kind": "museum",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "India's second-oldest museum, with the world's finest collection of Chola bronzes.",
+      "description": "A red Indo-Saracenic complex at Egmore, with the Bronze Gallery as the great draw. Don't miss the Nataraja figures.",
+      "history": "Started in 1851.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 13.0711,
+        "lng": 80.2569,
+        "address": "Chennai, Tamil Nadu"
+      },
+      "highlights": [
+        "Chola bronze gallery",
+        "Amaravati sculptures",
+        "Connemara Library next door"
+      ],
+      "sources": [
+        {
+          "title": "Government Museum, Chennai – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Government_Museum,_Chennai"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/government-museum-chennai.webp",
+          "alt": "Government Museum, Chennai, Chennai",
+          "credit": "L.vivian.richard at English Wikipedia",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Madras_museum_theatre_in_October_2007.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Arignar Anna Zoological Park",
+      "slug": "arignar-anna-zoological-park",
+      "city": "chennai",
+      "kind": "zoo",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "The Vandalur Zoo, a huge park on the south-western side of Chennai, 32 km from the city centre.",
+      "description": "A large zoo with open moated enclosures, lions, safari rides and aviaries. It takes the better part of a day, and battery cars are available.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 12.8792,
+        "lng": 80.0817,
+        "address": "Chennai, Tamil Nadu"
+      },
+      "highlights": [
+        "Lion safari",
+        "Nocturnal house",
+        "Battery cars"
+      ],
+      "sources": [
+        {
+          "title": "Arignar Anna Zoological Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Arignar_Anna_Zoological_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/arignar-anna-zoological-park.webp",
+          "alt": "Arignar Anna Zoological Park, Chennai",
+          "credit": "Yakshitha",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arignar_Anna_Zoological_park_27.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Guindy National Park",
+      "slug": "guindy-national-park",
+      "city": "chennai",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "One of India's few national parks inside a city, at just 2.7 sq km, home to blackbuck and deer.",
+      "description": "A small scrap of scrub forest inside the city, on the grounds of the Governor's residence, with a children's park and snake farm at the entrance.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 13.0036,
+        "lng": 80.2293,
+        "address": "Chennai, Tamil Nadu"
+      },
+      "highlights": [
+        "Blackbuck",
+        "Snake park",
+        "Children's park"
+      ],
+      "sources": [
+        {
+          "title": "Guindy National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Guindy_National_Park"
+        }
+      ]
+    },
+    {
+      "name": "Pancha Rathas",
+      "slug": "pancha-rathas",
+      "city": "mamallapuram",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "Five monolithic chariot temples at Mamallapuram, each carved from one rock in the Pallava era.",
+      "description": "Five shrines, each in a different form, along with a stone lion, elephant and bull. They look built, but each was cut from a single rock.",
+      "history": "Part of the UNESCO-listed group at Mahabalipuram, carved under the Pallava king Narasimhavarman I.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 12.6088,
+        "lng": 80.1896,
+        "address": "Mamallapuram, Tamil Nadu"
+      },
+      "highlights": [
+        "Five rock-cut shrines",
+        "Stone elephant",
+        "Early Dravidian forms"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Pancha Rathas – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pancha_Rathas"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/pancha-rathas.webp",
+          "alt": "Pancha Rathas, Mamallapuram",
+          "credit": "Arupparia",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Five_Rathas_at_Mahaballipuram,Tamil_Nadu.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Arjuna's Penance",
+      "slug": "arjunas-penance",
+      "city": "mamallapuram",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A huge rock relief at Mamallapuram, one of the largest open-air bas-reliefs in the world.",
+      "description": "Over a hundred figures of gods, people and animals crowd a giant boulder face. A natural cleft down the middle represents the descent of the Ganges.",
+      "history": "Measuring 96 by 43 feet, it was carved in the 7th century under the Pallavas.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 12.6175,
+        "lng": 80.1989,
+        "address": "Mamallapuram, Tamil Nadu"
+      },
+      "highlights": [
+        "Life-size elephants",
+        "Ascetic cat",
+        "Krishna's Butter Ball nearby"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Descent of the Ganges (Mahabalipuram) – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Descent_of_the_Ganges_(Mahabalipuram)"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/arjunas-penance.webp",
+          "alt": "Arjuna's Penance, Mamallapuram",
+          "credit": "Bernard Gagnon",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Descent_of_the_Ganges_01.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kailasanathar Temple",
+      "slug": "kailasanathar-temple-kanchipuram",
+      "city": "kanchipuram",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "The oldest structural temple in Kanchipuram, a small Pallava masterpiece in sandstone.",
+      "description": "A quiet sandstone temple with a row of small chapels around the courtyard. The faded murals and rearing lion pillars feel a long way from the busy temples of the town.",
+      "history": "One of the oldest surviving monuments in Kanchipuram, built by the Pallavas.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 12.8423,
+        "lng": 79.6897,
+        "address": "Kanchipuram, Tamil Nadu"
+      },
+      "highlights": [
+        "Lion pillars",
+        "Faded Pallava murals",
+        "Row of cell shrines"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Kailasanathar Temple, Kanchipuram – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kailasanathar_Temple,_Kanchipuram"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kailasanathar-temple-kanchipuram.webp",
+          "alt": "Kailasanathar Temple, Kanchipuram",
+          "credit": "Bikash Das from bangalore, india",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:7th_century_Sri_Kailashnathar_Temple_Kanchipuram_Tamil_Nadu_India_01_(11).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Ekambareswarar Temple",
+      "slug": "ekambareswarar-temple",
+      "city": "kanchipuram",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A big Shiva temple in Kanchipuram with a tall gopuram and an old mango tree in the courtyard.",
+      "description": "One of the five great Shiva temples representing the elements, this one being earth. It has a long thousand-pillared hall, and a sacred mango tree stands in its courtyard.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 12.8473,
+        "lng": 79.6998,
+        "address": "Kanchipuram, Tamil Nadu"
+      },
+      "highlights": [
+        "Sacred mango tree",
+        "Tall south gopuram",
+        "Thousand-pillared hall"
+      ],
+      "sources": [
+        {
+          "title": "Kanchipuram – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kanchipuram"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/ekambareswarar-temple.webp",
+          "alt": "Ekambareswarar Temple, Kanchipuram",
+          "credit": "Sharmila Sumithra",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ekambareswarar_Temple_(Kanchipuram).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kamakshi Amman Temple",
+      "slug": "kamakshi-amman-temple",
+      "city": "kanchipuram",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "One of the great goddess temples of south India, in the historic city of Kanchipuram.",
+      "description": "A golden tower rises above the temple of Kamakshi, and it's closely linked to the Kanchi monastery. Kanchipuram's famous silk shops are only a short walk away.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 12.8407,
+        "lng": 79.7032,
+        "address": "Kanchipuram, Tamil Nadu"
+      },
+      "highlights": [
+        "Golden gopuram",
+        "Kanchipuram silk shops",
+        "Navaratri festival"
+      ],
+      "sources": [
+        {
+          "title": "Kamakshi Amman Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kamakshi_Amman_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kamakshi-amman-temple.webp",
+          "alt": "Kamakshi Amman Temple, Kanchipuram",
+          "credit": "Shivashanky",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kamakshi_Amman_Temple_East_Gopuram.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Thanjavur Maratha Palace",
+      "slug": "thanjavur-maratha-palace",
+      "city": "thanjavur",
+      "kind": "palace",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The palace of the Bhonsle kings of Tanjore, with an art gallery and a historic library.",
+      "description": "Rambling halls contain a superb collection of Chola bronzes, while the Saraswathi Mahal Library has palm-leaf manuscripts. Climb the bell tower for a view of the Big Temple.",
+      "history": "The official residence of the Bhonsle family, who ruled Tanjore from 1674 to 1855.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 10.7913,
+        "lng": 79.1362,
+        "address": "Thanjavur, Tamil Nadu"
+      },
+      "highlights": [
+        "Chola bronze gallery",
+        "Saraswathi Mahal Library",
+        "Durbar hall"
+      ],
+      "sources": [
+        {
+          "title": "Thanjavur Maratha Palace – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Thanjavur_Maratha_Palace"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/thanjavur-maratha-palace.webp",
+          "alt": "Thanjavur Maratha Palace, Thanjavur",
+          "credit": "Rainer Halama",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thanjavur_Maratha_Palace-WUS02790.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Gangaikonda Cholapuram",
+      "slug": "gangaikonda-cholapuram",
+      "city": "kumbakonam",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "The capital built by Rajendra I around 1025, with a UNESCO-listed temple that rivals Thanjavur's.",
+      "description": "All that's left of a great royal city is its great temple and its huge Nandi. It's far quieter than Thanjavur and very beautiful, with curved tower lines.",
+      "history": "Rajendra I founded it in about 1025 to mark his Chola army's march to the Ganges.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 11.2064,
+        "lng": 79.4483,
+        "address": "Kumbakonam, Tamil Nadu"
+      },
+      "highlights": [
+        "Curved vimana",
+        "Nandi in the courtyard",
+        "Quiet Chola site"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Gangaikonda Cholapuram – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gangaikonda_Cholapuram"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/gangaikonda-cholapuram.webp",
+          "alt": "Gangaikonda Cholapuram, Kumbakonam",
+          "credit": "Ssriraman",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:GangaiKonda_Cholapuram(Front_View).JPG"
+        }
+      ]
+    },
+    {
+      "name": "Airavatesvara Temple",
+      "slug": "airavatesvara-temple",
+      "city": "kumbakonam",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A UNESCO-listed Chola jewel at Darasuram, near Kumbakonam, with tiny, detailed carving.",
+      "description": "Smaller than the other great Chola temples, it's covered in carving so tiny and fine you need to stand close. The front hall is shaped like a chariot.",
+      "history": "Built by the Chola emperor Rajaraja II in the 12th century.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 10.9484,
+        "lng": 79.3567,
+        "address": "Kumbakonam, Tamil Nadu"
+      },
+      "highlights": [
+        "Chariot-shaped hall",
+        "Musical steps",
+        "Miniature panels"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Airavatesvara Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Airavatesvara_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/airavatesvara-temple.webp",
+          "alt": "Airavatesvara Temple, Kumbakonam",
+          "credit": "Supraja kannan",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_different_view_of_Airavatesvara_Temple.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Ranganathaswamy Temple, Srirangam",
+      "slug": "ranganathaswamy-temple-srirangam",
+      "city": "tiruchirappalli",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "One of the largest working temple complexes in the world, on an island in the Kaveri.",
+      "description": "Seven walled enclosures, with a whole town of shops and houses living inside the outer ones. The Rajagopuram is among the tallest temple towers in Asia.",
+      "history": "One of the most important Vaishnava sites, developed over many centuries.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 10.8625,
+        "lng": 78.6897,
+        "address": "Tiruchirappalli, Tamil Nadu"
+      },
+      "highlights": [
+        "Towering Rajagopuram",
+        "Hall of a thousand pillars",
+        "Horse-court carvings"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Ranganathaswamy Temple, Srirangam – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ranganathaswamy_Temple,_Srirangam"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/ranganathaswamy-temple-srirangam.webp",
+          "alt": "Ranganathaswamy Temple, Srirangam, Tiruchirappalli",
+          "credit": "RUPESH MAURYA",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ranganathaswamy_temple_tiruchirappalli.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Jambukeswarar Temple",
+      "slug": "jambukeswarar-temple",
+      "city": "tiruchirappalli",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A Shiva temple at Thiruvanaikaval, one of five representing the elements, this one water.",
+      "description": "Long, quiet corridors surround a low sanctum where a spring keeps the floor damp. It's just down the road from Srirangam, and much calmer.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 10.8533,
+        "lng": 78.7056,
+        "address": "Tiruchirappalli, Tamil Nadu"
+      },
+      "highlights": [
+        "Water element shrine",
+        "Long pillared corridors",
+        "Near Srirangam"
+      ],
+      "sources": [
+        {
+          "title": "Jambukeswarar Temple, Thiruvanaikaval – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jambukeswarar_Temple,_Thiruvanaikaval"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/jambukeswarar-temple.webp",
+          "alt": "Jambukeswarar Temple, Tiruchirappalli",
+          "credit": "Ssriram mt",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tiruvanaikaval5.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Thirumalai Nayakkar Mahal",
+      "slug": "thirumalai-nayakkar-mahal",
+      "city": "madurai",
+      "kind": "palace",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The grand 1636 palace of Tirumala Nayaka in Madurai, 2 km from the Meenakshi Temple.",
+      "description": "Giant white pillars ring a courtyard of huge proportions, in a blend of Dravidian and Islamic styles. What's left is a fraction of the original.",
+      "history": "Built by Tirumala Nayaka, who ruled Madurai from 1623 to 1659.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 9.9148,
+        "lng": 78.1243,
+        "address": "Madurai, Tamil Nadu"
+      },
+      "highlights": [
+        "Huge courtyard",
+        "Giant pillars",
+        "Sound and light show"
+      ],
+      "sources": [
+        {
+          "title": "Thirumalai Nayakkar Mahal – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Thirumalai_Nayakkar_Mahal"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/thirumalai-nayakkar-mahal.webp",
+          "alt": "Thirumalai Nayakkar Mahal, Madurai",
+          "credit": "Thomas Daniell",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ruins_of_Thirumalai_Nayak_palace_in_Madurai_(1).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Doddabetta",
+      "slug": "doddabetta",
+      "city": "ooty",
+      "kind": "trek",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "The highest peak in the Nilgiris at 2,637 m, 9 km from Ooty, with a telescope house on top.",
+      "description": "A road reaches the summit, which has a telescope house and views out over the Nilgiris and on clear days down to the plains.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 11.4024,
+        "lng": 76.7367,
+        "address": "Udhagamandalam, Tamil Nadu"
+      },
+      "highlights": [
+        "Telescope house",
+        "Nilgiri views",
+        "Tea factory on the way"
+      ],
+      "sources": [
+        {
+          "title": "Doddabetta – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Doddabetta"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/doddabetta.webp",
+          "alt": "Doddabetta, Udhagamandalam",
+          "credit": "Timothy A. Gonsalve",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arts_College_Hill_Ooty_Nilgiris_Mar21_A7C_00188.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Ooty Lake",
+      "slug": "ooty-lake",
+      "city": "ooty",
+      "kind": "lake",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "An artificial lake and boathouse in Ooty, built in the 19th century by John Sullivan.",
+      "description": "A long, slender lake at the edge of town, with rowing boats and a small amusement area. It's touristy, but it is the classic Ooty outing.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 11.4061,
+        "lng": 76.6882,
+        "address": "Udhagamandalam, Tamil Nadu"
+      },
+      "highlights": [
+        "Boathouse",
+        "Rowing and pedal boats",
+        "Eucalyptus-lined shores"
+      ],
+      "sources": [
+        {
+          "title": "Ooty Lake – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ooty_Lake"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/ooty-lake.webp",
+          "alt": "Ooty Lake, Udhagamandalam",
+          "credit": "Pinakpani",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ooty_Lake_in_Tamil_Nadu_04.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Government Botanical Garden",
+      "slug": "government-botanical-garden-ooty",
+      "city": "ooty",
+      "kind": "garden",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "Ooty's great terraced garden, laid out in 1848, with a fossil tree and a Toda hut.",
+      "description": "Twenty-two hectares of lawns, lily ponds and old trees, climbing the slope of a hill. The flower show each May is the highlight of the Ooty summer season.",
+      "history": "Laid out in 1848.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 11.4188,
+        "lng": 76.711,
+        "address": "Udhagamandalam, Tamil Nadu"
+      },
+      "highlights": [
+        "May flower show",
+        "20-million-year-old fossil tree",
+        "Toda hut on the hill"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Government Botanical Garden – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Government_Botanical_Garden"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/government-botanical-garden-ooty.webp",
+          "alt": "Government Botanical Garden, Udhagamandalam",
+          "credit": "Adam Jones Adam63",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Botanical_Gardens_-_Ootacamund_(Ooty)_-_India_03.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Mudumalai National Park",
+      "slug": "mudumalai-national-park",
+      "city": "ooty",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A tiger reserve in the Nilgiris with a famous elephant camp at Theppakadu.",
+      "description": "Dry forest and river valleys shared with Bandipur and Wayanad. Elephants are easy to see, and the Theppakadu camp is the one in the Oscar-winning film The Elephant Whisperers.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "location": {
+        "lat": 11.6,
+        "lng": 76.5,
+        "address": "Udhagamandalam, Tamil Nadu"
+      },
+      "highlights": [
+        "Theppakadu elephant camp",
+        "Jeep safari",
+        "Moyar River"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Mudumalai National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mudumalai_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/mudumalai-national-park.webp",
+          "alt": "Mudumalai National Park, Udhagamandalam",
+          "credit": "Timothy A. Gonsalve",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tiger_Drinking_Pond_Mudumalai_Mar21_DSC01310.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sim's Park",
+      "slug": "sims-park-coonoor",
+      "city": "ooty",
+      "kind": "garden",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A 19th-century garden at Coonoor, with many rare trees from around the world.",
+      "description": "A small hillside garden in the cooler, quieter hill town of Coonoor, full of old specimen trees. It's a stop on the Nilgiri Mountain Railway line.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 11.3563,
+        "lng": 76.7998,
+        "address": "Udhagamandalam, Tamil Nadu"
+      },
+      "highlights": [
+        "Rare trees",
+        "Fruit show in May",
+        "Coonoor hill town"
+      ],
+      "sources": [
+        {
+          "title": "Coonoor – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Coonoor"
+        }
+      ]
+    },
+    {
+      "name": "Kodaikanal Lake",
+      "slug": "kodaikanal-lake",
+      "city": "kodaikanal",
+      "kind": "lake",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A star-shaped man-made lake at the centre of Kodaikanal, created in 1863.",
+      "description": "A 5 km road and cycle path goes around the lake, with boathouses and horse rides. It's the town's centre and its most popular walk.",
+      "history": "Sir Vere Henry Levinge, then the Collector of Madurai, was instrumental in creating the lake in 1863.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 10.2344,
+        "lng": 77.4863,
+        "address": "Kodaikanal, Tamil Nadu"
+      },
+      "highlights": [
+        "5 km walk or cycle",
+        "Rowing boats",
+        "Bryant Park nearby"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Kodaikanal Lake – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kodaikanal_Lake"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kodaikanal-lake.webp",
+          "alt": "Kodaikanal Lake, Kodaikanal",
+          "credit": "Wikimedia Commons contributor",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kodaikanal_lake.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Dhandayuthapani Swamy Temple",
+      "slug": "palani-murugan-temple",
+      "city": "palani",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "The hilltop Murugan temple at Palani, one of the Six Abodes of Murugan.",
+      "description": "A flight of 693 steps, a winch railway and a ropeway all reach this popular temple on a hill. Its idol is made of a sacred mixture of nine herbs, and pilgrims come bearing kavadi.",
+      "bestMonths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "location": {
+        "lat": 10.4388,
+        "lng": 77.5203,
+        "address": "Palani, Tamil Nadu"
+      },
+      "highlights": [
+        "Ropeway and winch",
+        "693-step climb",
+        "Thai Poosam festival"
+      ],
+      "sources": [
+        {
+          "title": "Dhandayuthapani Swamy Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dhandayuthapani_Swamy_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/palani-murugan-temple.webp",
+          "alt": "Dhandayuthapani Swamy Temple, Palani",
+          "credit": "Yaathuraa",
+          "license": "CC0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E0%AE%AA%E0%AE%B4%E0%AE%A8%E0%AE%BF_%E0%AE%AE%E0%AF%81%E0%AE%B0%E0%AF%81%E0%AE%95%E0%AE%A9%E0%AF%8D_%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D.png"
+        }
+      ]
+    },
+    {
+      "name": "Yercaud",
+      "slug": "yercaud",
+      "city": "salem",
+      "kind": "hill-station",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A quiet coffee hill station at 1,515 m in the Eastern Ghats, in Salem district.",
+      "description": "Coffee and pepper estates around a small lake, with viewpoints across the plains. It's a cheaper, calmer alternative to Ooty and Kodaikanal.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 11.7794,
+        "lng": 78.2034,
+        "address": "Salem, Tamil Nadu"
+      },
+      "highlights": [
+        "Yercaud Lake",
+        "Lady's Seat viewpoint",
+        "Coffee estates"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Yercaud – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Yercaud"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/yercaud.webp",
+          "alt": "Yercaud, Salem",
+          "credit": "Riju K",
+          "license": "CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yercaud_lake.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Anamalai Tiger Reserve",
+      "slug": "anamalai-tiger-reserve",
+      "city": "coimbatore",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A rich forest in the Anaimalai Hills, near Pollachi, home to lion-tailed macaques and elephants.",
+      "description": "Tall forest and tea around Topslip and the Valparai plateau. It's one of the best places in India for wildlife that's rare elsewhere, like the lion-tailed macaque.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 10.417,
+        "lng": 77.0567,
+        "address": "Coimbatore, Tamil Nadu"
+      },
+      "highlights": [
+        "Topslip safari",
+        "Valparai tea hills",
+        "Lion-tailed macaques"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Anamalai Tiger Reserve – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Anamalai_Tiger_Reserve"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/anamalai-tiger-reserve.webp",
+          "alt": "Anamalai Tiger Reserve, Coimbatore",
+          "credit": "UdayKiran28",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Uday_Kiran_Elephants_quarrel.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hogenakkal Falls",
+      "slug": "hogenakkal-falls",
+      "city": "salem",
+      "kind": "waterfall",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A waterfall on the Kaveri, where you ride round coracle boats right up to the falling water.",
+      "description": "The river falls over rock channels, and round wicker coracles take visitors around the pools. It's on the Tamil Nadu and Karnataka border, 46 km from Dharmapuri.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1
+      ],
+      "location": {
+        "lat": 12.1182,
+        "lng": 77.7738,
+        "address": "Salem, Tamil Nadu"
+      },
+      "highlights": [
+        "Coracle rides",
+        "Rock channels",
+        "Oil massage on the banks"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Hogenakkal Falls – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hogenakkal_Falls"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/hogenakkal-falls.webp",
+          "alt": "Hogenakkal Falls, Salem",
+          "credit": "Mithun Kundu",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hogenakkal_Falls_Close.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Courtallam",
+      "slug": "courtallam",
+      "city": "tenkasi",
+      "kind": "waterfall",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A town of waterfalls in the Tenkasi foothills, with bathing pools thought to have healing power.",
+      "description": "Water falling through spice forest gives this place the name Spa of South India. Season peaks when the southwest monsoon arrives.",
+      "bestMonths": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "location": {
+        "lat": 8.9342,
+        "lng": 77.2778,
+        "address": "Tenkasi, Tamil Nadu"
+      },
+      "highlights": [
+        "Main Falls",
+        "Five Falls",
+        "Herbal monsoon bathing"
+      ],
+      "sources": [
+        {
+          "title": "Courtallam – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Courtallam"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/courtallam.webp",
+          "alt": "Courtallam, Tenkasi",
+          "credit": "Mdsuhail at English Wikipedia",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Courtallam.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Arunachalesvara Temple",
+      "slug": "arunachalesvara-temple",
+      "city": "tiruvannamalai",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A vast Shiva temple at the foot of Arunachala hill, representing the element of fire.",
+      "description": "A huge temple with four great gopurams and a nine-storey tower. Pilgrims walk the 14 km around Arunachala at the full moon, and it's also the place of Ramana Maharshi's ashram.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 12.2316,
+        "lng": 79.0672,
+        "address": "Tiruvannamalai, Tamil Nadu"
+      },
+      "highlights": [
+        "14 km full-moon circuit",
+        "Karthigai Deepam hilltop flame",
+        "Ramana Maharshi ashram"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Arunachalesvara Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Arunachalesvara_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/arunachalesvara-temple.webp",
+          "alt": "Arunachalesvara Temple, Tiruvannamalai",
+          "credit": "Adarsh Pidugu",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arunachalam_temple_from_a_nearby_hill.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Gingee Fort",
+      "slug": "gingee-fort",
+      "city": "tiruvannamalai",
+      "kind": "fort",
+      "categories": [
+        "heritage",
+        "adventure"
+      ],
+      "shortDescription": "A fort spread over three hills, known as the Great Wall of South India.",
+      "description": "Walls link three rocky hills in one of the best forts in Tamil Nadu. Climb Rajagiri for a hard scramble, and pass a tall Kalyana Mahal on the way.",
+      "history": "It lies 160 km from Chennai, and the Marathas considered it an unbeatable fortress.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 12.2501,
+        "lng": 79.3948,
+        "address": "Tiruvannamalai, Tamil Nadu"
+      },
+      "highlights": [
+        "Rajagiri hill climb",
+        "Kalyana Mahal tower",
+        "Fort walls across three hills"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Gingee Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gingee_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/gingee-fort.webp",
+          "alt": "Gingee Fort, Tiruvannamalai",
+          "credit": "KARTY JazZ",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gingee_Fort_Hill_view_from_road.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Nataraja Temple, Chidambaram",
+      "slug": "nataraja-temple-chidambaram",
+      "city": "chidambaram",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "The great temple of Shiva as the lord of the dance, a key site in Tamil Hinduism.",
+      "description": "A golden roof sits above the hall of the dancing Shiva. Reliefs of the 108 dance poses of Bharatanatyam are on the gates.",
+      "history": "Chola kings made Nataraja their family deity and gave the temple its golden roof.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 11.3994,
+        "lng": 79.6933,
+        "address": "Chidambaram, Tamil Nadu"
+      },
+      "highlights": [
+        "Golden-roofed hall",
+        "108 dance poses",
+        "Natyanjali dance festival"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Nataraja Temple, Chidambaram – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nataraja_Temple,_Chidambaram"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/nataraja-temple-chidambaram.webp",
+          "alt": "Nataraja Temple, Chidambaram, Chidambaram",
+          "credit": "Jean-Pierre Dalbéra from Paris, France",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Le_temple_de_Shiva_Nataraja_(Chidambaram,_Inde)_(14037020332).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Pichavaram Mangrove",
+      "slug": "pichavaram-mangrove",
+      "city": "chidambaram",
+      "kind": "sanctuary",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "One of the world's largest mangrove forests, explored by rowing boat through narrow channels.",
+      "description": "A maze of green channels near Chidambaram, between the Vellar and Coleroon estuaries, reached by rowing boat. It's quiet and full of birds in winter.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 11.4325,
+        "lng": 79.7808,
+        "address": "Chidambaram, Tamil Nadu"
+      },
+      "highlights": [
+        "Rowing through channels",
+        "Migratory birds",
+        "Silver Beach nearby"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Pichavaram – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pichavaram"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/pichavaram-mangrove.webp",
+          "alt": "Pichavaram Mangrove, Chidambaram",
+          "credit": "Phadke09",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mangroves_of_Pichavaram.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Basilica of Our Lady of Good Health",
+      "slug": "basilica-of-our-lady-velankanni",
+      "city": "nagapattinam",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "The Velankanni shrine, one of India's biggest Christian pilgrimage sites, on the Bay of Bengal.",
+      "description": "A white Gothic basilica by the sea, visited by pilgrims of all faiths. The nine-day festival around 8 September draws huge crowds.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 10.68,
+        "lng": 79.8497,
+        "address": "Nagapattinam, Tamil Nadu"
+      },
+      "highlights": [
+        "Annual festival in late August and September",
+        "Marian shrine",
+        "Pilgrim town by the sea"
+      ],
+      "sources": [
+        {
+          "title": "Basilica of Our Lady of Good Health, Velankanni – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Basilica_of_Our_Lady_of_Good_Health,_Velankanni"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/basilica-of-our-lady-velankanni.webp",
+          "alt": "Basilica of Our Lady of Good Health, Nagapattinam",
+          "credit": "Rejoy2003",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Velankanni_Church_2026.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Point Calimere Sanctuary",
+      "slug": "point-calimere-sanctuary",
+      "city": "nagapattinam",
+      "kind": "sanctuary",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A coastal reserve at Point Calimere, known for its blackbuck and huge flocks of flamingos.",
+      "description": "Coastal forest and salt marsh at the southeastern tip of Nagapattinam district. Flamingos and other waders arrive in large numbers each winter.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2
+      ],
+      "location": {
+        "lat": 10.31,
+        "lng": 79.86,
+        "address": "Nagapattinam, Tamil Nadu"
+      },
+      "highlights": [
+        "Greater flamingos",
+        "Blackbuck",
+        "Salt marsh"
+      ],
+      "sources": [
+        {
+          "title": "Point Calimere Wildlife and Bird Sanctuary – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Point_Calimere_Wildlife_and_Bird_Sanctuary"
+        }
+      ]
+    },
+    {
+      "name": "Vellore Fort",
+      "slug": "vellore-fort",
+      "city": "vellore",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A 16th-century moated stone fort at the heart of Vellore, built under the Vijayanagara empire.",
+      "description": "Huge granite walls and a wide moat enclose a temple, a mosque and a church, a good example of its history. The Vellore Mutiny of 1806 began here.",
+      "history": "Built by the Nayakas Chinna Bommi Reddy and Timma Reddy, under the Vijayanagara empire.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 12.9208,
+        "lng": 79.1283,
+        "address": "Vellore, Tamil Nadu"
+      },
+      "highlights": [
+        "Jalakanteswarar Temple",
+        "Wide moat",
+        "1806 mutiny history"
+      ],
+      "sources": [
+        {
+          "title": "Vellore Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Vellore_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/vellore-fort.webp",
+          "alt": "Vellore Fort, Vellore",
+          "credit": "Chandrachoodan Gopalakrishnan from Chennai, India",
+          "license": "CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vellorefort.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sri Lakshmi Narayani Golden Temple",
+      "slug": "sri-lakshmi-narayani-golden-temple",
+      "city": "vellore",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A modern temple at Sripuram, Vellore, coated in gold and set in a star-shaped path.",
+      "description": "A shining golden shrine at the end of a star-shaped walkway, which is impressive when lit up at night. Wear modest clothes, and leave your phone at the entrance.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 12.8733,
+        "lng": 79.0884,
+        "address": "Vellore, Tamil Nadu"
+      },
+      "highlights": [
+        "Star-shaped path",
+        "Gold-covered shrine",
+        "Night lights"
+      ],
+      "sources": [
+        {
+          "title": "Sri Lakshmi Narayani Golden Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sri_Lakshmi_Narayani_Golden_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/sri-lakshmi-narayani-golden-temple.webp",
+          "alt": "Sri Lakshmi Narayani Golden Temple, Vellore",
+          "credit": "Ag1707",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Golden_Temple,_Vellore,_India.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Dhanushkodi",
+      "slug": "dhanushkodi",
+      "city": "rameswaram",
+      "kind": "village",
+      "categories": [
+        "heritage",
+        "nature"
+      ],
+      "shortDescription": "An abandoned town at the tip of Pamban Island, about 24 km from Sri Lanka across the sea.",
+      "description": "A strip of sand running out to sea, with the ruins of a church and a railway station. The 1964 cyclone wiped the town out, and it was never rebuilt.",
+      "history": "Destroyed in the Rameswaram cyclone of 1964.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 9.152,
+        "lng": 79.4459,
+        "address": "Rameswaram, Tamil Nadu"
+      },
+      "highlights": [
+        "Ruined church",
+        "Road ending in the sea",
+        "Arichal Munai point"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Dhanushkodi – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dhanushkodi"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/dhanushkodi.webp",
+          "alt": "Dhanushkodi, Rameswaram",
+          "credit": "D Kartikeyan",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dhanushkodi_Old_Railway_Station_02.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Pamban Bridge",
+      "slug": "pamban-bridge",
+      "city": "rameswaram",
+      "kind": "railway",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "India's first sea bridge, from 1914, linking Rameswaram to the mainland across the Palk Strait.",
+      "description": "The old cantilever railway bridge runs alongside the new one over turquoise water. You can see them both from the road bridge, a popular place to stop for a photo.",
+      "history": "Opened on 24 February 1914, it stayed India's longest sea bridge for decades.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 9.2826,
+        "lng": 79.2016,
+        "address": "Rameswaram, Tamil Nadu"
+      },
+      "highlights": [
+        "Road bridge viewpoint",
+        "Palk Strait water",
+        "Old and new spans"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Pamban Bridge – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pamban_Bridge"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/pamban-bridge.webp",
+          "alt": "Pamban Bridge, Rameswaram",
+          "credit": "Shaswat Nimesh",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pamban_Bridge_Train_Passing.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Thiruvalluvar Statue",
+      "slug": "thiruvalluvar-statue",
+      "city": "kanyakumari",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A 40.6 m tall stone statue of the Tamil poet, on a small rock island off Kanyakumari.",
+      "description": "A ferry takes visitors to this huge statue next to the Vivekananda Rock Memorial, where three seas meet.",
+      "history": "The poet wrote the Thirukkural, a classic Tamil work on ethics. The statue was unveiled in 2000.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 8.0777,
+        "lng": 77.5539,
+        "address": "Kanyakumari, Tamil Nadu"
+      },
+      "highlights": [
+        "Ferry from Kanyakumari",
+        "Three seas view",
+        "Vivekananda Rock next door"
+      ],
+      "sources": [
+        {
+          "title": "Thiruvalluvar Statue – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Thiruvalluvar_Statue"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/thiruvalluvar-statue.webp",
+          "alt": "Thiruvalluvar Statue, Kanyakumari",
+          "credit": "Darisi sumanth",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thiruvalluvar_Statue_at_Kanyakumari_02.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Padmanabhapuram Palace",
+      "slug": "padmanabhapuram-palace",
+      "city": "kanyakumari",
+      "kind": "palace",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A vast wooden palace from the Travancore era, the finest example of Kerala's traditional architecture.",
+      "description": "Rosewood ceilings, carved beds and a large hall of black-polished floors. It lies in Tamil Nadu, but it's run by the government of Kerala.",
+      "history": "Also known as Kalkulam Palace. It was the Travancore kingdom's old seat before the capital moved to Thiruvananthapuram.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 8.2509,
+        "lng": 77.3267,
+        "address": "Kanyakumari, Tamil Nadu"
+      },
+      "highlights": [
+        "Rosewood carving",
+        "Black polished floors",
+        "Medicinal bed"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Padmanabhapuram Palace – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Padmanabhapuram_Palace"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/padmanabhapuram-palace.webp",
+          "alt": "Padmanabhapuram Palace, Kanyakumari",
+          "credit": "Shekbhi1",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Padmanabhapuram_main_entrance.jpg"
         }
       ]
     }

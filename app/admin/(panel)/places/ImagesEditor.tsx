@@ -120,7 +120,7 @@ export function ImagesEditor({ initial, uploads }: { initial: EditableImage[]; u
                 <button type="button" className="disabled:opacity-40" disabled={i === images.length - 1} onClick={() => move(i, 1)} aria-label={`Move photo ${i + 1} down`}>
                   ↓
                 </button>
-                <button type="button" className="text-red-700 dark:text-red-400" onClick={() => setImages((list) => list.filter((_, j) => j !== i))}>
+                <button type="button" className="text-red-700" onClick={() => setImages((list) => list.filter((_, j) => j !== i))}>
                   Remove
                 </button>
               </div>

@@ -91,7 +91,7 @@ export function SearchBox({ className = "" }: { className?: string }) {
         hidden={!expanded}
         // Keep focus in the input while clicking a suggestion.
         onMouseDown={(e) => e.preventDefault()}
-        className="absolute inset-x-0 top-12 z-20 overflow-hidden rounded border border-border bg-background py-1 shadow-[0_8px_24px_-12px_rgb(20_32_74/0.35)]"
+        className="absolute inset-x-0 top-12 z-20 overflow-hidden rounded border border-border bg-background py-1 shadow-[0_8px_24px_-12px_rgb(27_23_20/0.35)]"
       >
         {items.map((item, i) => (
           <li

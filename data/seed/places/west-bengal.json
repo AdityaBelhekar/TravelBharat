@@ -4,6 +4,8 @@
       "name": "Kolkata",
       "slug": "kolkata",
       "overview": "West Bengal's capital and India's cultural capital for many, the former capital of British India, known for literature, music, sweets and Durga Puja.",
+      "history": "The East India Company built its base here around 1690, and Calcutta served as the capital of British India until 1911. It became the centre of the Bengal Renaissance, home to Tagore, Ramakrishna and Vivekananda.",
+      "isHub": true,
       "location": {
         "lat": 22.5726,
         "lng": 88.3639
@@ -22,9 +24,93 @@
       "name": "Darjeeling",
       "slug": "darjeeling",
       "overview": "A hill town at about 2,000 m famous for its tea, its toy train and sunrise views of Kangchenjunga.",
+      "history": "The British took the hill from Sikkim in the 1830s and built a sanatorium here. Tea planting and the mountain railway followed, and it became the summer capital of the Bengal Presidency.",
+      "isHub": true,
       "location": {
         "lat": 27.041,
         "lng": 88.2663
+      }
+    },
+    {
+      "name": "Kalimpong",
+      "slug": "kalimpong",
+      "overview": "A quieter hill town east of Darjeeling, known for its flower nurseries, monasteries and Teesta Valley views.",
+      "location": {
+        "lat": 27.06,
+        "lng": 88.47
+      }
+    },
+    {
+      "name": "Siliguri",
+      "slug": "siliguri",
+      "overview": "The gateway city to Darjeeling, Sikkim and the Dooars forests, on the plains below the Himalaya.",
+      "location": {
+        "lat": 26.71,
+        "lng": 88.43
+      }
+    },
+    {
+      "name": "Alipurduar",
+      "slug": "alipurduar",
+      "overview": "The Dooars town closest to the forests of Jaldapara and Buxa.",
+      "location": {
+        "lat": 26.4915,
+        "lng": 89.5271
+      }
+    },
+    {
+      "name": "Murshidabad",
+      "slug": "murshidabad",
+      "overview": "The last capital of independent Bengal under the Nawabs, on the Bhagirathi River.",
+      "history": "The Nawabs of Bengal ruled from here until the Battle of Plassey in 1757 opened the way for British rule.",
+      "location": {
+        "lat": 24.18,
+        "lng": 88.27
+      }
+    },
+    {
+      "name": "Bishnupur",
+      "slug": "bishnupur",
+      "overview": "A town of terracotta temples and Baluchari silk, once the capital of the Malla kings.",
+      "location": {
+        "lat": 23.075,
+        "lng": 87.317
+      }
+    },
+    {
+      "name": "Santiniketan",
+      "slug": "santiniketan",
+      "overview": "The university town founded by Rabindranath Tagore, a place of open-air classes and rural art.",
+      "location": {
+        "lat": 23.68,
+        "lng": 87.68
+      }
+    },
+    {
+      "name": "Cooch Behar",
+      "slug": "cooch-behar",
+      "overview": "A planned princely capital in the far north of Bengal, known for its grand palace.",
+      "location": {
+        "lat": 26.3452,
+        "lng": 89.4482
+      }
+    },
+    {
+      "name": "Sagar Island",
+      "slug": "sagar-island",
+      "overview": "The large delta island where the Ganges meets the Bay of Bengal.",
+      "location": {
+        "lat": 21.6528,
+        "lng": 88.0753
+      }
+    },
+    {
+      "name": "Digha",
+      "slug": "digha",
+      "overview": "The most popular seaside town in the state, an easy trip from Kolkata.",
+      "location": {
+        "lat": 21.6266,
+        "lng": 87.5074
       }
     }
   ],
@@ -186,6 +272,1176 @@
         {
           "title": "Darjeeling Himalayan Railway – Wikipedia",
           "url": "https://en.wikipedia.org/wiki/Darjeeling_Himalayan_Railway"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/darjeeling-himalayan-railway.webp",
+          "alt": "Darjeeling Himalayan Railway, Darjeeling",
+          "credit": "Arne Hückelheim",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:DarjeelingTrainFruitshopCrop.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Howrah Bridge",
+      "slug": "howrah-bridge",
+      "city": "kolkata",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A giant steel bridge over the Hooghly, commissioned in 1943 and the emblem of Kolkata.",
+      "description": "One of the busiest bridges in the world, carrying a constant stream of traffic and walkers above the Hooghly. The flower market at Mullick Ghat underneath it is worth an early morning visit.",
+      "history": "Commissioned in 1943, it was built without nuts and bolts, using riveted steel.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 22.5851,
+        "lng": 88.3469,
+        "address": "Kolkata, West Bengal"
+      },
+      "highlights": [
+        "Mullick Ghat flower market",
+        "River ferry view",
+        "Lit up at night"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Howrah Bridge – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Howrah_Bridge"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/howrah-bridge.webp",
+          "alt": "Howrah Bridge, Kolkata",
+          "credit": "Apoorva Karlekar",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Howrah_bridge_at_night.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Dakshineswar Kali Temple",
+      "slug": "dakshineswar-kali-temple",
+      "city": "kolkata",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A nine-spired Kali temple on the Hooghly, closely linked with the saint Ramakrishna.",
+      "description": "A navaratna temple with a ring of twelve Shiva shrines facing the river. Ramakrishna served here as a priest, and his room is preserved.",
+      "history": "Founded by the philanthropist Rani Rashmoni in 1855.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 22.655,
+        "lng": 88.3578,
+        "address": "Kolkata, West Bengal"
+      },
+      "highlights": [
+        "Nine-spired temple",
+        "Ramakrishna's room",
+        "Boat to Belur Math"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Dakshineswar Kali Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dakshineswar_Kali_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/dakshineswar-kali-temple.webp",
+          "alt": "Dakshineswar Kali Temple, Kolkata",
+          "credit": "Knath",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dakhineshwar_Temple_beside_the_Hoogly,_West_Bengal.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Kalighat Temple",
+      "slug": "kalighat-kali-temple",
+      "city": "kolkata",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "One of the most sacred Kali temples in India, in the south of Kolkata.",
+      "description": "A crowded, intense temple and one of the Shakti Peethas. Its bazaar gave its name to the Kalighat style of painting.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 22.52,
+        "lng": 88.3419,
+        "address": "Kolkata, West Bengal"
+      },
+      "highlights": [
+        "Shakti Peetha shrine",
+        "Kalighat painting tradition",
+        "Busy temple lanes"
+      ],
+      "sources": [
+        {
+          "title": "Kalighat Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kalighat_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kalighat-kali-temple.webp",
+          "alt": "Kalighat Temple, Kolkata",
+          "credit": "Ku423winz1",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kalighat_Kali_Temple_after_renovation.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Belur Math",
+      "slug": "belur-math",
+      "city": "kolkata",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "The headquarters of the Ramakrishna Mission, founded by Swami Vivekananda, on the Hooghly.",
+      "description": "A peaceful riverside campus whose main temple blends Hindu, Islamic and Christian architectural forms, in keeping with the mission's message.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 22.6325,
+        "lng": 88.3564,
+        "address": "Kolkata, West Bengal"
+      },
+      "highlights": [
+        "Temple blending three faiths",
+        "Riverside lawns",
+        "Evening prayers"
+      ],
+      "sources": [
+        {
+          "title": "Belur Math – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Belur_Math"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/belur-math.webp",
+          "alt": "Belur Math, Kolkata",
+          "credit": "K.vishnupranay",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Belur_Math,_Howrah.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Indian Museum",
+      "slug": "indian-museum",
+      "city": "kolkata",
+      "kind": "museum",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "India's oldest and largest museum, founded in 1814, with fossils, Bharhut sculpture and a mummy.",
+      "description": "A vast colonial building with galleries of Buddhist sculpture, natural history and coins. Allow a full half day.",
+      "history": "Founded in 1814 by the Asiatic Society.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 22.5581,
+        "lng": 88.3508,
+        "address": "Kolkata, West Bengal"
+      },
+      "highlights": [
+        "Bharhut railings",
+        "Egyptian mummy",
+        "Natural history gallery"
+      ],
+      "sources": [
+        {
+          "title": "Indian Museum – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Indian_Museum"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/indian-museum.webp",
+          "alt": "Indian Museum, Kolkata",
+          "credit": "Vyacheslav Argenberg",
+          "license": "CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Indian_Museum,_Courtyard,_Kolkata,_India.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Marble Palace",
+      "slug": "marble-palace-kolkata",
+      "city": "kolkata",
+      "kind": "palace",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A 19th-century North Kolkata mansion crammed with marble, statues and European paintings.",
+      "description": "A private home still lived in by the family that built it, with chandeliers, old masters and a small zoo in the garden. Visits need a permit from the tourist office.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 22.5824,
+        "lng": 88.3601,
+        "address": "Kolkata, West Bengal"
+      },
+      "highlights": [
+        "Chandeliers and statues",
+        "Garden aviary",
+        "Italian marble floors"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Marble Palace (Kolkata) – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Marble_Palace_(Kolkata)"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/marble-palace-kolkata.webp",
+          "alt": "Marble Palace, Kolkata",
+          "credit": "Souvik pal",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marble_Palace-_Kolkata-_West_Bengal-_DSC_0006.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Jorasanko Thakur Bari",
+      "slug": "jorasanko-thakur-bari",
+      "city": "kolkata",
+      "kind": "museum",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The ancestral home of the Tagore family and birthplace of Rabindranath Tagore.",
+      "description": "A red mansion in North Kolkata, now a museum to the poet and his remarkable family. Tagore was born and died here.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 22.585,
+        "lng": 88.3592,
+        "address": "Kolkata, West Bengal"
+      },
+      "highlights": [
+        "Tagore's rooms",
+        "Family art collection",
+        "Rabindra Bharati campus"
+      ],
+      "sources": [
+        {
+          "title": "Jorasanko Thakur Bari – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jorasanko_Thakur_Bari"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/jorasanko-thakur-bari.webp",
+          "alt": "Jorasanko Thakur Bari, Kolkata",
+          "credit": "Kinjal bose 78",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jorasanko_Thakurbari.jpg"
+        }
+      ]
+    },
+    {
+      "name": "St. Paul's Cathedral, Kolkata",
+      "slug": "st-pauls-cathedral-kolkata",
+      "city": "kolkata",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A white Gothic cathedral near the Maidan, with stained glass and a tall central tower.",
+      "description": "A landmark next to Victoria Memorial, known for its Burne-Jones stained glass window and its Christmas services.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 22.5442,
+        "lng": 88.3467,
+        "address": "Kolkata, West Bengal"
+      },
+      "highlights": [
+        "Burne-Jones window",
+        "Gothic tower",
+        "Christmas carols"
+      ],
+      "sources": [
+        {
+          "title": "St. Paul's Cathedral, Kolkata – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/St._Paul's_Cathedral,_Kolkata"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/st-pauls-cathedral-kolkata.webp",
+          "alt": "St. Paul's Cathedral, Kolkata, Kolkata",
+          "credit": "Ankitesh Jha",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Science City, Kolkata",
+      "slug": "science-city-kolkata",
+      "city": "kolkata",
+      "kind": "museum",
+      "categories": [
+        "adventure"
+      ],
+      "shortDescription": "India's largest science centre, with a dome theatre, cable car and hands-on galleries.",
+      "description": "A big family attraction on the Eastern Metropolitan Bypass, with a space theatre and a walk-through evolution park.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 22.5406,
+        "lng": 88.3958,
+        "address": "Kolkata, West Bengal"
+      },
+      "highlights": [
+        "Space theatre",
+        "Evolution park",
+        "Cable car"
+      ],
+      "sources": [
+        {
+          "title": "Science City, Kolkata – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Science_City,_Kolkata"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/science-city-kolkata.webp",
+          "alt": "Science City, Kolkata, Kolkata",
+          "credit": "Biswarup Ganguly",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Science_City_Kolkata_4643.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Alipore Zoo",
+      "slug": "alipore-zoo",
+      "city": "kolkata",
+      "kind": "zoo",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "India's oldest formally stated zoo, a big attraction in south Kolkata.",
+      "description": "An old city zoo with tigers, a reptile house and winter visits from migratory birds on its lakes.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 22.5359,
+        "lng": 88.3321,
+        "address": "Kolkata, West Bengal"
+      },
+      "highlights": [
+        "Royal Bengal tigers",
+        "Winter migratory birds",
+        "Reptile house"
+      ],
+      "sources": [
+        {
+          "title": "Zoological Garden, Alipore – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Zoological_Garden,_Alipore"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/alipore-zoo.webp",
+          "alt": "Alipore Zoo, Kolkata",
+          "credit": "Shikhi ghosh",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Finding_for_food.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Tiger Hill",
+      "slug": "tiger-hill-darjeeling",
+      "city": "darjeeling",
+      "kind": "trek",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "The famous sunrise viewpoint above Darjeeling, facing Kanchenjunga and, on clear days, Everest.",
+      "description": "Jeeps leave town before dawn for the moment the sun turns Kanchenjunga pink. Clear mornings are most likely in autumn and spring.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 26.9948,
+        "lng": 88.2854,
+        "address": "Darjeeling, West Bengal"
+      },
+      "highlights": [
+        "Kanchenjunga sunrise",
+        "View to Everest",
+        "Early jeep ride"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Tiger Hill, Darjeeling – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Tiger_Hill,_Darjeeling"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/tiger-hill-darjeeling.webp",
+          "alt": "Tiger Hill, Darjeeling",
+          "credit": "Shahnoor Habib Munmun",
+          "license": "CC BY 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tiger_Hill_Darjeeling_West_Bengal_India_(3).JPG"
+        }
+      ]
+    },
+    {
+      "name": "Batasia Loop",
+      "slug": "batasia-loop",
+      "city": "darjeeling",
+      "kind": "railway",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A spiral on the Darjeeling toy train line, with a war memorial and mountain views.",
+      "description": "The railway circles a garden to gain height, with Kanchenjunga behind on clear days. Toy trains stop here on the joy ride from Darjeeling.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 27.0167,
+        "lng": 88.2471,
+        "address": "Darjeeling, West Bengal"
+      },
+      "highlights": [
+        "Spiral railway",
+        "Gorkha war memorial",
+        "Mountain views"
+      ],
+      "sources": [
+        {
+          "title": "Batasia Loop – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Batasia_Loop"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/batasia-loop.webp",
+          "alt": "Batasia Loop, Darjeeling",
+          "credit": "Shuvankar Sarkar",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Batasia_Loop_War_Memorial_with_Kanchanjunga.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Himalayan Zoological Park",
+      "slug": "himalayan-zoological-park",
+      "city": "darjeeling",
+      "kind": "zoo",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A high-altitude zoo in Darjeeling known for breeding red pandas and snow leopards.",
+      "description": "Set on a steep hillside, with red pandas, snow leopards and Himalayan wolves. The Himalayan Mountaineering Institute is on the same grounds.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 27.0586,
+        "lng": 88.2544,
+        "address": "Darjeeling, West Bengal"
+      },
+      "highlights": [
+        "Red pandas",
+        "Snow leopards",
+        "Mountaineering Institute"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Padmaja Naidu Himalayan Zoological Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Padmaja_Naidu_Himalayan_Zoological_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/himalayan-zoological-park.webp",
+          "alt": "Himalayan Zoological Park, Darjeeling",
+          "credit": "Balajijagadesh",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Padmaja_Naidu_Himalayan_Zoological_Park_Entrance.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Ghum Monastery",
+      "slug": "ghum-monastery",
+      "city": "darjeeling",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "An old Gelug monastery at Ghum, known for its large statue of the Maitreya Buddha.",
+      "description": "A small hilltop monastery beside India's highest railway station, a short toy train ride from Darjeeling.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 27.0117,
+        "lng": 88.2503,
+        "address": "Darjeeling, West Bengal"
+      },
+      "highlights": [
+        "Maitreya Buddha statue",
+        "Ghum railway station",
+        "Tibetan manuscripts"
+      ],
+      "sources": [
+        {
+          "title": "Ghum Monastery – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ghum_Monastery"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/ghum-monastery.webp",
+          "alt": "Ghum Monastery, Darjeeling",
+          "credit": "Bernard Gagnon",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yiga_Choeling_Monastery,_Ghum_02.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sandakphu",
+      "slug": "sandakphu",
+      "city": "darjeeling",
+      "kind": "trek",
+      "categories": [
+        "adventure"
+      ],
+      "shortDescription": "The highest point in West Bengal at 3,636 m, on a ridge with views of four of the world's five highest peaks.",
+      "description": "A classic multi-day trek along the Singalila Ridge on the Nepal border, with rhododendron forest in spring and clear peaks in autumn.",
+      "bestMonths": [
+        3,
+        4,
+        5,
+        10,
+        11
+      ],
+      "location": {
+        "lat": 27.1058,
+        "lng": 88.0017,
+        "address": "Darjeeling, West Bengal"
+      },
+      "highlights": [
+        "Everest and Kanchenjunga view",
+        "Singalila Ridge walk",
+        "Spring rhododendrons"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Sandakphu – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sandakphu"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/sandakphu.webp",
+          "alt": "Sandakphu, Darjeeling",
+          "credit": "solarshakti",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sandakphu.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Singalila National Park",
+      "slug": "singalila-national-park",
+      "city": "darjeeling",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A high-altitude park above Darjeeling with red pandas, bamboo and rhododendron forest.",
+      "description": "The Sandakphu trail runs through this park. It is one of the better places in India to look for a wild red panda.",
+      "bestMonths": [
+        3,
+        4,
+        5,
+        10,
+        11
+      ],
+      "location": {
+        "lat": 27.1167,
+        "lng": 88.0667,
+        "address": "Darjeeling, West Bengal"
+      },
+      "highlights": [
+        "Red panda habitat",
+        "Rhododendron forests",
+        "Sandakphu trail"
+      ],
+      "sources": [
+        {
+          "title": "Singalila National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Singalila_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/singalila-national-park.webp",
+          "alt": "Singalila National Park, Darjeeling",
+          "credit": "Spattadar",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vast_green_meadows_and_hills_in_Singalila_National_Park.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Neora Valley National Park",
+      "slug": "neora-valley-national-park",
+      "city": "kalimpong",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A dense, barely explored forest in Kalimpong district, established in 1986.",
+      "description": "Thick virgin forest rising from the foothills to high ridges, reached from Lava. It is among the wildest parts of Bengal.",
+      "bestMonths": [
+        10,
+        11,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 27.06,
+        "lng": 88.7,
+        "address": "Kalimpong, West Bengal"
+      },
+      "highlights": [
+        "Virgin forest",
+        "Lava village base",
+        "Rare birds"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Neora Valley National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Neora_Valley_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/neora-valley-national-park.webp",
+          "alt": "Neora Valley National Park, Kalimpong",
+          "credit": "Anirban Biswa",
+          "license": "CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sun_set_in_neora_valley.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Jaldapara National Park",
+      "slug": "jaldapara-national-park",
+      "city": "alipurduar",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A Dooars forest at the foot of the Himalaya, known for one-horned rhinos.",
+      "description": "Tall grassland and riverine forest along the Torsa River. It has the largest rhino population in India after Assam.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 26.6909,
+        "lng": 89.2763,
+        "address": "Alipurduar, West Bengal"
+      },
+      "highlights": [
+        "One-horned rhinos",
+        "Hollong tourist lodge",
+        "Elephant and jeep safari"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Jaldapara National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jaldapara_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/jaldapara-national-park.webp",
+          "alt": "Jaldapara National Park, Alipurduar",
+          "credit": "JKD",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elephant_safari.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Gorumara National Park",
+      "slug": "gorumara-national-park",
+      "city": "siliguri",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A small, rich Dooars park with rhinos, gaur and elephants near Lataguri.",
+      "description": "Grassland and forest around the Murti River, with watchtowers instead of long drives. It is an easy trip from Siliguri.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 26.7,
+        "lng": 88.8,
+        "address": "Siliguri, West Bengal"
+      },
+      "highlights": [
+        "Watchtower safaris",
+        "One-horned rhino",
+        "Murti River"
+      ],
+      "sources": [
+        {
+          "title": "Gorumara National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gorumara_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/gorumara-national-park.webp",
+          "alt": "Gorumara National Park, Siliguri",
+          "credit": "Jonoikobangali",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gorumara_Gateway_Arnab_Dutta.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Buxa Tiger Reserve",
+      "slug": "buxa-tiger-reserve",
+      "city": "alipurduar",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A tiger reserve on the Bhutan border with a historic hill fort and forest trails.",
+      "description": "Forest climbs from the Dooars into the hills, with a walk up to the old Buxa Fort, once used as a British detention camp.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "location": {
+        "lat": 26.65,
+        "lng": 89.58,
+        "address": "Alipurduar, West Bengal"
+      },
+      "highlights": [
+        "Buxa Fort walk",
+        "Jayanti River",
+        "Bhutan border hills"
+      ],
+      "sources": [
+        {
+          "title": "Buxa Tiger Reserve – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Buxa_Tiger_Reserve"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/buxa-tiger-reserve.webp",
+          "alt": "Buxa Tiger Reserve, Alipurduar",
+          "credit": "Swaroop Singha Roy",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Buxa_Tiger_Reserve_forest_2014.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hazarduari Palace",
+      "slug": "hazarduari-palace",
+      "city": "murshidabad",
+      "kind": "palace",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The Palace of a Thousand Doors in Murshidabad, now a museum of the Nawabs of Bengal.",
+      "description": "A huge Italianate palace on the Bhagirathi with arms, paintings and a great round darbar hall. Many of its thousand doors are false.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 24.1864,
+        "lng": 88.2687,
+        "address": "Murshidabad, West Bengal"
+      },
+      "highlights": [
+        "Thousand doors",
+        "Arms gallery",
+        "Bhagirathi riverside"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Hazarduari Palace – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hazarduari_Palace"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/hazarduari-palace.webp",
+          "alt": "Hazarduari Palace, Murshidabad",
+          "credit": "DeepanjanGhosh",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hazarduari_Palace,_Murshidabad_illuminated_at_night.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Rasmancha",
+      "slug": "rasmancha",
+      "city": "bishnupur",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A pyramid-roofed brick temple at Bishnupur, the town's oldest and most striking monument.",
+      "description": "Built by the Malla kings, with long arcades of arches. Terracotta temples of Bishnupur are scattered around the town nearby.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 23.0717,
+        "lng": 87.3268,
+        "address": "Bishnupur, West Bengal"
+      },
+      "highlights": [
+        "Pyramid roof",
+        "Terracotta temples nearby",
+        "Baluchari silk shops"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Rasmancha – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Rasmancha"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/rasmancha.webp",
+          "alt": "Rasmancha, Bishnupur",
+          "credit": "Jonoikobangali",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rasmancha_Arnab_Dutta_2011.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Santiniketan",
+      "slug": "santiniketan",
+      "city": "santiniketan",
+      "kind": "neighbourhood",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "Rabindranath Tagore's university town, a UNESCO World Heritage Site in Birbhum.",
+      "description": "Open-air classes, sculpture by Ramkinkar Baij and Tagore's houses at Uttarayan. The Poush Mela in December is the big event of the year.",
+      "history": "Added to the UNESCO World Heritage list in 2023.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 23.68,
+        "lng": 87.68,
+        "address": "Santiniketan, West Bengal"
+      },
+      "highlights": [
+        "Uttarayan complex",
+        "Poush Mela",
+        "Kala Bhavana art"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Santiniketan – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Santiniketan"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/santiniketan.webp",
+          "alt": "Santiniketan",
+          "credit": "Billjones94",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shantiniketan_Bari_of_Rabindranath_Tagore.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Mandarmani",
+      "slug": "mandarmani",
+      "city": "digha",
+      "kind": "beach",
+      "categories": [
+        "adventure"
+      ],
+      "shortDescription": "A long drive-on beach on the Bay of Bengal, with red crabs and quiet resorts.",
+      "description": "A firm stretch of sand at the northern end of the bay, where cars can drive along the shore. Red crabs swarm the sand at low tide.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 21.666,
+        "lng": 87.705,
+        "address": "Digha, West Bengal"
+      },
+      "highlights": [
+        "Red crabs",
+        "Beach driving",
+        "Sunrise on the bay"
+      ],
+      "sources": [
+        {
+          "title": "Mandarmani – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mandarmani"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/mandarmani.webp",
+          "alt": "Mandarmani, Digha",
+          "credit": "Joydeep",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mandarmani_Sea_Beach.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Gangasagar",
+      "slug": "gangasagar",
+      "city": "sagar-island",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "The holy meeting of the Ganges and the sea, with a huge pilgrim fair every January.",
+      "description": "Pilgrims travel by ferry to Sagar Island to bathe at the Kapil Muni Temple. The Makar Sankranti fair is among the biggest in India.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2
+      ],
+      "location": {
+        "lat": 21.6528,
+        "lng": 88.0753,
+        "address": "Sagar Island, West Bengal"
+      },
+      "highlights": [
+        "Makar Sankranti fair",
+        "Kapil Muni Temple",
+        "Ferry from Kakdwip"
+      ],
+      "sources": [
+        {
+          "title": "Gangasagar – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gangasagar"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/gangasagar.webp",
+          "alt": "Gangasagar, Sagar Island",
+          "credit": "Sourav Bapuli",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kapil_Muni_Temple.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Cooch Behar Palace",
+      "slug": "cooch-behar-palace",
+      "city": "cooch-behar",
+      "kind": "palace",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "An Italian Renaissance-style palace in north Bengal, modelled on Buckingham Palace.",
+      "description": "A long red-brick palace with a tall dome, set among lawns, and now a museum run by the Archaeological Survey of India.",
+      "history": "Built under Maharaja Nripendra Narayan in the 1880s.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 26.3269,
+        "lng": 89.4386,
+        "address": "Cooch Behar, West Bengal"
+      },
+      "highlights": [
+        "Grand dome",
+        "Darbar hall",
+        "Royal gardens"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Cooch Behar Palace – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Cooch_Behar_Palace"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/cooch-behar-palace.webp",
+          "alt": "Cooch Behar Palace, Cooch Behar",
+          "credit": "Kingshuk Mondal",
+          "license": "CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Cooch_Behar_Palace_or_the_Cooch_Behar_Rajbari,_Cooch_Behar_District,_West_Bengal,_India_01.jpg"
         }
       ]
     }

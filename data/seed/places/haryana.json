@@ -4,6 +4,8 @@
       "name": "Kurukshetra",
       "slug": "kurukshetra",
       "overview": "The land of the Mahabharata battle and the setting of the Bhagavad Gita, dotted with sacred tanks and temples.",
+      "history": "The land of the Mahabharata war and, according to Hindu tradition, the place where Krishna delivered the Bhagavad Gita. In the 7th century, it lay near Thanesar, capital of King Harsha.",
+      "isHub": true,
       "location": {
         "lat": 29.9695,
         "lng": 76.8783
@@ -25,6 +27,51 @@
       "location": {
         "lat": 30.8042,
         "lng": 76.9149
+      }
+    },
+    {
+      "name": "Faridabad",
+      "slug": "faridabad",
+      "overview": "Haryana's most populous city, on the Delhi border, known for the Surajkund Crafts Mela.",
+      "location": {
+        "lat": 28.4211,
+        "lng": 77.3078
+      }
+    },
+    {
+      "name": "Panchkula",
+      "slug": "panchkula",
+      "overview": "A planned city next to Chandigarh, the base for the Morni Hills.",
+      "location": {
+        "lat": 30.6996,
+        "lng": 76.8556
+      }
+    },
+    {
+      "name": "Yamunanagar",
+      "slug": "yamunanagar",
+      "overview": "An industrial town on the Yamuna, close to the Kalesar forest.",
+      "location": {
+        "lat": 30.129,
+        "lng": 77.2674
+      }
+    },
+    {
+      "name": "Hisar",
+      "slug": "hisar",
+      "overview": "A historic town in western Haryana, near the Harappan site at Rakhigarhi.",
+      "location": {
+        "lat": 29.1492,
+        "lng": 75.7217
+      }
+    },
+    {
+      "name": "Jhajjar",
+      "slug": "jhajjar",
+      "overview": "A town close to Delhi, known for its bird sanctuary at Bhindawas.",
+      "location": {
+        "lat": 28.6054,
+        "lng": 76.6538
       }
     }
   ],
@@ -187,6 +234,324 @@
           "credit": "Unpetitprole",
           "license": "CC BY-SA 4.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pinjore_Garden_Panchkula.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Jyotisar",
+      "slug": "jyotisar",
+      "city": "kurukshetra",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "The site at Kurukshetra where Krishna is said to have delivered the Bhagavad Gita under a banyan.",
+      "description": "An old banyan beside a tank is said to be the descendant of the tree under which Krishna spoke. A sound and light show plays here in the evening.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 29.9614,
+        "lng": 76.7711,
+        "address": "Kurukshetra, Haryana"
+      },
+      "highlights": [
+        "Sacred banyan",
+        "Evening light show",
+        "Krishna chariot statue"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Jyotisar – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jyotisar"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/jyotisar.webp",
+          "alt": "Jyotisar, Kurukshetra",
+          "credit": "आशीष_भटनागर",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Geeta_upadesh_sthali_3,_Jyotisar,_Kurukshetra_2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sheikh Chilli's Tomb",
+      "slug": "sheikh-chillis-tomb",
+      "city": "kurukshetra",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A Mughal-era tomb and madrasa at Thanesar, a building that some call the Taj of Haryana.",
+      "description": "A marble-domed mausoleum for a Sufi, with a madrasa and a garden, near Harsh ka Tila, in the middle of the plains.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 29.9767,
+        "lng": 76.8281,
+        "address": "Kurukshetra, Haryana"
+      },
+      "highlights": [
+        "Marble dome",
+        "Madrasa",
+        "Harsh ka Tila nearby"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Sheikh Chilli's Tomb – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sheikh_Chilli's_Tomb"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/sheikh-chillis-tomb.webp",
+          "alt": "Sheikh Chilli's Tomb, Kurukshetra",
+          "credit": "Dipantar Borah",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sheikh-chili_ka_makhbara.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Surajkund",
+      "slug": "surajkund",
+      "city": "faridabad",
+      "kind": "lake",
+      "categories": [
+        "heritage",
+        "adventure"
+      ],
+      "shortDescription": "A 10th-century amphitheatre-shaped reservoir, home of a big international crafts fair each February.",
+      "description": "A semi-circular stepped tank from the Tomar period, on the Delhi border. The Surajkund Mela draws craftspeople from across India and abroad.",
+      "history": "Attributed to the Tomar king Surajpal in the 10th century.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 28.4838,
+        "lng": 77.2827,
+        "address": "Faridabad, Haryana"
+      },
+      "highlights": [
+        "Surajkund International Crafts Mela",
+        "Stepped reservoir",
+        "Aravalli edge"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Surajkund – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Surajkund"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/surajkund.webp",
+          "alt": "Surajkund, Faridabad",
+          "credit": "Jyoti Prakash Bhattacharjee",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suraj_Kund.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Morni Hills",
+      "slug": "morni-hills",
+      "city": "panchkula",
+      "kind": "hill-station",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A small hill area in Panchkula, the only hill station in Haryana, with twin lakes and an old fort.",
+      "description": "Forests and quiet hill roads, along with the Tikkar Taal lakes and a small fort museum. It's an easy day trip from Chandigarh.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 30.7,
+        "lng": 77.0833,
+        "address": "Panchkula, Haryana"
+      },
+      "highlights": [
+        "Tikkar Taal lakes",
+        "Morni Fort",
+        "Quiet hill roads"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Morni – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Morni"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/morni-hills.webp",
+          "alt": "Morni Hills, Panchkula",
+          "credit": "Sid Sharma5911",
+          "license": "CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mornihills.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kalesar National Park",
+      "slug": "kalesar-national-park",
+      "city": "yamunanagar",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A sal forest in the Shivalik foothills of Yamunanagar, on the edge of Himachal and Uttarakhand.",
+      "description": "A forest at the northern tip of Haryana, with leopards, elephants and a wide range of birds. It's quiet and still little visited.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 30.3667,
+        "lng": 77.5333,
+        "address": "Yamunanagar, Haryana"
+      },
+      "highlights": [
+        "Sal forest",
+        "Birdwatching",
+        "Shivalik foothills"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Kalesar National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kalesar_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kalesar-national-park.webp",
+          "alt": "Kalesar National Park, Yamunanagar",
+          "credit": "Firefly can fly",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kalesar_as_seen_by_a_Phone_01.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Rakhigarhi",
+      "slug": "rakhigarhi",
+      "city": "hisar",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "One of the largest Harappan sites known, in Hisar district, with ongoing excavations.",
+      "description": "Low mounds that hide a huge Indus Valley city. Finds from here can be seen in a museum being developed on site.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 29.2931,
+        "lng": 76.1142,
+        "address": "Hisar, Haryana"
+      },
+      "highlights": [
+        "Harappan mounds",
+        "Ongoing digs",
+        "Important ancient DNA find"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Rakhigarhi – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Rakhigarhi"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/rakhigarhi.webp",
+          "alt": "Rakhigarhi, Hisar",
+          "credit": "Durgeshkushvaha",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rakhigarhi_Harappan_civilization.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Bhindawas Wildlife Sanctuary",
+      "slug": "bhindawas-wildlife-sanctuary",
+      "city": "jhajjar",
+      "kind": "sanctuary",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A Ramsar-listed bird sanctuary in Jhajjar, close to Delhi, with big flocks in winter.",
+      "description": "A wide wetland that fills with ducks and waders from November. It's among the closest good birding sites to Delhi.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2
+      ],
+      "location": {
+        "lat": 28.5326,
+        "lng": 76.5515,
+        "address": "Jhajjar, Haryana"
+      },
+      "highlights": [
+        "Winter birds",
+        "Ramsar wetland",
+        "Near Delhi"
+      ],
+      "sources": [
+        {
+          "title": "Bhindawas Wildlife Sanctuary – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bhindawas_Wildlife_Sanctuary"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/bhindawas-wildlife-sanctuary.webp",
+          "alt": "Bhindawas Wildlife Sanctuary, Jhajjar",
+          "credit": "Priyambada Nath (priyam.n)",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Small_black_bird.jpg"
         }
       ]
     }

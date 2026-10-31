@@ -45,9 +45,9 @@ async function StateContent({ params }: PageProps<"/states/[state]">) {
   return (
     <>
       <section className="bg-surface">
-        <div className="mx-auto w-full max-w-[77.5rem] px-4 pb-12 pt-8 sm:px-6">
+        <div className="mx-auto w-full max-w-[77.5rem] px-4 pt-8 sm:px-6">
           <Breadcrumbs items={[{ name: "States", href: "/states" }, { name: state.name, href: `/states/${state.slug}` }]} />
-          <StateBoard as="h1" name={state.name} localName={state.localName} className="mx-auto mt-8 max-w-[55rem]" />
+          <div className="mx-auto mt-8 max-w-[55rem]"><StateBoard as="h1" name={state.name} localName={state.localName} posts /></div>
         </div>
       </section>
 

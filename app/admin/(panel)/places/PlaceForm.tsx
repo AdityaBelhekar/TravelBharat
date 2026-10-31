@@ -89,7 +89,7 @@ export function PlaceForm({
       {result?.error && (
         <div
           role="alert"
-          className="rounded border border-red-700/30 bg-red-700/10 px-4 py-3 text-sm text-red-800 dark:text-red-300"
+          className="rounded border border-red-700/30 bg-red-700/10 px-4 py-3 text-sm text-red-800"
         >
           <p className="font-medium">{result.error}</p>
           {result.issues && (

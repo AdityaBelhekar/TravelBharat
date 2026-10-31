@@ -26,6 +26,44 @@
         "lat": 8.275,
         "lng": 73.0528
       }
+    },
+    {
+      "name": "Kavaratti",
+      "slug": "kavaratti",
+      "overview": "The capital of Lakshadweep, an atoll with a calm lagoon and a large number of mosques.",
+      "history": "The islands were ruled in turn by the Chirakkal rajas, the Arakkal family, Tipu Sultan and the British. They became a union territory of India in 1956.",
+      "isHub": true,
+      "location": {
+        "lat": 10.57,
+        "lng": 72.64
+      }
+    },
+    {
+      "name": "Kadmat",
+      "slug": "kadmat",
+      "overview": "A long, narrow island known for diving, with lagoons on both sides.",
+      "location": {
+        "lat": 11.223,
+        "lng": 72.776
+      }
+    },
+    {
+      "name": "Kalpeni",
+      "slug": "kalpeni",
+      "overview": "An atoll with a wide lagoon and a coral rubble storm bank.",
+      "location": {
+        "lat": 10.09,
+        "lng": 73.64
+      }
+    },
+    {
+      "name": "Androth",
+      "slug": "androth",
+      "overview": "The largest island in the group and the first to embrace Islam, known for its old mosque.",
+      "location": {
+        "lat": 10.81,
+        "lng": 73.67
+      }
     }
   ],
   "places": [
@@ -127,6 +165,15 @@
           "title": "Bangaram Atoll – Wikipedia",
           "url": "https://en.wikipedia.org/wiki/Bangaram_Atoll"
         }
+      ],
+      "images": [
+        {
+          "url": "/places/bangaram-atoll.webp",
+          "alt": "Bangaram Atoll, Bangaram",
+          "credit": "binux on Flickr",
+          "license": "CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sea_off_Bangaram_island,_Lakshadweep.jpg"
+        }
       ]
     },
     {
@@ -178,6 +225,182 @@
           "credit": "Anand.himani18",
           "license": "CC BY-SA 4.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Minicoy_Island,_Lakshadweep.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kavaratti Island",
+      "slug": "kavaratti-island",
+      "city": "kavaratti",
+      "kind": "island",
+      "categories": [
+        "nature",
+        "religious"
+      ],
+      "shortDescription": "The capital of Lakshadweep, an atoll with a turquoise lagoon, coral reefs and old mosques.",
+      "description": "A lagoon with snorkelling and glass-bottom boats on the east side. The Ujra Mosque, with its finely carved ceiling, is the best known of the island's many mosques.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "bestTimeNote": "All visitors need an entry permit from the Lakshadweep Administration, and most travel is arranged through package tours.",
+      "location": {
+        "lat": 10.57,
+        "lng": 72.64,
+        "address": "Kavaratti, Lakshadweep"
+      },
+      "highlights": [
+        "Ujra Mosque",
+        "Marine aquarium",
+        "Glass-bottom boats"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Kavaratti – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kavaratti"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kavaratti-island.webp",
+          "alt": "Kavaratti Island, Kavaratti",
+          "credit": "Theja",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_beach_at_Kavaratti,_Lakshadweep.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kadmat Island",
+      "slug": "kadmat-island",
+      "city": "kadmat",
+      "kind": "island",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "A narrow coral island, also known as Cardamom Island, with a scuba diving school and wide beaches.",
+      "description": "Long lagoons on either side make it the main diving centre of the Amindivi group. Turtle nesting takes place along its shore.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "bestTimeNote": "All visitors need an entry permit from the Lakshadweep Administration, and most travel is arranged through package tours.",
+      "location": {
+        "lat": 11.223,
+        "lng": 72.776,
+        "address": "Kadmat, Lakshadweep"
+      },
+      "highlights": [
+        "Scuba diving school",
+        "Turtle nesting",
+        "Long sand"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Kadmat Island – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kadmat_Island"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kadmat-island.webp",
+          "alt": "Kadmat Island, Kadmat",
+          "credit": "Manvendra Bhangui from Chennai, India",
+          "license": "CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_beach_side_resort_at_Kadmat_Island,_Lakshadweep.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kalpeni Island",
+      "slug": "kalpeni-island",
+      "city": "kalpeni",
+      "kind": "island",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "An atoll 287 km west of Kochi, with a big lagoon, coral rubble bank and small uninhabited islets.",
+      "description": "Sheltered water, with kayaking and reef walking, and small islets you can reach across the shallows.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "bestTimeNote": "All visitors need an entry permit from the Lakshadweep Administration, and most travel is arranged through package tours.",
+      "location": {
+        "lat": 10.09,
+        "lng": 73.64,
+        "address": "Kalpeni, Lakshadweep"
+      },
+      "highlights": [
+        "Reef walking",
+        "Kayaking",
+        "Coral rubble bank"
+      ],
+      "sources": [
+        {
+          "title": "Kalpeni – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kalpeni"
+        }
+      ]
+    },
+    {
+      "name": "Androth Island",
+      "slug": "androth-island",
+      "city": "androth",
+      "kind": "island",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The largest island in Lakshadweep, known for an old mosque and its coconut groves.",
+      "description": "The only island whose long axis runs east to west, with no lagoon. It's closer to the mainland and a centre of Islamic learning.",
+      "history": "Tradition says the islanders were the first in Lakshadweep to embrace Islam.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "bestTimeNote": "All visitors need an entry permit from the Lakshadweep Administration, and most travel is arranged through package tours.",
+      "location": {
+        "lat": 10.81,
+        "lng": 73.67,
+        "address": "Androth, Lakshadweep"
+      },
+      "highlights": [
+        "Old Juma Mosque",
+        "Coconut groves",
+        "Lakshadweep history"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Andrott – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Andrott"
         }
       ]
     }

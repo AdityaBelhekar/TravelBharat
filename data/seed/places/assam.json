@@ -13,6 +13,8 @@
       "name": "Guwahati",
       "slug": "guwahati",
       "overview": "Assam's largest city and the gateway to Northeast India, spread along the south bank of the Brahmaputra.",
+      "history": "Ancient Pragjyotishpura, a seat of old Assamese kingdoms on the Brahmaputra. The Ahoms held it after defeating the Mughals at the Battle of Saraighat in 1671, and today it's the gateway to the Northeast.",
+      "isHub": true,
       "location": {
         "lat": 26.1445,
         "lng": 91.7362
@@ -25,6 +27,62 @@
       "location": {
         "lat": 27.022,
         "lng": 94.3274
+      }
+    },
+    {
+      "name": "Sivasagar",
+      "slug": "sivasagar",
+      "overview": "The old capital of the Ahom kingdom, full of brick palaces, temples and royal tanks.",
+      "history": "The Ahoms ruled Assam for around 600 years, and they governed from here in the 18th century.",
+      "isHub": true,
+      "location": {
+        "lat": 26.9889,
+        "lng": 94.639
+      }
+    },
+    {
+      "name": "Tezpur",
+      "slug": "tezpur",
+      "overview": "A pretty town on the Brahmaputra, known for its old legends and close to the forests of Nameri.",
+      "location": {
+        "lat": 26.6283,
+        "lng": 92.7997
+      }
+    },
+    {
+      "name": "Jorhat",
+      "slug": "jorhat",
+      "overview": "A tea town in upper Assam, close to Majuli and the gibbon sanctuary.",
+      "location": {
+        "lat": 26.75,
+        "lng": 94.22
+      }
+    },
+    {
+      "name": "Barpeta",
+      "slug": "barpeta",
+      "overview": "A western town known for its Vaishnavite monastery and as the gateway to Manas.",
+      "location": {
+        "lat": 26.3216,
+        "lng": 91.0065
+      }
+    },
+    {
+      "name": "Tinsukia",
+      "slug": "tinsukia",
+      "overview": "A tea town in the far east of Assam, close to Dibru-Saikhowa.",
+      "location": {
+        "lat": 27.4886,
+        "lng": 95.3558
+      }
+    },
+    {
+      "name": "Haflong",
+      "slug": "haflong",
+      "overview": "Assam's only hill station, in the Dima Hasao hills.",
+      "location": {
+        "lat": 25.169,
+        "lng": 93.016
       }
     }
   ],
@@ -189,6 +247,651 @@
           "credit": "Dhrubazaan Photography",
           "license": "CC BY-SA 4.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Doriya_River_of_Majuli.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Umananda Temple",
+      "slug": "umananda-temple",
+      "city": "guwahati",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A Shiva temple on the smallest inhabited river island in the world, in the Brahmaputra at Guwahati.",
+      "description": "A short ferry ride takes you to a small wooded island in the river, a lovely trip in its own right, especially at sunset.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 26.1964,
+        "lng": 91.7453,
+        "address": "Guwahati, Assam"
+      },
+      "highlights": [
+        "Ferry on the Brahmaputra",
+        "Peacock Island",
+        "Sunset views"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Umananda Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Umananda_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/umananda-temple.webp",
+          "alt": "Umananda Temple, Guwahati",
+          "credit": "Extreminatethejuice",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chandrasekhar_Temple,_Umananda.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Srimanta Sankardev Kalakshetra",
+      "slug": "srimanta-sankardev-kalakshetra",
+      "city": "guwahati",
+      "kind": "museum",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A cultural complex in Guwahati, showing the arts and traditions of Assam.",
+      "description": "A museum, open-air theatre and art gallery that give a good introduction to the Sattriya dance and the region's many cultures.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 26.1306,
+        "lng": 91.8224,
+        "address": "Guwahati, Assam"
+      },
+      "highlights": [
+        "Open-air theatre",
+        "Sattriya dance",
+        "Heritage park"
+      ],
+      "sources": [
+        {
+          "title": "Srimanta Sankardev Kalakshetra – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Srimanta_Sankardev_Kalakshetra"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/srimanta-sankardev-kalakshetra.webp",
+          "alt": "Srimanta Sankardev Kalakshetra, Guwahati",
+          "credit": "Bishnu Saikia",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gatway_of_Kalakhetra,_Guwahati,_Assam.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Pobitora Wildlife Sanctuary",
+      "slug": "pobitora-wildlife-sanctuary",
+      "city": "guwahati",
+      "kind": "sanctuary",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A small grassland near Guwahati, with one of the world's densest populations of one-horned rhinos.",
+      "description": "An easy half-day from the city. You've got a very good chance of seeing a rhino here on an elephant or jeep safari.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "location": {
+        "lat": 26.2411,
+        "lng": 92.0583,
+        "address": "Guwahati, Assam"
+      },
+      "highlights": [
+        "Dense rhino population",
+        "Jeep safari",
+        "Wetland birds"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Pobitora Wildlife Sanctuary – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pobitora_Wildlife_Sanctuary"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/pobitora-wildlife-sanctuary.webp",
+          "alt": "Pobitora Wildlife Sanctuary, Guwahati",
+          "credit": "Biswarup Sen",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Indian_Rhino_in_Pobitora.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hajo",
+      "slug": "hajo",
+      "city": "guwahati",
+      "kind": "village",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A historic pilgrim town near Guwahati, sacred to Hindus, Buddhists and Muslims.",
+      "description": "Hajo holds the Hayagriva Madhava Temple, which some Buddhists also revere, and Poa Mecca, a mosque that's said to hold a quarter of the holiness of Mecca.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 26.2486,
+        "lng": 91.5256,
+        "address": "Guwahati, Assam"
+      },
+      "highlights": [
+        "Hayagriva Madhava Temple",
+        "Poa Mecca",
+        "Three faiths"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Hajo – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hajo"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/hajo.webp",
+          "alt": "Hajo, Guwahati",
+          "credit": "Jugal Bharali",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Entrance_Madhab_mandir.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Manas National Park",
+      "slug": "manas-national-park",
+      "city": "barpeta",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A UNESCO World Heritage park in the Himalayan foothills, with tigers, golden langurs and pygmy hogs.",
+      "description": "Riverine forest and tall grass on the Bhutan border. It came back from serious damage to become a showpiece of recovery.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "location": {
+        "lat": 26.7167,
+        "lng": 90.9333,
+        "address": "Barpeta, Assam"
+      },
+      "highlights": [
+        "Golden langurs",
+        "River rafting",
+        "Jeep safari"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Manas National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Manas_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/manas-national-park.webp",
+          "alt": "Manas National Park, Barpeta",
+          "credit": "AmAnand",
+          "license": "CC0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manas_landscape_rhino.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Nameri National Park",
+      "slug": "nameri-national-park",
+      "city": "tezpur",
+      "kind": "national-park",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "A forest on the Jia Bhoreli River, one of the few parks in India you can walk or raft through.",
+      "description": "Guided walks and rafting on the river bring you close to many birds, including white-winged wood duck. It's great for birders.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "location": {
+        "lat": 27.01,
+        "lng": 92.79,
+        "address": "Tezpur, Assam"
+      },
+      "highlights": [
+        "River rafting",
+        "Walking trails",
+        "White-winged wood duck"
+      ],
+      "sources": [
+        {
+          "title": "Nameri National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nameri_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/nameri-national-park.webp",
+          "alt": "Nameri National Park, Tezpur",
+          "credit": "Ajay.talukdar",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:NAMERI_NATIONAL_PARK.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Agnigarh",
+      "slug": "agnigarh",
+      "city": "tezpur",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A hillock at Tezpur linked with the Hindu legend of Usha and Aniruddha, with river views.",
+      "description": "Steps and sculptures climb to a viewpoint over the Brahmaputra. Tezpur's Kolia Bhomora Setu bridge is visible from the top.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 26.6172,
+        "lng": 92.8022,
+        "address": "Tezpur, Assam"
+      },
+      "highlights": [
+        "River viewpoint",
+        "Legend sculptures",
+        "Tezpur walk"
+      ],
+      "sources": [
+        {
+          "title": "Agnigarh – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Agnigarh"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/agnigarh.webp",
+          "alt": "Agnigarh, Tezpur",
+          "credit": "Anupom007bora at English Wikipedia",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Agnigarh_Hill,_Tezpur.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Orang National Park",
+      "slug": "orang-national-park",
+      "city": "tezpur",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A smaller version of Kaziranga, on the north bank of the Brahmaputra, with rhinos and tigers.",
+      "description": "Sometimes called Mini Kaziranga, it's far quieter than its famous neighbour. Grassland and water make for good rhino sightings.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "location": {
+        "lat": 26.5568,
+        "lng": 92.3279,
+        "address": "Tezpur, Assam"
+      },
+      "highlights": [
+        "One-horned rhinos",
+        "Few crowds",
+        "River grassland"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Orang National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Orang_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/orang-national-park.webp",
+          "alt": "Orang National Park, Tezpur",
+          "credit": "Nejib Ahmed",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Greater_one-horned_rhinoceros.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Rang Ghar",
+      "slug": "rang-ghar",
+      "city": "sivasagar",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A two-storey royal pavilion of the Ahoms, from which kings watched buffalo fights and games.",
+      "description": "An oval pavilion with a roof in the shape of a boat. It's among the oldest surviving sports pavilions in Asia.",
+      "history": "Built by the Ahom king Swargadeo Pramatta Singha in the 18th century.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 26.967,
+        "lng": 94.619,
+        "address": "Sivasagar, Assam"
+      },
+      "highlights": [
+        "Boat-shaped roof",
+        "Royal gallery",
+        "Ahom heritage"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Rang Ghar – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Rang_Ghar"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/rang-ghar.webp",
+          "alt": "Rang Ghar, Sivasagar",
+          "credit": "anas shaikh",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ranghar_-_Assam.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Talatal Ghar",
+      "slug": "talatal-ghar",
+      "city": "sivasagar",
+      "kind": "palace",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The largest Ahom monument, a brick palace with underground levels at Rangpur.",
+      "description": "A big, seven-storey palace, partly hidden below ground, near Sivasagar. Most of the lower floors are now sealed.",
+      "history": "An 18th-century royal palace and military base.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 26.9663,
+        "lng": 94.6247,
+        "address": "Sivasagar, Assam"
+      },
+      "highlights": [
+        "Brick palace",
+        "Underground levels",
+        "Kareng Ghar nearby"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Talatal Ghar – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Talatal_Ghar"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/talatal-ghar.webp",
+          "alt": "Talatal Ghar, Sivasagar",
+          "credit": "Joli Rumi",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Talatal_Ghar_in_Sivasagar,_Assam.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sivadol",
+      "slug": "sivadol-sivasagar",
+      "city": "sivasagar",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A tall Shiva temple by the Sivasagar tank, among the tallest in India.",
+      "description": "A set of three Ahom temples on a large man-made lake, built by Queen Ambika. The Sivadol's tall tower is the landmark.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 26.9888,
+        "lng": 94.6313,
+        "address": "Sivasagar, Assam"
+      },
+      "highlights": [
+        "Tall Sivadol tower",
+        "Royal tank",
+        "Museum nearby"
+      ],
+      "sources": [
+        {
+          "title": "Sivasagar Sivadol – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sivasagar_Sivadol"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/sivadol-sivasagar.webp",
+          "alt": "Sivadol, Sivasagar",
+          "credit": "Aniruddha Buragohain",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Siva_Dol.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Hollongapar Gibbon Sanctuary",
+      "slug": "hollongapar-gibbon-sanctuary",
+      "city": "jorhat",
+      "kind": "sanctuary",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A small forest near Jorhat and the only place in India with the hoolock gibbon, the only ape.",
+      "description": "A walk with a forest guide through the tall hollong trees, listening for the gibbons' loud morning songs.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "location": {
+        "lat": 26.7167,
+        "lng": 94.3833,
+        "address": "Jorhat, Assam"
+      },
+      "highlights": [
+        "Hoolock gibbons",
+        "Guided forest walk",
+        "Tall hollong trees"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Hoollongapar Gibbon Sanctuary – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hoollongapar_Gibbon_Sanctuary"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/hollongapar-gibbon-sanctuary.webp",
+          "alt": "Hollongapar Gibbon Sanctuary, Jorhat",
+          "credit": "Krunal Desai - Wildlife Photography",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Western_hoolock_gibbon_-_Hollongapar_Gibbon_Sanctuary_2023-01-12_02.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Dibru-Saikhowa National Park",
+      "slug": "dibru-saikhowa-national-park",
+      "city": "tinsukia",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A wet grassland on the Brahmaputra with feral horses, and a key spot for rare birds.",
+      "description": "Boat trips across the river channels lead into forest and grass, home to rare white-winged duck, feral horses and river dolphins.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 27.6667,
+        "lng": 95.3833,
+        "address": "Tinsukia, Assam"
+      },
+      "highlights": [
+        "Feral horses",
+        "Boat safari",
+        "Rare birds"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Dibru-Saikhowa National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dibru-Saikhowa_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/dibru-saikhowa-national-park.webp",
+          "alt": "Dibru-Saikhowa National Park, Tinsukia",
+          "credit": "Dhruba Jyoti Baruah",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dibru_Saikhuwa_National_Park.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Haflong Lake",
+      "slug": "haflong-hill-station",
+      "city": "haflong",
+      "kind": "hill-station",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A hill town in Dima Hasao, Assam's only hill station, with a lake and paragliding.",
+      "description": "Dima Hasao's blue hills surround a small lake in town. Nearby Jatinga is known for a mystery in which birds fly into its lights.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 25.169,
+        "lng": 93.016,
+        "address": "Haflong, Assam"
+      },
+      "highlights": [
+        "Hilly lake",
+        "Jatinga bird mystery",
+        "Paragliding"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Haflong – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Haflong"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/haflong-hill-station.webp",
+          "alt": "Haflong Lake, Haflong",
+          "credit": "JyotiPN",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Synod_view_point,_Haflong.jpg"
         }
       ]
     }

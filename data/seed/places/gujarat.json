@@ -26,6 +26,110 @@
         "lat": 21.1356,
         "lng": 70.7967
       }
+    },
+    {
+      "name": "Ahmedabad",
+      "slug": "ahmedabad",
+      "overview": "Gujarat's largest city and India's first UNESCO World Heritage city, known for its old pols, mosques and textile history.",
+      "history": "Founded in 1411 by Sultan Ahmad Shah on the Sabarmati. It later grew rich on textiles, and Mahatma Gandhi based his independence work here from 1915.",
+      "isHub": true,
+      "location": {
+        "lat": 23.0225,
+        "lng": 72.5714
+      }
+    },
+    {
+      "name": "Vadodara",
+      "slug": "vadodara",
+      "overview": "Old Baroda, capital of the Gaekwads, a cultured city with a palace, museums and Champaner nearby.",
+      "history": "The seat of the Gaekwad dynasty of the Marathas. Maharaja Sayajirao Gaekwad III turned it into a model of education and public works in the late 19th century.",
+      "isHub": true,
+      "location": {
+        "lat": 22.3,
+        "lng": 73.2
+      }
+    },
+    {
+      "name": "Bhuj",
+      "slug": "bhuj",
+      "overview": "The old capital of Kutch, a small city rebuilt after the 2001 earthquake and a base for the Great Rann.",
+      "isHub": true,
+      "location": {
+        "lat": 23.25,
+        "lng": 69.67
+      }
+    },
+    {
+      "name": "Dwarka",
+      "slug": "dwarka",
+      "overview": "A coastal temple town on the Okhamandal Peninsula, one of Hinduism's Char Dham and the legendary city of Krishna.",
+      "location": {
+        "lat": 22.2464,
+        "lng": 68.9667
+      }
+    },
+    {
+      "name": "Junagadh",
+      "slug": "junagadh",
+      "overview": "A city at the foot of Girnar, with an old fort and ornate Nawabi tombs.",
+      "location": {
+        "lat": 21.5222,
+        "lng": 70.4579
+      }
+    },
+    {
+      "name": "Gandhinagar",
+      "slug": "gandhinagar",
+      "overview": "Gujarat's planned capital, 23 km from Ahmedabad.",
+      "location": {
+        "lat": 23.223,
+        "lng": 72.65
+      }
+    },
+    {
+      "name": "Porbandar",
+      "slug": "porbandar",
+      "overview": "A coastal city and the birthplace of Mahatma Gandhi.",
+      "location": {
+        "lat": 21.6417,
+        "lng": 69.6293
+      }
+    },
+    {
+      "name": "Bhavnagar",
+      "slug": "bhavnagar",
+      "overview": "A Saurashtra port city, the base for Palitana and Velavadar.",
+      "location": {
+        "lat": 21.7645,
+        "lng": 72.1519
+      }
+    },
+    {
+      "name": "Mehsana",
+      "slug": "mehsana",
+      "overview": "A north Gujarat city close to the Sun Temple at Modhera.",
+      "location": {
+        "lat": 23.588,
+        "lng": 72.3693
+      }
+    },
+    {
+      "name": "Saputara",
+      "slug": "saputara",
+      "overview": "Gujarat's only real hill station, in the Dang forests of the Western Ghats.",
+      "location": {
+        "lat": 20.5797,
+        "lng": 73.7467
+      }
+    },
+    {
+      "name": "Palanpur",
+      "slug": "palanpur",
+      "overview": "A north Gujarat town near the goddess shrine of Ambaji and the Polo Forest.",
+      "location": {
+        "lat": 24.1725,
+        "lng": 72.4381
+      }
     }
   ],
   "places": [
@@ -190,6 +294,1538 @@
         {
           "title": "Gir National Park – Wikipedia",
           "url": "https://en.wikipedia.org/wiki/Gir_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/gir-national-park.webp",
+          "alt": "Gir National Park, Sasan Gir",
+          "credit": "Nikunj vasoya",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Asiatic_Lion_Gir_Forest.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sabarmati Ashram",
+      "slug": "sabarmati-ashram",
+      "city": "ahmedabad",
+      "kind": "museum",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "Mahatma Gandhi's home on the Sabarmati from 1917 to 1930, starting point of the Salt March.",
+      "description": "A calm riverside compound of whitewashed cottages. Gandhi's simple room stays as he left it, and a Charles Correa museum tells the story of his life.",
+      "history": "Gandhi started the 1930 Dandi Salt March from here.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 23.06,
+        "lng": 72.5808,
+        "address": "Ahmedabad, Gujarat"
+      },
+      "highlights": [
+        "Hriday Kunj, Gandhi's home",
+        "Spinning wheels and letters",
+        "Riverside setting"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Sabarmati Ashram – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sabarmati_Ashram"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/sabarmati-ashram.webp",
+          "alt": "Sabarmati Ashram, Ahmedabad",
+          "credit": "Umar",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:GANDHI_ASHRAM_03.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sidi Saiyyed Mosque",
+      "slug": "sidi-saiyyed-mosque",
+      "city": "ahmedabad",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A small 1573 mosque in Ahmedabad, famous for its stone lattice of an intertwined tree.",
+      "description": "The carved Tree of Life window has become the emblem of the city. The rest of the mosque is simple, which puts all the attention on the screens.",
+      "history": "Built by Sidi Sayyad, a Habshi nobleman, in 1572-73.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 23.0269,
+        "lng": 72.5811,
+        "address": "Ahmedabad, Gujarat"
+      },
+      "highlights": [
+        "Tree of Life stone lattice",
+        "Carved arches",
+        "Old city walk"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Sidi Saiyyed Mosque – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sidi_Saiyyed_Mosque"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/sidi-saiyyed-mosque.webp",
+          "alt": "Sidi Saiyyed Mosque, Ahmedabad",
+          "credit": "Bernard Gagnon",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sidi_Saiyyed_Mosque,_Ahmedabad.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Adalaj Stepwell",
+      "slug": "adalaj-stepwell",
+      "city": "ahmedabad",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A five-storey carved stepwell near Gandhinagar, built in 1498, cool even in summer.",
+      "description": "Stairs drop through galleries of fine carved stone, to a deep well below. The light from the openings falls in shafts, so try to go around midday.",
+      "history": "Built in 1498 in memory of Rana Veer Singh of the Vaghela dynasty, by his queen Rudabai.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 23.1671,
+        "lng": 72.5801,
+        "address": "Ahmedabad, Gujarat"
+      },
+      "highlights": [
+        "Five underground levels",
+        "Carved pillars",
+        "Shafts of light"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Adalaj Stepwell – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Adalaj_Stepwell"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/adalaj-stepwell.webp",
+          "alt": "Adalaj Stepwell, Ahmedabad",
+          "credit": "AnupGandhe",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adalaj_ki_Vav_Gujarat_240A1370_72.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kankaria Lake",
+      "slug": "kankaria-lake",
+      "city": "ahmedabad",
+      "kind": "lake",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "The largest lake in Ahmedabad, with a lakefront of rides, a zoo, a toy train and food stalls.",
+      "description": "A circular lake with a walkway, a zoo and a balloon ride. It's where the city comes out on evenings and during the annual Kankaria Carnival.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 23.006,
+        "lng": 72.6011,
+        "address": "Ahmedabad, Gujarat"
+      },
+      "highlights": [
+        "Evening walkway",
+        "Toy train",
+        "Kankaria Carnival"
+      ],
+      "sources": [
+        {
+          "title": "Kankaria Lake – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kankaria_Lake"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kankaria-lake.webp",
+          "alt": "Kankaria Lake, Ahmedabad",
+          "credit": "Mahargh Shah",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kankaria_Carnival_2_Ahmedabad.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Jama Masjid, Ahmedabad",
+      "slug": "jama-masjid-ahmedabad",
+      "city": "ahmedabad",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A grand Friday mosque from 1424 in old Ahmedabad, with a forest of 260 pillars.",
+      "description": "A huge sandstone courtyard opens from the noisy bazaar, and the prayer hall is held up by a maze of pillars. Hindu and Jain motifs show the way local styles blended.",
+      "history": "Built in 1424 during the reign of Ahmad Shah I.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 23.0238,
+        "lng": 72.5872,
+        "address": "Ahmedabad, Gujarat"
+      },
+      "highlights": [
+        "260-pillar hall",
+        "Quiet courtyard",
+        "Manek Chowk bazaar"
+      ],
+      "sources": [
+        {
+          "title": "Jama Mosque, Ahmedabad – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jama_Mosque,_Ahmedabad"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/jama-masjid-ahmedabad.webp",
+          "alt": "Jama Masjid, Ahmedabad, Ahmedabad",
+          "credit": "Bernard Gagnon",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jama_Masjid,_Ahmedabad_01.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hutheesing Jain Temple",
+      "slug": "hutheesing-jain-temple",
+      "city": "ahmedabad",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A white marble Jain temple built in 1848, with detailed carving and a tall tower of fame.",
+      "description": "A serene, richly carved marble temple built by a local merchant family. The Manastambha pillar outside is modelled on Chittor's Tower of Fame.",
+      "history": "Built in 1848 by the Hutheesing family.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 23.0411,
+        "lng": 72.5896,
+        "address": "Ahmedabad, Gujarat"
+      },
+      "highlights": [
+        "Marble carving",
+        "Manastambha",
+        "Dharmanath shrine"
+      ],
+      "sources": [
+        {
+          "title": "Hutheesing Jain Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hutheesing_Jain_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/hutheesing-jain-temple.webp",
+          "alt": "Hutheesing Jain Temple, Ahmedabad",
+          "credit": "Kalyan Shah",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sheth_Hutheesinh_Temple.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Calico Museum of Textiles",
+      "slug": "calico-museum-of-textiles",
+      "city": "ahmedabad",
+      "kind": "museum",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "One of the finest textile collections in the world, in a Sarabhai family haveli.",
+      "description": "A superb collection of Mughal-era tents, shawls, brocades and religious textiles, in wooden buildings. Entry is by guided tour only, so book ahead.",
+      "history": "Managed by the Sarabhai Foundation.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 23.0533,
+        "lng": 72.5922,
+        "address": "Ahmedabad, Gujarat"
+      },
+      "highlights": [
+        "Royal Mughal tents",
+        "Pichwai paintings",
+        "Guided tour by reservation"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Calico Museum of Textiles – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Calico_Museum_of_Textiles"
+        }
+      ]
+    },
+    {
+      "name": "Sarkhej Roza",
+      "slug": "sarkhej-roza",
+      "city": "ahmedabad",
+      "kind": "monument",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A Sufi mosque and tomb complex 7 km south-west of Ahmedabad, built around a large tank.",
+      "description": "A calm complex of tombs, a mosque and pavilions around a stepped lake. Le Corbusier compared it to the Acropolis.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 22.9921,
+        "lng": 72.5046,
+        "address": "Ahmedabad, Gujarat"
+      },
+      "highlights": [
+        "Ahmad Khattu's tomb",
+        "Stepped lake",
+        "Stone lattice"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Sarkhej Roza – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sarkhej_Roza"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/sarkhej-roza.webp",
+          "alt": "Sarkhej Roza, Ahmedabad",
+          "credit": "Museeb fakih",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sarkhej.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Swaminarayan Akshardham",
+      "slug": "swaminarayan-akshardham-gandhinagar",
+      "city": "gandhinagar",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A big pink sandstone temple in Gandhinagar, with exhibitions and a water and light show.",
+      "description": "Carved sandstone, spacious gardens and exhibitions on Swaminarayan's life, along with an evening water show. Phones aren't allowed inside.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 23.2292,
+        "lng": 72.6742,
+        "address": "Gandhinagar, Gujarat"
+      },
+      "highlights": [
+        "Carved pink sandstone",
+        "Water and light show",
+        "Peaceful gardens"
+      ],
+      "sources": [
+        {
+          "title": "Swaminarayan Akshardham (Gandhinagar) – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Swaminarayan_Akshardham_(Gandhinagar)"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/swaminarayan-akshardham-gandhinagar.webp",
+          "alt": "Swaminarayan Akshardham, Gandhinagar",
+          "credit": "Harsh4101991",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Akshardham_Gandhinagar_Gujarat.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Nal Sarovar",
+      "slug": "nal-sarovar",
+      "city": "ahmedabad",
+      "kind": "sanctuary",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A 120 sq km shallow lake sanctuary 64 km west of Ahmedabad, with flamingos and pelicans in winter.",
+      "description": "Boatmen pole you out across the shallow lake to see huge flocks of waterbirds in winter. Go at dawn for the best views.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2
+      ],
+      "location": {
+        "lat": 22.7667,
+        "lng": 72.0333,
+        "address": "Ahmedabad, Gujarat"
+      },
+      "highlights": [
+        "Flamingo flocks",
+        "Dawn boat rides",
+        "Padhar villagers"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Nal Sarovar Bird Sanctuary – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nal_Sarovar_Bird_Sanctuary"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/nal-sarovar.webp",
+          "alt": "Nal Sarovar, Ahmedabad",
+          "credit": "Sheetal Kulkarni",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nal_sarovar_birds_5.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Lothal",
+      "slug": "lothal",
+      "city": "ahmedabad",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A site of the Indus Valley Civilisation in the Bhal region, with one of the world's oldest docks.",
+      "description": "Low brick walls trace streets, houses, drains and a big dock in the flat Gujarat plain. The small museum displays beads, seals and pots.",
+      "history": "One of the southernmost sites of the Indus Valley Civilisation.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 22.5214,
+        "lng": 72.2494,
+        "address": "Ahmedabad, Gujarat"
+      },
+      "highlights": [
+        "Ancient dock",
+        "Grid-plan streets",
+        "Site museum"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Lothal – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lothal"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/lothal.webp",
+          "alt": "Lothal, Ahmedabad",
+          "credit": "Abhilashdvbk",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_drainage_system_at_Lothal_2.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Lakshmi Vilas Palace",
+      "slug": "lakshmi-vilas-palace-vadodara",
+      "city": "vadodara",
+      "kind": "palace",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A huge Indo-Saracenic palace from 1890, said to be four times the size of Buckingham Palace.",
+      "description": "A vast palace on large grounds, with stained glass, mosaic floors and a Raja Ravi Varma collection. The royal family still lives there.",
+      "history": "Commissioned in 1878 by Sayajirao Gaekwad III, and completed in 1890.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 22.2939,
+        "lng": 73.1914,
+        "address": "Vadodara, Gujarat"
+      },
+      "highlights": [
+        "Darbar hall",
+        "Raja Ravi Varma paintings",
+        "Golf course on the grounds"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Lakshmi Vilas Palace, Vadodara – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lakshmi_Vilas_Palace,_Vadodara"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/lakshmi-vilas-palace-vadodara.webp",
+          "alt": "Lakshmi Vilas Palace, Vadodara",
+          "credit": "Birsa Murmu",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lakshmi_Vilas_Palace,_Vadodara.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Champaner-Pavagadh",
+      "slug": "champaner-pavagadh",
+      "city": "vadodara",
+      "kind": "monument",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A UNESCO site near Vadodara, with a hill fort, Sultanate mosques and a hilltop temple.",
+      "description": "Mosques and ruined city walls stand in the forest below Pavagadh hill, and a ropeway takes pilgrims to the Kalika Mata Temple on top.",
+      "history": "Founded by Vanraj Chavda. Mahmud Begada captured it in 1484 and made it his capital.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 22.4833,
+        "lng": 73.5333,
+        "address": "Vadodara, Gujarat"
+      },
+      "highlights": [
+        "Jami Masjid",
+        "Kalika Mata Temple",
+        "Ropeway up Pavagadh"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Champaner-Pavagadh Archaeological Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Champaner-Pavagadh_Archaeological_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/champaner-pavagadh.webp",
+          "alt": "Champaner-Pavagadh, Vadodara",
+          "credit": "Arian Zwegers from Brussels, Belgium",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Champaner,_Lila_Gumbaj_Ki_Masjid_(9840188055).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Statue of Unity",
+      "slug": "statue-of-unity",
+      "city": "vadodara",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The world's tallest statue at 182 m, of Sardar Patel, on the Narmada near Kevadia.",
+      "description": "A viewing gallery in the chest offers a view over the Sardar Sarovar Dam. Around it are a flower valley, a safari park and other attractions.",
+      "history": "Unveiled in 2018, in honour of independent India's first deputy prime minister.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 21.838,
+        "lng": 73.7191,
+        "address": "Vadodara, Gujarat"
+      },
+      "highlights": [
+        "Viewing gallery at 153 m",
+        "Valley of Flowers",
+        "Sardar Sarovar Dam"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Statue of Unity – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Statue_of_Unity"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/statue-of-unity.webp",
+          "alt": "Statue of Unity, Vadodara",
+          "credit": "Snehrashmi",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Statue_of_Unity.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Polo Forest",
+      "slug": "polo-forest",
+      "city": "palanpur",
+      "kind": "sanctuary",
+      "categories": [
+        "nature",
+        "heritage"
+      ],
+      "shortDescription": "A dry forest at the foot of the Aravallis, with old Jain and Shiva temples hidden in the trees.",
+      "description": "Ruined temples of the 15th century stand among trees and rivers near Vijaynagar. It's at its best after the monsoon, when it's green.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "location": {
+        "lat": 23.9851,
+        "lng": 73.2688,
+        "address": "Palanpur, Gujarat"
+      },
+      "highlights": [
+        "Sharaneshwar Temple",
+        "Forest ruins",
+        "Monsoon greens"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Polo Forest – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Polo_Forest"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/polo-forest.webp",
+          "alt": "Polo Forest, Palanpur",
+          "credit": "Naresh Darji",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Polo_Forest_Area.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Ambaji Temple",
+      "slug": "ambaji-temple",
+      "city": "palanpur",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A major goddess temple in Banaskantha, with no idol: a sacred yantra is worshipped instead.",
+      "description": "One of Gujarat's busiest temples. Gabbar Hill nearby has a ropeway, and the Bhadarvi Poonam fair each September draws huge crowds.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 24.33,
+        "lng": 72.85,
+        "address": "Palanpur, Gujarat"
+      },
+      "highlights": [
+        "Gabbar Hill ropeway",
+        "Bhadarvi Poonam fair",
+        "Sacred Visa Yantra"
+      ],
+      "sources": [
+        {
+          "title": "Ambaji – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ambaji"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/ambaji-temple.webp",
+          "alt": "Ambaji Temple, Palanpur",
+          "credit": "Ms Sarah Welch",
+          "license": "CC0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:0081323_Arasuri_Ambaji_mandir,_Shakti_Peeth,_north_Gujarat_011.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sun Temple, Modhera",
+      "slug": "sun-temple-modhera",
+      "city": "mehsana",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A carved 11th-century Surya temple on the Pushpavati river, with a stepped tank in front.",
+      "description": "Pillared halls and a deep stepped tank, with sunlight once lined up to reach the sanctum. Carvings of the 12 Adityas line the walls.",
+      "history": "Built by Bhima I of the Chaulukya dynasty in the early 11th century.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 23.5838,
+        "lng": 72.1327,
+        "address": "Mehsana, Gujarat"
+      },
+      "highlights": [
+        "Surya Kund stepped tank",
+        "Carved pillars",
+        "Modhera Dance Festival"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Sun Temple, Modhera – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sun_Temple,_Modhera"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/sun-temple-modhera.webp",
+          "alt": "Sun Temple, Modhera, Mehsana",
+          "credit": "Musafir kanya",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Surya_mandhir.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Great Rann of Kutch",
+      "slug": "great-rann-of-kutch",
+      "city": "bhuj",
+      "kind": "desert",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A vast white salt desert in Kutch, among the largest in the world, stunning under a full moon.",
+      "description": "A flat white salt plain spreading to the horizon, with the Rann Utsav tent city at Dhordo each winter. Permits are needed, and they can be bought on the way there.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2
+      ],
+      "bestTimeNote": "The salt is only dry enough to walk on from about November to February.",
+      "location": {
+        "lat": 24.0864,
+        "lng": 70.6378,
+        "address": "Bhuj, Gujarat"
+      },
+      "highlights": [
+        "Full-moon salt walk",
+        "Rann Utsav",
+        "Kalo Dungar viewpoint"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Great Rann of Kutch – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Great_Rann_of_Kutch"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/great-rann-of-kutch.webp",
+          "alt": "Great Rann of Kutch, Bhuj",
+          "credit": "Kaushik Patel from Mehsana, India",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kutch_White_Rann_Tents_(8335851293).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Aina Mahal",
+      "slug": "aina-mahal",
+      "city": "bhuj",
+      "kind": "palace",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "An 18th-century mirror palace in Bhuj, built by a craftsman who trained in Europe.",
+      "description": "A small palace of mirror work, Delft tiles and gold, partly restored after the earthquake of 2001.",
+      "history": "Built around 1750 by Rao Lakhpatji of Kutch State and his master craftsman, Ram Singh Malam.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 23.2553,
+        "lng": 69.6688,
+        "address": "Bhuj, Gujarat"
+      },
+      "highlights": [
+        "Mirror hall",
+        "Marble-tile room",
+        "Royal items"
+      ],
+      "sources": [
+        {
+          "title": "Aina Mahal – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Aina_Mahal"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/aina-mahal.webp",
+          "alt": "Aina Mahal, Bhuj",
+          "credit": "Nizil Shah",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Damaged_Ainamahal_Bhuj_Kutch_Gujarat.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Prag Mahal",
+      "slug": "prag-mahal",
+      "city": "bhuj",
+      "kind": "palace",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A 19th-century Italian Gothic palace in Bhuj, with a clock tower looking over the town.",
+      "description": "An unusual Gothic palace in Kutch, with Italian marble and a clock tower that you can climb, though it's visibly damaged by the earthquake.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 23.2548,
+        "lng": 69.6683,
+        "address": "Bhuj, Gujarat"
+      },
+      "highlights": [
+        "Clock tower view",
+        "Durbar hall",
+        "Gothic stonework"
+      ],
+      "sources": [
+        {
+          "title": "Prag Mahal – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Prag_Mahal"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/prag-mahal.webp",
+          "alt": "Prag Mahal, Bhuj",
+          "credit": "User:Nizil Shah",
+          "license": "CC BY-SA 1.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prag_Mahal_Bhuj.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Dholavira",
+      "slug": "dholavira",
+      "city": "bhuj",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A UNESCO Indus Valley city on Khadir island in the Rann, famous for its water system.",
+      "description": "A stone city of reservoirs, with an ancient signboard in Indus script. It's a long but rewarding drive, across the white Rann.",
+      "history": "Added to the UNESCO World Heritage list in 2021.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 23.8886,
+        "lng": 70.2136,
+        "address": "Bhuj, Gujarat"
+      },
+      "highlights": [
+        "Stone reservoirs",
+        "Indus signboard",
+        "Road across the Rann"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Dholavira – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dholavira"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/dholavira.webp",
+          "alt": "Dholavira, Bhuj",
+          "credit": "Lalit Gajjer",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:DHOLAVIRA_SITE_(24).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Vijaya Vilas Palace",
+      "slug": "vijaya-vilas-palace",
+      "city": "bhuj",
+      "kind": "palace",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The Maharao of Kutch's summer palace on the beach at Mandvi, with a private beach.",
+      "description": "A red stone palace in a garden of fruit trees, with a big terrace looking out on the beach. Mandvi's old shipyard is nearby.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 22.8341,
+        "lng": 69.2848,
+        "address": "Bhuj, Gujarat"
+      },
+      "highlights": [
+        "Terrace view",
+        "Private beach",
+        "Mandvi shipyard"
+      ],
+      "sources": [
+        {
+          "title": "Vijaya Vilas Palace – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Vijaya_Vilas_Palace"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/vijaya-vilas-palace.webp",
+          "alt": "Vijaya Vilas Palace, Bhuj",
+          "credit": "Rajlondon01",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vijay_Vilas_-_2009.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Indian Wild Ass Sanctuary",
+      "slug": "indian-wild-ass-sanctuary",
+      "city": "bhuj",
+      "kind": "sanctuary",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A 4,954 sq km reserve in the Little Rann of Kutch, the last home of the Indian wild ass.",
+      "description": "Jeeps cross the cracked salt flats to find herds of wild ass, along with flamingos and desert foxes. Dasada is the usual base.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 23.35,
+        "lng": 71.6333,
+        "address": "Bhuj, Gujarat"
+      },
+      "highlights": [
+        "Wild ass herds",
+        "Salt flats",
+        "Flamingos"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Indian Wild Ass Sanctuary – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Indian_Wild_Ass_Sanctuary"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/indian-wild-ass-sanctuary.webp",
+          "alt": "Indian Wild Ass Sanctuary, Bhuj",
+          "credit": "Asim Patel",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:IndianWildAss_(cropped).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Dwarkadhish Temple",
+      "slug": "dwarkadhish-temple",
+      "city": "dwarka",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "The Jagat Mandir of Krishna in Dwarka, a tall carved temple by the Gomti river.",
+      "description": "A five-storey temple with a soaring tower, topped with a flag that's changed several times a day. The steps down to the Gomti ghat are a good place to stop.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 22.2379,
+        "lng": 68.9676,
+        "address": "Dwarka, Gujarat"
+      },
+      "highlights": [
+        "Changing flag ceremony",
+        "Gomti ghat",
+        "Tall carved shikhara"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Dwarkadhish Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dwarkadhish_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/dwarkadhish-temple.webp",
+          "alt": "Dwarkadhish Temple, Dwarka",
+          "credit": "Vishnupranay.k",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dwarakadheesh_Temple,_2014.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Bet Dwarka",
+      "slug": "bet-dwarka",
+      "city": "dwarka",
+      "kind": "island",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "An island in the Gulf of Kutch, off Okha, with a Krishna temple, and now reached by a bridge.",
+      "description": "Traditionally thought of as Krishna's home. Visitors come for the temple, though the white sands and dolphins are worth a look.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 22.4494,
+        "lng": 69.1172,
+        "address": "Dwarka, Gujarat"
+      },
+      "highlights": [
+        "Sudarshan Setu bridge",
+        "Krishna's home",
+        "Beaches and dolphins"
+      ],
+      "sources": [
+        {
+          "title": "Bet Dwarka – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bet_Dwarka"
+        }
+      ]
+    },
+    {
+      "name": "Nageshwar Jyotirlinga",
+      "slug": "nageshwar-jyotirlinga",
+      "city": "dwarka",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "One of the twelve Jyotirlinga temples of Shiva, near Dwarka, with a tall Shiva statue.",
+      "description": "A modest shrine with a large statue of Shiva out in the open, a usual stop on the road between Dwarka and Bet Dwarka.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 22.3359,
+        "lng": 69.0869,
+        "address": "Dwarka, Gujarat"
+      },
+      "highlights": [
+        "Giant Shiva statue",
+        "Underground sanctum",
+        "Dwarka to Okha road"
+      ],
+      "sources": [
+        {
+          "title": "Nageshwar Jyotirlinga – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nageshwar_Jyotirlinga"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/nageshwar-jyotirlinga.webp",
+          "alt": "Nageshwar Jyotirlinga, Dwarka",
+          "credit": "Bkjit",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nageshwar.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Marine National Park",
+      "slug": "marine-national-park-gulf-of-kutch",
+      "city": "dwarka",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "India's first marine park, in the Gulf of Kutch, with corals, sea stars and dolphins.",
+      "description": "At low tide, you can walk on the reef at Narara with a guide, past sea stars, octopus and coral. Go during low tide and bring old shoes.",
+      "history": "A marine sanctuary was declared in 1980 from Okha to Jodiya.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2
+      ],
+      "location": {
+        "lat": 22.4667,
+        "lng": 69.6167,
+        "address": "Dwarka, Gujarat"
+      },
+      "highlights": [
+        "Narara reef walk",
+        "Pirotan Island",
+        "Coral and sea stars"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Marine National Park, Gulf of Kutch – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Marine_National_Park,_Gulf_of_Kutch"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/marine-national-park-gulf-of-kutch.webp",
+          "alt": "Marine National Park, Dwarka",
+          "credit": "Jan Joseph George",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Vast_Expanse_of_Narara_Sea_Bed_during_Low_Tide_of_Narara_Marine_National_Park.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kirti Mandir",
+      "slug": "kirti-mandir-porbandar",
+      "city": "porbandar",
+      "kind": "museum",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The memorial museum at Mahatma Gandhi's birthplace in Porbandar, with his childhood home next door.",
+      "description": "A museum in a small coastal city, with photographs and items of Mahatma and Kasturba Gandhi. The old house where he was born is right next door.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 21.6411,
+        "lng": 69.6006,
+        "address": "Porbandar, Gujarat"
+      },
+      "highlights": [
+        "Gandhi's birth room",
+        "Personal items",
+        "Old haveli next door"
+      ],
+      "sources": [
+        {
+          "title": "Kirti Mandir, Porbandar – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kirti_Mandir,_Porbandar"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kirti-mandir-porbandar.webp",
+          "alt": "Kirti Mandir, Porbandar",
+          "credit": "Unknown authorUnknown author",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Birth_place_of_Mahatma_Gandhi.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Uparkot Fort",
+      "slug": "uparkot-fort",
+      "city": "junagadh",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "An ancient fort in Junagadh, with cave monasteries and two stepwells cut into the rock.",
+      "description": "A fort thought to be over 2,000 years old, with Buddhist caves, Adi Kadi Vav and Navghan Kuvo, a deep, spiral stepwell.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 21.5237,
+        "lng": 70.4695,
+        "address": "Junagadh, Gujarat"
+      },
+      "highlights": [
+        "Buddhist caves",
+        "Adi Kadi Vav stepwell",
+        "Navghan Kuvo"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Uparkot Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Uparkot_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/uparkot-fort.webp",
+          "alt": "Uparkot Fort, Junagadh",
+          "credit": "Bernard Gagnon",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gate_of_Uperkot_Fort_02.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Mahabat Maqbara",
+      "slug": "mahabat-maqbara",
+      "city": "junagadh",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A dazzling 1892 mausoleum in Junagadh, with silver doors and spiral-staircase minarets.",
+      "description": "A wild mix of Islamic, Gothic and Indian styles. Its onion domes and spiralling minarets make it one of Gujarat's most photographed buildings.",
+      "history": "Completed in 1892 for Mahabat Khan II, Nawab of Junagadh.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 21.5272,
+        "lng": 70.46,
+        "address": "Junagadh, Gujarat"
+      },
+      "highlights": [
+        "Spiral minarets",
+        "Onion domes",
+        "Bahauddin's tomb next door"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Mahabat Maqbara complex – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mahabat_Maqbara_complex"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/mahabat-maqbara.webp",
+          "alt": "Mahabat Maqbara, Junagadh",
+          "credit": "Bernard Gagnon",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tomb_of_Mahabat_Khan.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Girnar",
+      "slug": "girnar",
+      "city": "junagadh",
+      "kind": "trek",
+      "categories": [
+        "religious",
+        "adventure"
+      ],
+      "shortDescription": "A sacred mountain at Junagadh, with Jain and Hindu temples, reached by steps or a ropeway.",
+      "description": "Thousands of steps climb the volcanic hill past Jain temples to Hindu shrines at the top. A ropeway now takes you most of the way up.",
+      "history": "Sacred to Jains as the place where Neminath attained nirvana.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 21.4947,
+        "lng": 70.5056,
+        "address": "Junagadh, Gujarat"
+      },
+      "highlights": [
+        "Girnar ropeway",
+        "Jain temple group",
+        "Dattatreya peak"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Girnar – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Girnar"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/girnar.webp",
+          "alt": "Girnar, Junagadh",
+          "credit": "Emmanuel DYAN from Paris, France",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Girnar_Jain_temple_-_Neminath_temple.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Palitana Temples",
+      "slug": "palitana-temples",
+      "city": "bhavnagar",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "Hundreds of Jain marble temples on Shatrunjaya hill, reached by a long climb of stone steps.",
+      "description": "A mountain of temples, and the most sacred Jain site in Gujarat. Pilgrims walk barefoot up the steps at dawn, and no one is allowed to stay on the hill at night.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 21.483,
+        "lng": 71.794,
+        "address": "Bhavnagar, Gujarat"
+      },
+      "highlights": [
+        "Long stepped climb",
+        "Adinath Temple",
+        "Dawn pilgrim walk"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Palitana temples – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Palitana_temples"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/palitana-temples.webp",
+          "alt": "Palitana Temples, Bhavnagar",
+          "credit": "Bernard Gagnon",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palitana_temples_05.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Blackbuck National Park",
+      "slug": "blackbuck-national-park-velavadar",
+      "city": "bhavnagar",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A grassland reserve near Bhavnagar, with large herds of blackbuck and harriers in winter.",
+      "description": "Golden grassland on the Gulf of Khambhat, where blackbuck leap in large numbers. It's among the largest winter roosts of harriers in the world.",
+      "history": "Established in 1976 in the Bhal region.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 22.0333,
+        "lng": 72.05,
+        "address": "Bhavnagar, Gujarat"
+      },
+      "highlights": [
+        "Blackbuck herds",
+        "Harrier roost",
+        "Open grassland"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Blackbuck National Park, Velavadar – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Blackbuck_National_Park,_Velavadar"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/blackbuck-national-park-velavadar.webp",
+          "alt": "Blackbuck National Park, Bhavnagar",
+          "credit": "Chinmayisk",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Antilope_cervicapra_from_velavadar.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Saputara Lake",
+      "slug": "saputara-hill-station",
+      "city": "saputara",
+      "kind": "hill-station",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "Gujarat's main hill station, in the Dang forests, with a lake, gardens and sunset point.",
+      "description": "A green escape in Gujarat's dry summer, with boating, a ropeway and the Gira Waterfalls nearby. The monsoon festival is its busiest time.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "location": {
+        "lat": 20.5797,
+        "lng": 73.7467,
+        "address": "Saputara, Gujarat"
+      },
+      "highlights": [
+        "Sunset Point",
+        "Gira Falls",
+        "Monsoon festival"
+      ],
+      "sources": [
+        {
+          "title": "Saputara – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Saputara"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/saputara-hill-station.webp",
+          "alt": "Saputara Lake, Saputara",
+          "credit": "Sumeet photography",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lake_Saputara.jpg"
         }
       ]
     }

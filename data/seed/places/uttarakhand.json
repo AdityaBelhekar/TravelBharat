@@ -31,9 +31,115 @@
       "name": "Haridwar",
       "slug": "haridwar",
       "overview": "One of Hinduism's seven holy cities, where the Ganga leaves the Himalaya for the plains, and host of the Kumbh Mela.",
+      "history": "One of the seven holy cities of Hinduism, where the Ganges leaves the mountains. It hosts the Kumbh Mela every 12 years.",
+      "isHub": true,
       "location": {
         "lat": 29.9457,
         "lng": 78.1642
+      }
+    },
+    {
+      "name": "Dehradun",
+      "slug": "dehradun",
+      "overview": "Uttarakhand's capital in the Doon valley, between the Shivaliks and the Himalaya, a base for Mussoorie.",
+      "history": "Long a part of the Garhwal kingdom, it passed to the British after the Gurkha wars of 1814-16. They built schools, a military academy and a forestry institute here.",
+      "isHub": true,
+      "location": {
+        "lat": 30.345,
+        "lng": 78.029
+      }
+    },
+    {
+      "name": "Mussoorie",
+      "slug": "mussoorie",
+      "overview": "A hill station 26 km from Dehradun, with a long Mall Road and views of the Doon Valley and the snows.",
+      "isHub": true,
+      "location": {
+        "lat": 30.45,
+        "lng": 78.08
+      }
+    },
+    {
+      "name": "Rishikesh",
+      "slug": "rishikesh",
+      "overview": "A pilgrim town on the Ganges at the foot of the hills, known for yoga, rafting and suspension bridges.",
+      "isHub": true,
+      "location": {
+        "lat": 30.1083,
+        "lng": 78.2972
+      }
+    },
+    {
+      "name": "Nainital",
+      "slug": "nainital",
+      "overview": "A Kumaon lake town and the judicial capital of the state, built around a crescent-shaped lake.",
+      "isHub": true,
+      "location": {
+        "lat": 29.3919,
+        "lng": 79.4542
+      }
+    },
+    {
+      "name": "Almora",
+      "slug": "almora",
+      "overview": "An old Chand dynasty capital on a Kumaon ridge, with stone-roofed streets and a view of the snows.",
+      "location": {
+        "lat": 29.5971,
+        "lng": 79.6591
+      }
+    },
+    {
+      "name": "Ranikhet",
+      "slug": "ranikhet",
+      "overview": "A quiet army cantonment and hill town in the Kumaon Hills, among pine and oak.",
+      "location": {
+        "lat": 29.65,
+        "lng": 79.42
+      }
+    },
+    {
+      "name": "Badrinath",
+      "slug": "badrinath",
+      "overview": "A temple town high on the Alaknanda, and one of the four dhams of Uttarakhand.",
+      "location": {
+        "lat": 30.7433,
+        "lng": 79.4938
+      }
+    },
+    {
+      "name": "Joshimath",
+      "slug": "joshimath",
+      "overview": "A town on the road to Badrinath, and the base for Auli's ski slopes.",
+      "location": {
+        "lat": 30.555,
+        "lng": 79.5643
+      }
+    },
+    {
+      "name": "Uttarkashi",
+      "slug": "uttarkashi",
+      "overview": "A district town on the Bhagirathi, gateway to Gangotri and Yamunotri.",
+      "location": {
+        "lat": 30.7268,
+        "lng": 78.4354
+      }
+    },
+    {
+      "name": "Pithoragarh",
+      "slug": "pithoragarh",
+      "overview": "The far eastern district of Kumaon, on the road to Munsiyari and the Johar Valley.",
+      "location": {
+        "lat": 29.5829,
+        "lng": 80.2182
+      }
+    },
+    {
+      "name": "Pauri",
+      "slug": "pauri",
+      "overview": "A Garhwal district town, close to the cantonment of Lansdowne and the Tehri Lake road.",
+      "location": {
+        "lat": 30.1477,
+        "lng": 78.7762
       }
     }
   ],
@@ -263,6 +369,1367 @@
           "credit": "Sanatansociety",
           "license": "CC BY-SA 2.5",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Evening_view_of_Har-ki-Pauri,_Haridwar.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Forest Research Institute",
+      "slug": "forest-research-institute",
+      "city": "dehradun",
+      "kind": "museum",
+      "categories": [
+        "heritage",
+        "nature"
+      ],
+      "shortDescription": "A grand red-brick colonial campus in Dehradun, with six forestry museums and huge lawns.",
+      "description": "A vast Greco-Roman building set in hundreds of acres of trees, often seen in Bollywood films. The museums cover timber, insects and forest science.",
+      "history": "An old training ground for India's forest service.",
+      "bestMonths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "location": {
+        "lat": 30.3439,
+        "lng": 77.9994,
+        "address": "Dehradun, Uttarakhand"
+      },
+      "highlights": [
+        "Colonial main building",
+        "Forestry museums",
+        "Film-famous lawns"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Forest Research Institute (India) – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Forest_Research_Institute_(India)"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/forest-research-institute.webp",
+          "alt": "Forest Research Institute, Dehradun",
+          "credit": "Torarne",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Forest_Research_Institute_campus,_Dehradun,_India.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Mindrolling Monastery",
+      "slug": "mindrolling-monastery",
+      "city": "dehradun",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A large Tibetan Buddhist monastery in Clement Town, Dehradun, with a giant golden Buddha.",
+      "description": "The original seat is in Tibet, and the Indian monastery was rebuilt here after 1959. Its great stupa, gardens and golden Buddha are the highlight.",
+      "history": "Mindrolling is one of the six mother monasteries of the Nyingma school, founded in Tibet in 1676.",
+      "bestMonths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "location": {
+        "lat": 30.2618,
+        "lng": 77.9973,
+        "address": "Dehradun, Uttarakhand"
+      },
+      "highlights": [
+        "Great Stupa",
+        "Golden Buddha",
+        "Peaceful gardens"
+      ],
+      "sources": [
+        {
+          "title": "Mindrolling Monastery – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mindrolling_Monastery"
+        }
+      ]
+    },
+    {
+      "name": "Kempty Falls",
+      "slug": "kempty-falls",
+      "city": "mussoorie",
+      "kind": "waterfall",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A popular waterfall in Tehri Garhwal, 13 km from Mussoorie on the Chakrata road.",
+      "description": "Water falls in stages into a pool that's packed with bathers in the summer season. It's crowded and commercial, but it's a Mussoorie tradition.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 30.4873,
+        "lng": 78.0362,
+        "address": "Mussoorie, Uttarakhand"
+      },
+      "highlights": [
+        "Bathing pool",
+        "Ropeway",
+        "Mussoorie day trip"
+      ],
+      "sources": [
+        {
+          "title": "Kempty Falls – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kempty_Falls"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kempty-falls.webp",
+          "alt": "Kempty Falls, Mussoorie",
+          "credit": "Siva301in",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kempty_Waterfalls.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Landour",
+      "slug": "landour",
+      "city": "mussoorie",
+      "kind": "neighbourhood",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A small cantonment above Mussoorie, known for quiet walks, old churches and bakeries.",
+      "description": "A loop road called the Chakkar runs through deodar forest past old bungalows and the home of writer Ruskin Bond. It's far quieter than Mussoorie itself.",
+      "history": "Founded in the 1820s as a British military cantonment.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 30.47,
+        "lng": 78.1,
+        "address": "Mussoorie, Uttarakhand"
+      },
+      "highlights": [
+        "Chakkar loop walk",
+        "Char Dukan cafes",
+        "Kellogg Memorial Church"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Landour – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Landour"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/landour.webp",
+          "alt": "Landour, Mussoorie",
+          "credit": "Paul Hamilton",
+          "license": "CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bandarpunch_from_Landour_(5283927315).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Dhanaulti",
+      "slug": "dhanaulti",
+      "city": "mussoorie",
+      "kind": "hill-station",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A pine and deodar hill station at 2,286 m, a calmer escape past Mussoorie.",
+      "description": "An eco park, forest walks and winter snow, with the Surkanda Devi temple not far away on a high ridge.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 30.45,
+        "lng": 78.25,
+        "address": "Mussoorie, Uttarakhand"
+      },
+      "highlights": [
+        "Surkanda Devi Temple",
+        "Eco park",
+        "Winter snow"
+      ],
+      "sources": [
+        {
+          "title": "Dhanaulti – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dhanaulti"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/dhanaulti.webp",
+          "alt": "Dhanaulti, Mussoorie",
+          "credit": "Alok Prasad",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dhanaulti_2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Lakshman Jhula",
+      "slug": "lakshman-jhula",
+      "city": "rishikesh",
+      "kind": "monument",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A historic suspension bridge across the Ganges, the landmark of Rishikesh.",
+      "description": "The iron footbridge has been closed to traffic since 2020 for safety reasons, but the temples, cafes and river views around it still draw crowds.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 30.1264,
+        "lng": 78.3299,
+        "address": "Rishikesh, Uttarakhand"
+      },
+      "highlights": [
+        "Riverside cafes",
+        "Tera Manzil Temple",
+        "Tapovan area"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Lakshman Jhula – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lakshman_Jhula"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/lakshman-jhula.webp",
+          "alt": "Lakshman Jhula, Rishikesh",
+          "credit": "KaustubhNayyar",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rishikesh-Lakshman_Jhula_by_Kaustubh_Nayyar.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Beatles Ashram",
+      "slug": "beatles-ashram",
+      "city": "rishikesh",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The abandoned Chaurasi Kutia ashram, where the Beatles stayed in 1968.",
+      "description": "Overgrown meditation domes and a huge graffiti-painted hall, now in the Rajaji reserve. It's a strange, peaceful place that's perfect for wandering.",
+      "history": "The Beatles stayed here in 1968 to study meditation with Maharishi Mahesh Yogi.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 30.1097,
+        "lng": 78.3128,
+        "address": "Rishikesh, Uttarakhand"
+      },
+      "highlights": [
+        "Graffiti hall",
+        "Meditation domes",
+        "Forest setting"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Beatles Ashram – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Beatles_Ashram"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/beatles-ashram.webp",
+          "alt": "Beatles Ashram, Rishikesh",
+          "credit": "Guy P Atkinson",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beatles_Ashram_Satsang_Hall_Rishikesh.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Neelkanth Mahadev Temple",
+      "slug": "neelkanth-mahadev-temple",
+      "city": "rishikesh",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A Shiva temple 32 km from Rishikesh, in the forest, at the spot where Shiva drank the poison.",
+      "description": "A colourful temple in the hills that's visited by huge crowds of Kanwar pilgrims during the Shravan season. You can also walk there from Rishikesh on a forest path.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 30.0807,
+        "lng": 78.3409,
+        "address": "Rishikesh, Uttarakhand"
+      },
+      "highlights": [
+        "Kanwar pilgrimage",
+        "Forest road",
+        "Painted gopuram"
+      ],
+      "sources": [
+        {
+          "title": "Nilkanth Mahadev – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nilkanth_Mahadev"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/neelkanth-mahadev-temple.webp",
+          "alt": "Neelkanth Mahadev Temple, Rishikesh",
+          "credit": "Anurodhraghuwanshi",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Neelkanth_mahadev_mandir.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Rajaji National Park",
+      "slug": "rajaji-national-park",
+      "city": "haridwar",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A tiger reserve of 820 sq km in the Sivalik Hills, between Haridwar, Dehradun and Rishikesh.",
+      "description": "Sal forest and river beds, known for its elephants and leopards. It's the easiest wild place to reach from Delhi by rail.",
+      "history": "Formed in 1983 by merging three wildlife sanctuaries.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "location": {
+        "lat": 30.0581,
+        "lng": 78.1728,
+        "address": "Haridwar, Uttarakhand"
+      },
+      "highlights": [
+        "Chilla range safari",
+        "Elephants along the Ganges",
+        "Sal forest"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Rajaji National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Rajaji_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/rajaji-national-park.webp",
+          "alt": "Rajaji National Park, Haridwar",
+          "credit": "Subhajit Saha",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:IE_Rajaji.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Mansa Devi Temple",
+      "slug": "mansa-devi-temple-haridwar",
+      "city": "haridwar",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A hilltop goddess temple on Bilwa Parvat above Haridwar, reached on foot or by cable car.",
+      "description": "A busy shrine on top of a Sivalik hill, where people tie threads to a sacred tree to make wishes. The cable car gives you a fine view of the Ganges.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 29.9581,
+        "lng": 78.1647,
+        "address": "Haridwar, Uttarakhand"
+      },
+      "highlights": [
+        "Cable car",
+        "Wish-tying tree",
+        "View over Haridwar"
+      ],
+      "sources": [
+        {
+          "title": "Mansa Devi Temple, Haridwar – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mansa_Devi_Temple,_Haridwar"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/mansa-devi-temple-haridwar.webp",
+          "alt": "Mansa Devi Temple, Haridwar",
+          "credit": "Ekabhishek",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mansa_Devi_Temple,_Haridwar.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Devprayag",
+      "slug": "devprayag",
+      "city": "rishikesh",
+      "kind": "river",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "The sacred meeting of the Alaknanda and Bhagirathi, where the river takes the name Ganga.",
+      "description": "The last of the Panch Prayag, where a blue-green stream and a muddy one join in a gorge. A stone path leads down to the point where they meet.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 30.146,
+        "lng": 78.598,
+        "address": "Rishikesh, Uttarakhand"
+      },
+      "highlights": [
+        "River confluence",
+        "Raghunath Temple",
+        "Sangam viewpoint"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Devprayag – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Devprayag"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/devprayag.webp",
+          "alt": "Devprayag, Rishikesh",
+          "credit": "AjitK332",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:AjitHota_BirthPlaceOfGanges.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Tehri Lake",
+      "slug": "tehri-lake",
+      "city": "pauri",
+      "kind": "dam",
+      "categories": [
+        "adventure"
+      ],
+      "shortDescription": "The reservoir of India's tallest dam, on the Bhagirathi, now a water sports hub.",
+      "description": "A vast lake that covers the old town of Tehri. Jet skis and houseboats have made it a growing adventure destination.",
+      "history": "The 260.5 m dam drowned the old town of Tehri when the reservoir filled.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 30.3778,
+        "lng": 78.4806,
+        "address": "Pauri, Uttarakhand"
+      },
+      "highlights": [
+        "Water sports",
+        "Lake Festival",
+        "Giant dam"
+      ],
+      "sources": [
+        {
+          "title": "Tehri Dam – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Tehri_Dam"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/tehri-lake.webp",
+          "alt": "Tehri Lake, Pauri",
+          "credit": "Dr Vikramjit Kakati",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tehri_Dam_India.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Lansdowne",
+      "slug": "lansdowne-town",
+      "city": "pauri",
+      "kind": "hill-station",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A quiet cantonment town in Pauri Garhwal, home of the Garhwal Rifles.",
+      "description": "An uncrowded hill town with old churches, pine walks and a small regimental museum. It's a favourite quiet weekend from Delhi.",
+      "history": "Named after Lord Lansdowne, Viceroy of India.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 29.8375,
+        "lng": 78.6819,
+        "address": "Pauri, Uttarakhand"
+      },
+      "highlights": [
+        "Bhulla Lake",
+        "Regimental museum",
+        "St. Mary's Church"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Lansdowne, India – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lansdowne,_India"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/lansdowne-town.webp",
+          "alt": "Lansdowne, Pauri",
+          "credit": "Ravi krishnan gupta",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lansdowne_Landscape.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Naini Lake",
+      "slug": "naini-lake",
+      "city": "nainital",
+      "kind": "lake",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "The crescent-shaped lake at the heart of Nainital, surrounded by steep wooded hills.",
+      "description": "Boats drift past the Naina Devi Temple, and the Mall Road follows the whole of one shore. The cable car gives you a view of the snows.",
+      "history": "A natural freshwater lake that's tectonic in origin.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 29.3875,
+        "lng": 79.4575,
+        "address": "Nainital, Uttarakhand"
+      },
+      "highlights": [
+        "Rowing",
+        "Naina Devi Temple",
+        "Snow View cable car"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Nainital Lake – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nainital_Lake"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/naini-lake.webp",
+          "alt": "Naini Lake, Nainital",
+          "credit": "Incorelab",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Boat_and_The_Lake.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Bhimtal",
+      "slug": "bhimtal",
+      "city": "nainital",
+      "kind": "lake",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A larger, quieter lake town 22 km from Nainital, with an island aquarium.",
+      "description": "A calmer alternative to Nainital, with paragliding at Bhowali and a small island in the lake that has an aquarium.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 29.35,
+        "lng": 79.5667,
+        "address": "Nainital, Uttarakhand"
+      },
+      "highlights": [
+        "Island aquarium",
+        "Boating",
+        "Sattal and Naukuchiatal nearby"
+      ],
+      "sources": [
+        {
+          "title": "Bhimtal – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bhimtal"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/bhimtal.webp",
+          "alt": "Bhimtal, Nainital",
+          "credit": "Krishan09",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bhimtal_Lake.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Mukteshwar",
+      "slug": "mukteshwar",
+      "city": "nainital",
+      "kind": "village",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A Kumaon hill village at 2,171 m, with orchards and the Himalaya from Chauli ki Jali.",
+      "description": "Fruit orchards and an old Shiva temple sit on a ridge facing the high peaks. It's a quiet stop, with some rock climbing and a British veterinary institute.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 29.4722,
+        "lng": 79.6479,
+        "address": "Nainital, Uttarakhand"
+      },
+      "highlights": [
+        "Chauli ki Jali rock",
+        "Mukteshwar Temple",
+        "Himalayan panorama"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Mukteshwar – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mukteshwar"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/mukteshwar.webp",
+          "alt": "Mukteshwar, Nainital",
+          "credit": "ParthaPratimNath",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chauli_Ki_Jali,_Mukteshwar.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Ranikhet",
+      "slug": "ranikhet-town",
+      "city": "ranikhet",
+      "kind": "hill-station",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A pine-shaded Kumaon cantonment with one of India's highest golf courses, at Upat.",
+      "description": "Quiet walks among deodar and pine, with the Kumaon Regiment's museum and a Himalayan view that's among the best anywhere.",
+      "history": "Home of the Kumaon Regiment.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 29.65,
+        "lng": 79.42,
+        "address": "Ranikhet, Uttarakhand"
+      },
+      "highlights": [
+        "Upat golf course",
+        "KRC Museum",
+        "Jhula Devi Temple"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Ranikhet – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ranikhet"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/ranikhet-town.webp",
+          "alt": "Ranikhet",
+          "credit": "Mrneutrino",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jhula_devi_temple,_Ranikhet.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kausani",
+      "slug": "kausani",
+      "city": "ranikhet",
+      "kind": "hill-station",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A small hill station with a 300 km panorama of peaks like Nanda Devi and Panchachuli.",
+      "description": "Tea gardens and pine woods look out over one of the widest Himalayan views anywhere. Mahatma Gandhi stayed here and called it the Switzerland of India.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 29.84,
+        "lng": 79.6,
+        "address": "Ranikhet, Uttarakhand"
+      },
+      "highlights": [
+        "Sunrise panorama",
+        "Anasakti Ashram",
+        "Tea estates"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Kausani – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kausani"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kausani.webp",
+          "alt": "Kausani, Ranikhet",
+          "credit": "Abhijit Kar Gupta from Kolkata, India",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunrise_from_Kausani,_Almora,_Uttarakhand,_India.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Jageshwar",
+      "slug": "jageshwar",
+      "city": "almora",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A group of over 100 old stone temples in a deodar forest near Almora.",
+      "description": "Ancient temples with stone towers stand under huge deodars in a quiet valley, and they're managed by the Archaeological Survey of India. It's one of the Dhams of Shaivism.",
+      "history": "Most of the temples date from the 9th to the 13th century.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 29.6373,
+        "lng": 79.8547,
+        "address": "Almora, Uttarakhand"
+      },
+      "highlights": [
+        "Temples among deodars",
+        "ASI museum",
+        "Jageshwar Monsoon Festival"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Jageshwar – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jageshwar"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/jageshwar.webp",
+          "alt": "Jageshwar, Almora",
+          "credit": "Pramod Rawal",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jageshwar_Mandir.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Binsar Wildlife Sanctuary",
+      "slug": "binsar-wildlife-sanctuary",
+      "city": "almora",
+      "kind": "sanctuary",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A forest sanctuary on a ridge north of Almora, with oak woods, birds and a Himalayan view.",
+      "description": "A quiet reserve with trails through oak and rhododendron, and over 200 bird species. Zero Point gives you a 300 km view of the snows.",
+      "history": "Binsar was the summer capital of the Chand kings of Kumaon.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 29.7064,
+        "lng": 79.7561,
+        "address": "Almora, Uttarakhand"
+      },
+      "highlights": [
+        "Zero Point",
+        "Birdwatching",
+        "Old Kumaon forest"
+      ],
+      "sources": [
+        {
+          "title": "Binsar Wildlife Sanctuary – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Binsar_Wildlife_Sanctuary"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/binsar-wildlife-sanctuary.webp",
+          "alt": "Binsar Wildlife Sanctuary, Almora",
+          "credit": "SudiptoDutta",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Binsar_Oak_Forests.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Munsiyari",
+      "slug": "munsiyari",
+      "city": "pithoragarh",
+      "kind": "village",
+      "categories": [
+        "adventure"
+      ],
+      "shortDescription": "A high Kumaon village in Pithoragarh, facing the Panchachuli peaks, and a base for glacier treks.",
+      "description": "A Himalayan outpost at the head of the Johar Valley, with some of the best close-up views of the Panchachuli range. Milam and Ralam glacier treks start here.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 30.0674,
+        "lng": 80.2386,
+        "address": "Pithoragarh, Uttarakhand"
+      },
+      "highlights": [
+        "Panchachuli peaks",
+        "Khaliya Top trek",
+        "Milam glacier trail"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Munsiari – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Munsiari"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/munsiyari.webp",
+          "alt": "Munsiyari, Pithoragarh",
+          "credit": "Ashish Gupta from Noida, India",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Munsiari_IMG_20160617_132452119_(32987221606).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Badrinath Temple",
+      "slug": "badrinath-temple",
+      "city": "badrinath",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "The temple of Vishnu in Chamoli, one of the Char Dham, on the Alaknanda at about 3,100 m.",
+      "description": "A brightly painted facade against bare peaks, with hot springs below it. It's a major pilgrimage in the Himalaya, open for around six months of the year.",
+      "history": "One of the 108 Divya Desams, sacred to Vaishnavas.",
+      "bestMonths": [
+        5,
+        6,
+        9,
+        10
+      ],
+      "bestTimeNote": "Open roughly from April or May to November, depending on the snow.",
+      "location": {
+        "lat": 30.7447,
+        "lng": 79.4912,
+        "address": "Badrinath, Uttarakhand"
+      },
+      "highlights": [
+        "Tapt Kund hot spring",
+        "Colourful temple front",
+        "Mana village nearby"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Badrinath Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Badrinath_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/badrinath-temple.webp",
+          "alt": "Badrinath Temple, Badrinath",
+          "credit": "Anubha khare",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Badrinath_Temple_,_Uttarakhand.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Gangotri",
+      "slug": "gangotri",
+      "city": "uttarkashi",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious",
+        "adventure"
+      ],
+      "shortDescription": "A temple town at the head of the Bhagirathi, and the source of the Ganges in Hindu tradition.",
+      "description": "A white temple beside the roaring Bhagirathi. Serious pilgrims trek on to Gaumukh, the glacier snout at the true source.",
+      "bestMonths": [
+        5,
+        6,
+        9,
+        10
+      ],
+      "bestTimeNote": "Open roughly from April or May to November, depending on the snow.",
+      "location": {
+        "lat": 30.994,
+        "lng": 78.941,
+        "address": "Uttarkashi, Uttarakhand"
+      },
+      "highlights": [
+        "Bhagirathi gorge",
+        "Gaumukh glacier trek",
+        "Aarti by the river"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Gangotri – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gangotri"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/gangotri.webp",
+          "alt": "Gangotri, Uttarkashi",
+          "credit": "Dhwani Shree",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gangotri_(ganga_river).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Yamunotri Temple",
+      "slug": "yamunotri-temple",
+      "city": "uttarkashi",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious",
+        "adventure"
+      ],
+      "shortDescription": "A temple to the Yamuna at 3,291 m, reached by a 5 km walk, one of the Char Dham.",
+      "description": "A small temple with a black marble idol of Yamuna, reached by a steep path. Pilgrims cook rice in the hot springs.",
+      "bestMonths": [
+        5,
+        6,
+        9,
+        10
+      ],
+      "bestTimeNote": "Open roughly from April or May to November, depending on the snow.",
+      "location": {
+        "lat": 31.0167,
+        "lng": 78.45,
+        "address": "Uttarkashi, Uttarakhand"
+      },
+      "highlights": [
+        "Surya Kund hot spring",
+        "Trek from Janki Chatti",
+        "Black marble goddess"
+      ],
+      "sources": [
+        {
+          "title": "Yamunotri Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Yamunotri_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/yamunotri-temple.webp",
+          "alt": "Yamunotri Temple, Uttarkashi",
+          "credit": "Atarax42",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yamunotri_temple_and_ashram.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Tungnath",
+      "slug": "tungnath",
+      "city": "joshimath",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious",
+        "adventure"
+      ],
+      "shortDescription": "One of the world's highest Shiva temples and the highest of the Panch Kedar, in Rudraprayag.",
+      "description": "A short steep trek from Chopta goes through meadows to an old stone temple, and on to Chandrashila summit. It's one of the best short treks in the Himalaya.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "location": {
+        "lat": 30.4894,
+        "lng": 79.2153,
+        "address": "Joshimath, Uttarakhand"
+      },
+      "highlights": [
+        "Chandrashila summit",
+        "Chopta meadows",
+        "Himalayan panorama"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Tungnath – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Tungnath"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/tungnath.webp",
+          "alt": "Tungnath, Joshimath",
+          "credit": "Varun Shiv Kapur",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tungnath_temple.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Auli",
+      "slug": "auli",
+      "city": "joshimath",
+      "kind": "hill-station",
+      "categories": [
+        "adventure"
+      ],
+      "shortDescription": "India's premier ski slope in Chamoli, at about 2,800 m, with views of Nanda Devi.",
+      "description": "Long ski runs on a meadow with a view of Nanda Devi, and one of Asia's longest cable cars from Joshimath. Summer brings green meadows.",
+      "bestMonths": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 30.5289,
+        "lng": 79.5703,
+        "address": "Joshimath, Uttarakhand"
+      },
+      "highlights": [
+        "Winter skiing",
+        "Cable car from Joshimath",
+        "Nanda Devi view"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Auli, India – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Auli,_India"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/auli.webp",
+          "alt": "Auli, Joshimath",
+          "credit": "Vaibhav 369",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Auli_Himalayas.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Gurdwara Hemkund Sahib",
+      "slug": "gurdwara-hemkund-sahib",
+      "city": "ghangaria",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious",
+        "adventure"
+      ],
+      "shortDescription": "A high Sikh shrine beside a glacial lake, reached on foot from Ghangaria.",
+      "description": "A steep trek ends at a star-shaped gurdwara beside a lake at over 4,000 m, in a ring of snow. It's among the highest gurdwaras in the world.",
+      "history": "Devoted to Guru Gobind Singh, and it's mentioned in the Dasam Granth.",
+      "bestMonths": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "bestTimeNote": "Open only from about June to October.",
+      "location": {
+        "lat": 30.7002,
+        "lng": 79.616,
+        "address": "Ghangaria, Uttarakhand"
+      },
+      "highlights": [
+        "Sacred glacial lake",
+        "Star-shaped gurdwara",
+        "Steep trek"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Gurdwara Hemkund Sahib – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gurdwara_Hemkund_Sahib"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/gurdwara-hemkund-sahib.webp",
+          "alt": "Gurdwara Hemkund Sahib, Ghangaria",
+          "credit": "Satbir 4",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hemkunt-003.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Roopkund",
+      "slug": "roopkund",
+      "city": "joshimath",
+      "kind": "trek",
+      "categories": [
+        "adventure"
+      ],
+      "shortDescription": "The Skeleton Lake at 5,020 m in Chamoli, with old human bones visible when the ice melts.",
+      "description": "A hard high-altitude trek that crosses Ali and Bedni Bugyal meadows on the way. The remains by the lake have puzzled scientists for decades.",
+      "bestMonths": [
+        5,
+        6,
+        9,
+        10
+      ],
+      "bestTimeNote": "Forest department rules on access to the lake have changed in recent years, so check before you go.",
+      "location": {
+        "lat": 30.2622,
+        "lng": 79.7317,
+        "address": "Joshimath, Uttarakhand"
+      },
+      "highlights": [
+        "Bedni Bugyal meadows",
+        "Skeleton lake",
+        "High-altitude trek"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Roopkund – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Roopkund"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/roopkund.webp",
+          "alt": "Roopkund, Joshimath",
+          "credit": "Schwiki",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roopkund_Lake.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Har Ki Dun",
+      "slug": "har-ki-dun",
+      "city": "uttarkashi",
+      "kind": "trek",
+      "categories": [
+        "adventure"
+      ],
+      "shortDescription": "A cradle-shaped hanging valley in the Garhwal Himalaya, reached on a classic moderate trek.",
+      "description": "A long walk through old wooden villages and forests, ending in a meadow ringed with peaks. It's a popular first high-altitude trek.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "location": {
+        "lat": 31.1481,
+        "lng": 78.4324,
+        "address": "Uttarkashi, Uttarakhand"
+      },
+      "highlights": [
+        "Osla village",
+        "Alpine meadows",
+        "Swargarohini views"
+      ],
+      "sources": [
+        {
+          "title": "Har Ki Doon – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Har_Ki_Doon"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/har-ki-dun.webp",
+          "alt": "Har Ki Dun, Uttarkashi",
+          "credit": "Metanish",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Har_Ki_Dun.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Nanda Devi National Park",
+      "slug": "nanda-devi-national-park",
+      "city": "joshimath",
+      "kind": "national-park",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "A UNESCO park around India's second-highest peak, in Chamoli, closed to most visitors.",
+      "description": "A huge natural basin of peaks and glaciers, closed to most visitors to protect its rare habitat, though Lata Kharak offers fine views. It shares its UNESCO listing with the Valley of Flowers.",
+      "history": "Established in 1982.",
+      "bestMonths": [
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 30.4186,
+        "lng": 79.8497,
+        "address": "Joshimath, Uttarakhand"
+      },
+      "highlights": [
+        "UNESCO listing",
+        "Lata Kharak view",
+        "Nanda Devi peak"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Nanda Devi National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nanda_Devi_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/nanda-devi-national-park.webp",
+          "alt": "Nanda Devi National Park, Joshimath",
+          "credit": "Anirban c8",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nanda_devi.jpg"
         }
       ]
     }

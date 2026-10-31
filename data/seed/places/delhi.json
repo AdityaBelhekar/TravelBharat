@@ -4,6 +4,8 @@
       "name": "New Delhi",
       "slug": "new-delhi",
       "overview": "Built by the British in the 1920s and 30s, New Delhi has wide tree-lined avenues, government buildings designed by Edwin Lutyens and Herbert Baker, and many of the city's museums and memorials.",
+      "history": "The British moved their capital from Calcutta in 1911. Edwin Lutyens and Herbert Baker laid out the new city, inaugurated in 1931, and it became independent India's capital.",
+      "isHub": true,
       "location": {
         "lat": 28.6139,
         "lng": 77.209
@@ -13,6 +15,8 @@
       "name": "Old Delhi",
       "slug": "old-delhi",
       "overview": "Shahjahanabad, the walled city founded by Shah Jahan in 1639, is a dense tangle of bazaars, havelis, mosques and street-food lanes around Chandni Chowk.",
+      "history": "Shah Jahan founded this walled city in 1639 as Shahjahanabad, the new Mughal capital, with the Red Fort at its head.",
+      "isHub": true,
       "location": {
         "lat": 28.6506,
         "lng": 77.2303
@@ -22,6 +26,7 @@
       "name": "South Delhi",
       "slug": "south-delhi",
       "overview": "South Delhi holds the oldest of Delhi's historic cities, including Mehrauli and the Qutub complex, along with Hauz Khas village and many modern landmarks.",
+      "isHub": true,
       "location": {
         "lat": 28.5245,
         "lng": 77.2066
@@ -418,6 +423,838 @@
           "credit": "Slyronit",
           "license": "CC BY-SA 4.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Agrasen_ki_Baoli,_New_Delhi.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Jama Masjid, Delhi",
+      "slug": "jama-masjid-delhi",
+      "city": "old-delhi",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "One of India's largest mosques, built by Shah Jahan, with a vast courtyard and tall minarets.",
+      "description": "Red sandstone and white marble, with a courtyard for 25,000 people. Climb a minaret for a view across the old city.",
+      "history": "Built by Shah Jahan between 1644 and 1656.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 28.6507,
+        "lng": 77.2334,
+        "address": "Old Delhi, Delhi"
+      },
+      "highlights": [
+        "Minaret climb",
+        "Vast courtyard",
+        "Chandni Chowk nearby"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Jama Masjid, Delhi – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jama_Masjid,_Delhi"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/jama-masjid-delhi.webp",
+          "alt": "Jama Masjid, Delhi, Old Delhi",
+          "credit": "Bikashrd",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jama_Masjid_-_In_the_Noon.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Chandni Chowk",
+      "slug": "chandni-chowk",
+      "city": "old-delhi",
+      "kind": "neighbourhood",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "Old Delhi's great market street, a Mughal-era bazaar lined with food stalls and old havelis.",
+      "description": "Spice sellers, wedding shops and legendary food in narrow lanes off the main road. Go on foot, or by rickshaw, in the morning.",
+      "history": "Laid out in the 17th century by Shah Jahan's daughter Jahanara.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 28.656,
+        "lng": 77.231,
+        "address": "Old Delhi, Delhi"
+      },
+      "highlights": [
+        "Paranthe Wali Gali",
+        "Khari Baoli spice market",
+        "Rickshaw rides"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Chandni Chowk – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chandni_Chowk"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/chandni-chowk.webp",
+          "alt": "Chandni Chowk, Old Delhi",
+          "credit": "Goutam1962",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gurudwara_Sisganj_Sahib_Chandni_Chowk_19.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Raj Ghat",
+      "slug": "raj-ghat",
+      "city": "old-delhi",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A black marble memorial on the Yamuna, at the spot where Mahatma Gandhi was cremated in 1948.",
+      "description": "A quiet garden surrounds a simple black platform with an eternal flame. Other national leaders' memorials are close by.",
+      "history": "Gandhi was cremated here on 31 January 1948.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 28.6405,
+        "lng": 77.2493,
+        "address": "Old Delhi, Delhi"
+      },
+      "highlights": [
+        "Black marble platform",
+        "Eternal flame",
+        "Quiet lawns"
+      ],
+      "sources": [
+        {
+          "title": "Raj Ghat and associated memorials – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Raj_Ghat_and_associated_memorials"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/raj-ghat.webp",
+          "alt": "Raj Ghat, Old Delhi",
+          "credit": "Humayunn Niaz Ahmed Peerzaada from Mumbai, India",
+          "license": "CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gandhi_Memorial.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Purana Qila",
+      "slug": "purana-qila",
+      "city": "new-delhi",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "One of Delhi's oldest forts, built by Humayun and Sher Shah Suri, with a lake and a stepwell.",
+      "description": "Great gateways and thick walls, with a fine mosque and the tower in which Humayun fell to his death. Excavations show centuries of settlement.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 28.6094,
+        "lng": 77.2442,
+        "address": "New Delhi, Delhi"
+      },
+      "highlights": [
+        "Qila-i-Kuhna Mosque",
+        "Sher Mandal",
+        "Boating lake"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Purana Qila – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Purana_Qila"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/purana-qila.webp",
+          "alt": "Purana Qila, New Delhi",
+          "credit": "Airknight at English Wikipedia",
+          "license": "CC BY 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Purana_Qila_01.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Safdarjung's Tomb",
+      "slug": "safdarjungs-tomb",
+      "city": "new-delhi",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The last great Mughal garden tomb, built in 1754 for a noble, in sandstone and marble.",
+      "description": "A big domed tomb in a charbagh, without the crowds of Humayun's Tomb. Late afternoon light is lovely here.",
+      "history": "Built in 1754.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 28.5893,
+        "lng": 77.2106,
+        "address": "New Delhi, Delhi"
+      },
+      "highlights": [
+        "Mughal charbagh",
+        "Domed tomb",
+        "Few crowds"
+      ],
+      "sources": [
+        {
+          "title": "Tomb of Safdar Jang – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Tomb_of_Safdar_Jang"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/safdarjungs-tomb.webp",
+          "alt": "Safdarjung's Tomb, New Delhi",
+          "credit": "Chitranshi",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Safdar_Jang%E2%80%99s_Tomb,_Delhi_.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Lodi Gardens",
+      "slug": "lodi-gardens",
+      "city": "new-delhi",
+      "kind": "garden",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A 90-acre city park in New Delhi, with Sayyid and Lodi tombs among the trees.",
+      "description": "Joggers, couples and old 15th-century tombs share these beautiful lawns. Bada Gumbad and Sheesh Gumbad are the highlights.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 28.593,
+        "lng": 77.22,
+        "address": "New Delhi, Delhi"
+      },
+      "highlights": [
+        "15th-century tombs",
+        "Bonsai park",
+        "Morning walks"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Lodi Gardens – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lodi_Gardens"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/lodi-gardens.webp",
+          "alt": "Lodi Gardens, New Delhi",
+          "credit": "Amaninder",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lodhi_Gardens_on_a_sunny_day.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Jantar Mantar, New Delhi",
+      "slug": "jantar-mantar-delhi",
+      "city": "new-delhi",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "An 18th-century open-air observatory in Connaught Place, one of five built by Jai Singh II.",
+      "description": "Huge pink instruments in a small park. It's a much smaller site than Jaipur's, but it's right in the centre of town.",
+      "history": "Built by Sawai Jai Singh II of Jaipur in 1724.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 28.6271,
+        "lng": 77.2164,
+        "address": "New Delhi, Delhi"
+      },
+      "highlights": [
+        "Samrat Yantra",
+        "Connaught Place location",
+        "Pink masonry"
+      ],
+      "sources": [
+        {
+          "title": "Jantar Mantar, New Delhi – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jantar_Mantar,_New_Delhi"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/jantar-mantar-delhi.webp",
+          "alt": "Jantar Mantar, New Delhi, New Delhi",
+          "credit": "AKS.9955",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jantar_Mantar,_New_Delhi_(Misra_Yantra).jpg"
+        }
+      ]
+    },
+    {
+      "name": "National Museum",
+      "slug": "national-museum-delhi",
+      "city": "new-delhi",
+      "kind": "museum",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "One of India's largest museums, with Harappan objects, Chola bronzes and Buddhist relics.",
+      "description": "A wide-ranging collection, from the Dancing Girl of Mohenjo-daro to miniature paintings and Central Asian antiquities. Allow a good half day.",
+      "history": "Established in 1949.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 28.6118,
+        "lng": 77.2193,
+        "address": "New Delhi, Delhi"
+      },
+      "highlights": [
+        "Dancing Girl figure",
+        "Buddha relics",
+        "Miniature paintings"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "National Museum of India – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/National_Museum_of_India"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/national-museum-delhi.webp",
+          "alt": "National Museum, New Delhi",
+          "credit": "Miya.m",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:India_national_museum_01.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Rashtrapati Bhavan",
+      "slug": "rashtrapati-bhavan",
+      "city": "new-delhi",
+      "kind": "palace",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The official home of the President of India, a vast Lutyens building with Mughal gardens.",
+      "description": "You can book a tour of the state rooms online. The gardens, now called Amrit Udyan, open to the public for a period every spring.",
+      "history": "Built as the Viceroy's House, and completed in 1929.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 28.6144,
+        "lng": 77.1997,
+        "address": "New Delhi, Delhi"
+      },
+      "highlights": [
+        "Amrit Udyan gardens",
+        "Durbar Hall",
+        "Change of Guard"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Rashtrapati Bhavan – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Rashtrapati_Bhavan"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/rashtrapati-bhavan.webp",
+          "alt": "Rashtrapati Bhavan, New Delhi",
+          "credit": "Tamjeed Ahmed",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rashrapati_Bhavan_in_September_2024.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Gurdwara Bangla Sahib",
+      "slug": "gurdwara-bangla-sahib",
+      "city": "new-delhi",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A major Sikh shrine in New Delhi with a gold dome, a sacred pool and a free kitchen.",
+      "description": "A white marble gurdwara in the middle of the city, where volunteers feed thousands each day. Everyone is welcome to join.",
+      "bestMonths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "location": {
+        "lat": 28.6267,
+        "lng": 77.2089,
+        "address": "New Delhi, Delhi"
+      },
+      "highlights": [
+        "Golden dome",
+        "Sarovar pool",
+        "Langar kitchen"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Gurdwara Bangla Sahib – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gurdwara_Bangla_Sahib"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/gurdwara-bangla-sahib.webp",
+          "alt": "Gurdwara Bangla Sahib, New Delhi",
+          "credit": "Ken Wieland from Philadelphia, USA",
+          "license": "CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Front_view_of_Gurudwara_Bangla_Sahib,_Delhi.jpg"
+        }
+      ]
+    },
+    {
+      "name": "ISKCON Temple Delhi",
+      "slug": "iskcon-temple-delhi",
+      "city": "south-delhi",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A large Krishna temple at East of Kailash, with evening aarti, a museum and a restaurant.",
+      "description": "A red sandstone complex on a hill, known for its daily aarti and a multimedia show on the Bhagavad Gita.",
+      "bestMonths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "location": {
+        "lat": 28.5581,
+        "lng": 77.2433,
+        "address": "South Delhi, Delhi"
+      },
+      "highlights": [
+        "Evening aarti",
+        "Vedic museum",
+        "Govinda's restaurant"
+      ],
+      "sources": [
+        {
+          "title": "ISKCON Temple, Delhi – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/ISKCON_Temple,_Delhi"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/iskcon-temple-delhi.webp",
+          "alt": "ISKCON Temple Delhi, South Delhi",
+          "credit": "GourangaUK at English Wikipedia",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iskcon_Delhi_Temple.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hazrat Nizamuddin Dargah",
+      "slug": "hazrat-nizamuddin-dargah",
+      "city": "south-delhi",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "The tomb of the Sufi saint Nizamuddin Auliya, known for its Thursday evening qawwali.",
+      "description": "A maze of old lanes leads to the courtyard of this much-loved shrine, with the grave of the poet Amir Khusrau beside it.",
+      "bestMonths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "location": {
+        "lat": 28.5914,
+        "lng": 77.242,
+        "address": "South Delhi, Delhi"
+      },
+      "highlights": [
+        "Evening qawwali",
+        "Amir Khusrau's tomb",
+        "Old lanes"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Hazrat Nizamuddin Dargah – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hazrat_Nizamuddin_Dargah"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/hazrat-nizamuddin-dargah.webp",
+          "alt": "Hazrat Nizamuddin Dargah, South Delhi",
+          "credit": "varunshiv on Flickr",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nizamuddin_Dargah_and_Jamaat_Khana_Masjid,_Delhi.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sunder Nursery",
+      "slug": "sunder-nursery",
+      "city": "south-delhi",
+      "kind": "garden",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A restored heritage park next to Humayun's Tomb, with 16th-century monuments and a lake.",
+      "description": "A fine modern park, restored by the Aga Khan Trust for Culture, with old tombs, an amphitheatre and a bonsai house.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 28.5969,
+        "lng": 77.2453,
+        "address": "South Delhi, Delhi"
+      },
+      "highlights": [
+        "Mughal monuments",
+        "Amphitheatre",
+        "Rose garden"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Sunder Nursery – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sunder_Nursery"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/sunder-nursery.webp",
+          "alt": "Sunder Nursery, South Delhi",
+          "credit": "Gryffindor",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunder_Nursery_Sep-2019.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hauz Khas Complex",
+      "slug": "hauz-khas-complex",
+      "city": "south-delhi",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A 14th-century water tank, seminary and tomb of Firuz Shah Tughlaq, beside a trendy village.",
+      "description": "Ruined arches stand by a lake with ducks in a deer park. Cafes and boutiques crowd the neighbouring village.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 28.555,
+        "lng": 77.1919,
+        "address": "South Delhi, Delhi"
+      },
+      "highlights": [
+        "Firuz Shah's tomb",
+        "Medieval lake",
+        "Hauz Khas Village"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Hauz Khas Complex – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hauz_Khas_Complex"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/hauz-khas-complex.webp",
+          "alt": "Hauz Khas Complex, South Delhi",
+          "credit": "Nvvchar (",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Feroze_Shah%27s_Tomb.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Tughlaqabad Fort",
+      "slug": "tughlaqabad-fort",
+      "city": "south-delhi",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The massive ruined fort of the Tughlaq dynasty, built by Ghiyath al-Din Tughluq in the 1320s.",
+      "description": "Great sloping stone walls and overgrown ruins run for kilometres, in the south of the city. It's a good place to feel the scale of old Delhi.",
+      "history": "Built by Ghiyath al-Din Tughluq, founder of the Tughlaq dynasty, and then quickly abandoned.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 28.5119,
+        "lng": 77.2608,
+        "address": "South Delhi, Delhi"
+      },
+      "highlights": [
+        "Huge sloping walls",
+        "Tomb of Ghiyath al-Din",
+        "Few crowds"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Tughlaqabad Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Tughlaqabad_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/tughlaqabad-fort.webp",
+          "alt": "Tughlaqabad Fort, South Delhi",
+          "credit": "Alok Kumar",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ruined_fort_of_Tughlaqabad.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Mehrauli Archaeological Park",
+      "slug": "mehrauli-archaeological-park",
+      "city": "south-delhi",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "An 81-hectare park next to the Qutub Minar, with over a thousand years of ruins.",
+      "description": "Forest paths wind among a stepwell, tombs and mosques, spanning over 1,000 years of Delhi's history. Jamali Kamali's painted tomb is a highlight.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 28.5204,
+        "lng": 77.1818,
+        "address": "South Delhi, Delhi"
+      },
+      "highlights": [
+        "Jamali Kamali",
+        "Rajon ki Baoli",
+        "Balban's tomb"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Mehrauli Archaeological Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mehrauli_Archaeological_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/mehrauli-archaeological-park.webp",
+          "alt": "Mehrauli Archaeological Park, South Delhi",
+          "credit": "Anupamg",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mehrauli_Archaeological_Park,_Mehrauli,_Delhi,_India,_2016_077.jpg"
+        }
+      ]
+    },
+    {
+      "name": "National Zoological Park",
+      "slug": "national-zoological-park-delhi",
+      "city": "new-delhi",
+      "kind": "zoo",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A 176-acre zoo next to the Purana Qila, with tigers and many water birds in winter.",
+      "description": "A large, shady zoo with white tigers and lots of waterbirds on its lakes. Battery vehicles are available for going around.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 28.6044,
+        "lng": 77.2462,
+        "address": "New Delhi, Delhi"
+      },
+      "highlights": [
+        "White tigers",
+        "Migratory birds",
+        "Near Purana Qila"
+      ],
+      "sources": [
+        {
+          "title": "National Zoological Park Delhi – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/National_Zoological_Park_Delhi"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/national-zoological-park-delhi.webp",
+          "alt": "National Zoological Park, New Delhi",
+          "credit": "J. Miers - User: (WT-shared) Jtesla16 at wts wikivoyage",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:NZP_Delhi.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sanjay Van",
+      "slug": "sanjay-van",
+      "city": "south-delhi",
+      "kind": "garden",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A 443-acre city forest in south Delhi, near Mehrauli and Vasant Kunj, with old ruined walls.",
+      "description": "A popular walking and birding spot in the Delhi Ridge, with remnants of the Lal Kot walls of old Delhi.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 28.5333,
+        "lng": 77.1778,
+        "address": "South Delhi, Delhi"
+      },
+      "highlights": [
+        "Birdwatching",
+        "Lal Kot walls",
+        "Forest walks"
+      ],
+      "sources": [
+        {
+          "title": "Sanjay Van – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sanjay_Van"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/sanjay-van.webp",
+          "alt": "Sanjay Van, South Delhi",
+          "credit": "Vis M",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Deer_at_Sanjay_van_2016.jpg"
         }
       ]
     }

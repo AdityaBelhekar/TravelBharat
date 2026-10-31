@@ -41,12 +41,6 @@ export function PlaceCard({
           {place.distanceKm !== undefined && `, ${place.distanceKm} km away`}
         </span>
       </p>
-      {place.image?.credit && (
-        <p className="type-small-print -mt-1.5 truncate text-xs text-muted">
-          Photo by {place.image.credit}
-          {place.image.license && `, ${place.image.license}`}
-        </p>
-      )}
     </article>
   );
 }

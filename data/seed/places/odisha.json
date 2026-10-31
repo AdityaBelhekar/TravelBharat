@@ -13,9 +13,84 @@
       "name": "Puri",
       "slug": "puri",
       "overview": "A seaside pilgrimage town on the Bay of Bengal, one of the four Char Dham sites, and a base for Chilika Lake.",
+      "isHub": true,
       "location": {
         "lat": 19.8135,
         "lng": 85.8312
+      }
+    },
+    {
+      "name": "Bhubaneswar",
+      "slug": "bhubaneswar",
+      "overview": "Odisha's capital and the temple city of India, where hundreds of old stone temples stand among modern streets.",
+      "history": "Once a seat of the Kalinga kingdom, it has been a Shaiva centre for over a thousand years. The planned modern city became the state capital in 1948, replacing Cuttack.",
+      "isHub": true,
+      "location": {
+        "lat": 20.27,
+        "lng": 85.84
+      }
+    },
+    {
+      "name": "Cuttack",
+      "slug": "cuttack",
+      "overview": "Odisha's former capital on the Mahanadi, known for silver filigree and its old fort.",
+      "location": {
+        "lat": 20.5236,
+        "lng": 85.7881
+      }
+    },
+    {
+      "name": "Sambalpur",
+      "slug": "sambalpur",
+      "overview": "A western Odisha city on the Mahanadi, known for its ikat textiles and the Hirakud Dam.",
+      "location": {
+        "lat": 21.4669,
+        "lng": 83.9812
+      }
+    },
+    {
+      "name": "Berhampur",
+      "slug": "berhampur",
+      "overview": "A southern silk city, the base for Gopalpur's beach and the Taptapani hot springs.",
+      "location": {
+        "lat": 19.3149,
+        "lng": 84.7941
+      }
+    },
+    {
+      "name": "Balasore",
+      "slug": "balasore",
+      "overview": "A northern coastal town, the base for Chandipur and the Simlipal forest.",
+      "location": {
+        "lat": 21.4934,
+        "lng": 86.9135
+      }
+    },
+    {
+      "name": "Kendrapara",
+      "slug": "kendrapara",
+      "overview": "A delta district, gateway to the mangroves of Bhitarkanika and the Ratnagiri Buddhist sites.",
+      "location": {
+        "lat": 20.5,
+        "lng": 86.42
+      }
+    },
+    {
+      "name": "Koraput",
+      "slug": "koraput",
+      "overview": "The tribal highlands of southern Odisha, with waterfalls and coffee.",
+      "location": {
+        "lat": 18.8135,
+        "lng": 82.7123
+      }
+    },
+    {
+      "name": "Daringbadi",
+      "slug": "daringbadi",
+      "overview": "A pine-covered hill town in Kandhamal, known as the Kashmir of Odisha.",
+      "location": {
+        "lat": 19.9072,
+        "lng": 84.1228
       }
     }
   ],
@@ -192,6 +267,859 @@
           "credit": "Government of Odisha",
           "license": "CC BY 4.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Birds_eyeview_of_Chilika_Lake.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Lingaraja Temple",
+      "slug": "lingaraja-temple",
+      "city": "bhubaneswar",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "The grandest temple in Bhubaneswar, an 11th-century Shiva shrine with a 55 m tower.",
+      "description": "A walled compound packed with smaller shrines around a soaring tower. Only Hindus may enter, and others can see it from a viewing platform outside the wall.",
+      "history": "The present temple dates from the 11th century, under the Somavamshi dynasty.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 20.2383,
+        "lng": 85.8336,
+        "address": "Bhubaneswar, Odisha"
+      },
+      "highlights": [
+        "55 m tower",
+        "Viewing platform",
+        "Bindu Sagar tank"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Lingaraja Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lingaraja_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/lingaraja-temple.webp",
+          "alt": "Lingaraja Temple, Bhubaneswar",
+          "credit": "Satyakam Parthasarathy",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lingaraj_Temple_,_Bhubaneswar.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Mukteshvara Temple",
+      "slug": "mukteshvara-temple",
+      "city": "bhubaneswar",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A small 10th-century temple called the gem of Odisha architecture, with a carved stone arch.",
+      "description": "A jewel of a temple whose torana gateway is among the finest carving in the state. Its small size lets you see every detail.",
+      "history": "Dated to about 950 to 975 CE.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 20.2427,
+        "lng": 85.8404,
+        "address": "Bhubaneswar, Odisha"
+      },
+      "highlights": [
+        "Carved torana arch",
+        "Mukteshwar dance festival",
+        "Sculpted ascetics"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Mukteshvara Temple, Bhubaneswar – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mukteshvara_Temple,_Bhubaneswar"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/mukteshvara-temple.webp",
+          "alt": "Mukteshvara Temple, Bhubaneswar",
+          "credit": "Robin Mohapatra",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Muktesvar_Temple.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Rajarani Temple",
+      "slug": "rajarani-temple",
+      "city": "bhubaneswar",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "An 11th-century temple in red and gold sandstone, set in a garden, with no deity inside.",
+      "description": "Known for its graceful figures on the outer walls. It hosts a classical music festival in January.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 20.2434,
+        "lng": 85.8435,
+        "address": "Bhubaneswar, Odisha"
+      },
+      "highlights": [
+        "Red-gold sandstone",
+        "Sculpted figures",
+        "Rajarani Music Festival"
+      ],
+      "sources": [
+        {
+          "title": "Rajarani Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Rajarani_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/rajarani-temple.webp",
+          "alt": "Rajarani Temple, Bhubaneswar",
+          "credit": "Amartyabag",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rajarani_Temple_2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Udayagiri and Khandagiri Caves",
+      "slug": "udayagiri-and-khandagiri-caves",
+      "city": "bhubaneswar",
+      "kind": "caves",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "Jain rock-cut caves on twin hills, from the time of King Kharavela in the 1st century BCE.",
+      "description": "Dozens of chambers cut for Jain monks, the Rani Gumpha being the finest, with its two-storey carved frieze. Monkeys are everywhere.",
+      "history": "Many were carved during the reign of Kharavela of Kalinga.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 20.2628,
+        "lng": 85.786,
+        "address": "Bhubaneswar, Odisha"
+      },
+      "highlights": [
+        "Rani Gumpha",
+        "Hathigumpha inscription",
+        "Hilltop views"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Udayagiri and Khandagiri caves – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Udayagiri_and_Khandagiri_caves"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/udayagiri-and-khandagiri-caves.webp",
+          "alt": "Udayagiri and Khandagiri Caves, Bhubaneswar",
+          "credit": "Government of Odisha",
+          "license": "CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khandagari_and_Udaygiri_featured_image.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Dhauli",
+      "slug": "dhauli",
+      "city": "bhubaneswar",
+      "kind": "monument",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "The hill by the Daya River where the Kalinga War was fought, with Ashoka's rock edicts and a peace pagoda.",
+      "description": "A white Shanti Stupa crowns the hill, and below it are edicts of Emperor Ashoka carved into the rock, beside a stone elephant.",
+      "history": "Tradition holds that the Kalinga War here turned Ashoka to Buddhism.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 20.1924,
+        "lng": 85.8395,
+        "address": "Bhubaneswar, Odisha"
+      },
+      "highlights": [
+        "Ashokan edicts",
+        "Shanti Stupa",
+        "Rock-cut elephant"
+      ],
+      "sources": [
+        {
+          "title": "Dhauli – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dhauli"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/dhauli.webp",
+          "alt": "Dhauli, Bhubaneswar",
+          "credit": "Government of Odisha",
+          "license": "CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:ShantiSthupa_Dhauli.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Nandankanan Zoological Park",
+      "slug": "nandankanan-zoological-park",
+      "city": "bhubaneswar",
+      "kind": "zoo",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A large zoo and botanical garden near Bhubaneswar, famous for its white tigers.",
+      "description": "Open enclosures in a forest beside a lake, known for white tigers and gharial breeding, with a safari and a ropeway.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 20.4,
+        "lng": 85.8147,
+        "address": "Bhubaneswar, Odisha"
+      },
+      "highlights": [
+        "White tigers",
+        "Lion safari",
+        "Gharial breeding"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Nandankanan Zoological Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nandankanan_Zoological_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/nandankanan-zoological-park.webp",
+          "alt": "Nandankanan Zoological Park, Bhubaneswar",
+          "credit": "Abhas Kumar Kheti",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nandankanan,_Bhubaneswar,_Odisha.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Puri Beach",
+      "slug": "puri-beach",
+      "city": "puri",
+      "kind": "beach",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A broad golden beach on the Bay of Bengal, a holiday spot and pilgrim bathing place.",
+      "description": "Crowds gather at sunrise, sand artists work along the shore, and the Puri Beach Festival is held here each November.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 19.81,
+        "lng": 85.83,
+        "address": "Puri, Odisha"
+      },
+      "highlights": [
+        "Sand art",
+        "Sunrise",
+        "Beach Festival in November"
+      ],
+      "sources": [
+        {
+          "title": "Puri Beach – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Puri_Beach"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/puri-beach.webp",
+          "alt": "Puri Beach, Puri",
+          "credit": "Sambit 1982",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Puri_Sea_Beach_viewed_from_the_light_house.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Barabati Fort",
+      "slug": "barabati-fort",
+      "city": "cuttack",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The ruins of a moated fort in Cuttack, built in the time of the Somavamshi dynasty.",
+      "description": "Only the moat, a gate and earth mounds remain, next to a stadium. It remains the historic heart of the city.",
+      "history": "Built in 987 CE by Marakata Keshari.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 20.4846,
+        "lng": 85.8644,
+        "address": "Cuttack, Odisha"
+      },
+      "highlights": [
+        "Old stone moat",
+        "Bali Yatra fair nearby",
+        "Cuttack riverfront"
+      ],
+      "sources": [
+        {
+          "title": "Barabati fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Barabati_fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/barabati-fort.webp",
+          "alt": "Barabati Fort, Cuttack",
+          "credit": "Rajeshjena453",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Entrance_of_Barabati_fort.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hirakud Dam",
+      "slug": "hirakud-dam",
+      "city": "sambalpur",
+      "kind": "dam",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "One of the world's longest earth dams, on the Mahanadi near Sambalpur.",
+      "description": "A long earth embankment holding back a vast lake. A revolving tower gives a wide view of it, and winter brings many migratory birds.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 21.57,
+        "lng": 83.87,
+        "address": "Sambalpur, Odisha"
+      },
+      "highlights": [
+        "Revolving tower",
+        "Huge reservoir",
+        "Debrigarh sanctuary nearby"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Hirakud Dam – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hirakud_Dam"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/hirakud-dam.webp",
+          "alt": "Hirakud Dam, Sambalpur",
+          "credit": "Government of Odisha",
+          "license": "CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hirakud_Dam.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Bhitarkanika National Park",
+      "slug": "bhitarkanika-national-park",
+      "city": "kendrapara",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A mangrove park in Kendrapara, home to giant saltwater crocodiles and nesting olive ridleys nearby.",
+      "description": "Boats wind through mangrove creeks past huge saltwater crocodiles, monitor lizards and heronries. Gahirmatha, close by, is a mass nesting beach for turtles.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 20.75,
+        "lng": 87,
+        "address": "Kendrapara, Odisha"
+      },
+      "highlights": [
+        "Saltwater crocodiles",
+        "Mangrove creeks",
+        "Bagagahana heronry"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Bhitarkanika National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bhitarkanika_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/bhitarkanika-national-park.webp",
+          "alt": "Bhitarkanika National Park, Kendrapara",
+          "credit": "Puru150",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunrise_at_Bhitarakanika.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Ratnagiri",
+      "slug": "ratnagiri-odisha",
+      "city": "kendrapara",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The ruins of a major Buddhist monastery on a hill, with beautiful carved doorways.",
+      "description": "Part of Odisha's Diamond Triangle with Udayagiri and Lalitgiri. A carved doorway at the main monastery is the highlight.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 20.6412,
+        "lng": 86.3353,
+        "address": "Kendrapara, Odisha"
+      },
+      "highlights": [
+        "Monastery ruins",
+        "Carved chlorite doorway",
+        "Small ASI museum"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Ratnagiri, Odisha – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ratnagiri,_Odisha"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/ratnagiri-odisha.webp",
+          "alt": "Ratnagiri, Kendrapara",
+          "credit": "Mitrabhanu.panda",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ratnagiri_roof-top_view.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Simlipal National Park",
+      "slug": "simlipal-national-park",
+      "city": "balasore",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A tiger reserve in Mayurbhanj with sal forest, waterfalls and melanistic tigers.",
+      "description": "Vast sal forest cut by rivers, with the tall Barehipani and Joranda falls. It is known for rare dark-striped tigers.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 21.8333,
+        "lng": 86.3333,
+        "address": "Balasore, Odisha"
+      },
+      "highlights": [
+        "Barehipani Falls",
+        "Joranda Falls",
+        "Sal forest"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Simlipal National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Simlipal_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/simlipal-national-park.webp",
+          "alt": "Simlipal National Park, Balasore",
+          "credit": "Sreejeetmaity1998",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Simlipal_tiger_reserve.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Chandipur Beach",
+      "slug": "chandipur-beach",
+      "city": "balasore",
+      "kind": "beach",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A beach in Balasore where the sea retreats up to 5 km at low tide and returns.",
+      "description": "At low tide, you can walk far across the bed of the sea, then watch the water flow back in.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 21.47,
+        "lng": 87.02,
+        "address": "Balasore, Odisha"
+      },
+      "highlights": [
+        "Vanishing sea",
+        "Horseshoe crabs",
+        "Long walks at low tide"
+      ],
+      "sources": [
+        {
+          "title": "Chandipur, Odisha – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chandipur,_Odisha"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/chandipur-beach.webp",
+          "alt": "Chandipur Beach, Balasore",
+          "credit": "Subhasisa Panigahi",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chandipur_sea_beach_Baleswar.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Gopalpur-on-Sea",
+      "slug": "gopalpur-on-sea",
+      "city": "berhampur",
+      "kind": "beach",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A quiet old port and beach town in Ganjam, with faded colonial charm.",
+      "description": "Waves break hard on an open beach, near a tall lighthouse and old British-era houses. It is a calmer alternative to Puri.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 19.27,
+        "lng": 84.92,
+        "address": "Berhampur, Odisha"
+      },
+      "highlights": [
+        "Lighthouse",
+        "Old port ruins",
+        "Quiet beach"
+      ],
+      "sources": [
+        {
+          "title": "Gopalpur, Odisha – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gopalpur,_Odisha"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/gopalpur-on-sea.webp",
+          "alt": "Gopalpur-on-Sea, Berhampur",
+          "credit": "Gurudattapanda",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gpur.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Taptapani",
+      "slug": "taptapani",
+      "city": "berhampur",
+      "kind": "village",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A sulphur hot spring in the Ganjam hills, with a small temple and a deer park.",
+      "description": "Hot water comes up into a pool in the forest, near a small temple. It makes a good winter day out from Berhampur.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 19.3,
+        "lng": 84.24,
+        "address": "Berhampur, Odisha"
+      },
+      "highlights": [
+        "Hot sulphur spring",
+        "Forest setting",
+        "Deer park"
+      ],
+      "sources": [
+        {
+          "title": "Taptapani – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Taptapani"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/taptapani.webp",
+          "alt": "Taptapani, Berhampur",
+          "credit": "Ilya Mauter",
+          "license": "CC BY 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brahmana_performing_puja_Taptapani_Orissa.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Duduma Falls",
+      "slug": "duduma-falls",
+      "city": "koraput",
+      "kind": "waterfall",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A high waterfall on the Machkund River on the Odisha and Andhra Pradesh border.",
+      "description": "A tall drop into a deep gorge in the tribal highlands, at its fullest after the monsoon.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1
+      ],
+      "location": {
+        "lat": 18.5185,
+        "lng": 82.4536,
+        "address": "Koraput, Odisha"
+      },
+      "highlights": [
+        "Machkund River",
+        "Monsoon flow",
+        "Tribal highlands"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Duduma Waterfalls – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Duduma_Waterfalls"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/duduma-falls.webp",
+          "alt": "Duduma Falls, Koraput",
+          "credit": "Parthapratim25",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Duduma_.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Maa Tarini Temple",
+      "slug": "maa-tarini-temple",
+      "city": "balasore",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A popular goddess temple at Ghatgaon, in the forested north of Odisha, in Keonjhar district.",
+      "description": "Coconuts are offered by the thousand here. Pilgrims travelling through Odisha often send one ahead for the goddess.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 21.3833,
+        "lng": 85.8833,
+        "address": "Balasore, Odisha"
+      },
+      "highlights": [
+        "Coconut offerings",
+        "Forest temple",
+        "Ghatgaon road"
+      ],
+      "sources": [
+        {
+          "title": "Maa Tarini Temple, Ghatgaon – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Maa_Tarini_Temple,_Ghatgaon"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/maa-tarini-temple.webp",
+          "alt": "Maa Tarini Temple, Balasore",
+          "credit": "Jnanaranjan sahu",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tarni_temple_Gate_view.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Satkosia Tiger Reserve",
+      "slug": "satkosia-tiger-reserve",
+      "city": "cuttack",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A reserve on the great Mahanadi gorge, with boat safaris and forest camps.",
+      "description": "The Mahanadi cuts through the Eastern Ghats here. You can take a boat through the gorge, with gharials and forests on either side.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 20.5401,
+        "lng": 84.8316,
+        "address": "Cuttack, Odisha"
+      },
+      "highlights": [
+        "Mahanadi Gorge",
+        "Tikarpada gharials",
+        "River sand camps"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Satkosia Tiger Reserve – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Satkosia_Tiger_Reserve"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/satkosia-tiger-reserve.webp",
+          "alt": "Satkosia Tiger Reserve, Cuttack",
+          "credit": "Hemant_sahu_Raj",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Satkosia_tiger_Reserve_Entrance.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Daringbadi",
+      "slug": "daringbadi-hill-station",
+      "city": "daringbadi",
+      "kind": "hill-station",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "Odisha's only true hill station at 915 m, known for pine forest and coffee.",
+      "description": "Pine and coffee in the hills of Kandhamal, popular in winter, when temperatures occasionally reach freezing.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 19.9072,
+        "lng": 84.1228,
+        "address": "Daringbadi, Odisha"
+      },
+      "highlights": [
+        "Pine forests",
+        "Coffee gardens",
+        "Winter chill"
+      ],
+      "sources": [
+        {
+          "title": "Daringbadi – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Daringbadi"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/daringbadi-hill-station.webp",
+          "alt": "Daringbadi",
+          "credit": "The original uploader was সন্দীপ সরকার at Bangla Wikipedia",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lover%27s_point,_Daringbadi.jpg"
         }
       ]
     }

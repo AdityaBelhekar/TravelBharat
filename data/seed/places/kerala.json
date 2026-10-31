@@ -4,6 +4,8 @@
       "name": "Kochi",
       "slug": "kochi",
       "overview": "Kochi has been a spice-trading port for centuries, shaped by Arab, Chinese, Portuguese, Dutch, British and Jewish communities. Its historic quarters of Fort Kochi and Mattancherry sit on a peninsula facing the Arabian Sea.",
+      "history": "An old port on the Malabar spice route that became the seat of the Kingdom of Cochin. The Portuguese, Dutch and British each held Fort Kochi in turn, and each left churches, warehouses and houses behind.",
+      "isHub": true,
       "location": {
         "lat": 9.9312,
         "lng": 76.2673
@@ -13,6 +15,7 @@
       "name": "Munnar",
       "slug": "munnar",
       "overview": "A hill station at around 1,600 metres in the Western Ghats, surrounded by rolling tea estates, misty peaks and spice plantations.",
+      "isHub": true,
       "location": {
         "lat": 10.0889,
         "lng": 77.0595
@@ -40,6 +43,8 @@
       "name": "Thiruvananthapuram",
       "slug": "thiruvananthapuram",
       "overview": "Kerala's capital is a green, low-rise city of temples, palaces and museums, close to the beaches of Kovalam and Varkala.",
+      "history": "Capital of the Travancore kingdom from 1795, under rulers who governed in the name of Padmanabha, the deity of its great temple. It became the state capital of Kerala in 1956.",
+      "isHub": true,
       "location": {
         "lat": 8.5241,
         "lng": 76.9366
@@ -61,6 +66,89 @@
       "location": {
         "lat": 11.6854,
         "lng": 76.132
+      }
+    },
+    {
+      "name": "Thrissur",
+      "slug": "thrissur",
+      "overview": "Kerala's cultural capital, built around a hill and a great temple, and the home of the Pooram festival.",
+      "isHub": true,
+      "location": {
+        "lat": 10.5276,
+        "lng": 76.2144
+      }
+    },
+    {
+      "name": "Kozhikode",
+      "slug": "kozhikode",
+      "overview": "Old Calicut, one of the medieval world's great spice ports, known today for its food and its beaches.",
+      "isHub": true,
+      "location": {
+        "lat": 11.2489,
+        "lng": 75.7839
+      }
+    },
+    {
+      "name": "Kannur",
+      "slug": "kannur",
+      "overview": "A northern city of forts, looms and quiet beaches, and the best place to see the Theyyam ritual.",
+      "location": {
+        "lat": 11.8745,
+        "lng": 75.3704
+      }
+    },
+    {
+      "name": "Kollam",
+      "slug": "kollam",
+      "overview": "An ancient seaport on the Ashtamudi Lake, and the southern gateway to the backwaters.",
+      "location": {
+        "lat": 8.8932,
+        "lng": 76.6141
+      }
+    },
+    {
+      "name": "Palakkad",
+      "slug": "palakkad",
+      "overview": "A green town of rice fields, set in the one big gap in the Western Ghats.",
+      "location": {
+        "lat": 10.775,
+        "lng": 76.651
+      }
+    },
+    {
+      "name": "Kottayam",
+      "slug": "kottayam",
+      "overview": "A town of churches, rubber and backwaters, with Kumarakom close by.",
+      "location": {
+        "lat": 9.5916,
+        "lng": 76.5222
+      }
+    },
+    {
+      "name": "Idukki",
+      "slug": "idukki",
+      "overview": "A district of high hills and great dams, in the middle of Kerala's spice country.",
+      "location": {
+        "lat": 9.8439,
+        "lng": 76.9712
+      }
+    },
+    {
+      "name": "Sabarimala",
+      "slug": "sabarimala",
+      "overview": "A forested hill in Pathanamthitta district and home to one of India's largest annual pilgrimages.",
+      "location": {
+        "lat": 9.4375,
+        "lng": 77.0805
+      }
+    },
+    {
+      "name": "Kasaragod",
+      "slug": "kasaragod",
+      "overview": "The northernmost district of Kerala, with a fine coastal fort at Bekal.",
+      "location": {
+        "lat": 12.4996,
+        "lng": 74.9869
       }
     }
   ],
@@ -452,6 +540,1690 @@
           "credit": "നിരക്ഷരൻ at Malayalam Wikipedia",
           "license": "CC BY 3.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edakkal_Cave.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Mattancherry Palace",
+      "slug": "mattancherry-palace",
+      "city": "kochi",
+      "kind": "palace",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The Dutch Palace in Kochi, with fine Kerala murals and portraits of the Rajas of Kochi.",
+      "description": "From outside it looks plain, but upstairs are some of the best murals in Kerala, with scenes from the Ramayana covering whole walls.",
+      "history": "Built by the Portuguese in the 16th century as a gift to the Raja of Kochi, and later renovated by the Dutch.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 9.958,
+        "lng": 76.259,
+        "address": "Kochi, Kerala"
+      },
+      "highlights": [
+        "Ramayana murals",
+        "Portraits of Kochi's Rajas",
+        "Royal palanquins"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Mattancherry Palace – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mattancherry_Palace"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/mattancherry-palace.webp",
+          "alt": "Mattancherry Palace, Kochi",
+          "credit": "Ranjith Siji",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mattancherry_Palace_DSC_0899.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Paradesi Synagogue",
+      "slug": "paradesi-synagogue",
+      "city": "kochi",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A 1568 synagogue in Jew Town, the oldest active synagogue in the Commonwealth.",
+      "description": "A small, bright room with hand-painted Chinese floor tiles, Belgian glass chandeliers and a clock tower outside. The lane around it is full of antique shops.",
+      "history": "Built in 1568 for the Paradesi, or foreign, Jews of Kochi.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 9.9572,
+        "lng": 76.2594,
+        "address": "Kochi, Kerala"
+      },
+      "highlights": [
+        "Chinese willow-pattern floor tiles",
+        "Belgian chandeliers",
+        "Jew Town antique lanes"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Paradesi Synagogue – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Paradesi_Synagogue"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/paradesi-synagogue.webp",
+          "alt": "Paradesi Synagogue, Kochi",
+          "credit": "Vyacheslav Argenberg",
+          "license": "CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kochi,_Paradesi_Synagogue,_Jew_Town,_Kerala,_India.jpg"
+        }
+      ]
+    },
+    {
+      "name": "St. Francis Church, Kochi",
+      "slug": "st-francis-church-kochi",
+      "city": "kochi",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "One of the oldest European churches in India, where Vasco da Gama was first buried.",
+      "description": "A simple whitewashed church on a green in Fort Kochi. Vasco da Gama's gravestone remains inside, although his body was later taken to Portugal.",
+      "history": "Originally built in 1503 by the Portuguese and later used by the Dutch and the British.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 9.9659,
+        "lng": 76.2411,
+        "address": "Kochi, Kerala"
+      },
+      "highlights": [
+        "Vasco da Gama's gravestone",
+        "Dutch and Portuguese tombstones",
+        "Punkah ceiling fans"
+      ],
+      "sources": [
+        {
+          "title": "Church of Saint Francis, Kochi – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Church_of_Saint_Francis,_Kochi"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/st-francis-church-kochi.webp",
+          "alt": "St. Francis Church, Kochi, Kochi",
+          "credit": "Ranjith Siji",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Francis_Church_Fort_Kochi_DSC_1048.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Cherai Beach",
+      "slug": "cherai-beach",
+      "city": "kochi",
+      "kind": "beach",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A calm beach on Vypin Island, 25 km from downtown Kochi, with the backwaters just behind it.",
+      "description": "A long, swimmable beach with paddy fields and backwaters only metres behind the sand. It's an easy day out from Kochi and much quieter than Fort Kochi's shore.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 10.1423,
+        "lng": 76.1783,
+        "address": "Kochi, Kerala"
+      },
+      "highlights": [
+        "Backwaters beside the sea",
+        "Chinese nets on the way",
+        "Sunsets"
+      ],
+      "sources": [
+        {
+          "title": "Cherai Beach – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Cherai_Beach"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/cherai-beach.webp",
+          "alt": "Cherai Beach, Kochi",
+          "credit": "Jan J George",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunrise_at_Cherai_Beach.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hill Palace, Tripunithura",
+      "slug": "hill-palace-tripunithura",
+      "city": "kochi",
+      "kind": "museum",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "Kerala's largest archaeological museum, once the royal seat of the Rajas of Kochi.",
+      "description": "A cluster of buildings on a hilltop at Tripunithura, with royal crowns, old coins and palanquins. There's also a small deer park on the grounds.",
+      "history": "The royal administrative office and official home of the Kochi Rajas.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 9.9526,
+        "lng": 76.3642,
+        "address": "Kochi, Kerala"
+      },
+      "highlights": [
+        "Royal crown",
+        "Paintings and inscriptions",
+        "Heritage museum grounds"
+      ],
+      "sources": [
+        {
+          "title": "Hill Palace, Kochi – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hill_Palace,_Kochi"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/hill-palace-tripunithura.webp",
+          "alt": "Hill Palace, Tripunithura, Kochi",
+          "credit": "Gokulvarmank",
+          "license": "CC BY 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hill_Palace_by_GV-1.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Anamudi",
+      "slug": "anamudi",
+      "city": "munnar",
+      "kind": "trek",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "The highest peak in south India at 2,695 m, rising above Eravikulam National Park.",
+      "description": "The summit lies inside Eravikulam, and treks need a forest permit, which isn't always given. You can see it clearly from the park's Rajamalai section and from the Munnar highway.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 10.1692,
+        "lng": 77.0607,
+        "address": "Munnar, Kerala"
+      },
+      "highlights": [
+        "Highest peak south of the Himalayas",
+        "Nilgiri tahr country",
+        "Views from Rajamalai"
+      ],
+      "sources": [
+        {
+          "title": "Anamudi – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Anamudi"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/anamudi.webp",
+          "alt": "Anamudi, Munnar",
+          "credit": "Mdmadhu",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:AnaimudiPeak_DSC_4834.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Mattupetty Dam",
+      "slug": "mattupetty-dam",
+      "city": "munnar",
+      "kind": "dam",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A concrete dam and lake in the tea hills above Munnar, with boating and elephants nearby.",
+      "description": "A popular stop on the drive to Top Station, with speed boats on the reservoir, a dairy farm nearby and elephants sometimes grazing along the banks.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 10.106,
+        "lng": 77.124,
+        "address": "Munnar, Kerala"
+      },
+      "highlights": [
+        "Boating on the reservoir",
+        "Indo-Swiss dairy farm",
+        "Echo Point nearby"
+      ],
+      "sources": [
+        {
+          "title": "Mattupetty Dam – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mattupetty_Dam"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/mattupetty-dam.webp",
+          "alt": "Mattupetty Dam, Munnar",
+          "credit": "DdraconiandevilL",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mattupetty_Dam.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Idukki Dam",
+      "slug": "idukki-dam",
+      "city": "idukki",
+      "kind": "dam",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A double-curvature arch dam on the Periyar, set in a narrow gorge between two granite hills.",
+      "description": "A dramatic arch of concrete wedged between the Kuravan and Kurathi hills. It's among Asia's highest arch dams, and access for visitors is restricted to certain periods.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1
+      ],
+      "location": {
+        "lat": 9.8428,
+        "lng": 76.9761,
+        "address": "Idukki, Kerala"
+      },
+      "highlights": [
+        "Kuravan and Kurathi hills",
+        "Giant arch dam",
+        "Forest wildlife sanctuary"
+      ],
+      "sources": [
+        {
+          "title": "Idukki Dam – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Idukki_Dam"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/idukki-dam.webp",
+          "alt": "Idukki Dam, Idukki",
+          "credit": "Dil Shad Roshan",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bhoothathankettu_Dam.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Vagamon",
+      "slug": "vagamon",
+      "city": "idukki",
+      "kind": "hill-station",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "A hill station of tea, pine forest and rolling meadows, and a growing paragliding destination.",
+      "description": "Grassy hills, tea gardens and a pine forest draw people here as a quieter alternative to Munnar. The Kerala International Paragliding Festival is held in these hills.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1
+      ],
+      "location": {
+        "lat": 9.6878,
+        "lng": 76.9069,
+        "address": "Idukki, Kerala"
+      },
+      "highlights": [
+        "Pine forest",
+        "Paragliding",
+        "Rolling meadows"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Vagamon – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Vagamon"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/vagamon.webp",
+          "alt": "Vagamon, Idukki",
+          "credit": "Visakh wiki",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vagamon_meadows.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Kovalam",
+      "slug": "kovalam",
+      "city": "thiruvananthapuram",
+      "kind": "beach",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "Kerala's most famous beach, a set of crescent bays 12 km from Thiruvananthapuram.",
+      "description": "Three bays lie side by side beneath a red and white lighthouse, with restaurants and ayurvedic resorts crowded around them. Lighthouse Beach is the busiest.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 8.4004,
+        "lng": 76.9787,
+        "address": "Thiruvananthapuram, Kerala"
+      },
+      "highlights": [
+        "Lighthouse Beach",
+        "Ayurvedic treatments",
+        "Hawa Beach sunset"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Kovalam – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kovalam"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kovalam.webp",
+          "alt": "Kovalam, Thiruvananthapuram",
+          "credit": "Georgeumartin",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kovalam_beach_trivandrum_kerala.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Napier Museum",
+      "slug": "napier-museum",
+      "city": "thiruvananthapuram",
+      "kind": "museum",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "An art and natural history museum in a striking 19th-century Indo-Saracenic building.",
+      "description": "Its striped brick building with Kerala-style roofs is a landmark of the city, and bronzes, carvings and old temple art fill the halls. The city zoo shares the grounds.",
+      "history": "The museum grounds also house the Thiruvananthapuram Zoo, established in 1857.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 8.5089,
+        "lng": 76.9551,
+        "address": "Thiruvananthapuram, Kerala"
+      },
+      "highlights": [
+        "Striped brick building",
+        "Bronzes and carvings",
+        "Zoo in the same grounds"
+      ],
+      "sources": [
+        {
+          "title": "Napier Museum – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Napier_Museum"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/napier-museum.webp",
+          "alt": "Napier Museum, Thiruvananthapuram",
+          "credit": "Shagil Muzhappilangad",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Napier_Museum_South_side_15_45_45_372000.jpeg"
+        }
+      ]
+    },
+    {
+      "name": "Kuthiramalika",
+      "slug": "kuthiramalika",
+      "city": "thiruvananthapuram",
+      "kind": "palace",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The Mansion of Horses: a Travancore palace with 122 carved wooden horses under its eaves.",
+      "description": "A fine example of Kerala's wooden architecture, built close to the Padmanabhaswamy Temple. It's now a small museum with ivory thrones and Kathakali figures.",
+      "history": "Built by the poet king Swathi Thirunal Rama Varma.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 8.4824,
+        "lng": 76.9455,
+        "address": "Thiruvananthapuram, Kerala"
+      },
+      "highlights": [
+        "122 carved horses",
+        "Rosewood ceilings",
+        "Swathi Sangeetotsavam music festival"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Kuthiramalika – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kuthiramalika"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kuthiramalika.webp",
+          "alt": "Kuthiramalika, Thiruvananthapuram",
+          "credit": "Vinayaraj",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maharaja_Swathi_Thirunal_Palace_kuthiramalika_2014_(2).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Ponmudi",
+      "slug": "ponmudi",
+      "city": "thiruvananthapuram",
+      "kind": "hill-station",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A hill station 53 km from Thiruvananthapuram, with hairpin bends, tea and clouds at the top.",
+      "description": "The road climbs through forest and 22 hairpin bends to green hills, tea estates and a deer park. It's an easy day out from the capital.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 8.7603,
+        "lng": 77.1167,
+        "address": "Thiruvananthapuram, Kerala"
+      },
+      "highlights": [
+        "22 hairpin bends",
+        "Golden Valley",
+        "Deer park"
+      ],
+      "sources": [
+        {
+          "title": "Ponmudi – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ponmudi"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/ponmudi.webp",
+          "alt": "Ponmudi, Thiruvananthapuram",
+          "credit": "Arunelectra",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Morning_at_Ponmudi.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Neyyar Wildlife Sanctuary",
+      "slug": "neyyar-wildlife-sanctuary",
+      "city": "thiruvananthapuram",
+      "kind": "sanctuary",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A sanctuary in the Western Ghats around the Neyyar Dam, with boating and a crocodile centre.",
+      "description": "Lying where the Western Ghats meet the far south, it has a reservoir, a crocodile centre and the great rocky peak of Agasthyakoodam in the distance.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 8.4,
+        "lng": 77.16,
+        "address": "Thiruvananthapuram, Kerala"
+      },
+      "highlights": [
+        "Agasthyakoodam peak views",
+        "Boating on Neyyar Dam",
+        "Crocodile centre"
+      ],
+      "sources": [
+        {
+          "title": "Neyyar Wildlife Sanctuary – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Neyyar_Wildlife_Sanctuary"
+        }
+      ]
+    },
+    {
+      "name": "Vadakkunnathan Temple",
+      "slug": "vadakkunnathan-temple",
+      "city": "thrissur",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "An ancient Shiva temple in the heart of Thrissur, a classic of Kerala temple style and home of Pooram.",
+      "description": "Tiled roofs, wooden galleries and Mahabharata murals inside a huge walled compound. The grounds around it host the Thrissur Pooram, Kerala's biggest festival.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "Thrissur Pooram falls in the Malayalam month of Medam, usually in April or May.",
+      "location": {
+        "lat": 10.5245,
+        "lng": 76.2145,
+        "address": "Thrissur, Kerala"
+      },
+      "highlights": [
+        "Thrissur Pooram in April or May",
+        "Kerala-style wooden architecture",
+        "Mural paintings"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Vadakkunnathan Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Vadakkunnathan_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/vadakkunnathan-temple.webp",
+          "alt": "Vadakkunnathan Temple, Thrissur",
+          "credit": "Challiyan at Malayalam Wikipedia",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E0%B4%B5%E0%B4%9F%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%81%E0%B4%82%E0%B4%A8%E0%B4%BE%E0%B4%A5%E0%B4%95%E0%B5%8D%E0%B4%B7%E0%B5%87%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%82-%E0%B4%A4%E0%B5%86%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%87%E0%B4%97%E0%B5%8B%E0%B4%AA%E0%B5%81%E0%B4%B0%E0%B4%82.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Athirappilly Falls",
+      "slug": "athirappilly-falls",
+      "city": "thrissur",
+      "kind": "waterfall",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "Kerala's largest waterfall, on the Chalakudy River at the edge of the Sholayar forest.",
+      "description": "A wide, thundering curtain of water, sometimes called the Niagara of India, that's reached on a short forest walk. It's at its fullest during the monsoon, and the road is lined with trees and hornbills.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1
+      ],
+      "location": {
+        "lat": 10.2847,
+        "lng": 76.5686,
+        "address": "Thrissur, Kerala"
+      },
+      "highlights": [
+        "Walk to the base",
+        "Great hornbills in the forest",
+        "Film-famous view"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Athirappilly Falls – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Athirappilly_Falls"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/athirappilly-falls.webp",
+          "alt": "Athirappilly Falls, Thrissur",
+          "credit": "Jan Joseph George",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_View_of_the_Athirapally_Falls_during_the_onset_of_Monsoon.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Vazhachal Falls",
+      "slug": "vazhachal-falls",
+      "city": "thrissur",
+      "kind": "waterfall",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A gentler waterfall 5 km above Athirappilly, in thick evergreen forest.",
+      "description": "The Chalakudy River breaks up over wide rock shelves here, in forest that's among the richest in Kerala. The road on toward Valparai is a beautiful drive.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1
+      ],
+      "location": {
+        "lat": 10.3014,
+        "lng": 76.5928,
+        "address": "Thrissur, Kerala"
+      },
+      "highlights": [
+        "Rock shelves",
+        "Forest drive to Malakkappara",
+        "Birdwatching"
+      ],
+      "sources": [
+        {
+          "title": "Vazhachal Falls – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Vazhachal_Falls"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/vazhachal-falls.webp",
+          "alt": "Vazhachal Falls, Thrissur",
+          "credit": "Jan Joseph George",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_full_flowing_Vazhachal_Falls_on_the_upper_reaches_of_Chalakudy_River.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Guruvayur Temple",
+      "slug": "guruvayur-temple",
+      "city": "thrissur",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "One of Kerala's most important Krishna temples, about 26 km from Thrissur.",
+      "description": "A very busy temple, with a large number of weddings performed outside each morning. Only Hindus may enter, and the temple has an elephant sanctuary at Punnathur Kotta.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 10.5945,
+        "lng": 76.039,
+        "address": "Thrissur, Kerala"
+      },
+      "highlights": [
+        "Punnathur Kotta elephant sanctuary",
+        "Morning weddings",
+        "Krishnanattam dance"
+      ],
+      "sources": [
+        {
+          "title": "Guruvayur Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Guruvayur_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/guruvayur-temple.webp",
+          "alt": "Guruvayur Temple, Thrissur",
+          "credit": "Susmitanair",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Guruvayoor_Temple_1.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kumarakom",
+      "slug": "kumarakom",
+      "city": "kottayam",
+      "kind": "lake",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A backwater village on Vembanad Lake, known for its houseboats and a bird sanctuary.",
+      "description": "Coconut groves, paddy fields and canals on the largest lake in Kerala, with quieter water than Alappuzha. In 2023 The New York Times singled it out for its backwater tourism.",
+      "bestMonths": [
+        9,
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 9.595,
+        "lng": 76.4303,
+        "address": "Kottayam, Kerala"
+      },
+      "highlights": [
+        "Houseboats on Vembanad",
+        "Kumarakom Bird Sanctuary",
+        "Village canal tours"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Kumarakom – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kumarakom"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kumarakom.webp",
+          "alt": "Kumarakom, Kottayam",
+          "credit": "Jigyasu",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kumarkom.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Ashtamudi Lake",
+      "slug": "ashtamudi-lake",
+      "city": "kollam",
+      "kind": "lake",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A palm-shaped lake with eight arms at Kollam, the gateway to the backwaters.",
+      "description": "A huge wetland of many arms, with Chinese fishing nets and coconut-fringed islands, including Munroe Island. The boat trip from Kollam to Alappuzha starts here.",
+      "history": "Ashtamudi means eight-braided, after the lake's many arms.",
+      "bestMonths": [
+        9,
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 8.9667,
+        "lng": 76.5833,
+        "address": "Kollam, Kerala"
+      },
+      "highlights": [
+        "Munroe Island canoe tours",
+        "Kollam to Alappuzha boat",
+        "Chinese fishing nets"
+      ],
+      "sources": [
+        {
+          "title": "Ashtamudi Lake – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ashtamudi_Lake"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/ashtamudi-lake.webp",
+          "alt": "Ashtamudi Lake, Kollam",
+          "credit": "The Raviz",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ashtamudi_Kerala.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Jatayu Earth's Center",
+      "slug": "jatayu-earth-s-center",
+      "city": "kollam",
+      "kind": "monument",
+      "categories": [
+        "religious",
+        "adventure"
+      ],
+      "shortDescription": "A huge bird sculpture on a rock at Chadayamangalam, in a 350 m high hilltop nature park.",
+      "description": "A giant sculpture of the mythical bird Jatayu lies across a hilltop, reached by cable car. There's an adventure park at the same site, and the views stretch across the green countryside.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 8.8659,
+        "lng": 76.8673,
+        "address": "Kollam, Kerala"
+      },
+      "highlights": [
+        "Giant Jatayu sculpture",
+        "Cable car to the top",
+        "Adventure park"
+      ],
+      "sources": [
+        {
+          "title": "Jatayu Earth's Center Nature Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jatayu_Earth's_Center_Nature_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/jatayu-earth-s-center.webp",
+          "alt": "Jatayu Earth's Center, Kollam",
+          "credit": "athulnair",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jatayu_Earth_Centre.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sabarimala Temple",
+      "slug": "sabarimala-temple",
+      "city": "sabarimala",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A major Ayyappa pilgrimage site in the Pathanamthitta forest, which draws millions every year.",
+      "description": "Pilgrims in black walk through the forest to reach the hilltop shrine after weeks of fasting, climbing the holy 18 steps at the end. The site opens only during set seasons.",
+      "bestMonths": [
+        11,
+        12,
+        1
+      ],
+      "bestTimeNote": "The main pilgrimage season runs from mid-November to mid-January. The temple is otherwise open only at set times.",
+      "location": {
+        "lat": 9.4375,
+        "lng": 77.0805,
+        "address": "Sabarimala, Kerala"
+      },
+      "highlights": [
+        "18 sacred steps",
+        "Forest walk from Pamba",
+        "Mandala pilgrimage season"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Sabarimala (place) – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sabarimala_(place)"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/sabarimala-temple.webp",
+          "alt": "Sabarimala Temple, Sabarimala",
+          "credit": "rajaraman sundaram",
+          "license": "CC BY 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:MOUNTAINS_SABARIMALA_KERALA_-_panoramio.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Silent Valley National Park",
+      "slug": "silent-valley-national-park",
+      "city": "palakkad",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A rainforest in the Nilgiri hills, saved from a dam by a famous 1970s public campaign.",
+      "description": "Tall virgin rainforest, entered only with a forest department guide on a trip from Mukkali. It's a home of the lion-tailed macaque, among other rare species.",
+      "history": "A long campaign in the 1970s stopped a planned hydroelectric dam here.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 11.1333,
+        "lng": 76.4667,
+        "address": "Palakkad, Kerala"
+      },
+      "highlights": [
+        "Watchtower view",
+        "Lion-tailed macaques",
+        "Rare rainforest plants"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Silent Valley National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Silent_Valley_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/silent-valley-national-park.webp",
+          "alt": "Silent Valley National Park, Palakkad",
+          "credit": "Sancia Morri",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:SAN_BIRDS_48.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Palakkad Fort",
+      "slug": "palakkad-fort",
+      "city": "palakkad",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A granite fort in the heart of Palakkad, built by Hyder Ali and well-preserved.",
+      "description": "A compact, moated fort right in the town centre, with thick walls and a green maidan beside it. It's kept up by the Archaeological Survey of India.",
+      "history": "Hyder Ali rebuilt it in 1766, and it later fell to the British.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 10.7676,
+        "lng": 76.6614,
+        "address": "Palakkad, Kerala"
+      },
+      "highlights": [
+        "Moat and granite walls",
+        "Hanuman Temple inside",
+        "Town maidan beside it"
+      ],
+      "sources": [
+        {
+          "title": "Palakkad Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Palakkad_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/palakkad-fort.webp",
+          "alt": "Palakkad Fort, Palakkad",
+          "credit": "Shafeeq basheer",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palakkad_Tipu_Fort.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Malampuzha Dam",
+      "slug": "malampuzha-dam",
+      "city": "palakkad",
+      "kind": "dam",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "Kerala's largest reservoir, with gardens, a ropeway and a famous sculpture of a Yakshi.",
+      "description": "A popular family outing with terraced gardens, a telescopic tower and a ropeway over the gardens. The big reclining Yakshi sculpture by Kanayi Kunhiraman is a landmark.",
+      "history": "Built after Independence by the then Madras state.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 10.8305,
+        "lng": 76.6838,
+        "address": "Palakkad, Kerala"
+      },
+      "highlights": [
+        "Yakshi sculpture",
+        "Gardens and ropeway",
+        "Hill views"
+      ],
+      "sources": [
+        {
+          "title": "Malampuzha Dam – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Malampuzha_Dam"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/malampuzha-dam.webp",
+          "alt": "Malampuzha Dam, Palakkad",
+          "credit": "Navas Puthanazhi",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Malampuzha_Dam_Navas_10.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Nelliyampathy",
+      "slug": "nelliyampathy",
+      "city": "palakkad",
+      "kind": "hill-station",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A hill station 60 km from Palakkad, with hairpin bends, orange orchards and tea estates.",
+      "description": "A winding road passes Pothundi Dam and climbs to estates of tea, coffee and oranges. It's still a fairly quiet hill station, with viewpoints across the plains.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 10.5296,
+        "lng": 76.684,
+        "address": "Palakkad, Kerala"
+      },
+      "highlights": [
+        "Seetharkundu viewpoint",
+        "Pothundi Dam",
+        "Orange orchards"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Nelliampathi – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nelliampathi"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/nelliyampathy.webp",
+          "alt": "Nelliyampathy, Palakkad",
+          "credit": "Shagil Kannur",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Western_Ghats003.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Banasura Sagar Dam",
+      "slug": "banasura-sagar-dam",
+      "city": "wayanad",
+      "kind": "dam",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "India's largest earth dam, with small islands in the reservoir and Banasura Hill behind it.",
+      "description": "A huge earth embankment holding back a blue reservoir dotted with islands. Speedboats run from the dam, and treks go up the peak behind it.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 11.67,
+        "lng": 75.9578,
+        "address": "Wayanad, Kerala"
+      },
+      "highlights": [
+        "Island-dotted reservoir",
+        "Speedboats",
+        "Banasura Hill trek"
+      ],
+      "sources": [
+        {
+          "title": "Banasura Sagar Dam – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Banasura_Sagar_Dam"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/banasura-sagar-dam.webp",
+          "alt": "Banasura Sagar Dam, Wayanad",
+          "credit": "KSEB",
+          "license": "CC BY-SA 2.5",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Banasurasagar_Main_Dam.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Chembra Peak",
+      "slug": "chembra-peak",
+      "city": "wayanad",
+      "kind": "trek",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "The highest peak in Wayanad at 2,100 m, with a heart-shaped lake on the way up.",
+      "description": "A popular day trek through grassland and tea to a small heart-shaped lake. Forest department guides are compulsory, and the route may shut in fire season.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 11.5122,
+        "lng": 76.0894,
+        "address": "Wayanad, Kerala"
+      },
+      "highlights": [
+        "Heart-shaped lake",
+        "Grassy ridges",
+        "Tea estates at the base"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Chembra Peak – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chembra_Peak"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/chembra-peak.webp",
+          "alt": "Chembra Peak, Wayanad",
+          "credit": "Aneesh Jose",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chembra.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Soochipara Falls",
+      "slug": "soochipara-falls",
+      "city": "wayanad",
+      "kind": "waterfall",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A three-tiered waterfall in the forest of Wayanad, known too as Sentinel Rock Waterfalls.",
+      "description": "A short forest walk leads down to a big plunge pool below a cliff of tall rock. It's a popular swimming spot when the water's not too high.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1
+      ],
+      "location": {
+        "lat": 11.5122,
+        "lng": 76.1631,
+        "address": "Wayanad, Kerala"
+      },
+      "highlights": [
+        "Three-tier drop",
+        "Forest path",
+        "Pool at the base"
+      ],
+      "sources": [
+        {
+          "title": "Soochipara Falls – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Soochipara_Falls"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/soochipara-falls.webp",
+          "alt": "Soochipara Falls, Wayanad",
+          "credit": "Dumphasizer",
+          "license": "CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kerala_-_Sentinel_Falls_(15784346247).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Wayanad Wildlife Sanctuary",
+      "slug": "wayanad-wildlife-sanctuary",
+      "city": "wayanad",
+      "kind": "sanctuary",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "Kerala's second largest sanctuary, in four hill ranges, with elephants and tigers in tall forest.",
+      "description": "Set where the Kerala hills meet Bandipur and Nagarhole, with jeep safaris at Muthanga and Tholpetty. Elephants are the star here.",
+      "history": "Established in 1973, and part of the Nilgiri Biosphere Reserve.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 11.646,
+        "lng": 76.364,
+        "address": "Wayanad, Kerala"
+      },
+      "highlights": [
+        "Muthanga jeep safari",
+        "Tholpetty range",
+        "Elephant herds"
+      ],
+      "sources": [
+        {
+          "title": "Wayanad Wildlife Sanctuary – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Wayanad_Wildlife_Sanctuary"
+        }
+      ]
+    },
+    {
+      "name": "Thirunelli Temple",
+      "slug": "thirunelli-temple",
+      "city": "wayanad",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "An ancient Vishnu temple on Brahmagiri hill, near the Karnataka border, in deep forest.",
+      "description": "A granite temple in a green valley, reached along a forest road. Pilgrims come to perform last rites for ancestors at the Papanasini stream.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 11.9117,
+        "lng": 75.9958,
+        "address": "Wayanad, Kerala"
+      },
+      "highlights": [
+        "Papanasini stream",
+        "Forest setting",
+        "Old granite aqueduct"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Thirunelli Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Thirunelli_Temple"
+        }
+      ]
+    },
+    {
+      "name": "Kappad Beach",
+      "slug": "kappad-beach",
+      "city": "kozhikode",
+      "kind": "beach",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The beach near Kozhikode where a stone marks Vasco da Gama's arrival in 1498.",
+      "description": "A rocky little beach, usually quiet, with a monument that recalls the Portuguese landing. It's a short drive from the city.",
+      "history": "A monument records that Vasco da Gama landed here in 1498, opening the sea route from Europe to India.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 11.385,
+        "lng": 75.7175,
+        "address": "Kozhikode, Kerala"
+      },
+      "highlights": [
+        "Vasco da Gama monument",
+        "Rocky shore",
+        "Sunset"
+      ],
+      "sources": [
+        {
+          "title": "Kappad – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kappad"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kappad-beach.webp",
+          "alt": "Kappad Beach, Kozhikode",
+          "credit": "SidhardhRamesh",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kappad_Beach.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Beypore",
+      "slug": "beypore",
+      "city": "kozhikode",
+      "kind": "village",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A port town at the Chaliyar estuary, known for building traditional wooden Uru ships.",
+      "description": "Master carpenters here still build huge wooden dhows by hand, as they've done for centuries for Arab traders. A long pier stretches out along the river mouth.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 11.18,
+        "lng": 75.81,
+        "address": "Kozhikode, Kerala"
+      },
+      "highlights": [
+        "Uru boat yards",
+        "Beypore pier",
+        "River estuary"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Beypore – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Beypore"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/beypore.webp",
+          "alt": "Beypore, Kozhikode",
+          "credit": "Suresh Babunair",
+          "license": "CC BY 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beypore_Beach_-_panoramio.jpg"
+        }
+      ]
+    },
+    {
+      "name": "St. Angelo Fort",
+      "slug": "st-angelo-fort",
+      "city": "kannur",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A sea-facing fort in Kannur, built by the Portuguese in 1505, with views of Mappila Bay.",
+      "description": "Grey laterite walls looking out over the Arabian Sea, with cannons and bastions intact. It passed from the Portuguese to the Dutch and the British.",
+      "history": "Built by the first Portuguese Viceroy of India, Dom Francisco de Almeida, in 1505.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 11.8542,
+        "lng": 75.3719,
+        "address": "Kannur, Kerala"
+      },
+      "highlights": [
+        "Sea views",
+        "Old cannons",
+        "Mappila Bay"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "St. Angelo Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/St._Angelo_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/st-angelo-fort.webp",
+          "alt": "St. Angelo Fort, Kannur",
+          "credit": "MANOJTV at en.wikipedia",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kannurfort3.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Muzhappilangad Beach",
+      "slug": "muzhappilangad-beach",
+      "city": "kannur",
+      "kind": "beach",
+      "categories": [
+        "adventure"
+      ],
+      "shortDescription": "A 4 km drive-in beach in Kannur district, with firm sand and rocks that break the waves.",
+      "description": "One of the few beaches in India where you can legally drive on the sand. In 2016 the BBC named it one of the six best beaches in the world for driving.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 11.7962,
+        "lng": 75.442,
+        "address": "Kannur, Kerala"
+      },
+      "highlights": [
+        "Driving along the sand",
+        "Rocks offshore",
+        "Paragliding"
+      ],
+      "sources": [
+        {
+          "title": "Muzhappilangad Beach – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Muzhappilangad_Beach"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/muzhappilangad-beach.webp",
+          "alt": "Muzhappilangad Beach, Kannur",
+          "credit": "Shagil Kannur",
+          "license": "CC BY 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Muzhappilangad_Drive-in_Beach_2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Thalassery Fort",
+      "slug": "thalassery-fort",
+      "city": "kannur",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The British fort at Thalassery, a former European trading centre on the Malabar coast.",
+      "description": "A square laterite fort with big doors and a lighthouse, standing on a low hill by the sea. Thalassery itself is known for its cakes, cricket and circus.",
+      "history": "One of the most important European trading centres in Kerala in the 18th century.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 11.7483,
+        "lng": 75.4861,
+        "address": "Kannur, Kerala"
+      },
+      "highlights": [
+        "Grand fort doors",
+        "Lighthouse",
+        "Thalassery biryani"
+      ],
+      "sources": [
+        {
+          "title": "Tellicherry Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Tellicherry_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/thalassery-fort.webp",
+          "alt": "Thalassery Fort, Kannur",
+          "credit": "Akhil chandran",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thalassery_fort.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Bekal Fort",
+      "slug": "bekal-fort",
+      "city": "kasaragod",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A huge keyhole-shaped fort on the sea, built by Shivappa Nayaka of Keladi in 1650.",
+      "description": "Kerala's largest fort, with a walkway around the ramparts right over the waves. The beach beside it is a good place for sunset.",
+      "history": "Built by Shivappa Nayaka of Keladi in 1650.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 12.3922,
+        "lng": 75.0325,
+        "address": "Kasaragod, Kerala"
+      },
+      "highlights": [
+        "Sea-washed ramparts",
+        "Observation tower",
+        "Bekal Beach"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Bekal Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bekal_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/bekal-fort.webp",
+          "alt": "Bekal Fort, Kasaragod",
+          "credit": "Vinayaraj",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bakel_Fort_Beach_Kasaragod7.jpg"
         }
       ]
     }

@@ -4,6 +4,8 @@
       "name": "Leh",
       "slug": "leh",
       "overview": "Ladakh's main town at about 3,500 m, overlooked by Leh Palace. Spend at least two days here acclimatising before going higher.",
+      "history": "The capital of the Himalayan kingdom of Ladakh from the 17th century and a major stop on the caravan routes between Tibet, Kashgar and Kashmir. The Namgyal kings built its nine-storey palace.",
+      "isHub": true,
       "location": {
         "lat": 34.1526,
         "lng": 77.5771
@@ -25,6 +27,43 @@
       "location": {
         "lat": 34.5512,
         "lng": 77.5507
+      }
+    },
+    {
+      "name": "Kargil",
+      "slug": "kargil",
+      "overview": "Ladakh's second town, on the road between Srinagar and Leh, and the gateway to Zanskar.",
+      "isHub": true,
+      "location": {
+        "lat": 34.5594,
+        "lng": 76.1256
+      }
+    },
+    {
+      "name": "Dras",
+      "slug": "dras",
+      "overview": "A cold high town on the Srinagar road, close to the Kargil war memorial.",
+      "location": {
+        "lat": 34.4293,
+        "lng": 75.7508
+      }
+    },
+    {
+      "name": "Padum",
+      "slug": "padum",
+      "overview": "The small capital of Zanskar, a remote valley reached by a long road.",
+      "location": {
+        "lat": 33.4672,
+        "lng": 76.8814
+      }
+    },
+    {
+      "name": "Korzok",
+      "slug": "korzok",
+      "overview": "A high Changpa village on the shore of Tso Moriri.",
+      "location": {
+        "lat": 32.9667,
+        "lng": 78.2667
       }
     }
   ],
@@ -176,6 +215,879 @@
           "credit": "Addy6697",
           "license": "CC BY-SA 4.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:5_Nubra_valley.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Leh Palace",
+      "slug": "leh-palace",
+      "city": "leh",
+      "kind": "palace",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A nine-storey 17th-century royal palace over Leh, modelled on the Potala in Lhasa.",
+      "description": "An empty mud-brick palace on the ridge above the old town, with wooden balconies, small rooms and a wide view from the roof.",
+      "history": "Built around 1600 by King Sengge Namgyal.",
+      "bestMonths": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "location": {
+        "lat": 34.1663,
+        "lng": 77.5864,
+        "address": "Leh, Ladakh"
+      },
+      "highlights": [
+        "Rooftop view",
+        "Old mud-brick town",
+        "Namgyal Tsemo above"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Leh Palace – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Leh_Palace"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/leh-palace.webp",
+          "alt": "Leh Palace, Leh",
+          "credit": "KennyOMG",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leh_Palace_2011.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Shanti Stupa",
+      "slug": "shanti-stupa-leh",
+      "city": "leh",
+      "kind": "monument",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A white peace pagoda on a hill above Leh, built with Japanese help, with a sunset view.",
+      "description": "A steep stair or a road leads to the white dome above Changspa. It's the classic place to catch sunset over the valley.",
+      "bestMonths": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "location": {
+        "lat": 34.1738,
+        "lng": 77.5749,
+        "address": "Leh, Ladakh"
+      },
+      "highlights": [
+        "Sunset view",
+        "Steep stair",
+        "Japanese-built stupa"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Leh – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Leh"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/shanti-stupa-leh.webp",
+          "alt": "Shanti Stupa, Leh",
+          "credit": "Yann Forget, correction by Trougnouf",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shanti_Stupa,_Leh,_20180814.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hemis Monastery",
+      "slug": "hemis-monastery",
+      "city": "leh",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "The richest monastery in Ladakh, on the Indus 40 km from Leh, known for its summer masked dance.",
+      "description": "An old Drukpa monastery in a side valley. The two-day Hemis festival brings out masked dances and a giant thangka every summer.",
+      "bestMonths": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "location": {
+        "lat": 33.9125,
+        "lng": 77.7028,
+        "address": "Leh, Ladakh"
+      },
+      "highlights": [
+        "Hemis Festival",
+        "Giant thangka",
+        "Museum"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Hemis Monastery – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hemis_Monastery"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/hemis-monastery.webp",
+          "alt": "Hemis Monastery, Leh",
+          "credit": "Bernard Gagnon Canon EOS REBEL T4i",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hemis_Monastery_02.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Alchi Monastery",
+      "slug": "alchi-monastery",
+      "city": "leh",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "An 11th-century monastery complex in a riverside village, with rare early Buddhist paintings.",
+      "description": "Small mud temples hold some of the oldest and finest wall paintings in the Himalaya. It's unusually on flat land, not perched on a hill.",
+      "bestMonths": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "location": {
+        "lat": 34.2167,
+        "lng": 77.1667,
+        "address": "Leh, Ladakh"
+      },
+      "highlights": [
+        "Sumtsek temple paintings",
+        "Indus village",
+        "Rare early murals"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Alchi Monastery – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Alchi_Monastery"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/alchi-monastery.webp",
+          "alt": "Alchi Monastery, Leh",
+          "credit": "Steve Hick",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alchi.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Lamayuru Monastery",
+      "slug": "lamayuru-monastery",
+      "city": "leh",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "One of Ladakh's oldest monasteries, perched above a strange moon-like landscape on the Kargil road.",
+      "description": "A dramatic hillside monastery, overlooking eroded rock formations known as Moonland. The Yuru Kabgyat festival fills it with masked dancers.",
+      "bestMonths": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "location": {
+        "lat": 34.2828,
+        "lng": 76.7744,
+        "address": "Leh, Ladakh"
+      },
+      "highlights": [
+        "Moonland views",
+        "Yuru Kabgyat",
+        "Hilltop setting"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Lamayuru Monastery – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lamayuru_Monastery"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/lamayuru-monastery.webp",
+          "alt": "Lamayuru Monastery, Leh",
+          "credit": "Vyacheslav Argenberg",
+          "license": "CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lamayuru_Monastery,_Ladakh,_India.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Shey Monastery",
+      "slug": "shey-palace-and-monastery",
+      "city": "leh",
+      "kind": "palace",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The old summer palace of the Ladakhi kings, 15 km from Leh, with a giant gold-plated Buddha.",
+      "description": "A ruined hilltop palace with a two-storey copper and gilt Buddha statue, close to the Indus.",
+      "bestMonths": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "location": {
+        "lat": 34.0717,
+        "lng": 77.6328,
+        "address": "Leh, Ladakh"
+      },
+      "highlights": [
+        "Giant Buddha",
+        "Old royal capital",
+        "Indus view"
+      ],
+      "sources": [
+        {
+          "title": "Shey Monastery – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shey_Monastery"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/shey-palace-and-monastery.webp",
+          "alt": "Shey Monastery, Leh",
+          "credit": "Kmohankar",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shey_Monastery-_Shey-_Leh_District-_Jammu_and_Kashmir-_IMG_20190508_184021751.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Spituk Monastery",
+      "slug": "spituk-monastery",
+      "city": "leh",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A monastery above the Indus just 8 km from Leh, right next to the airport.",
+      "description": "A cluster of whitewashed buildings on a rock, one of the first sights you see when flying into Leh.",
+      "bestMonths": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "location": {
+        "lat": 34.1255,
+        "lng": 77.5263,
+        "address": "Leh, Ladakh"
+      },
+      "highlights": [
+        "View of the Indus",
+        "Mahakal Temple",
+        "Near the airport"
+      ],
+      "sources": [
+        {
+          "title": "Spituk Monastery – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Spituk_Monastery"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/spituk-monastery.webp",
+          "alt": "Spituk Monastery, Leh",
+          "credit": "Redtigerxyz",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spituk.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Likir Monastery",
+      "slug": "likir-monastery",
+      "city": "leh",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A monastery on a hill in a quiet valley 52 km from Leh, with a large gold Maitreya Buddha.",
+      "description": "A tall golden Maitreya Buddha looks out over a small valley. The monastery was founded in the 11th century.",
+      "bestMonths": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "location": {
+        "lat": 34.2767,
+        "lng": 77.215,
+        "address": "Leh, Ladakh"
+      },
+      "highlights": [
+        "Golden Maitreya",
+        "Quiet valley",
+        "Likir village stay"
+      ],
+      "sources": [
+        {
+          "title": "Likir Monastery – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Likir_Monastery"
+        }
+      ]
+    },
+    {
+      "name": "Magnetic Hill",
+      "slug": "magnetic-hill-leh",
+      "city": "leh",
+      "kind": "mountain-pass",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A stretch of road near Leh where cars seem to roll uphill, thanks to an optical illusion.",
+      "description": "A stop on the Srinagar highway, where drivers put cars in neutral to feel the effect. It's really an optical illusion caused by the landscape.",
+      "bestMonths": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "location": {
+        "lat": 34.171,
+        "lng": 77.3525,
+        "address": "Leh, Ladakh"
+      },
+      "highlights": [
+        "Rolling uphill",
+        "Sangam viewpoint nearby",
+        "Road trip stop"
+      ],
+      "sources": [
+        {
+          "title": "Leh – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Leh"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/magnetic-hill-leh.webp",
+          "alt": "Magnetic Hill, Leh",
+          "credit": "Yuvraj Anand",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Srinagar-Leh_Highway_at_Magnetic_Hill,_Ladakh.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hemis National Park",
+      "slug": "hemis-national-park",
+      "city": "leh",
+      "kind": "national-park",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "A high-altitude national park near Leh, famous for snow leopards.",
+      "description": "Winter expeditions head into the Rumbak valley to find snow leopards. In summer, its Markha Valley trek is among the best in India.",
+      "bestMonths": [
+        2,
+        3,
+        6,
+        7,
+        8,
+        9
+      ],
+      "location": {
+        "lat": 33.9833,
+        "lng": 77.4333,
+        "address": "Leh, Ladakh"
+      },
+      "highlights": [
+        "Snow leopard treks",
+        "Markha Valley trek",
+        "Rumbak Valley"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Hemis National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hemis_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/hemis-national-park.webp",
+          "alt": "Hemis National Park, Leh",
+          "credit": "Sundeep bhardwaj",
+          "license": "CC BY 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:13-10-08_217_CONFLUENCE_OF_INDUS_RIVER_N.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Khardung La",
+      "slug": "khardung-la",
+      "city": "leh",
+      "kind": "mountain-pass",
+      "categories": [
+        "adventure"
+      ],
+      "shortDescription": "A famous high road pass 40 km north of Leh, the gateway to the Nubra Valley.",
+      "description": "Snow-covered even in summer, with a small military post and a tea stall at the top. Altitude is a real concern, so don't linger until you've acclimatised.",
+      "bestMonths": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "bestTimeNote": "Foreign nationals and Indian visitors need permits for this area, usually arranged in Leh.",
+      "location": {
+        "lat": 34.2783,
+        "lng": 77.6042,
+        "address": "Leh, Ladakh"
+      },
+      "highlights": [
+        "Road to Nubra",
+        "Prayer flags",
+        "High-altitude cafe"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Khardung La – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Khardung_La"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/khardung-la.webp",
+          "alt": "Khardung La, Leh",
+          "credit": "Vyacheslav Argenberg",
+          "license": "CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khardung_La_(pass),_Ladakh,_North_India.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Chang La",
+      "slug": "chang-la",
+      "city": "leh",
+      "kind": "mountain-pass",
+      "categories": [
+        "adventure"
+      ],
+      "shortDescription": "A high pass at 5,360 m on the road to Pangong Tso.",
+      "description": "A bleak saddle with a small temple and army tea stall, crossed on the way to Pangong.",
+      "bestMonths": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "bestTimeNote": "Foreign nationals and Indian visitors need permits for this area, usually arranged in Leh.",
+      "location": {
+        "lat": 34.047,
+        "lng": 77.9305,
+        "address": "Leh, Ladakh"
+      },
+      "highlights": [
+        "Route to Pangong",
+        "Army tea stall",
+        "Snow all year"
+      ],
+      "sources": [
+        {
+          "title": "Chang La – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chang_La"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/chang-la.webp",
+          "alt": "Chang La, Leh",
+          "credit": "SlartibErtfass der bertige",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chang_La,_Tea_Point.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Diskit Monastery",
+      "slug": "diskit-monastery",
+      "city": "diskit",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "The oldest and largest monastery in Nubra, with a giant Maitreya statue looking down the valley.",
+      "description": "A big hillside monastery with a 32 m statue of the Maitreya Buddha that can be seen from far across the valley.",
+      "bestMonths": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "bestTimeNote": "Foreign nationals and Indian visitors need permits for this area, usually arranged in Leh.",
+      "location": {
+        "lat": 34.5411,
+        "lng": 77.5603,
+        "address": "Diskit, Ladakh"
+      },
+      "highlights": [
+        "32 m Maitreya",
+        "Hundar dunes nearby",
+        "Valley view"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Diskit Monastery – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Diskit_Monastery"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/diskit-monastery.webp",
+          "alt": "Diskit Monastery, Diskit",
+          "credit": "KennyOMG",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Diskit_Gompa_2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Turtuk",
+      "slug": "turtuk",
+      "city": "diskit",
+      "kind": "village",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A Balti village in Nubra close to the Pakistan border, open to visitors only since 2010.",
+      "description": "A green, apricot-growing village with a different language and culture from the rest of Ladakh. It was part of Baltistan until 1971.",
+      "bestMonths": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "bestTimeNote": "Foreign nationals and Indian visitors need permits for this area, usually arranged in Leh.",
+      "location": {
+        "lat": 34.847,
+        "lng": 76.827,
+        "address": "Diskit, Ladakh"
+      },
+      "highlights": [
+        "Balti culture",
+        "Apricot orchards",
+        "Royal house museum"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Turtuk – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Turtuk"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/turtuk.webp",
+          "alt": "Turtuk, Diskit",
+          "credit": "Rajnish71",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:River_Shyok,_Turtuk_Village,_Ladakh.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Tso Moriri",
+      "slug": "tso-moriri",
+      "city": "korzok",
+      "kind": "lake",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "A high Ramsar-listed lake at 4,522 m in the Changthang, with black-necked cranes and Changpa nomads.",
+      "description": "Deep blue water in a broad, bare valley. It's quieter than Pangong, and Korzok village is the only settlement on its shore.",
+      "bestMonths": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "bestTimeNote": "Foreign nationals and Indian visitors need permits for this area, usually arranged in Leh.",
+      "location": {
+        "lat": 32.9,
+        "lng": 78.3,
+        "address": "Korzok, Ladakh"
+      },
+      "highlights": [
+        "Black-necked cranes",
+        "Korzok Monastery",
+        "Changpa nomads"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Tso Moriri – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Tso_Moriri"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/tso-moriri.webp",
+          "alt": "Tso Moriri, Korzok",
+          "credit": "Tanay Kibe",
+          "license": "CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tso_Moriri,_Ladakh_(34855616204).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Tso Kar",
+      "slug": "tso-kar",
+      "city": "korzok",
+      "kind": "lake",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A salt lake in the Rupshu Plateau, known for birds and for salt once traded by nomads.",
+      "description": "A shimmering white-edged lake on the way to Tso Moriri. The Thukje village nearby is a stopover.",
+      "bestMonths": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "bestTimeNote": "Foreign nationals and Indian visitors need permits for this area, usually arranged in Leh.",
+      "location": {
+        "lat": 33.3,
+        "lng": 77.9833,
+        "address": "Korzok, Ladakh"
+      },
+      "highlights": [
+        "Salt shores",
+        "Wild ass",
+        "Black-necked cranes"
+      ],
+      "sources": [
+        {
+          "title": "Tso Kar – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Tso_Kar"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/tso-kar.webp",
+          "alt": "Tso Kar, Korzok",
+          "credit": "GerthMichael",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tsokar.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hanle",
+      "slug": "hanle-village",
+      "city": "korzok",
+      "kind": "village",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A remote village in the Changthang, with an old monastery, one of the world's highest observatories and dark skies.",
+      "description": "A dark-sky reserve near the Chinese border, centred on the Indian Astronomical Observatory. It's a dream for stargazers.",
+      "bestMonths": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "bestTimeNote": "Foreign nationals and Indian visitors need permits for this area, usually arranged in Leh.",
+      "location": {
+        "lat": 32.7715,
+        "lng": 78.9832,
+        "address": "Korzok, Ladakh"
+      },
+      "highlights": [
+        "Dark sky reserve",
+        "Hanle Monastery",
+        "Indian Astronomical Observatory"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Leh – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Leh"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/hanle-village.webp",
+          "alt": "Hanle, Korzok",
+          "credit": "Deepank Ranka",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hanle_Monastery_05.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kargil War Memorial",
+      "slug": "kargil-war-memorial",
+      "city": "dras",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The memorial at Dras to the Indian soldiers who died in the 1999 Kargil War.",
+      "description": "A pink sandstone wall lists the names of the dead, with Tololing and Tiger Hill visible behind it. It's a powerful stop on the Srinagar road.",
+      "history": "Built by the Indian Army after the 1999 war with Pakistan.",
+      "bestMonths": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 34.4332,
+        "lng": 75.8058,
+        "address": "Dras, Ladakh"
+      },
+      "highlights": [
+        "Names of the fallen",
+        "Tiger Hill view",
+        "Small museum"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Kargil War Memorial – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kargil_War_Memorial"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kargil-war-memorial.webp",
+          "alt": "Kargil War Memorial, Dras",
+          "credit": "Reflectionsbyprajakta",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kargilwarmemorialdarss3.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Zanskar Valley",
+      "slug": "zanskar-valley",
+      "city": "padum",
+      "kind": "valley",
+      "categories": [
+        "adventure"
+      ],
+      "shortDescription": "A remote high valley of Ladakh, known for its frozen-river trek and its old monasteries.",
+      "description": "Reached by a long road past Kargil, with the Chadar trek on the frozen river in winter. Padum is the main town.",
+      "bestMonths": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "location": {
+        "lat": 33.4683,
+        "lng": 76.8781,
+        "address": "Padum, Ladakh"
+      },
+      "highlights": [
+        "Chadar frozen-river trek",
+        "Karsha Monastery",
+        "Drang Drung Glacier"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Zanskar district – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Zanskar_district"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/zanskar-valley.webp",
+          "alt": "Zanskar Valley, Padum",
+          "credit": "Corto Maltese 1999",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zanskar_Valley.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Phugtal Monastery",
+      "slug": "phugtal-monastery",
+      "city": "padum",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A monastery built like a honeycomb into a cliff cave, in south-east Zanskar, reached only on foot.",
+      "description": "One of the most remote and spectacular monasteries in the Himalaya. It's a long day's walk from the road's end, in the Lungnak Valley.",
+      "bestMonths": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "location": {
+        "lat": 33.2684,
+        "lng": 77.1795,
+        "address": "Padum, Ladakh"
+      },
+      "highlights": [
+        "Cliff-face cave",
+        "Trek only access",
+        "Lungnak Valley"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Phugtal Monastery – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Phugtal_Monastery"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/phugtal-monastery.webp",
+          "alt": "Phugtal Monastery, Padum",
+          "credit": "This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but please mention me as t",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cave_Buildings_Phuktal_Gompa_Oct22_A7C_04465.jpg"
         }
       ]
     }

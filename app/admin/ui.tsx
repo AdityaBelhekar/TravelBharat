@@ -6,14 +6,14 @@ export const input =
 export const button = "inline-flex h-10 items-center justify-center rounded px-4 text-sm font-medium disabled:opacity-60";
 export const primary = `${button} bg-brand text-on-brand hover:opacity-90`;
 export const secondary = `${button} border border-border bg-surface hover:border-foreground`;
-export const danger = `${button} border border-red-700/40 text-red-700 hover:bg-red-700/10 dark:text-red-400`;
+export const danger = `${button} border border-red-700/40 text-red-700 hover:bg-red-700/10`;
 export const card = "rounded-sm border border-border bg-background p-5";
 export const table = "w-full text-left text-sm [&_td]:border-t [&_td]:border-border [&_td]:px-3 [&_td]:py-2 [&_th]:px-3 [&_th]:py-2 [&_th]:font-medium [&_th]:text-muted";
 
 const STATUS_STYLES: Record<Status, string> = {
   draft: "bg-border text-foreground",
-  review: "bg-amber-500/20 text-amber-800 dark:text-amber-300",
-  published: "bg-green-600/15 text-green-800 dark:text-green-300",
+  review: "bg-amber-500/20 text-amber-800",
+  published: "bg-green-600/15 text-green-800",
 };
 
 export function StatusBadge({ status }: { status: Status }) {
@@ -22,8 +22,8 @@ export function StatusBadge({ status }: { status: Status }) {
 
 // Success or error message passed back in the URL by a server action.
 export function Notice({ error, success }: { error?: string; success?: string }) {
-  if (error) return <p role="alert" className="rounded border border-red-700/30 bg-red-700/10 px-4 py-3 text-sm text-red-800 dark:text-red-300">{error}</p>;
-  if (success) return <p role="status" className="rounded border border-green-700/30 bg-green-700/10 px-4 py-3 text-sm text-green-800 dark:text-green-300">{success}</p>;
+  if (error) return <p role="alert" className="rounded border border-red-700/30 bg-red-700/10 px-4 py-3 text-sm text-red-800">{error}</p>;
+  if (success) return <p role="status" className="rounded border border-green-700/30 bg-green-700/10 px-4 py-3 text-sm text-green-800">{success}</p>;
   return null;
 }
 

@@ -4,6 +4,8 @@
       "name": "Agra",
       "slug": "agra",
       "overview": "Agra, on the Yamuna, was the capital of the Mughal Empire for much of the 16th and 17th centuries. It holds three UNESCO World Heritage Sites: the Taj Mahal, Agra Fort and nearby Fatehpur Sikri.",
+      "history": "Sikandar Lodi made Agra his capital in the early 16th century, and it became one of the great Mughal cities under Akbar, Jahangir and Shah Jahan. Mughal emperors built Agra Fort and the Taj Mahal here.",
+      "isHub": true,
       "location": {
         "lat": 27.1767,
         "lng": 78.0081
@@ -22,6 +24,8 @@
       "name": "Varanasi",
       "slug": "varanasi",
       "overview": "One of the oldest continuously inhabited cities in the world, Varanasi (Kashi or Banaras) is Hinduism's holiest city. Life, prayer and cremation all take place on its 80-odd ghats along the Ganga.",
+      "history": "One of the oldest continuously lived-in cities in the world, on the Ganges, and for long a centre of Hindu learning. Most of the ghats and temples seen today were rebuilt from the 18th century on by Maratha and other patrons.",
+      "isHub": true,
       "location": {
         "lat": 25.3176,
         "lng": 82.9739
@@ -31,6 +35,8 @@
       "name": "Lucknow",
       "slug": "lucknow",
       "overview": "The capital of Uttar Pradesh was once the seat of the Nawabs of Awadh. It is known for its imambaras, refined Urdu culture, chikankari embroidery and kebabs.",
+      "history": "The capital of the Nawabs of Awadh from the 18th century, under whom it became a centre of music, poetry and cooking. It was the site of a long siege during the Revolt of 1857.",
+      "isHub": true,
       "location": {
         "lat": 26.8467,
         "lng": 80.9462
@@ -43,6 +49,99 @@
       "location": {
         "lat": 27.9462,
         "lng": 80.7787
+      }
+    },
+    {
+      "name": "Prayagraj",
+      "slug": "prayagraj",
+      "overview": "Allahabad, the city at the confluence of the Ganges and Yamuna, host of the Kumbh Mela and home of the Nehru family.",
+      "history": "Called Prayag in old Hindu texts, it was renamed Allahabad by Akbar, who built a fort here in 1583. Its colleges and courts made it a centre of the independence movement.",
+      "isHub": true,
+      "location": {
+        "lat": 25.4358,
+        "lng": 81.8464
+      }
+    },
+    {
+      "name": "Mathura",
+      "slug": "mathura",
+      "overview": "An ancient city on the Yamuna, the Hindu birthplace of Krishna, 162 km from Delhi.",
+      "isHub": true,
+      "location": {
+        "lat": 27.4925,
+        "lng": 77.6736
+      }
+    },
+    {
+      "name": "Vrindavan",
+      "slug": "vrindavan",
+      "overview": "A temple town 15 km from Mathura, where Krishna is said to have spent his childhood.",
+      "location": {
+        "lat": 27.58,
+        "lng": 77.7
+      }
+    },
+    {
+      "name": "Ayodhya",
+      "slug": "ayodhya",
+      "overview": "A city on the Sarayu River, held to be the birthplace of Rama, now home to a major new temple.",
+      "location": {
+        "lat": 26.7992,
+        "lng": 82.2044
+      }
+    },
+    {
+      "name": "Jhansi",
+      "slug": "jhansi",
+      "overview": "A Bundelkhand city that's forever linked to Rani Lakshmibai and the Revolt of 1857, and the rail gateway to Orchha.",
+      "location": {
+        "lat": 25.4486,
+        "lng": 78.5696
+      }
+    },
+    {
+      "name": "Gorakhpur",
+      "slug": "gorakhpur",
+      "overview": "A city on the Rapti River in eastern Uttar Pradesh, the base for Kushinagar and the Buddhist circuit.",
+      "location": {
+        "lat": 26.7637,
+        "lng": 83.4039
+      }
+    },
+    {
+      "name": "Mirzapur",
+      "slug": "mirzapur",
+      "overview": "A Ganges town south of Varanasi, known for its carpets and the old fort at Chunar.",
+      "location": {
+        "lat": 25.1337,
+        "lng": 82.5644
+      }
+    },
+    {
+      "name": "Bahraich",
+      "slug": "bahraich",
+      "overview": "A Terai district on the Nepal border, known for the forests of Katarniaghat.",
+      "location": {
+        "lat": 27.5743,
+        "lng": 81.5965
+      }
+    },
+    {
+      "name": "Pilibhit",
+      "slug": "pilibhit",
+      "overview": "A Terai town on the Nepal border, known for its tiger reserve.",
+      "location": {
+        "lat": 28.6377,
+        "lng": 79.8036
+      }
+    },
+    {
+      "name": "Banda",
+      "slug": "banda",
+      "overview": "A Bundelkhand town, the base for the great hill fort at Kalinjar and for the pilgrim town of Chitrakoot.",
+      "location": {
+        "lat": 25.4796,
+        "lng": 80.3385
       }
     }
   ],
@@ -273,6 +372,15 @@
           "title": "Shri Kashi Vishwanath Temple Trust",
           "url": "https://shrikashivishwanath.org/"
         }
+      ],
+      "images": [
+        {
+          "url": "/places/kashi-vishwanath-temple.webp",
+          "alt": "Kashi Vishwanath Temple, Varanasi",
+          "credit": "Gannu03",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shri_Kashi_Vishwanath_Temple_5.jpg"
+        }
       ]
     },
     {
@@ -424,6 +532,15 @@
           "title": "Bara Imambara – Wikipedia",
           "url": "https://en.wikipedia.org/wiki/Bara_Imambara"
         }
+      ],
+      "images": [
+        {
+          "url": "/places/bara-imambara.webp",
+          "alt": "Bara Imambara, Lucknow",
+          "credit": "Muhammad Mahdi Karim",
+          "license": "GFDL 1.2",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bara_Imambara_Lucknow.jpg"
+        }
       ]
     },
     {
@@ -479,6 +596,1195 @@
           "credit": "Biswarup11",
           "license": "CC BY-SA 4.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dudhwa_Tiger.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Tomb of Itimad-ud-Daulah",
+      "slug": "itimad-ud-daulah",
+      "city": "agra",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The Baby Taj: an exquisite white marble tomb on the Yamuna, built before the Taj Mahal.",
+      "description": "Small enough to take in at one glance, covered entirely in inlaid stone flowers and lattice. Many think it marks the move from red sandstone to white marble in Mughal building.",
+      "history": "Built between 1622 and 1628, by the empress Nur Jahan for her father, Mirza Ghiyas Beg.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 27.1925,
+        "lng": 78.0319,
+        "address": "Agra, Uttar Pradesh"
+      },
+      "highlights": [
+        "Inlaid marble",
+        "Stone lattice screens",
+        "Riverside gardens"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Itmad Ud Daulah – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Itmad_Ud_Daulah"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/itimad-ud-daulah.webp",
+          "alt": "Tomb of Itimad-ud-Daulah, Agra",
+          "credit": "Muhammad Mahdi Karim",
+          "license": "GFDL 1.2",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:I%27tim%C4%81d-ud-Daulah,_Agra.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Mehtab Bagh",
+      "slug": "mehtab-bagh",
+      "city": "agra",
+      "kind": "garden",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A Mughal garden across the Yamuna from the Taj Mahal, the best place to see it at sunset.",
+      "description": "A square garden on the far river bank, lined up exactly with the Taj. There's little to see in the garden itself, but the view of the Taj at sunset is hard to beat.",
+      "history": "It lies north of the Taj Mahal complex, on the flood plain of the Yamuna.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 27.1797,
+        "lng": 78.0419,
+        "address": "Agra, Uttar Pradesh"
+      },
+      "highlights": [
+        "Sunset view of the Taj",
+        "Quiet gardens",
+        "Riverside walk"
+      ],
+      "sources": [
+        {
+          "title": "Mehtab Bagh – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mehtab_Bagh"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/mehtab-bagh.webp",
+          "alt": "Mehtab Bagh, Agra",
+          "credit": "g.kaustav",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mehtab_Bagh_facing_Taj_Mahal.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Akbar's Tomb, Sikandra",
+      "slug": "akbars-tomb-sikandra",
+      "city": "agra",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The mausoleum of the emperor Akbar in Sikandra, a huge sandstone tomb in a 119-acre garden.",
+      "description": "A great gateway with white marble minarets leads to a five-storey tomb, unlike any other Mughal mausoleum. Deer roam the grounds.",
+      "history": "Built in 1605 to 1613 by Akbar's son, Jahangir.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 27.2204,
+        "lng": 77.9503,
+        "address": "Agra, Uttar Pradesh"
+      },
+      "highlights": [
+        "Grand south gateway",
+        "Five-storey tomb",
+        "Deer in the gardens"
+      ],
+      "sources": [
+        {
+          "title": "Akbar's tomb – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Akbar's_tomb"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/akbars-tomb-sikandra.webp",
+          "alt": "Akbar's Tomb, Sikandra, Agra",
+          "credit": "Darshanavenugopal",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Akbar%27s_Tomb_in_Sikandra_15.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sur Sarovar Bird Sanctuary",
+      "slug": "sur-sarovar-bird-sanctuary",
+      "city": "agra",
+      "kind": "sanctuary",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A lake and bird sanctuary off the Agra to Delhi highway, with a sloth bear rescue centre.",
+      "description": "A wide lake with waterbirds off the highway, popular in winter. The Agra Bear Rescue Facility looks after sloth bears once used as dancing bears.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 27.2533,
+        "lng": 77.8439,
+        "address": "Agra, Uttar Pradesh"
+      },
+      "highlights": [
+        "Winter waterbirds",
+        "Sloth bear rescue",
+        "Keetham Lake"
+      ],
+      "sources": [
+        {
+          "title": "Keetham Lake – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Keetham_Lake"
+        }
+      ]
+    },
+    {
+      "name": "Krishna Janmasthan",
+      "slug": "krishna-janmasthan",
+      "city": "mathura",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "The temple complex in Mathura at the traditional birthplace of Krishna.",
+      "description": "Security is tight in this large complex, and phones can't be taken in. Pilgrims visit the small prison-like cell that marks the birthplace itself, and the crowds peak at Janmashtami.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 27.5047,
+        "lng": 77.6698,
+        "address": "Mathura, Uttar Pradesh"
+      },
+      "highlights": [
+        "Garbh Griha sanctuary",
+        "Keshavdev Temple",
+        "Janmashtami festival"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Krishna Janmasthan Temple Complex – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Krishna_Janmasthan_Temple_Complex"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/krishna-janmasthan.webp",
+          "alt": "Krishna Janmasthan, Mathura",
+          "credit": "Diego Delso",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mathura_Temple-Mathura-India0002.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Banke Bihari Temple",
+      "slug": "banke-bihari-temple",
+      "city": "vrindavan",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "The most popular temple in Vrindavan, known for its curtain drawn repeatedly over the deity.",
+      "description": "A crowded and joyful temple. A curtain is drawn across the deity every few minutes, and there's no ringing of bells, so as not to disturb the child-god.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 27.5798,
+        "lng": 77.6905,
+        "address": "Vrindavan, Uttar Pradesh"
+      },
+      "highlights": [
+        "Repeatedly drawn curtain",
+        "Holi celebrations",
+        "Old Vrindavan lanes"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Banke Bihari Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Banke_Bihari_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/banke-bihari-temple.webp",
+          "alt": "Banke Bihari Temple, Vrindavan",
+          "credit": "Kridha20",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Banke_Bihari_Vrindavan.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Prem Mandir",
+      "slug": "prem-mandir",
+      "city": "vrindavan",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A huge white marble temple on the edge of Vrindavan, with a colour-changing light show at night.",
+      "description": "Set in a 22-hectare garden with life-size scenes from Krishna's life. It's most striking at dusk, as coloured lights play across the marble.",
+      "history": "Founded by Kripalu Maharaj and opened in 2012.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 27.5725,
+        "lng": 77.6725,
+        "address": "Vrindavan, Uttar Pradesh"
+      },
+      "highlights": [
+        "Night lights",
+        "Marble carving",
+        "Krishna scenes in the garden"
+      ],
+      "sources": [
+        {
+          "title": "Prem Mandir, Vrindavan – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Prem_Mandir,_Vrindavan"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/prem-mandir.webp",
+          "alt": "Prem Mandir, Vrindavan",
+          "credit": "KuwarOnline",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:PremMandirSideViewFromCanteen.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Assi Ghat",
+      "slug": "assi-ghat",
+      "city": "varanasi",
+      "kind": "river",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "The southernmost ghat of Varanasi, with its popular Subah-e-Banaras morning music and aarti.",
+      "description": "Long-stay students and travellers gather here, and it's a good place to begin a boat ride. Mornings start with music, yoga and an aarti in the Subah-e-Banaras programme.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 25.2886,
+        "lng": 83.0068,
+        "address": "Varanasi, Uttar Pradesh"
+      },
+      "highlights": [
+        "Subah-e-Banaras",
+        "Boat rides",
+        "Tulsi Ghat next door"
+      ],
+      "sources": [
+        {
+          "title": "Assi Ghat – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Assi_Ghat"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/assi-ghat.webp",
+          "alt": "Assi Ghat, Varanasi",
+          "credit": "Titodutta",
+          "license": "CC0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Assi_Ghat_Varanasi_morning_Aarti.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Manikarnika Ghat",
+      "slug": "manikarnika-ghat",
+      "city": "varanasi",
+      "kind": "river",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "The main cremation ghat of Varanasi, where fires have burned for centuries.",
+      "description": "Fires burn around the clock, and it's considered one of the most sacred places to be cremated for Hindus. Be respectful, and don't take pictures.",
+      "history": "One of the oldest and most sacred ghats on the Ganges in Varanasi.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 25.3109,
+        "lng": 83.0141,
+        "address": "Varanasi, Uttar Pradesh"
+      },
+      "highlights": [
+        "Sacred fires",
+        "View from a boat",
+        "Dharmic importance"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Manikarnika Ghat – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Manikarnika_Ghat"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/manikarnika-ghat.webp",
+          "alt": "Manikarnika Ghat, Varanasi",
+          "credit": "Aleksandr Zykov from Russia",
+          "license": "CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manikarnika_Ghat,_Varanasi,_Uttar_Pradesh,_India_(2011)_5.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Ramnagar Fort",
+      "slug": "ramnagar-fort",
+      "city": "varanasi",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "An 18th-century sandstone fort on the east bank of the Ganges, home of the Maharaja of Benares.",
+      "description": "A red fort that's still partly lived in, facing Tulsi Ghat across the river. Its museum shows old cars, palanquins and arms, and the Ramlila here is famous.",
+      "history": "Built in 1750 by the ruler of Banaras State.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 25.2697,
+        "lng": 83.0247,
+        "address": "Varanasi, Uttar Pradesh"
+      },
+      "highlights": [
+        "Vintage car museum",
+        "Ramlila in autumn",
+        "River views"
+      ],
+      "sources": [
+        {
+          "title": "Ramnagar Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ramnagar_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/ramnagar-fort.webp",
+          "alt": "Ramnagar Fort, Varanasi",
+          "credit": "Sidhiwasi",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Entrance_area_of_Ramnagar_Fort.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Chunar Fort",
+      "slug": "chunar-fort",
+      "city": "mirzapur",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A riverside fort held by many rulers in turn, 34 km from Mirzapur, on a rock above the Ganges.",
+      "description": "A long fort on a rock high above a bend in the Ganges. Afghans, Mughals and the British all fought for it, and it's rarely visited now.",
+      "history": "Sher Shah Suri, Humayun and Akbar all held it in turn.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 25.1255,
+        "lng": 82.8747,
+        "address": "Mirzapur, Uttar Pradesh"
+      },
+      "highlights": [
+        "Ganges bend views",
+        "Sonwa Mandap",
+        "Few visitors"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Chunar Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chunar_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/chunar-fort.webp",
+          "alt": "Chunar Fort, Mirzapur",
+          "credit": "AnonymousUnknown author",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:North_view_of_the_fort_of_Chunargarh_on_the_Ganges_from_across_the_river..jpg"
+        }
+      ]
+    },
+    {
+      "name": "Rumi Darwaza",
+      "slug": "rumi-darwaza",
+      "city": "lucknow",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A 60-foot gateway built by Nawab Asaf-ud-Daula in 1784, the symbol of Lucknow.",
+      "description": "A huge, flower-topped arch standing on the road through old Lucknow. It's sometimes called the Turkish Gate.",
+      "history": "Built in 1784 and modelled, it's said, on the Sublime Porte in Istanbul.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 26.8606,
+        "lng": 80.9158,
+        "address": "Lucknow, Uttar Pradesh"
+      },
+      "highlights": [
+        "Ornate arch",
+        "Next to Bara Imambara",
+        "Old city walk"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Rumi Darwaza – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Rumi_Darwaza"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/rumi-darwaza.webp",
+          "alt": "Rumi Darwaza, Lucknow",
+          "credit": "Rishabhgpt",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rumi_Darwaza_-_DSC2797-01.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Chota Imambara",
+      "slug": "chota-imambara",
+      "city": "lucknow",
+      "kind": "monument",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "The Palace of Lights, a Shia hall in Lucknow, with chandeliers and gilded walls.",
+      "description": "A white, gold-domed building with mirrors and Belgian chandeliers inside, and walls covered in Arabic calligraphy. A tank and fine smaller tombs stand in the garden.",
+      "history": "Built as a congregation hall for Shia Muslims by Muhammad Ali Shah of Awadh, in the 1830s.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 26.8738,
+        "lng": 80.9044,
+        "address": "Lucknow, Uttar Pradesh"
+      },
+      "highlights": [
+        "Chandeliers",
+        "Gold dome",
+        "Hussainabad Clock Tower nearby"
+      ],
+      "sources": [
+        {
+          "title": "Chota Imambara – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chota_Imambara"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/chota-imambara.webp",
+          "alt": "Chota Imambara, Lucknow",
+          "credit": "Muhammad Mahdi Karim",
+          "license": "GFDL 1.2",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chhota_imambara_Lucknow.jpg"
+        }
+      ]
+    },
+    {
+      "name": "The Residency, Lucknow",
+      "slug": "the-residency-lucknow",
+      "city": "lucknow",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The ruins of the British Residency, scene of a long siege during the Revolt of 1857.",
+      "description": "Roofless, bullet-marked buildings in a calm garden, with a cemetery and a small museum. It's been left in much the state it was after the siege.",
+      "history": "The home of the British Resident General at the court of the Nawab. It was under siege for months during the 1857 Revolt.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 26.8618,
+        "lng": 80.9257,
+        "address": "Lucknow, Uttar Pradesh"
+      },
+      "highlights": [
+        "Shell-scarred walls",
+        "Small museum",
+        "Cemetery"
+      ],
+      "sources": [
+        {
+          "title": "The Residency, Lucknow – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Residency,_Lucknow"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/the-residency-lucknow.webp",
+          "alt": "The Residency, Lucknow, Lucknow",
+          "credit": "Veera.sj",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Office_-_The_Residency_-_Lucknow_-_India.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Ram Mandir",
+      "slug": "ram-mandir-ayodhya",
+      "city": "ayodhya",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "The major Hindu temple in Ayodhya, consecrated in 2024, at the traditional birthplace of Rama.",
+      "description": "A large temple in pink sandstone, now one of the most visited in India. Expect a long wait and tight security: phones and bags need to be left outside.",
+      "history": "Consecrated in January 2024, after a long dispute over the site that ended with a Supreme Court ruling in 2019.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 26.7956,
+        "lng": 82.1943,
+        "address": "Ayodhya, Uttar Pradesh"
+      },
+      "highlights": [
+        "Nagara-style temple",
+        "Lamps at Deepotsav",
+        "Saryu Ghats nearby"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Ram Mandir – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ram_Mandir"
+        }
+      ]
+    },
+    {
+      "name": "Hanuman Garhi",
+      "slug": "hanuman-garhi",
+      "city": "ayodhya",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A hilltop Hanuman temple in Ayodhya, reached by 76 steps, and one of the city's most important.",
+      "description": "A busy fortress-like temple that's traditionally visited before going to the Ram temple, with a good view from the top.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 26.7956,
+        "lng": 82.2016,
+        "address": "Ayodhya, Uttar Pradesh"
+      },
+      "highlights": [
+        "76-step climb",
+        "Hilltop view",
+        "Fortress-like walls"
+      ],
+      "sources": [
+        {
+          "title": "Hanuman Garhi Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hanuman_Garhi_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/hanuman-garhi.webp",
+          "alt": "Hanuman Garhi, Ayodhya",
+          "credit": "Prashant Kharote",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hanuman_Garhi_Temple,_a_major_religious_site_in_Ayodhya_utter_pradesh.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Triveni Sangam",
+      "slug": "triveni-sangam",
+      "city": "prayagraj",
+      "kind": "river",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "The sacred meeting of the Ganges, Yamuna and mythical Saraswati, site of the great Kumbh Mela.",
+      "description": "Boats take pilgrims to the point where the Ganges and Yamuna visibly meet, with brown water against green. It's the holiest bathing place on the Kumbh circuit.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "The Kumbh Mela returns to Prayagraj every 12 years; a smaller Magh Mela is held each January.",
+      "location": {
+        "lat": 25.4222,
+        "lng": 81.8923,
+        "address": "Prayagraj, Uttar Pradesh"
+      },
+      "highlights": [
+        "Boats to the confluence",
+        "Kumbh Mela",
+        "Migratory gulls in winter"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Triveni Sangam – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Triveni_Sangam"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/triveni-sangam.webp",
+          "alt": "Triveni Sangam, Prayagraj",
+          "credit": "L1CENSET0K1LL at English Wikipedia",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:NorthIndiaCircuit_250.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Allahabad Fort",
+      "slug": "allahabad-fort",
+      "city": "prayagraj",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A huge fort built by Akbar in 1583 on the banks of the Yamuna, near the Sangam.",
+      "description": "Largely in army hands, so you can see only a part of it, but the Patalpuri temple and Akshayavat tree inside are open to pilgrims. An Ashokan pillar stands inside as well.",
+      "history": "Built by the emperor Akbar in 1583, and now protected as a monument of national importance.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 25.43,
+        "lng": 81.8767,
+        "address": "Prayagraj, Uttar Pradesh"
+      },
+      "highlights": [
+        "Akshayavat tree",
+        "Patalpuri temple",
+        "Walls on the Yamuna"
+      ],
+      "sources": [
+        {
+          "title": "Allahabad Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Allahabad_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/allahabad-fort.webp",
+          "alt": "Allahabad Fort, Prayagraj",
+          "credit": "Vyomtripathi",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Akbar_Fort_Allahabad.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Anand Bhavan",
+      "slug": "anand-bhavan",
+      "city": "prayagraj",
+      "kind": "museum",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The historic home of the Nehru family in Prayagraj, now a museum of the independence movement.",
+      "description": "A big, veranda-lined house where the Nehrus lived and where leaders of the freedom struggle met. The rooms are kept as they were.",
+      "history": "Bought by Motilal Nehru in the 1930s, after the family's first home, Swaraj Bhavan, was given to the Congress Party.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 25.4594,
+        "lng": 81.86,
+        "address": "Prayagraj, Uttar Pradesh"
+      },
+      "highlights": [
+        "Family rooms",
+        "Freedom movement history",
+        "Jawahar Planetarium next door"
+      ],
+      "sources": [
+        {
+          "title": "Anand Bhavan – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Anand_Bhavan"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/anand-bhavan.webp",
+          "alt": "Anand Bhavan, Prayagraj",
+          "credit": "Balasub",
+          "license": "CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anand_Bhawan,_Allahabad.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Jhansi Fort",
+      "slug": "jhansi-fort",
+      "city": "jhansi",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A hilltop fort on Bangira, famous as the stronghold of Rani Lakshmibai in 1857.",
+      "description": "A big granite fort above the town, with cannons and a Shiva temple. Guides show the spot from which the Rani is said to have leapt on her horse to escape.",
+      "history": "Besieged by the British in 1858, and the place from which Rani Lakshmibai made her escape.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 25.4581,
+        "lng": 78.5754,
+        "address": "Jhansi, Uttar Pradesh"
+      },
+      "highlights": [
+        "Rani Lakshmibai's leap",
+        "Kadak Bijli cannon",
+        "Views over Jhansi"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Jhansi Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jhansi_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/jhansi-fort.webp",
+          "alt": "Jhansi Fort, Jhansi",
+          "credit": "Ppan279",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jhansi_Fort.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kalinjar Fort",
+      "slug": "kalinjar-fort",
+      "city": "banda",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A vast Chandela stronghold on an isolated hill, one of India's largest fortified cities.",
+      "description": "A long plateau-top fort, with temples, huge rock-cut figures and old water tanks. Mahmud of Ghazni and Sher Shah Suri both fought here.",
+      "history": "One of eight great forts built by the Chandela emperors, and their military capital.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 24.9997,
+        "lng": 80.4852,
+        "address": "Banda, Uttar Pradesh"
+      },
+      "highlights": [
+        "Neelkanth Temple",
+        "Rock-cut figures",
+        "Huge plateau"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Kalinjar Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kalinjar_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kalinjar-fort.webp",
+          "alt": "Kalinjar Fort, Banda",
+          "credit": "MacKenzie, Colin (1754-1821)",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:E._view_of_the_Fort_at_Kalinjar._May_1814.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Chitrakoot Dham",
+      "slug": "chitrakoot-dham",
+      "city": "banda",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A holy town on the Mandakini River, where Rama is said to have spent part of his exile.",
+      "description": "Pilgrims bathe at Ramghat and walk around sacred Kamadgiri hill. The town straddles the Uttar Pradesh and Madhya Pradesh border.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 25.214,
+        "lng": 80.9177,
+        "address": "Banda, Uttar Pradesh"
+      },
+      "highlights": [
+        "Ramghat",
+        "Kamadgiri circuit",
+        "Mandakini boat rides"
+      ],
+      "sources": [
+        {
+          "title": "Chitrakoot Dham – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chitrakoot_Dham"
+        }
+      ]
+    },
+    {
+      "name": "Kushinagar",
+      "slug": "kushinagar",
+      "city": "gorakhpur",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "The town where the Buddha is believed to have died, a major Buddhist pilgrimage site.",
+      "description": "A green, peaceful site with temples built by Buddhists from many countries. Its Mahaparinirvana Temple has a 6 m reclining Buddha that's over 1,500 years old.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 26.741,
+        "lng": 83.888,
+        "address": "Gorakhpur, Uttar Pradesh"
+      },
+      "highlights": [
+        "Reclining Buddha",
+        "Ramabhar Stupa",
+        "Temples from across Asia"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Kushinagar – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kushinagar"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kushinagar.webp",
+          "alt": "Kushinagar, Gorakhpur",
+          "credit": "myself",
+          "license": "CC BY-SA 2.5",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kushinara1.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Gorakhnath Math",
+      "slug": "gorakhnath-math",
+      "city": "gorakhpur",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "The large temple complex of the Nath order in Gorakhpur, with a flame said to be always burning.",
+      "description": "A big, active temple centre named after the medieval saint Gorakshanath. The Makar Sankranti fair each January is its largest event.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 26.7739,
+        "lng": 83.3578,
+        "address": "Gorakhpur, Uttar Pradesh"
+      },
+      "highlights": [
+        "Makar Sankranti fair",
+        "Akhand Jyoti flame",
+        "Bhim Sarovar tank"
+      ],
+      "sources": [
+        {
+          "title": "Gorakhnath Math – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gorakhnath_Math"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/gorakhnath-math.webp",
+          "alt": "Gorakhnath Math, Gorakhpur",
+          "credit": "Google User",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gorakhnath_Mandir_in_nutshell.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Shravasti",
+      "slug": "shravasti",
+      "city": "bahraich",
+      "kind": "monument",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "The capital of the old Kosala kingdom, where the Buddha lived most after his enlightenment.",
+      "description": "Quiet excavated monasteries and stupas at Saheth-Maheth, near the Rapti River. A Buddhist circuit stop with few visitors.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 27.5171,
+        "lng": 82.0506,
+        "address": "Bahraich, Uttar Pradesh"
+      },
+      "highlights": [
+        "Jetavana Monastery",
+        "Anandabodhi tree",
+        "Quiet ruins"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Shravasti – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shravasti"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/shravasti.webp",
+          "alt": "Shravasti, Bahraich",
+          "credit": "Varun Shiv Kapur from New Delhi, India",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shobhnath_temple_(5703067291)_(cropped).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Katarniaghat Wildlife Sanctuary",
+      "slug": "katarniaghat-wildlife-sanctuary",
+      "city": "bahraich",
+      "kind": "sanctuary",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A Terai forest of 400 sq km on the Nepal border, known for its gharials and river dolphins.",
+      "description": "Sal forest and grassland along the Girwa River, where boat trips can bring you close to gharials and Gangetic dolphins. It's also part of the Dudhwa Tiger Reserve.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 28.31,
+        "lng": 81.12,
+        "address": "Bahraich, Uttar Pradesh"
+      },
+      "highlights": [
+        "Gharials on the Girwa",
+        "Gangetic dolphins",
+        "Tigers in sal forest"
+      ],
+      "sources": [
+        {
+          "title": "Katarniaghat Wildlife Sanctuary – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Katarniaghat_Wildlife_Sanctuary"
+        }
+      ]
+    },
+    {
+      "name": "Pilibhit Tiger Reserve",
+      "slug": "pilibhit-tiger-reserve",
+      "city": "pilibhit",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A Terai tiger reserve on the Nepal border, known for high tiger numbers in tall grass and sal.",
+      "description": "Dense sal forest and tall grass along the Sharda River and its canals. Tiger numbers have grown so well here that it won an international award.",
+      "history": "Notified as a tiger reserve in 2014.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "location": {
+        "lat": 28.7188,
+        "lng": 80.072,
+        "address": "Pilibhit, Uttar Pradesh"
+      },
+      "highlights": [
+        "Tiger safaris",
+        "Chuka beach",
+        "Sharda canal"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Pilibhit Tiger Reserve – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pilibhit_Tiger_Reserve"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/pilibhit-tiger-reserve.webp",
+          "alt": "Pilibhit Tiger Reserve, Pilibhit",
+          "credit": "Pilibhit tiger reserve",
+          "license": "CC0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tiger_walking_on_the_road_at_Pilibhit_tiger_reserves.jpg"
         }
       ]
     }

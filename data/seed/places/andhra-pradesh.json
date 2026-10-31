@@ -26,6 +26,91 @@
         "lat": 13.8032,
         "lng": 77.6097
       }
+    },
+    {
+      "name": "Visakhapatnam",
+      "slug": "visakhapatnam",
+      "overview": "Andhra's largest city and a naval port, set between the Eastern Ghats and golden beaches.",
+      "history": "An old trading port that grew under the British and became the headquarters of India's Eastern Naval Command.",
+      "isHub": true,
+      "location": {
+        "lat": 17.6939,
+        "lng": 83.2922
+      }
+    },
+    {
+      "name": "Vijayawada",
+      "slug": "vijayawada",
+      "overview": "A busy river city on the Krishna, near the new state capital region and the Buddhist site at Amaravati.",
+      "isHub": true,
+      "location": {
+        "lat": 16.5144,
+        "lng": 80.6192
+      }
+    },
+    {
+      "name": "Tirupati",
+      "slug": "tirupati",
+      "overview": "The city at the foot of the Tirumala hills, one of the world's busiest pilgrim centres.",
+      "isHub": true,
+      "location": {
+        "lat": 13.6355,
+        "lng": 79.4236
+      }
+    },
+    {
+      "name": "Rajahmundry",
+      "slug": "rajahmundry",
+      "overview": "A city on the Godavari, gateway to the Papikondalu hills and the Konaseema delta.",
+      "location": {
+        "lat": 17.0005,
+        "lng": 81.804
+      }
+    },
+    {
+      "name": "Kadapa",
+      "slug": "kadapa",
+      "overview": "A Rayalaseema city, close to the gorge at Gandikota.",
+      "location": {
+        "lat": 14.4673,
+        "lng": 78.8242
+      }
+    },
+    {
+      "name": "Kurnool",
+      "slug": "kurnool",
+      "overview": "A city on the Tungabhadra, the base for the Belum Caves and Srisailam.",
+      "location": {
+        "lat": 15.8281,
+        "lng": 78.0373
+      }
+    },
+    {
+      "name": "Kakinada",
+      "slug": "kakinada",
+      "overview": "A Godavari delta port close to the mangroves of Coringa.",
+      "location": {
+        "lat": 16.9891,
+        "lng": 82.2475
+      }
+    },
+    {
+      "name": "Madanapalle",
+      "slug": "madanapalle",
+      "overview": "A hill country town in the south, close to Horsley Hills.",
+      "location": {
+        "lat": 13.5503,
+        "lng": 78.5029
+      }
+    },
+    {
+      "name": "Guntur",
+      "slug": "guntur",
+      "overview": "A chilli market city close to Amaravati and the Nagarjunakonda dam.",
+      "location": {
+        "lat": 16.3067,
+        "lng": 80.4365
+      }
     }
   ],
   "places": [
@@ -199,6 +284,973 @@
           "credit": "Magentic Manifestations",
           "license": "CC BY-SA 3.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Veerabhadra_Temple_Tower.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Kailasagiri",
+      "slug": "kailasagiri",
+      "city": "visakhapatnam",
+      "kind": "garden",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A hilltop park in Visakhapatnam with a cable car, giant Shiva and Parvati statues and sea views.",
+      "description": "Well laid-out gardens on a hill above the bay, reached by road or cable car. A toy train runs round the top.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 17.749,
+        "lng": 83.3422,
+        "address": "Visakhapatnam, Andhra Pradesh"
+      },
+      "highlights": [
+        "Cable car",
+        "Shiva and Parvati statues",
+        "Bay views"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Kailasagiri – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kailasagiri"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kailasagiri.webp",
+          "alt": "Kailasagiri, Visakhapatnam",
+          "credit": "kmdangi",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kailasagiri.jpg"
+        }
+      ]
+    },
+    {
+      "name": "RK Beach",
+      "slug": "rk-beach",
+      "city": "visakhapatnam",
+      "kind": "beach",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The main city beach of Visakhapatnam, close to a submarine museum and a war memorial.",
+      "description": "A long curve of sand lined with cafes. The decommissioned submarine INS Kursura, now a museum, stands right on the shore.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 17.7142,
+        "lng": 83.3236,
+        "address": "Visakhapatnam, Andhra Pradesh"
+      },
+      "highlights": [
+        "INS Kursura submarine",
+        "Victory at Sea memorial",
+        "Evening promenade"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "RK Beach – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/RK_Beach"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/rk-beach.webp",
+          "alt": "RK Beach, Visakhapatnam",
+          "credit": "Av9",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:RK_Beach_Night.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Simhachalam Temple",
+      "slug": "simhachalam-temple",
+      "city": "visakhapatnam",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A hilltop temple of Varaha Narasimha near Visakhapatnam, with fine Chalukya-style stone carving.",
+      "description": "A busy hill temple 300 m above sea level, where the idol stays covered in sandalwood paste for most of the year.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 17.7664,
+        "lng": 83.2505,
+        "address": "Visakhapatnam, Andhra Pradesh"
+      },
+      "highlights": [
+        "Sandal paste deity",
+        "Kalinga carving",
+        "Forest hills"
+      ],
+      "sources": [
+        {
+          "title": "Varaha Lakshmi Narasimha temple, Simhachalam – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Varaha_Lakshmi_Narasimha_temple,_Simhachalam"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/simhachalam-temple.webp",
+          "alt": "Simhachalam Temple, Visakhapatnam",
+          "credit": "eclicks_by_bunny",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Simhachalam_temple_from_a_hilltop.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Bheemunipatnam",
+      "slug": "bheemunipatnam",
+      "city": "visakhapatnam",
+      "kind": "beach",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "An old Dutch port north of Visakhapatnam, with a quiet beach and a Dutch cemetery.",
+      "description": "A calm beach at the mouth of the Gosthani River. Old Dutch graves and a lighthouse tell of its trading past.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 17.8846,
+        "lng": 83.4393,
+        "address": "Visakhapatnam, Andhra Pradesh"
+      },
+      "highlights": [
+        "Dutch cemetery",
+        "Beach road from Vizag",
+        "Old lighthouse"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Bheemunipatnam – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bheemunipatnam"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/bheemunipatnam.webp",
+          "alt": "Bheemunipatnam, Visakhapatnam",
+          "credit": "Adityamadhav83",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_View_of_Bheemunipatnam_Hilltop_Visakhapatnam.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Undavalli Caves",
+      "slug": "undavalli-caves",
+      "city": "vijayawada",
+      "kind": "caves",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A rock-cut cave temple near Vijayawada, four storeys cut from one hill, with a giant reclining Vishnu.",
+      "description": "A monolithic four-storey block looks over the Krishna valley. Inside is a huge recumbent Vishnu, carved from one single block of granite.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 16.4969,
+        "lng": 80.5818,
+        "address": "Vijayawada, Andhra Pradesh"
+      },
+      "highlights": [
+        "Reclining Vishnu",
+        "Four-storey rock-cut hall",
+        "Valley view"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Undavalli Caves – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Undavalli_Caves"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/undavalli-caves.webp",
+          "alt": "Undavalli Caves, Vijayawada",
+          "credit": "Laxmanvety",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Undavalli_Caves,_Vijayawada,_Guntur,_Andhra_Pradesh,_India_(2018)_1.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kanaka Durga Temple",
+      "slug": "kanaka-durga-temple",
+      "city": "vijayawada",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A major goddess temple on Indrakeeladri hill above the Krishna River.",
+      "description": "Pilgrims climb steps or take a lift for the view over the barrage. The Dussehra festival here is huge.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 16.519,
+        "lng": 80.6215,
+        "address": "Vijayawada, Andhra Pradesh"
+      },
+      "highlights": [
+        "Navaratri festival",
+        "River views",
+        "Indrakeeladri Hill"
+      ],
+      "sources": [
+        {
+          "title": "Kanaka Durga Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kanaka_Durga_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kanaka-durga-temple.webp",
+          "alt": "Kanaka Durga Temple, Vijayawada",
+          "credit": "Srikar Kashyap",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kanakadurga_Temple_gopuram.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Prakasam Barrage",
+      "slug": "prakasam-barrage",
+      "city": "vijayawada",
+      "kind": "dam",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A long barrage across the Krishna River at Vijayawada, a popular evening spot.",
+      "description": "A 1.2 km barrage that feeds the canals of the delta, with a road across and lights in the evening.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 16.5061,
+        "lng": 80.605,
+        "address": "Vijayawada, Andhra Pradesh"
+      },
+      "highlights": [
+        "Evening lights",
+        "Krishna River views",
+        "Bhavani Island nearby"
+      ],
+      "sources": [
+        {
+          "title": "Prakasam Barrage – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Prakasam_Barrage"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/prakasam-barrage.webp",
+          "alt": "Prakasam Barrage, Vijayawada",
+          "credit": "IM3847",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prakasam_Barrage_from_Vijayawada_to_Guntur_2_(November_2018).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kondapalli Fort",
+      "slug": "kondapalli-fort",
+      "city": "vijayawada",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A hill fort near Vijayawada, in a village known for its wooden toys.",
+      "description": "A large fort on a hill, with a restored gate and palace ruins. The village below makes the famous painted softwood Kondapalli toys.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 16.6253,
+        "lng": 80.5307,
+        "address": "Vijayawada, Andhra Pradesh"
+      },
+      "highlights": [
+        "Kondapalli wooden toys",
+        "Hilltop gate",
+        "Forest walk"
+      ],
+      "sources": [
+        {
+          "title": "Kondapalli Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kondapalli_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kondapalli-fort.webp",
+          "alt": "Kondapalli Fort, Vijayawada",
+          "credit": "Koushik",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kondapalli_killa_21.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Amaravati Stupa",
+      "slug": "amaravati-stupa",
+      "city": "guntur",
+      "kind": "monument",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A ruined Buddhist stupa on the Krishna River, source of one of ancient India's great sculpture styles.",
+      "description": "Little stands on the site now apart from a low mound, but the small museum beside it holds fine carved limestone panels.",
+      "history": "Probably built in phases from the 3rd century BCE.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 16.5753,
+        "lng": 80.358,
+        "address": "Guntur, Andhra Pradesh"
+      },
+      "highlights": [
+        "Stupa mound",
+        "ASI museum",
+        "Amaravati sculpture school"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Amaravati Stupa – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Amaravati_Stupa"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/amaravati-stupa.webp",
+          "alt": "Amaravati Stupa, Guntur",
+          "credit": "Gryffindor",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:British_Museum_Asia_14.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Nagarjunakonda",
+      "slug": "nagarjunakonda",
+      "city": "guntur",
+      "kind": "island",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A Buddhist site moved to an island in the Nagarjuna Sagar reservoir, reached by boat.",
+      "description": "When the dam was built, monuments were moved to higher ground, and the hilltop became an island. A museum holds the finds.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 16.5219,
+        "lng": 79.2429,
+        "address": "Guntur, Andhra Pradesh"
+      },
+      "highlights": [
+        "Boat ride",
+        "Buddhist monuments",
+        "Island museum"
+      ],
+      "sources": [
+        {
+          "title": "Nagarjunakonda – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nagarjunakonda"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/nagarjunakonda.webp",
+          "alt": "Nagarjunakonda, Guntur",
+          "credit": "Sabyk2001",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Buddhist_site_3rd_century_AD.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Srikalahasti Temple",
+      "slug": "srikalahasti-temple",
+      "city": "tirupati",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A great Shiva temple at Srikalahasti, near Tirupati, representing the element of air.",
+      "description": "A huge temple on the river, with a white gopuram that's been rebuilt after it collapsed in 2010. People come for the Rahu-Ketu rituals.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 13.7494,
+        "lng": 79.6983,
+        "address": "Tirupati, Andhra Pradesh"
+      },
+      "highlights": [
+        "Vayu lingam",
+        "Rahu-Ketu rituals",
+        "Huge gopuram"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Srikalahasteeswara temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Srikalahasteeswara_temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/srikalahasti-temple.webp",
+          "alt": "Srikalahasti Temple, Tirupati",
+          "credit": "Kalyan Kumar",
+          "license": "CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sri_Kala_Hasti.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Chandragiri Fort",
+      "slug": "chandragiri-fort",
+      "city": "tirupati",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "An old Vijayanagara stronghold near Tirupati, with a palace museum.",
+      "description": "A hilltop citadel and a palace, the Raja Mahal, that's now a small museum, near Tirupati. It was a late capital of Vijayanagara.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 13.583,
+        "lng": 79.3053,
+        "address": "Tirupati, Andhra Pradesh"
+      },
+      "highlights": [
+        "Raja Mahal museum",
+        "Hilltop walls",
+        "Sound and light show"
+      ],
+      "sources": [
+        {
+          "title": "Tirupati – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Tirupati"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/chandragiri-fort.webp",
+          "alt": "Chandragiri Fort, Tirupati",
+          "credit": "SnapMeUp",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chandragiri_Fort_-_Raja_Mahal_(3).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Talakona Falls",
+      "slug": "talakona-falls",
+      "city": "tirupati",
+      "kind": "waterfall",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "The highest waterfall in Andhra Pradesh, in the Seshachalam hills near Tirupati.",
+      "description": "A forest track leads to the falls, which drop about 80 m. It's within a biosphere reserve, and the area is known for red sanders trees.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1
+      ],
+      "location": {
+        "lat": 13.8117,
+        "lng": 79.2156,
+        "address": "Tirupati, Andhra Pradesh"
+      },
+      "highlights": [
+        "Tall falls",
+        "Seshachalam forest",
+        "Red sanders"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Talakona – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Talakona"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/talakona-falls.webp",
+          "alt": "Talakona Falls, Tirupati",
+          "credit": "Eyeofshahval",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Talakona_Waterfalls_near_Tirupati_India.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Pulicat Lake",
+      "slug": "pulicat-lake",
+      "city": "tirupati",
+      "kind": "lake",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "India's second-largest brackish lagoon, on the Andhra and Tamil Nadu coast, known for flamingos.",
+      "description": "A wide shallow lagoon behind Sriharikota. Winter brings large flocks of flamingos and waders.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2
+      ],
+      "location": {
+        "lat": 13.5658,
+        "lng": 80.1747,
+        "address": "Tirupati, Andhra Pradesh"
+      },
+      "highlights": [
+        "Flamingos",
+        "Fishing villages",
+        "Old Dutch history"
+      ],
+      "sources": [
+        {
+          "title": "Pulicat Lake – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pulicat_Lake"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/pulicat-lake.webp",
+          "alt": "Pulicat Lake, Tirupati",
+          "credit": "McKay Savage",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:India_-_Pulicat_Lake_-_023_-_lake_landscape.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Araku Valley",
+      "slug": "araku-valley-hills",
+      "city": "araku-valley",
+      "kind": "valley",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A green hill valley 111 km from Visakhapatnam, known for coffee, tribes and a scenic train.",
+      "description": "The train from Vizag passes through tunnels to reach coffee estates. The Borra Caves are on the way, and there's a tribal museum.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 18.3333,
+        "lng": 82.8667,
+        "address": "Araku Valley, Andhra Pradesh"
+      },
+      "highlights": [
+        "Train from Visakhapatnam",
+        "Araku coffee",
+        "Tribal Museum"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Araku Valley – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Araku_Valley"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/araku-valley-hills.webp",
+          "alt": "Araku Valley",
+          "credit": "Pinakpani",
+          "license": "CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Araku_Valley_coffee_plantations_in_Ananthagiri_hills_in_Andhra_Pradesh_05.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Papikondalu",
+      "slug": "papikondalu",
+      "city": "rajahmundry",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A range on the Godavari where boats pass through a gorge, near Rajahmundry.",
+      "description": "A long boat trip through the hills from near Rajahmundry is the classic outing. The national park here has been affected by the Polavaram dam works, so check conditions.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2
+      ],
+      "location": {
+        "lat": 17.483,
+        "lng": 81.4856,
+        "address": "Rajahmundry, Andhra Pradesh"
+      },
+      "highlights": [
+        "Godavari cruise",
+        "Forested gorge",
+        "Bamboo huts"
+      ],
+      "sources": [
+        {
+          "title": "Papikonda National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Papikonda_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/papikondalu.webp",
+          "alt": "Papikondalu, Rajahmundry",
+          "credit": "Pranayraj1985",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Papikondalu_view_16.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Coringa Wildlife Sanctuary",
+      "slug": "coringa-wildlife-sanctuary",
+      "city": "kakinada",
+      "kind": "sanctuary",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "India's third-largest mangrove forest, on the Godavari delta near Kakinada.",
+      "description": "A boardwalk through the mangroves leads into a quiet world of crabs, otters and waterbirds.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 16.8314,
+        "lng": 82.3367,
+        "address": "Kakinada, Andhra Pradesh"
+      },
+      "highlights": [
+        "Mangrove boardwalk",
+        "Hope Island",
+        "Birdwatching"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Coringa Wildlife Sanctuary – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Coringa_Wildlife_Sanctuary"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/coringa-wildlife-sanctuary.webp",
+          "alt": "Coringa Wildlife Sanctuary, Kakinada",
+          "credit": "Srikanth Mannepuri",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coringa_Wildlife_Sanctuary_1.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Gandikota",
+      "slug": "gandikota",
+      "city": "kadapa",
+      "kind": "fort",
+      "categories": [
+        "heritage",
+        "adventure"
+      ],
+      "shortDescription": "The Grand Canyon of India: a fort above a red gorge on the Penna River in Kadapa.",
+      "description": "A red rock gorge beneath ancient walls, with a temple and a mosque inside the fort. The sunrise view over the canyon is unforgettable.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 14.8147,
+        "lng": 78.2867,
+        "address": "Kadapa, Andhra Pradesh"
+      },
+      "highlights": [
+        "Penna River gorge",
+        "Camping",
+        "Madhavaraya Temple"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Gandikota – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gandikota"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/gandikota.webp",
+          "alt": "Gandikota, Kadapa",
+          "credit": "Sudhakarbichali",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Indian_Grand_Canyon_Sudhakar_Bichali.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Belum Caves",
+      "slug": "belum-caves",
+      "city": "kurnool",
+      "kind": "caves",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "The second-largest cave system on the Indian subcontinent, at over 3 km, in Nandyal district.",
+      "description": "A lit path leads you through stalactites, tunnels and a deep underground stream. Old Jain and Buddhist relics have been found here.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 15.1042,
+        "lng": 78.1306,
+        "address": "Kurnool, Andhra Pradesh"
+      },
+      "highlights": [
+        "Patalaganga stream",
+        "Stalactite halls",
+        "Meditation hall"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Belum Caves – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Belum_Caves"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/belum-caves.webp",
+          "alt": "Belum Caves, Kurnool",
+          "credit": "Pravinjha at English Wikipedia",
+          "license": "CC BY 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Belumcave1.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Srisailam",
+      "slug": "srisailam",
+      "city": "kurnool",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious",
+        "nature"
+      ],
+      "shortDescription": "A Shiva Jyotirlinga in the Nallamala forest, on the Krishna River, with a big tiger reserve nearby.",
+      "description": "A forest road takes you to the Mallikarjuna temple, one of the twelve Jyotirlingas, in the Nagarjunasagar-Srisailam Tiger Reserve. The Srisailam Dam is close.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 16.0833,
+        "lng": 78.8667,
+        "address": "Kurnool, Andhra Pradesh"
+      },
+      "highlights": [
+        "Mallikarjuna Jyotirlinga",
+        "Nallamala forest",
+        "Srisailam Dam"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Srisailam – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Srisailam"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/srisailam.webp",
+          "alt": "Srisailam, Kurnool",
+          "credit": "Saisumanth532",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Srisailam.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Horsley Hills",
+      "slug": "horsley-hills",
+      "city": "madanapalle",
+      "kind": "hill-station",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A small, quiet hill station in Annamayya district at 1,265 m, on the Karnataka border.",
+      "description": "A hill resort with eucalyptus and a small zoo, named after a British collector. It's a good break from the hot plains.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 13.66,
+        "lng": 78.4,
+        "address": "Madanapalle, Andhra Pradesh"
+      },
+      "highlights": [
+        "Viewpoints",
+        "Mini zoo",
+        "Old British bungalow"
+      ],
+      "sources": [
+        {
+          "title": "Horsley Hills – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Horsley_Hills"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/horsley-hills.webp",
+          "alt": "Horsley Hills, Madanapalle",
+          "credit": "Sumanth",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Horsley_Hills.jpg"
         }
       ]
     }

@@ -1,0 +1,82 @@
+[
+  {
+    "state": "ladakh",
+    "place": "tso-moriri",
+    "name": "Tso Moriri",
+    "image": "/hero/tso-moriri.webp",
+    "alt": "Tso Moriri, Korzok",
+    "credit": "Tanay Kibe",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tso_Moriri,_Ladakh_(34855616204).jpg"
+  },
+  {
+    "state": "uttar-pradesh",
+    "place": "taj-mahal",
+    "name": "Taj Mahal",
+    "image": "/hero/taj-mahal.webp",
+    "alt": "Taj Mahal, Agra",
+    "credit": "Yann; edited by Jim Carter",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_(Edited).jpeg"
+  },
+  {
+    "state": "rajasthan",
+    "place": "amber-fort",
+    "name": "Amber Fort",
+    "image": "/hero/amber-fort.webp",
+    "alt": "Amber Fort, Jaipur",
+    "credit": "Jakub Hałun",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:20191219_Fort_Amber,_Amer,_Jaipur_0955_9481.jpg"
+  },
+  {
+    "state": "meghalaya",
+    "place": "umngot-river-dawki",
+    "name": "Umngot River, Dawki",
+    "image": "/hero/umngot-river-dawki.webp",
+    "alt": "Umngot River, Dawki, Dawki",
+    "credit": "Vikramjit Kakati",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Umngot_river,_Dawki.jpg"
+  },
+  {
+    "state": "goa",
+    "place": "palolem-beach",
+    "name": "Palolem Beach",
+    "image": "/hero/palolem-beach.webp",
+    "alt": "Palolem Beach, Canacona",
+    "credit": "iMahesh",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palolem_Beach,_South_Goa.jpg"
+  },
+  {
+    "state": "karnataka",
+    "place": "hampi",
+    "name": "Group of Monuments at Hampi",
+    "image": "/hero/hampi.webp",
+    "alt": "Group of Monuments at Hampi, Hampi",
+    "credit": "iMahesh",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wide_angle_of_Galigopuram_of_Virupaksha_Temple,_Hampi_(04)_(cropped).jpg"
+  },
+  {
+    "state": "kerala",
+    "place": "athirappilly-falls",
+    "name": "Athirappilly Falls",
+    "image": "/hero/athirappilly-falls.webp",
+    "alt": "Athirappilly Falls, Thrissur",
+    "credit": "Jan Joseph George",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_View_of_the_Athirapally_Falls_during_the_onset_of_Monsoon.jpg"
+  },
+  {
+    "state": "tamil-nadu",
+    "place": "pamban-bridge",
+    "name": "Pamban Bridge",
+    "image": "/hero/pamban-bridge.webp",
+    "alt": "Pamban Bridge, Rameswaram",
+    "credit": "Shaswat Nimesh",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pamban_Bridge_Train_Passing.jpg"
+  }
+]

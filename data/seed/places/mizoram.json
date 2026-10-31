@@ -4,6 +4,7 @@
       "name": "Aizawl",
       "slug": "aizawl",
       "overview": "Mizoram's capital, built along steep ridges at about 1,100 m. Indian visitors need an Inner Line Permit, available online or on arrival at Lengpui airport.",
+      "isHub": true,
       "location": {
         "lat": 23.7271,
         "lng": 92.7176
@@ -25,6 +26,33 @@
       "location": {
         "lat": 22.6552,
         "lng": 93.0465
+      }
+    },
+    {
+      "name": "Champhai",
+      "slug": "champhai",
+      "overview": "A town on the Myanmar border, in a rice-growing valley, close to Murlen.",
+      "location": {
+        "lat": 23.456,
+        "lng": 93.329
+      }
+    },
+    {
+      "name": "Mamit",
+      "slug": "mamit",
+      "overview": "A western town, the base for the forests of Dampa.",
+      "location": {
+        "lat": 23.9311,
+        "lng": 92.4835
+      }
+    },
+    {
+      "name": "Lawngtlai",
+      "slug": "lawngtlai",
+      "overview": "A southern town near the Ngengpui forest.",
+      "location": {
+        "lat": 22.5333,
+        "lng": 92.8947
       }
     }
   ],
@@ -163,6 +191,270 @@
           "credit": "Coolcolney",
           "license": "CC BY-SA 3.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Reiek.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Mizoram State Museum",
+      "slug": "mizoram-state-museum",
+      "city": "aizawl",
+      "kind": "museum",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "An ethnographic museum in Aizawl, with Mizo costumes, weapons and a history of the region.",
+      "description": "A short and interesting overview of the Mizo peoples, with traditional clothes, tools and old photos, in the heart of the capital.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "bestTimeNote": "Indian visitors need an Inner Line Permit to enter Mizoram, and foreign nationals must register on arrival.",
+      "location": {
+        "lat": 23.7381,
+        "lng": 92.7156,
+        "address": "Aizawl, Mizoram"
+      },
+      "highlights": [
+        "Mizo costumes",
+        "Old photos",
+        "City centre"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Mizoram State Museum – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mizoram_State_Museum"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/mizoram-state-museum.webp",
+          "alt": "Mizoram State Museum, Aizawl",
+          "credit": "Irina Gelbukh",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mizoram_State_Museum_-_0.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Tam Dil",
+      "slug": "tam-dil",
+      "city": "aizawl",
+      "kind": "lake",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A forest lake 110 km from Aizawl, near Saitual, with boating.",
+      "description": "A small lake in pine forest, with a resort beside it. It's a pleasant day out from the capital.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "bestTimeNote": "Indian visitors need an Inner Line Permit to enter Mizoram, and foreign nationals must register on arrival.",
+      "location": {
+        "lat": 23.7389,
+        "lng": 92.9528,
+        "address": "Aizawl, Mizoram"
+      },
+      "highlights": [
+        "Boating",
+        "Pine forest",
+        "Saitual village"
+      ],
+      "sources": [
+        {
+          "title": "Tam Dil – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Tam_Dil"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/tam-dil.webp",
+          "alt": "Tam Dil, Aizawl",
+          "credit": "Georgeluvpotato",
+          "license": "CC0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tam_Dil_Lake_in_Saitual.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Dampa Tiger Reserve",
+      "slug": "dampa-tiger-reserve",
+      "city": "mamit",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "Mizoram's largest protected area, in the west of the state, with clouded leopards and hoolock gibbons.",
+      "description": "Steep forested hills on the Bangladesh border, reached by a quiet road. Sightings are hard, but the birding is excellent.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "bestTimeNote": "Indian visitors need an Inner Line Permit to enter Mizoram, and foreign nationals must register on arrival.",
+      "location": {
+        "lat": 23.5667,
+        "lng": 92.3667,
+        "address": "Mamit, Mizoram"
+      },
+      "highlights": [
+        "Clouded leopards",
+        "Hoolock gibbons",
+        "Birdwatching"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Dampa Tiger Reserve – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dampa_Tiger_Reserve"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/dampa-tiger-reserve.webp",
+          "alt": "Dampa Tiger Reserve, Mamit",
+          "credit": "Coolcolney",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dampa_Tiger_Reserve_Forest.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Murlen National Park",
+      "slug": "murlen-national-park",
+      "city": "champhai",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A dense forest near the Myanmar border, in Champhai district, sometimes called the rainforest of Mizoram.",
+      "description": "A forest so thick that little sun reaches the floor. It holds rare hornbills and bears, and some of Mizoram's oldest trees.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "bestTimeNote": "Indian visitors need an Inner Line Permit to enter Mizoram, and foreign nationals must register on arrival.",
+      "location": {
+        "lat": 23.6169,
+        "lng": 93.3,
+        "address": "Champhai, Mizoram"
+      },
+      "highlights": [
+        "Thick rainforest",
+        "Rare birds",
+        "Mountain slopes"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Murlen National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Murlen_National_Park"
+        }
+      ]
+    },
+    {
+      "name": "Lengteng Wildlife Sanctuary",
+      "slug": "lengteng-wildlife-sanctuary",
+      "city": "champhai",
+      "kind": "sanctuary",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "An alpine forest in eastern Mizoram, around the second-highest peak in the state.",
+      "description": "A high ridge covered in forest and rhododendrons, popular with birdwatchers looking for the rare Mrs. Hume's pheasant.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "bestTimeNote": "Indian visitors need an Inner Line Permit to enter Mizoram, and foreign nationals must register on arrival.",
+      "location": {
+        "lat": 23.8333,
+        "lng": 93.2167,
+        "address": "Champhai, Mizoram"
+      },
+      "highlights": [
+        "Mrs. Hume's pheasant",
+        "High ridge",
+        "Rhododendrons"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Lengteng Wildlife Sanctuary – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lengteng_Wildlife_Sanctuary"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/lengteng-wildlife-sanctuary.webp",
+          "alt": "Lengteng Wildlife Sanctuary, Champhai",
+          "credit": "Dr. Raju Kasambe",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Himalayan_Cutia_Cutia_nipalensis_photo_by_Dr._Raju_Kasambe_(1).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Ngengpui Wildlife Sanctuary",
+      "slug": "ngengpui-wildlife-sanctuary",
+      "city": "lawngtlai",
+      "kind": "sanctuary",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A 110 sq km forest sanctuary in Lawngtlai district, in the far south of Mizoram.",
+      "description": "A quiet, remote forest that few tourists reach, with elephants and hoolock gibbons reported in the area.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "bestTimeNote": "Indian visitors need an Inner Line Permit to enter Mizoram, and foreign nationals must register on arrival.",
+      "location": {
+        "lat": 22.4309,
+        "lng": 92.7748,
+        "address": "Lawngtlai, Mizoram"
+      },
+      "highlights": [
+        "Remote forest",
+        "Hoolock gibbons",
+        "Far south"
+      ],
+      "sources": [
+        {
+          "title": "Ngengpui Wildlife Sanctuary – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ngengpui_Wildlife_Sanctuary"
         }
       ]
     }
