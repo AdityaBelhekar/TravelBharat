@@ -13,6 +13,8 @@
       "name": "Mysuru",
       "slug": "mysuru",
       "overview": "The former capital of the Wodeyar kings, Mysuru is known for its palace, its ten-day Dasara festival, silk, sandalwood and Mysore pak.",
+      "history": "The seat of the Wadiyar dynasty, who ruled the Kingdom of Mysore for centuries, apart from the period of Hyder Ali and Tipu Sultan. The city took its modern form under the Wadiyars in the early 20th century.",
+      "isHub": true,
       "location": {
         "lat": 12.2958,
         "lng": 76.6394
@@ -22,6 +24,7 @@
       "name": "Madikeri",
       "slug": "madikeri",
       "overview": "The main town of Kodagu (Coorg), a misty hill region of coffee and pepper estates and the home of the Kodava people.",
+      "isHub": true,
       "location": {
         "lat": 12.4244,
         "lng": 75.7382
@@ -61,6 +64,90 @@
       "location": {
         "lat": 12.8571,
         "lng": 76.4884
+      }
+    },
+    {
+      "name": "Bengaluru",
+      "slug": "bengaluru",
+      "overview": "Karnataka's capital and India's technology city, with old gardens and a pleasant climate, and the starting point for weekend trips to the hills.",
+      "history": "Kempe Gowda founded a mud fort here in 1537. It later passed to Hyder Ali and Tipu Sultan and, after 1799, to the British, who built a large cantonment beside the old town.",
+      "isHub": true,
+      "location": {
+        "lat": 12.9789,
+        "lng": 77.5917
+      }
+    },
+    {
+      "name": "Hassan",
+      "slug": "hassan",
+      "overview": "A district town that serves as the base for the Hoysala temples of Belur and Halebidu.",
+      "location": {
+        "lat": 13.0035,
+        "lng": 76.1003
+      }
+    },
+    {
+      "name": "Mangaluru",
+      "slug": "mangaluru",
+      "overview": "A port city between the Arabian Sea and the Western Ghats, the base for the temples and beaches of the Tulu coast.",
+      "isHub": true,
+      "location": {
+        "lat": 12.8717,
+        "lng": 74.8425
+      }
+    },
+    {
+      "name": "Udupi",
+      "slug": "udupi",
+      "overview": "A coastal temple town, the home of the Krishna Matha and of the south Indian vegetarian restaurant tradition, with beaches at Malpe.",
+      "location": {
+        "lat": 13.3389,
+        "lng": 74.7451
+      }
+    },
+    {
+      "name": "Vijayapura",
+      "slug": "vijayapura",
+      "overview": "Old Bijapur, capital of the Adil Shahi sultans, filled with some of the Deccan's grandest Islamic monuments.",
+      "location": {
+        "lat": 16.83,
+        "lng": 75.71
+      }
+    },
+    {
+      "name": "Bidar",
+      "slug": "bidar",
+      "overview": "A quiet northern city with a vast Bahmani fort and a well-known tradition of inlaid metalwork.",
+      "location": {
+        "lat": 17.912,
+        "lng": 77.52
+      }
+    },
+    {
+      "name": "Chitradurga",
+      "slug": "chitradurga",
+      "overview": "A town in central Karnataka, under the walls of its stone fort.",
+      "location": {
+        "lat": 14.2306,
+        "lng": 76.3985
+      }
+    },
+    {
+      "name": "Shivamogga",
+      "slug": "shivamogga",
+      "overview": "The gateway to the Malnad, with Jog Falls and the rainforest of Agumbe within reach.",
+      "location": {
+        "lat": 13.9299,
+        "lng": 75.5681
+      }
+    },
+    {
+      "name": "Dandeli",
+      "slug": "dandeli",
+      "overview": "A forest town on the Kali River, a centre for rafting and wildlife in the north of the Western Ghats.",
+      "location": {
+        "lat": 15.2361,
+        "lng": 74.6176
       }
     }
   ],
@@ -446,6 +533,1848 @@
           "credit": "Kuldeep S",
           "license": "CC BY-SA 4.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gommateshwara,_Shravanabelagola.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Lalbagh Botanical Garden",
+      "slug": "lalbagh-botanical-garden",
+      "city": "bengaluru",
+      "kind": "garden",
+      "categories": [
+        "nature",
+        "heritage"
+      ],
+      "shortDescription": "A 240-acre botanical garden from 1760 in the middle of Bengaluru, with a Victorian glasshouse.",
+      "description": "Old trees, lawns and a glasshouse modelled on London's Crystal Palace. The garden comes alive with flower shows around Republic Day and Independence Day.",
+      "history": "Originally built by Hyder Ali in 1760 and developed by his son Tipu Sultan and by a series of British superintendents.",
+      "bestMonths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "location": {
+        "lat": 12.95,
+        "lng": 77.59,
+        "address": "Bengaluru, Karnataka"
+      },
+      "highlights": [
+        "Glass House flower shows",
+        "Ancient rock on Lalbagh hillock",
+        "Kempe Gowda tower"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Lal Bagh – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lal_Bagh"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/lalbagh-botanical-garden.webp",
+          "alt": "Lalbagh Botanical Garden, Bengaluru",
+          "credit": "Muhammad Mahdi Karim",
+          "license": "GFDL 1.2",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Glasshouse_and_fountain_at_lalbagh.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Cubbon Park",
+      "slug": "cubbon-park",
+      "city": "bengaluru",
+      "kind": "garden",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "The green lung in Bengaluru's business district, laid out in 1870 and full of bamboo and old rain trees.",
+      "description": "Morning walkers and runners fill the paths through a large park in the heart of the city. The High Court and the State Library sit among the trees.",
+      "history": "Created in 1870 under Major General Richard Sankey, and now officially Sri Chamarajendra Park.",
+      "bestMonths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "location": {
+        "lat": 12.975,
+        "lng": 77.5933,
+        "address": "Bengaluru, Karnataka"
+      },
+      "highlights": [
+        "Red Attara Kacheri building",
+        "Seshadri Iyer Memorial Library",
+        "Sunday morning walks"
+      ],
+      "sources": [
+        {
+          "title": "Cubbon Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Cubbon_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/cubbon-park.webp",
+          "alt": "Cubbon Park, Bengaluru",
+          "credit": "Augustus Binu/ facebook",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cubbon_Park_W.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Bengaluru Palace",
+      "slug": "bengaluru-palace",
+      "city": "bengaluru",
+      "kind": "palace",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "An 1874 Tudor-style palace of the Mysore Maharajas, in the north of the city.",
+      "description": "Turrets and battlements inspired by Windsor Castle, with wood-carved interiors and a small collection of old royal photos. The grounds host big concerts.",
+      "history": "Commissioned by the Maharaja of Mysore and completed in 1874.",
+      "bestMonths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "location": {
+        "lat": 12.9985,
+        "lng": 77.5921,
+        "address": "Bengaluru, Karnataka"
+      },
+      "highlights": [
+        "Tudor towers",
+        "Carved wooden interiors",
+        "Royal photo collection"
+      ],
+      "sources": [
+        {
+          "title": "Bengaluru Palace – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bengaluru_Palace"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/bengaluru-palace.webp",
+          "alt": "Bengaluru Palace, Bengaluru",
+          "credit": "Chuggingtrail",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bangalore_Mysore_Maharaja_Palace.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Bannerghatta National Park",
+      "slug": "bannerghatta-national-park",
+      "city": "bengaluru",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A national park with a zoo and safari at the edge of Bengaluru.",
+      "description": "Forest and scrub on the southern edge of the city, with bus safaris past lions, tigers and bears. India's first butterfly park is also here.",
+      "history": "Founded in 1970, declared a national park in 1974. A small part of it became a zoo in 2002.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 12.8008,
+        "lng": 77.5756,
+        "address": "Bengaluru, Karnataka"
+      },
+      "highlights": [
+        "Lion and tiger safari",
+        "Butterfly park",
+        "Zoo and rescue centre"
+      ],
+      "sources": [
+        {
+          "title": "Bannerghatta National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bannerghatta_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/bannerghatta-national-park.webp",
+          "alt": "Bannerghatta National Park, Bengaluru",
+          "credit": "Venkat S dhavala",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lurking_tiger.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Tipu Sultan's Summer Palace",
+      "slug": "tipu-sultan-s-summer-palace",
+      "city": "bengaluru",
+      "kind": "palace",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A two-storey teak palace in the old city, an elegant survival of Tipu Sultan's Bengaluru.",
+      "description": "A wooden palace with painted arches and balconies, built inside the walls of the old Bangalore Fort. There's a small museum on Tipu and his father.",
+      "history": "Hyder Ali began the building, and Tipu Sultan finished it.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 12.9595,
+        "lng": 77.5736,
+        "address": "Bengaluru, Karnataka"
+      },
+      "highlights": [
+        "Teak pillars and arches",
+        "Small museum on Tipu",
+        "Near KR Market and old fort"
+      ],
+      "sources": [
+        {
+          "title": "Tipu Sultan's Summer Palace – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Tipu_Sultan's_Summer_Palace"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/tipu-sultan-s-summer-palace.webp",
+          "alt": "Tipu Sultan's Summer Palace, Bengaluru",
+          "credit": "Shrishailctalukar",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tippu_Sultan%27s_Summer_palace.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Nandi Hills",
+      "slug": "nandi-hills",
+      "city": "bengaluru",
+      "kind": "hill-station",
+      "categories": [
+        "nature",
+        "heritage"
+      ],
+      "shortDescription": "An old hill fortress about 60 km from Bengaluru, loved for its sunrise above the clouds.",
+      "description": "Bengaluru's classic early-morning drive: you arrive before dawn to watch the sun come up over a valley of mist, then walk through the old fort and temples.",
+      "history": "An ancient hill fortress built by the Ganga dynasty and later strengthened by Tipu Sultan.",
+      "bestMonths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "location": {
+        "lat": 13.3863,
+        "lng": 77.7009,
+        "address": "Bengaluru, Karnataka"
+      },
+      "highlights": [
+        "Sunrise above the clouds",
+        "Tipu's Drop",
+        "Bhoga Nandeeshwara Temple at the foot"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Nandi Hills, India – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nandi_Hills,_India"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/nandi-hills.webp",
+          "alt": "Nandi Hills, Bengaluru",
+          "credit": "JzG",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunrise_at_Nandi_Hills.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Chamundi Hills",
+      "slug": "chamundi-hills",
+      "city": "mysuru",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "The hill above Mysuru, topped by the Chamundeshwari Temple and a giant monolithic Nandi.",
+      "description": "A 1,000-step walk or a short drive brings you to the temple of the city's patron goddess, passing a huge black stone Nandi on the way. The view takes in the palace and the city.",
+      "bestMonths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "location": {
+        "lat": 12.273,
+        "lng": 76.67,
+        "address": "Mysuru, Karnataka"
+      },
+      "highlights": [
+        "Chamundeshwari Temple",
+        "Monolithic Nandi",
+        "1,000-step pilgrim climb"
+      ],
+      "sources": [
+        {
+          "title": "Chamundi Hills – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chamundi_Hills"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/chamundi-hills.webp",
+          "alt": "Chamundi Hills, Mysuru",
+          "credit": "Arun Mohan",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chamundeshwari_Temple,_Mysuru,_Karnataka,_India_Temple.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Brindavan Gardens",
+      "slug": "brindavan-gardens",
+      "city": "mysuru",
+      "kind": "garden",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "Terraced gardens below the Krishnarajasagara Dam on the Kaveri, with an evening musical fountain.",
+      "description": "Formal terraced gardens lie at the foot of the great dam, 12 km from the city. The evening musical fountain is the reason most people come.",
+      "history": "Laid out alongside the Krishnarajasagara Dam in the time of the Wadiyars.",
+      "bestMonths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "location": {
+        "lat": 12.4261,
+        "lng": 76.5761,
+        "address": "Mysuru, Karnataka"
+      },
+      "highlights": [
+        "Musical fountain at dusk",
+        "KRS Dam",
+        "Boat ride on the pond"
+      ],
+      "sources": [
+        {
+          "title": "Brindavan Gardens – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Brindavan_Gardens"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/brindavan-gardens.webp",
+          "alt": "Brindavan Gardens, Mysuru",
+          "credit": "Joe Ravi",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brindavan_Gardens.JPG"
+        }
+      ]
+    },
+    {
+      "name": "St. Philomena's Cathedral",
+      "slug": "st-philomenas-cathedral-mysuru",
+      "city": "mysuru",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A Neo-Gothic cathedral with twin spires that rise over the Mysuru skyline.",
+      "description": "A tall Gothic cathedral modelled on Cologne's, with stained glass showing scenes from the life of Christ and a crypt below.",
+      "bestMonths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "location": {
+        "lat": 12.3211,
+        "lng": 76.6583,
+        "address": "Mysuru, Karnataka"
+      },
+      "highlights": [
+        "Twin spires",
+        "Stained glass",
+        "Crypt with a relic of St. Philomena"
+      ],
+      "sources": [
+        {
+          "title": "St. Philomena's Cathedral, Mysore – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/St._Philomena's_Cathedral,_Mysore"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/st-philomenas-cathedral-mysuru.webp",
+          "alt": "St. Philomena's Cathedral, Mysuru",
+          "credit": "Paweł 'pbm' Szubert (",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:India_-_St._Philomena%27s_Church_02.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Mysuru Zoo",
+      "slug": "mysuru-zoo",
+      "city": "mysuru",
+      "kind": "zoo",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "One of India's oldest and best-loved zoos, right in the city, with 157 acres of gardens.",
+      "description": "A well-kept zoo next to the palace, with gorillas, giraffes, elephants and big cats. Plan a good half day here.",
+      "history": "Founded under royal patronage in the 19th century as Sri Chamarajendra Zoological Gardens.",
+      "bestMonths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "location": {
+        "lat": 12.3008,
+        "lng": 76.6677,
+        "address": "Mysuru, Karnataka"
+      },
+      "highlights": [
+        "Gorillas",
+        "Karanji Lake aviary next door",
+        "Elephant enclosure"
+      ],
+      "sources": [
+        {
+          "title": "Mysore Zoo – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mysore_Zoo"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/mysuru-zoo.webp",
+          "alt": "Mysuru Zoo, Mysuru",
+          "credit": "SlowPhoton",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Entrance_of_Mysore_Zoo.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Srirangapatna",
+      "slug": "srirangapatna",
+      "city": "mysuru",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "An island town on the Kaveri, once Tipu Sultan's capital, 15 km from Mysuru.",
+      "description": "Temples, a palace, tombs and fort walls packed onto a river island. Tipu's Daria Daulat palace has painted walls, and his tomb, the Gumbaz, stands in a quiet garden.",
+      "history": "The capital of Hyder Ali and Tipu Sultan; Tipu died here in 1799 when the British stormed the fort. It takes its name from the Ranganathaswamy Temple, consecrated around 984 CE.",
+      "bestMonths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "location": {
+        "lat": 12.414,
+        "lng": 76.704,
+        "address": "Mysuru, Karnataka"
+      },
+      "highlights": [
+        "Daria Daulat Bagh murals",
+        "Gumbaz, Tipu's mausoleum",
+        "Ranganathaswamy Temple"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Srirangapatna – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Srirangapatna"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/srirangapatna.webp",
+          "alt": "Srirangapatna, Mysuru",
+          "credit": "Ms Sarah Welch",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gopuram_of_the_Ranganathaswamy_Temple,_Srirangapatna_Karnataka_India.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Ranganathittu Bird Sanctuary",
+      "slug": "ranganathittu-bird-sanctuary",
+      "city": "mysuru",
+      "kind": "sanctuary",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "Karnataka's largest bird sanctuary, six islets on the Kaveri where boats drift past nesting storks and crocodiles.",
+      "description": "A short boat trip brings you close to painted storks, spoonbills and egrets, with crocodiles basking on the rocks. Small in area and big on birds.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "location": {
+        "lat": 12.4,
+        "lng": 76.65,
+        "address": "Mysuru, Karnataka"
+      },
+      "highlights": [
+        "Boat rides past nesting colonies",
+        "Mugger crocodiles",
+        "Painted storks"
+      ],
+      "sources": [
+        {
+          "title": "Ranganathittu Bird Sanctuary – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ranganathittu_Bird_Sanctuary"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/ranganathittu-bird-sanctuary.webp",
+          "alt": "Ranganathittu Bird Sanctuary, Mysuru",
+          "credit": "This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but please mention me as t",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spot-billed_Pelican_Rising_Flight_Ranganathittu_Feb24_D72_26266.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Somanathapura Temple",
+      "slug": "somanathapura-temple",
+      "city": "mysuru",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A small and perfect Hoysala star-shaped temple from 1258 on the bank of the Kaveri.",
+      "description": "Three carved towers rise on a star-shaped platform. It's the most complete Hoysala temple, and it's rarely crowded. The panels of gods and epic scenes are remarkably fine.",
+      "history": "Consecrated in 1258 CE by Somanatha, a general of the Hoysala king Narasimha III.",
+      "bestMonths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "location": {
+        "lat": 12.2757,
+        "lng": 76.8817,
+        "address": "Mysuru, Karnataka"
+      },
+      "highlights": [
+        "Three star-shaped shrines",
+        "Carved friezes",
+        "Few crowds"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Chennakeshava Temple, Somanathapura – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chennakeshava_Temple,_Somanathapura"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/somanathapura-temple.webp",
+          "alt": "Somanathapura Temple, Mysuru",
+          "credit": "Jean-Pierre Dalbéra from Paris, France",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Le_temple_de_Chennakesava_(Somanathapura,_Inde)_(14465165685).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Shivanasamudra Falls",
+      "slug": "shivanasamudra-falls",
+      "city": "mysuru",
+      "kind": "waterfall",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A pair of wide waterfalls on the Kaveri, Gagana Chukki and Bhara Chukki, between Bengaluru and Mysuru.",
+      "description": "The Kaveri splits around an island and plunges in two broad curtains, loudest right after the monsoon. One of Asia's earliest hydroelectric stations was built here in 1902.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1
+      ],
+      "location": {
+        "lat": 12.2917,
+        "lng": 77.175,
+        "address": "Mysuru, Karnataka"
+      },
+      "highlights": [
+        "Gagana Chukki viewpoint",
+        "Bhara Chukki",
+        "Monsoon flow"
+      ],
+      "sources": [
+        {
+          "title": "Shivanasamudra Falls – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shivanasamudra_Falls"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/shivanasamudra-falls.webp",
+          "alt": "Shivanasamudra Falls, Mysuru",
+          "credit": "Rajeev Ganesh C",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gagana_Chukki_(1).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Bandipur National Park",
+      "slug": "bandipur-national-park",
+      "city": "mysuru",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A dry forest tiger reserve between Mysuru and Ooty, part of the Nilgiri Biosphere Reserve.",
+      "description": "Elephant herds, gaur and spotted deer are common, and tigers do appear. The park merges with Mudumalai and Wayanad across state lines.",
+      "history": "Established as a tiger reserve under Project Tiger in 1973.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "location": {
+        "lat": 11.6617,
+        "lng": 76.6272,
+        "address": "Mysuru, Karnataka"
+      },
+      "highlights": [
+        "Elephant herds",
+        "Jeep and bus safaris",
+        "Himavad Gopalaswamy Betta nearby"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Bandipur National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bandipur_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/bandipur-national-park.webp",
+          "alt": "Bandipur National Park, Mysuru",
+          "credit": "User:Prasadchangarath",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prince_in_the_Jungle_crop.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Nagarhole National Park",
+      "slug": "nagarhole-national-park",
+      "city": "madikeri",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A rich forest in Kodagu and Mysuru districts, known for elephants and the Kabini backwaters.",
+      "description": "Teak and rosewood forest runs down to the Kabini River, where herds of elephants gather in summer. It's among the best places in India to see leopards and wild dogs.",
+      "history": "Declared the 37th tiger reserve of India in 2003.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "location": {
+        "lat": 12.06,
+        "lng": 76.1511,
+        "address": "Madikeri, Karnataka"
+      },
+      "highlights": [
+        "Kabini river boat safari",
+        "Elephant gathering in summer",
+        "Leopards and wild dogs"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Nagarhole National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nagarhole_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/nagarhole-national-park.webp",
+          "alt": "Nagarhole National Park, Madikeri",
+          "credit": "Paul Mannix",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bengal_Tiger_Karnataka.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Chennakeshava Temple, Belur",
+      "slug": "chennakeshava-temple-belur",
+      "city": "hassan",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A 12th-century Hoysala masterpiece, still in worship, with hundreds of carved figures. UNESCO-listed.",
+      "description": "Star-shaped and low, covered with bracket figures of dancers and a wall of friezes showing elephants, lions and epics. Not one pillar in the Navaranga hall matches another.",
+      "history": "Commissioned by King Vishnuvardhana in 1117 CE. Part of the Hoysala temples on the UNESCO list.",
+      "bestMonths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "location": {
+        "lat": 13.1629,
+        "lng": 75.8606,
+        "address": "Hassan, Karnataka"
+      },
+      "highlights": [
+        "Madanika bracket figures",
+        "Narasimha pillar",
+        "Navaranga hall pillars"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Chennakeshava Temple, Belur – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chennakeshava_Temple,_Belur"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/chennakeshava-temple-belur.webp",
+          "alt": "Chennakeshava Temple, Belur, Hassan",
+          "credit": "Bikashrd",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Courtyard_of_Chennakesava_Temple_-_Belur.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hoysaleswara Temple, Halebidu",
+      "slug": "hoysaleswara-temple-halebidu",
+      "city": "hassan",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "The Shiva temple at the old Hoysala capital, with some of the finest stone friezes in India.",
+      "description": "Twin shrines on a star base, with miles of frieze showing elephants, lions, horses and Hindu epics. Two huge Nandi bulls sit outside.",
+      "history": "A 12th-century temple in Halebidu, the former Hoysala capital, which was sacked in the 14th century.",
+      "bestMonths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "location": {
+        "lat": 13.2132,
+        "lng": 75.995,
+        "address": "Hassan, Karnataka"
+      },
+      "highlights": [
+        "Long sculptural friezes",
+        "Twin Nandis",
+        "Lakeside setting"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Hoysaleswara Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hoysaleswara_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/hoysaleswara-temple-halebidu.webp",
+          "alt": "Hoysaleswara Temple, Halebidu, Hassan",
+          "credit": "Karthikbs23",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hoysaleshwara_temple_in_Monsoon.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Talakaveri",
+      "slug": "talakaveri",
+      "city": "madikeri",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious",
+        "nature"
+      ],
+      "shortDescription": "The source of the River Kaveri, a holy tank high in the Brahmagiri hills of Kodagu.",
+      "description": "A small tank near the top of the Brahmagiri hills marks where the Kaveri begins. Steps climb behind it for a view over the Western Ghats.",
+      "bestMonths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "location": {
+        "lat": 12.3855,
+        "lng": 75.4914,
+        "address": "Madikeri, Karnataka"
+      },
+      "highlights": [
+        "Source tank",
+        "Steps up Brahmagiri",
+        "Tula Sankramana festival in October"
+      ],
+      "sources": [
+        {
+          "title": "Talakaveri – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Talakaveri"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/talakaveri.webp",
+          "alt": "Talakaveri, Madikeri",
+          "credit": "Pranchiyettan",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thalakkaveri_Temple,_Karnataka.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Namdroling Monastery",
+      "slug": "namdroling-monastery",
+      "city": "madikeri",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "The Golden Temple of Bylakuppe, the largest teaching centre of the Nyingma school of Tibetan Buddhism.",
+      "description": "Painted halls with giant golden Buddhas stand at the heart of a Tibetan settlement in the Karnataka countryside. It feels a long way from the rest of south India.",
+      "bestMonths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "location": {
+        "lat": 12.4305,
+        "lng": 75.9674,
+        "address": "Madikeri, Karnataka"
+      },
+      "highlights": [
+        "Golden Temple hall",
+        "Young monks at prayer",
+        "Tibetan food at the settlement"
+      ],
+      "sources": [
+        {
+          "title": "Namdroling Monastery – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Namdroling_Monastery"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/namdroling-monastery.webp",
+          "alt": "Namdroling Monastery, Madikeri",
+          "credit": "Vinayaraj",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Namrodoling_Monastery_Bylakuppe2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Mahabaleshwar Temple, Gokarna",
+      "slug": "mahabaleshwar-temple-gokarna",
+      "city": "gokarna",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A 4th-century Shiva temple on the Gokarna shore, known for the Atmalinga in its sanctum.",
+      "description": "An old Dravidian-style temple on the seafront, and the focus of the town's pilgrim life. Non-Hindus may not always be allowed inside the sanctum.",
+      "bestMonths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "location": {
+        "lat": 14.5433,
+        "lng": 74.3164,
+        "address": "Gokarna, Karnataka"
+      },
+      "highlights": [
+        "Atmalinga",
+        "Beach pilgrim baths",
+        "Old Gokarna lanes"
+      ],
+      "sources": [
+        {
+          "title": "Mahabaleshwar Temple, Gokarna – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mahabaleshwar_Temple,_Gokarna"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/mahabaleshwar-temple-gokarna.webp",
+          "alt": "Mahabaleshwar Temple, Gokarna, Gokarna",
+          "credit": "Nvvchar",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Main_entry_to_the_Mahabaleshwar_Temple_at_Gokaran.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Murudeshwara",
+      "slug": "murudeshwara",
+      "city": "gokarna",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A seaside Shiva temple with the world's third tallest Shiva statue, on a headland in the Arabian Sea.",
+      "description": "A giant statue of Shiva and a towering temple gopuram stand on a small peninsula, surrounded by the sea. The town also has a beach and scuba trips to Netrani Island.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 14.0936,
+        "lng": 74.4838,
+        "address": "Gokarna, Karnataka"
+      },
+      "highlights": [
+        "Shiva statue",
+        "Lift to the top of the gopuram",
+        "Scuba diving at Netrani Island"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Murdeshwar – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Murdeshwar"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/murudeshwara.webp",
+          "alt": "Murudeshwara, Gokarna",
+          "credit": "vivek raj from mangalore, india",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Murudeshwara_Shiva_Statue.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Udupi Sri Krishna Matha",
+      "slug": "udupi-sri-krishna-matha",
+      "city": "udupi",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A historic Krishna temple and Dvaita monastery at the heart of Udupi.",
+      "description": "A busy temple in which the deity is viewed through a small carved window, the Kanakana Kindi. Thousands are fed here each day, and the eight monasteries around it take turns running it.",
+      "history": "Founded by the philosopher Madhvacharya in the 13th century.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 13.3322,
+        "lng": 74.7461,
+        "address": "Udupi, Karnataka"
+      },
+      "highlights": [
+        "Kanakana Kindi window",
+        "Free daily meal",
+        "Rath chariots in the car street"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Udupi Sri Krishna Matha – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Udupi_Sri_Krishna_Matha"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/udupi-sri-krishna-matha.webp",
+          "alt": "Udupi Sri Krishna Matha, Udupi",
+          "credit": "Ashok Prabhakaran from Chennai, India",
+          "license": "CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Udupi_Sri_Krishna_Matha_Temple.jpg"
+        }
+      ]
+    },
+    {
+      "name": "St. Mary's Islands",
+      "slug": "st-mary-s-islands",
+      "city": "udupi",
+      "kind": "island",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "Four small islands off Malpe, known for their hexagonal columns of basalt.",
+      "description": "A short boat ride from Malpe Beach brings you to tiny islands of coconut palms and shells, with honeycomb-shaped basalt columns along the shore.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "bestTimeNote": "Boats generally don't run during the monsoon, from June to September.",
+      "location": {
+        "lat": 13.3795,
+        "lng": 74.673,
+        "address": "Udupi, Karnataka"
+      },
+      "highlights": [
+        "Hexagonal basalt columns",
+        "Boats from Malpe Beach",
+        "Shell-covered beach"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "St. Mary's Islands – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/St._Mary's_Islands"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/st-mary-s-islands.webp",
+          "alt": "St. Mary's Islands, Udupi",
+          "credit": "Dil Shad Roshan",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:St._Mary%27s_islands,_Udupi_1767.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kollur Mookambika Temple",
+      "slug": "kollur-mookambika-temple",
+      "city": "udupi",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A revered temple of the goddess Mookambika, in the forested foothills of Kodachadri.",
+      "description": "A major pilgrimage centre under the Western Ghats, with many visitors from Kerala. The Kodachadri peak nearby makes a popular trek.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 13.8638,
+        "lng": 74.8145,
+        "address": "Udupi, Karnataka"
+      },
+      "highlights": [
+        "Goddess Mookambika",
+        "Kodachadri trek nearby",
+        "Forest setting"
+      ],
+      "sources": [
+        {
+          "title": "Kollur Mookambika Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kollur_Mookambika_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kollur-mookambika-temple.webp",
+          "alt": "Kollur Mookambika Temple, Udupi",
+          "credit": "Ashok Prabhakaran from Chennai, India",
+          "license": "CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kollur_Sri_Mookambika_Temple_(4465798056).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Panambur Beach",
+      "slug": "panambur-beach",
+      "city": "mangaluru",
+      "kind": "beach",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "Mangaluru's most popular beach, with lifeguards and water sports, 10 km north of the city.",
+      "description": "A wide stretch of sand beside the New Mangalore Port, with jet skis and kite festivals. Well-looked-after by local standards.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 12.9373,
+        "lng": 74.8042,
+        "address": "Mangaluru, Karnataka"
+      },
+      "highlights": [
+        "Sunset on the sand",
+        "Water sports",
+        "Kite festivals"
+      ],
+      "sources": [
+        {
+          "title": "Panambur Beach – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Panambur_Beach"
+        }
+      ]
+    },
+    {
+      "name": "Dharmasthala Temple",
+      "slug": "dharmasthala-temple",
+      "city": "mangaluru",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "An 800-year-old temple town in Dakshina Kannada, with a Shiva shrine run by a Jain family.",
+      "description": "A remarkable institution in which Hindu priests serve a Shiva temple managed by a Jain family. Huge kitchens feed thousands each day, and a giant statue of Bahubali stands nearby.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 12.9601,
+        "lng": 75.3784,
+        "address": "Mangaluru, Karnataka"
+      },
+      "highlights": [
+        "Manjunatha Temple",
+        "Free meals for thousands",
+        "Bahubali statue"
+      ],
+      "sources": [
+        {
+          "title": "Dharmasthala Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dharmasthala_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/dharmasthala-temple.webp",
+          "alt": "Dharmasthala Temple, Mangaluru",
+          "credit": "Naveenbm at English Wikipedia",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dharmasthala_1.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Mullayanagiri",
+      "slug": "mullayanagiri",
+      "city": "chikkamagaluru",
+      "kind": "trek",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "The highest peak in Karnataka at 1,925 m, an easy climb among coffee estates and shola forest.",
+      "description": "A road goes nearly to the top, and a stone stairway completes the climb to a small temple. Cloud rolls over the ridge and over the slopes of Baba Budan Giri.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1
+      ],
+      "location": {
+        "lat": 13.391,
+        "lng": 75.7214,
+        "address": "Chikkamagaluru, Karnataka"
+      },
+      "highlights": [
+        "Summit stairway",
+        "Trail across to Baba Budan Giri",
+        "Coffee estates below"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Mullayyanagiri – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mullayyanagiri"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/mullayanagiri.webp",
+          "alt": "Mullayanagiri, Chikkamagaluru",
+          "credit": "iMahesh",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Landscapes_of_Western_Ghats_from_Mullayyanagiri_Betta.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sringeri",
+      "slug": "sringeri",
+      "city": "chikkamagaluru",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A hill town on the Tunga River, seat of the first monastery of Adi Shankara.",
+      "description": "The Sri Sharadamba temple and the 14th-century Vidyashankara Temple stand on the river bank in the green Malnad hills, where the fish are fed by pilgrims.",
+      "history": "The site of the Sringeri Sharada Peetham, established by Adi Shankara.",
+      "bestMonths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "location": {
+        "lat": 13.42,
+        "lng": 75.25,
+        "address": "Chikkamagaluru, Karnataka"
+      },
+      "highlights": [
+        "Vidyashankara Temple's zodiac pillars",
+        "Sharadamba Temple",
+        "Tunga River fish"
+      ],
+      "sources": [
+        {
+          "title": "Sringeri – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sringeri"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/sringeri.webp",
+          "alt": "Sringeri, Chikkamagaluru",
+          "credit": "Irrigator",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sringeritemple.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Jog Falls",
+      "slug": "jog-falls",
+      "city": "shivamogga",
+      "kind": "waterfall",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A 253 m plunge of the Sharavati River in four cascades, one of India's highest waterfalls.",
+      "description": "Raja, Rani, Rover and Rocket fall side by side into a deep gorge. Worth seeing during and right after the monsoon, when they are full.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1
+      ],
+      "bestTimeNote": "Flow is regulated by the Linganamakki Dam upstream, and the falls can be thin in summer.",
+      "location": {
+        "lat": 14.23,
+        "lng": 74.8128,
+        "address": "Shivamogga, Karnataka"
+      },
+      "highlights": [
+        "Raja, Rani, Rover and Rocket falls",
+        "Watkins Platform viewpoint",
+        "Monsoon spray"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Jog Falls – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jog_Falls"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/jog-falls.webp",
+          "alt": "Jog Falls, Shivamogga",
+          "credit": "Nikhilb239",
+          "license": "CC BY 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jog_Falls_05092016.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Agumbe",
+      "slug": "agumbe",
+      "city": "shivamogga",
+      "kind": "village",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A rainforest village in the Western Ghats, known for heavy rain, king cobras and sunset views.",
+      "description": "One of the wettest places in south India, with old tiled houses, ghat road bends and a sunset viewpoint out toward the Arabian Sea. It's also home to a research station for king cobras.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1
+      ],
+      "location": {
+        "lat": 13.5087,
+        "lng": 75.0959,
+        "address": "Shivamogga, Karnataka"
+      },
+      "highlights": [
+        "Sunset viewpoint",
+        "King cobra country",
+        "Barkana Falls nearby"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Agumbe – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Agumbe"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/agumbe.webp",
+          "alt": "Agumbe, Shivamogga",
+          "credit": "Shashidhara halady",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Agumbe_View_point.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Dandeli Wildlife Sanctuary",
+      "slug": "dandeli-wildlife-sanctuary",
+      "city": "dandeli",
+      "kind": "sanctuary",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "A forest reserve in Uttara Kannada, known for hornbills, black panthers and Kali River rafting.",
+      "description": "Tall forest beside the Kali River, known for Malabar pied hornbills and rare black panthers. Dandeli town next door is Karnataka's main white-water rafting base.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 15.5064,
+        "lng": 74.3917,
+        "address": "Dandeli, Karnataka"
+      },
+      "highlights": [
+        "Rafting on the Kali",
+        "Great hornbills",
+        "Syntheri Rocks"
+      ],
+      "sources": [
+        {
+          "title": "Dandeli Wildlife Sanctuary – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dandeli_Wildlife_Sanctuary"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/dandeli-wildlife-sanctuary.webp",
+          "alt": "Dandeli Wildlife Sanctuary, Dandeli",
+          "credit": "Sphoortik",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_calm_of_river_kali.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Pattadakal",
+      "slug": "pattadakal",
+      "city": "badami",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A UNESCO group of 7th and 8th century Chalukya temples on the Malaprabha River, where kings were crowned.",
+      "description": "Temples in northern and southern styles stand next to each other, an experiment in form that you can walk through in an hour. The Virupaksha Temple has the finest carving.",
+      "history": "A complex of Hindu and Jain temples, later used by the Chalukyas for royal coronations.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 15.9514,
+        "lng": 75.8147,
+        "address": "Badami, Karnataka"
+      },
+      "highlights": [
+        "Virupaksha Temple",
+        "Mix of Nagara and Dravida styles",
+        "Malaprabha riverbank"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Pattadakal – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pattadakal"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/pattadakal.webp",
+          "alt": "Pattadakal, Badami",
+          "credit": "Nithin bolar k",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pattadakal_000.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Aihole",
+      "slug": "aihole",
+      "city": "badami",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A village of more than a hundred Chalukya temples, and the place where Indian temple design was worked out.",
+      "description": "Often called the cradle of Indian temple architecture, with temples from the 6th century scattered among the houses. The apse-shaped Durga Temple is the best known.",
+      "history": "Buddhist, Hindu and Jain monuments here date from the 6th to the 12th century CE.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 16.0189,
+        "lng": 75.8819,
+        "address": "Badami, Karnataka"
+      },
+      "highlights": [
+        "Durga Temple",
+        "Ladkhan Temple",
+        "Rock-cut caves"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Aihole – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Aihole"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/aihole.webp",
+          "alt": "Aihole, Badami",
+          "credit": "Ms Sarah Welch",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:8th_century_Durga_temple_exterior_view,_Aihole_Hindu_temples_and_monuments_3.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Gol Gumbaz",
+      "slug": "gol-gumbaz",
+      "city": "vijayapura",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A vast 17th-century domed tomb in Vijayapura, famous for its whispering gallery.",
+      "description": "One of the largest domes in the world crowns this grey basalt mausoleum. A whisper in the gallery can be heard clearly across the dome, and it echoes many times over.",
+      "history": "The tomb of Mohammad Adil Shah, seventh ruler of the Bijapur Sultanate.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 16.83,
+        "lng": 75.7361,
+        "address": "Vijayapura, Karnataka"
+      },
+      "highlights": [
+        "Whispering gallery",
+        "One of the world's largest domes",
+        "Views from the roof"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Gol Gumbaz – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gol_Gumbaz"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/gol-gumbaz.webp",
+          "alt": "Gol Gumbaz, Vijayapura",
+          "credit": "Mukul Banerjee",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gol_Gumbaz_-4,_Bijapur,_Karnataka.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Ibrahim Rauza",
+      "slug": "ibrahim-rauza",
+      "city": "vijayapura",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "An elegant tomb and mosque in Vijayapura, said to have inspired the Taj Mahal.",
+      "description": "A mosque and mausoleum face each other across a pool, in a walled garden. Slender minarets and stone lattice make it far more refined than its big neighbour.",
+      "history": "Built by Ibrahim Adil Shah II, ruler of the Bijapur Sultanate, for himself.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 16.8269,
+        "lng": 75.7019,
+        "address": "Vijayapura, Karnataka"
+      },
+      "highlights": [
+        "Carved stone lattice",
+        "Twin buildings across a pool",
+        "Quieter than Gol Gumbaz"
+      ],
+      "sources": [
+        {
+          "title": "Ibrahim Rauza – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ibrahim_Rauza"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/ibrahim-rauza.webp",
+          "alt": "Ibrahim Rauza, Vijayapura",
+          "credit": "Aanand",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ibrahim_Roza.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Bidar Fort",
+      "slug": "bidar-fort",
+      "city": "bidar",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A huge Bahmani fort with triple moats and Persian-style palaces in northern Karnataka.",
+      "description": "Seven gates, a triple moat and the ruined palaces of the Bahmani sultans spread across a plateau. The tiled Rangin Mahal is the highlight.",
+      "history": "Sultan Ahmad Shah I of the Bahmani dynasty moved his capital from Gulbarga to Bidar in the 15th century.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 17.9244,
+        "lng": 77.5267,
+        "address": "Bidar, Karnataka"
+      },
+      "highlights": [
+        "Rangin Mahal",
+        "Triple moat",
+        "Solah Khamba Mosque"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Bidar Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bidar_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/bidar-fort.webp",
+          "alt": "Bidar Fort, Bidar",
+          "credit": "iMahesh",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gumbaz_Darwaza_of_the_Bidar_fort_(cropped).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Chitradurga Fort",
+      "slug": "chitradurga-fort",
+      "city": "chitradurga",
+      "kind": "fort",
+      "categories": [
+        "heritage",
+        "adventure"
+      ],
+      "shortDescription": "A fort of seven circular walls straddling granite hills in central Karnataka.",
+      "description": "Massive stone ramparts wind around boulder hills, with temples, granaries and water tanks hidden inside. Stories of Onake Obavva, who fought off invaders with a pestle, are told here.",
+      "history": "The British called it Chitaldoorg. It reached its final form under the Nayakas and Tipu Sultan.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 14.2152,
+        "lng": 76.3953,
+        "address": "Chitradurga, Karnataka"
+      },
+      "highlights": [
+        "Seven concentric walls",
+        "Onake Obavva's window",
+        "Hidden temples and tanks"
+      ],
+      "sources": [
+        {
+          "title": "Chitradurga Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chitradurga_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/chitradurga-fort.webp",
+          "alt": "Chitradurga Fort, Chitradurga",
+          "credit": "Ms Sarah Welch",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:1_of_7_concentric_walled_layers_of_Chitradurga_fort.jpg"
         }
       ]
     }

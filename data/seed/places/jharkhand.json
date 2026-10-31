@@ -4,6 +4,8 @@
       "name": "Ranchi",
       "slug": "ranchi",
       "overview": "Jharkhand's capital on the Chota Nagpur plateau, surrounded by waterfalls fed by the Subarnarekha and its tributaries.",
+      "history": "The summer capital of Bihar in British days and a centre of the Jharkhand movement. It became the capital of the new state of Jharkhand in 2000.",
+      "isHub": true,
       "location": {
         "lat": 23.3441,
         "lng": 85.3096
@@ -25,6 +27,51 @@
       "location": {
         "lat": 24.4825,
         "lng": 86.6948
+      }
+    },
+    {
+      "name": "Jamshedpur",
+      "slug": "jamshedpur",
+      "overview": "India's first planned industrial city, built by the Tatas, with a lake and hills at its door.",
+      "location": {
+        "lat": 22.7925,
+        "lng": 86.1842
+      }
+    },
+    {
+      "name": "Giridih",
+      "slug": "giridih",
+      "overview": "A town near Parasnath, the highest hill in Jharkhand.",
+      "location": {
+        "lat": 24.1854,
+        "lng": 86.3009
+      }
+    },
+    {
+      "name": "Latehar",
+      "slug": "latehar",
+      "overview": "The forest district of Palamu, with Netarhat and Betla.",
+      "location": {
+        "lat": 23.7442,
+        "lng": 84.5054
+      }
+    },
+    {
+      "name": "Hazaribagh",
+      "slug": "hazaribagh",
+      "overview": "A plateau town with a wildlife sanctuary and open-air lakes.",
+      "location": {
+        "lat": 23.9925,
+        "lng": 85.3637
+      }
+    },
+    {
+      "name": "Dumka",
+      "slug": "dumka",
+      "overview": "The main town of the Santhal Pargana, close to the terracotta temples at Maluti.",
+      "location": {
+        "lat": 24.2674,
+        "lng": 87.2486
       }
     }
   ],
@@ -188,6 +235,555 @@
           "credit": "Pinakpani",
           "license": "CC BY 4.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baidyanath_temple_and_temple_complex,_Deoghar_04.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Dassam Falls",
+      "slug": "dassam-falls",
+      "city": "ranchi",
+      "kind": "waterfall",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A waterfall near Ranchi, dropping about 44 m from the Kanchi River in a rocky forest setting.",
+      "description": "A loud, wide drop into a stony pool. Swimming has proved dangerous here, so stick to the viewpoints.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1
+      ],
+      "location": {
+        "lat": 23.1434,
+        "lng": 85.4664,
+        "address": "Ranchi, Jharkhand"
+      },
+      "highlights": [
+        "Kanchi River",
+        "Rocky drop",
+        "Monsoon flow"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Dassam Falls – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dassam_Falls"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/dassam-falls.webp",
+          "alt": "Dassam Falls, Ranchi",
+          "credit": "Samratbit",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dassam_falls.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Jonha Falls",
+      "slug": "jonha-falls",
+      "city": "ranchi",
+      "kind": "waterfall",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A waterfall in Ranchi district, reached by over 700 steps down to the base.",
+      "description": "Also called Gautamdhara, with a temple to the Buddha at the top. It's reached by rail, or by road through forest.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1
+      ],
+      "location": {
+        "lat": 23.3417,
+        "lng": 85.6083,
+        "address": "Ranchi, Jharkhand"
+      },
+      "highlights": [
+        "Steps to the base",
+        "Buddha Temple",
+        "Forest setting"
+      ],
+      "sources": [
+        {
+          "title": "Jonha Falls – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jonha_Falls"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/jonha-falls.webp",
+          "alt": "Jonha Falls, Ranchi",
+          "credit": "Binayrungta at English Wikipedia",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jonha_falls.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Jagannath Temple, Ranchi",
+      "slug": "jagannath-temple-ranchi",
+      "city": "ranchi",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A 1691 hilltop temple at Ranchi, in the style of the Jagannath Temple at Puri, with a big Rath Yatra.",
+      "description": "Rebuilt after a partial collapse, it's a smaller version of the Puri temple. Its Rath Yatra fair is the biggest in the state.",
+      "history": "Originally built in 1691.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 23.3169,
+        "lng": 85.2817,
+        "address": "Ranchi, Jharkhand"
+      },
+      "highlights": [
+        "Rath Yatra",
+        "Hilltop view",
+        "Puri-style temple"
+      ],
+      "sources": [
+        {
+          "title": "Jagannath Temple, Ranchi – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jagannath_Temple,_Ranchi"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/jagannath-temple-ranchi.webp",
+          "alt": "Jagannath Temple, Ranchi, Ranchi",
+          "credit": "Ms Sarah Welch",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:17th_century_Jagannath_temple_Ranchi_Jharkhand_-_9.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Rock Garden, Ranchi",
+      "slug": "rock-garden-ranchi",
+      "city": "ranchi",
+      "kind": "garden",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A garden of stone sculptures on Gonda Hill in Ranchi, next to Kanke Dam.",
+      "description": "Rocks and statues on a hilltop with views over the dam. It's a popular family outing on weekends.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 23.4035,
+        "lng": 85.3127,
+        "address": "Ranchi, Jharkhand"
+      },
+      "highlights": [
+        "Stone sculptures",
+        "Kanke Dam view",
+        "Family outing"
+      ],
+      "sources": [
+        {
+          "title": "Ranchi – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ranchi"
+        }
+      ]
+    },
+    {
+      "name": "Rajrappa",
+      "slug": "rajrappa",
+      "city": "ranchi",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A waterfall and Chhinnamasta temple at the meeting of the Damodar and Bhera rivers.",
+      "description": "A goddess shrine known as a major Shakti site in the region, with a small waterfall on the Bhera close by.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 23.6319,
+        "lng": 85.7111,
+        "address": "Ranchi, Jharkhand"
+      },
+      "highlights": [
+        "Chhinnamasta Temple",
+        "River confluence",
+        "Waterfall"
+      ],
+      "sources": [
+        {
+          "title": "Rajrappa – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Rajrappa"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/rajrappa.webp",
+          "alt": "Rajrappa, Ranchi",
+          "credit": "Kuarun",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maa_Chhinnamasta_Temple.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Dimna Lake",
+      "slug": "dimna-lake",
+      "city": "jamshedpur",
+      "kind": "lake",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "An artificial lake 15 km from Jamshedpur, under the Dalma Hills, popular for water sports.",
+      "description": "A Tata-built reservoir with a calm shore and the Dalma Range behind it. Sunset is the best time to visit.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 22.8631,
+        "lng": 86.2616,
+        "address": "Jamshedpur, Jharkhand"
+      },
+      "highlights": [
+        "Dalma Hills view",
+        "Boating",
+        "Sunset"
+      ],
+      "sources": [
+        {
+          "title": "Dimna Lake – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dimna_Lake"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/dimna-lake.webp",
+          "alt": "Dimna Lake, Jamshedpur",
+          "credit": "Aratrik Dasgupta",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dimna_Lake,_Jamshedpur.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Dalma Wildlife Sanctuary",
+      "slug": "dalma-wildlife-sanctuary",
+      "city": "jamshedpur",
+      "kind": "sanctuary",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A hill sanctuary near Jamshedpur, known for its elephants.",
+      "description": "A short climb or drive into forest with watchtowers. There's a Shiva temple at the top of the hill.",
+      "history": "Inaugurated in 1975.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 22.9042,
+        "lng": 86.2164,
+        "address": "Jamshedpur, Jharkhand"
+      },
+      "highlights": [
+        "Elephants",
+        "Hilltop temple",
+        "Forest watchtowers"
+      ],
+      "sources": [
+        {
+          "title": "Dalma Wildlife Sanctuary – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dalma_Wildlife_Sanctuary"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/dalma-wildlife-sanctuary.webp",
+          "alt": "Dalma Wildlife Sanctuary, Jamshedpur",
+          "credit": "Joydeep 87",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wild_Abode.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Parasnath Hill",
+      "slug": "parasnath-hill",
+      "city": "giridih",
+      "kind": "trek",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "The highest peak in Jharkhand, also a key Jain pilgrimage site with many temples.",
+      "description": "Pilgrims walk barefoot up a 27 km circuit, to temples marking where many Jain Tirthankaras attained liberation.",
+      "history": "Known to Jains as Shikharji.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 23.9634,
+        "lng": 86.129,
+        "address": "Giridih, Jharkhand"
+      },
+      "highlights": [
+        "Shikharji pilgrimage",
+        "Summit temples",
+        "Long barefoot walk"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Parasnath – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Parasnath"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/parasnath-hill.webp",
+          "alt": "Parasnath Hill, Giridih",
+          "credit": "Nizil Shah",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Views_of_Shikharji_on_way_to_Anantnatha_Tonk_3.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Netarhat",
+      "slug": "netarhat",
+      "city": "latehar",
+      "kind": "hill-station",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A quiet plateau hill town in Latehar, known as the Queen of Chotanagpur, with pine trees and sunsets.",
+      "description": "A high plateau of pine and tribal villages. Magnolia Point is famous for sunset, and Lodh Falls is within reach.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 23.4753,
+        "lng": 84.2672,
+        "address": "Latehar, Jharkhand"
+      },
+      "highlights": [
+        "Magnolia Point sunset",
+        "Pine forest",
+        "Tribal villages"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Netarhat – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Netarhat"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/netarhat.webp",
+          "alt": "Netarhat, Latehar",
+          "credit": "Flashthomsom",
+          "license": "CC0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pine_trees_of_Netarhat_Hill_station.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Lodh Falls",
+      "slug": "lodh-falls",
+      "city": "latehar",
+      "kind": "waterfall",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "The tallest waterfall in Jharkhand, on the Burha River within Palamau Tiger Reserve.",
+      "description": "A long drop in remote forest, with a walk in from the road. It's at its best just after the monsoon.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1
+      ],
+      "location": {
+        "lat": 23.4806,
+        "lng": 84.0194,
+        "address": "Latehar, Jharkhand"
+      },
+      "highlights": [
+        "Tallest in Jharkhand",
+        "Palamau forest",
+        "Monsoon flow"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Lodh Falls – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lodh_Falls"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/lodh-falls.webp",
+          "alt": "Lodh Falls, Latehar",
+          "credit": "Mukesh6022",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lodh_Fall.png"
+        }
+      ]
+    },
+    {
+      "name": "Hazaribagh Wildlife Sanctuary",
+      "slug": "hazaribagh-wildlife-sanctuary",
+      "city": "hazaribagh",
+      "kind": "sanctuary",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A plateau forest about 55 miles north of Ranchi, established in 1955.",
+      "description": "Sal forest, watchtowers and a broad forest drive. It's a quiet, little-visited area.",
+      "history": "Established in 1955.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 24.1474,
+        "lng": 85.36,
+        "address": "Hazaribagh, Jharkhand"
+      },
+      "highlights": [
+        "Sal forest",
+        "Watchtowers",
+        "Plateau views"
+      ],
+      "sources": [
+        {
+          "title": "Hazaribagh Wildlife Sanctuary – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hazaribagh_Wildlife_Sanctuary"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/hazaribagh-wildlife-sanctuary.webp",
+          "alt": "Hazaribagh Wildlife Sanctuary, Hazaribagh",
+          "credit": "SUMIT BITTU",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Among_the_sals_of_Jharkhand.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Maluti Temples",
+      "slug": "maluti-temples",
+      "city": "dumka",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A village near Dumka with over 70 surviving terracotta temples of the Baj Basanta dynasty.",
+      "description": "A remarkable group of small brick temples with terracotta panels showing epics and village scenes. It's still little known.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 24.1611,
+        "lng": 87.6747,
+        "address": "Dumka, Jharkhand"
+      },
+      "highlights": [
+        "72 terracotta temples",
+        "Epic panels",
+        "Quiet village"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Maluti – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Maluti"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/maluti-temples.webp",
+          "alt": "Maluti Temples, Dumka",
+          "credit": "amitabho58",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%223._Cluster_Of_Temples_in_the_village_of_Maluti_in_the_Dumka_district_of_Jharkhand.jpg"
         }
       ]
     }

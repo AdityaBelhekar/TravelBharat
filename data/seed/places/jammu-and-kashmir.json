@@ -4,6 +4,8 @@
       "name": "Srinagar",
       "slug": "srinagar",
       "overview": "The summer capital of Jammu and Kashmir, set around Dal Lake with Mughal gardens, houseboats and old wooden mosques.",
+      "history": "Said to date from Ashoka's reign, it grew into a great centre of Kashmiri learning and craft. The Mughals loved it, and they laid out terraced gardens along Dal Lake from the early 17th century.",
+      "isHub": true,
       "location": {
         "lat": 34.0747,
         "lng": 74.8204
@@ -25,6 +27,81 @@
       "location": {
         "lat": 32.9925,
         "lng": 74.9318
+      }
+    },
+    {
+      "name": "Jammu",
+      "slug": "jammu",
+      "overview": "The winter capital of the union territory, a city of temples at the foot of the hills.",
+      "history": "The seat of the Dogra rulers, who took Kashmir under the Treaty of Amritsar in 1846 and ruled the combined state until 1947.",
+      "isHub": true,
+      "location": {
+        "lat": 32.73,
+        "lng": 74.87
+      }
+    },
+    {
+      "name": "Pahalgam",
+      "slug": "pahalgam",
+      "overview": "A valley town on the Lidder River, a base for treks and the Amarnath pilgrimage.",
+      "isHub": true,
+      "location": {
+        "lat": 34.01,
+        "lng": 75.19
+      }
+    },
+    {
+      "name": "Sonamarg",
+      "slug": "sonamarg",
+      "overview": "The Meadow of Gold, a high valley on the road to Ladakh.",
+      "location": {
+        "lat": 34.3015,
+        "lng": 75.2925
+      }
+    },
+    {
+      "name": "Anantnag",
+      "slug": "anantnag",
+      "overview": "A district town in south Kashmir, close to Martand and the springs of Verinag.",
+      "location": {
+        "lat": 33.7353,
+        "lng": 75.1478
+      }
+    },
+    {
+      "name": "Bandipora",
+      "slug": "bandipora",
+      "overview": "A northern town on the shore of Wular Lake.",
+      "location": {
+        "lat": 34.4177,
+        "lng": 74.6433
+      }
+    },
+    {
+      "name": "Budgam",
+      "slug": "budgam",
+      "overview": "A district just south of Srinagar, gateway to the meadows of Doodhpathri.",
+      "location": {
+        "lat": 33.9353,
+        "lng": 74.6429
+      }
+    },
+    {
+      "name": "Udhampur",
+      "slug": "udhampur",
+      "overview": "A town on the Jammu to Srinagar road, close to Patnitop.",
+      "location": {
+        "lat": 32.9266,
+        "lng": 75.1416
+      }
+    },
+    {
+      "name": "Doda",
+      "slug": "doda",
+      "overview": "A hilly district in the Chenab valley, known for Bhaderwah.",
+      "location": {
+        "lat": 33.1492,
+        "lng": 75.5477
       }
     }
   ],
@@ -184,6 +261,956 @@
         {
           "title": "Shri Mata Vaishno Devi Shrine Board (official)",
           "url": "https://www.maavaishnodevi.org"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/vaishno-devi-temple.webp",
+          "alt": "Vaishno Devi Temple, Katra",
+          "credit": "No machine-readable author provided. Raju hardoi assumed (based on copyright claims)",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vaishno_devi.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Shalimar Bagh",
+      "slug": "shalimar-bagh-srinagar",
+      "city": "srinagar",
+      "kind": "garden",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The grandest Mughal garden in Kashmir, built by Jahangir for Nur Jahan, north-east of Dal Lake.",
+      "description": "Terraces, water channels and black marble pavilions lie under huge chinar trees. Autumn colours make it especially beautiful.",
+      "history": "Built by Emperor Jahangir in 1619.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "bestTimeNote": "Security conditions and access to some spots in Kashmir can change at short notice, so check before you travel.",
+      "location": {
+        "lat": 34.1424,
+        "lng": 74.8629,
+        "address": "Srinagar, Jammu and Kashmir"
+      },
+      "highlights": [
+        "Black marble pavilion",
+        "Chinar trees",
+        "Water channels"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Shalimar Bagh, Srinagar – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shalimar_Bagh,_Srinagar"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/shalimar-bagh-srinagar.webp",
+          "alt": "Shalimar Bagh, Srinagar",
+          "credit": "ANSAR AHMAD",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shalimar_Bagh_1.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Nishat Bagh",
+      "slug": "nishat-bagh",
+      "city": "srinagar",
+      "kind": "garden",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The Garden of Bliss, a terraced Mughal garden on the eastern bank of Dal Lake.",
+      "description": "Twelve terraces climb the hill above the lake, with views of the Pir Panjal range. It's the largest of the Mughal gardens in Kashmir.",
+      "history": "Designed by Asif Khan, brother of Nur Jahan, in 1633.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "bestTimeNote": "Security conditions and access to some spots in Kashmir can change at short notice, so check before you travel.",
+      "location": {
+        "lat": 34.125,
+        "lng": 74.881,
+        "address": "Srinagar, Jammu and Kashmir"
+      },
+      "highlights": [
+        "Twelve terraces",
+        "Dal Lake view",
+        "Old chinars"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Nishat Bagh – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nishat_Bagh"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/nishat-bagh.webp",
+          "alt": "Nishat Bagh, Srinagar",
+          "credit": "Nishkamrazdan",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nishat_Bagh.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Chashme Shahi",
+      "slug": "chashme-shahi",
+      "city": "srinagar",
+      "kind": "garden",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A small Mughal garden from 1632, built around a mountain spring above Dal Lake.",
+      "description": "The smallest and among the most charming of the Mughal gardens. People still come to fill bottles from the spring.",
+      "history": "Built in 1632.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "bestTimeNote": "Security conditions and access to some spots in Kashmir can change at short notice, so check before you travel.",
+      "location": {
+        "lat": 34.0862,
+        "lng": 74.8872,
+        "address": "Srinagar, Jammu and Kashmir"
+      },
+      "highlights": [
+        "Mountain spring",
+        "Terraces",
+        "Lake views"
+      ],
+      "sources": [
+        {
+          "title": "Chashme Shahi – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chashme_Shahi"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/chashme-shahi.webp",
+          "alt": "Chashme Shahi, Srinagar",
+          "credit": "Amitraina at English Wikipedia",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chashme_Shahi.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Pari Mahal",
+      "slug": "pari-mahal",
+      "city": "srinagar",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A seven-terraced Mughal garden on the Zabarwan range, with arches overlooking Dal Lake.",
+      "description": "The Palace of Fairies was built by Dara Shikoh as a school of astrology. Its terraces and arches overlook the whole city, especially at dusk.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "bestTimeNote": "Security conditions and access to some spots in Kashmir can change at short notice, so check before you travel.",
+      "location": {
+        "lat": 34.081,
+        "lng": 74.8771,
+        "address": "Srinagar, Jammu and Kashmir"
+      },
+      "highlights": [
+        "Terraced arches",
+        "Sunset over Dal",
+        "Dara Shikoh's school"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Pari Mahal – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pari_Mahal"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/pari-mahal.webp",
+          "alt": "Pari Mahal, Srinagar",
+          "credit": "Basharat Alam Shah from Chicago, USA",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_view_of_Pari_Mahal_Jammu_and_Kashmir_India.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hazratbal Shrine",
+      "slug": "hazratbal-shrine",
+      "city": "srinagar",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A white-domed shrine on Dal Lake, which holds a relic believed to be a hair of the Prophet Muhammad.",
+      "description": "A gleaming marble mosque on the northern shore of the lake, a major pilgrim site for Kashmiri Muslims, with the relic displayed on special days.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "bestTimeNote": "Security conditions and access to some spots in Kashmir can change at short notice, so check before you travel.",
+      "location": {
+        "lat": 34.1292,
+        "lng": 74.8422,
+        "address": "Srinagar, Jammu and Kashmir"
+      },
+      "highlights": [
+        "White marble dome",
+        "Holy relic",
+        "Lake setting"
+      ],
+      "sources": [
+        {
+          "title": "Hazratbal Shrine – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hazratbal_Shrine"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/hazratbal-shrine.webp",
+          "alt": "Hazratbal Shrine, Srinagar",
+          "credit": "Hardikmodi",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:HAZRATBAL_SHRINE_01.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Jamia Masjid, Srinagar",
+      "slug": "jamia-masjid-srinagar",
+      "city": "srinagar",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A huge old mosque in Srinagar, held up by hundreds of pillars of deodar wood.",
+      "description": "A big courtyard with four pagoda-like towers, in a design that's unique to Kashmir. Each wooden pillar is made from one deodar trunk.",
+      "history": "Built by Sultan Sikandar in 1394.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "bestTimeNote": "Security conditions and access to some spots in Kashmir can change at short notice, so check before you travel.",
+      "location": {
+        "lat": 34.0984,
+        "lng": 74.8092,
+        "address": "Srinagar, Jammu and Kashmir"
+      },
+      "highlights": [
+        "Deodar wood pillars",
+        "Pagoda-style towers",
+        "Old city"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Jamia Masjid, Srinagar – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jamia_Masjid,_Srinagar"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/jamia-masjid-srinagar.webp",
+          "alt": "Jamia Masjid, Srinagar, Srinagar",
+          "credit": "Mike Prince from Bangalore, India",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jama_Masjid,_Srinagar_(14363005587).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Shankaracharya Temple",
+      "slug": "shankaracharya-temple",
+      "city": "srinagar",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A hilltop Shiva temple on the Zabarwan range, overlooking Dal Lake and all of Srinagar.",
+      "description": "A long flight of stone steps leads up to an old stone temple on a hill. Visitors leave phones behind at security, and the view is the best in the city.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "bestTimeNote": "Security conditions and access to some spots in Kashmir can change at short notice, so check before you travel.",
+      "location": {
+        "lat": 34.0789,
+        "lng": 74.8436,
+        "address": "Srinagar, Jammu and Kashmir"
+      },
+      "highlights": [
+        "Stone steps",
+        "Dal Lake view",
+        "Old hilltop temple"
+      ],
+      "sources": [
+        {
+          "title": "Shankaracharya Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shankaracharya_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/shankaracharya-temple.webp",
+          "alt": "Shankaracharya Temple, Srinagar",
+          "credit": "Divya Gupta",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Ancient_Shankaracharya_Temple_(Srinagar,_Jammu_and_Kashmir)_(cropped).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Dachigam National Park",
+      "slug": "dachigam-national-park",
+      "city": "srinagar",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A national park 22 km from Srinagar and the last home of the Kashmir stag, or hangul.",
+      "description": "Forest, meadows and streams reach up from just outside the city, with black bears and rare hangul. Permits are needed.",
+      "bestMonths": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "bestTimeNote": "Security conditions and access to some spots in Kashmir can change at short notice, so check before you travel.",
+      "location": {
+        "lat": 34.1372,
+        "lng": 75.0378,
+        "address": "Srinagar, Jammu and Kashmir"
+      },
+      "highlights": [
+        "Hangul deer",
+        "Black bears",
+        "Mountain streams"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Dachigam National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dachigam_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/dachigam-national-park.webp",
+          "alt": "Dachigam National Park, Srinagar",
+          "credit": "Nadeem Hassan",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sarband-kashmir.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Doodhpathri",
+      "slug": "doodhpathri",
+      "city": "budgam",
+      "kind": "valley",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A green meadow valley in Budgam, an easy day trip from Srinagar, with streams and pine forest.",
+      "description": "Name means Valley of Milk, after the white rushing stream. It's quieter than Gulmarg and Pahalgam, with horses and picnickers.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "bestTimeNote": "Security conditions and access to some spots in Kashmir can change at short notice, so check before you travel.",
+      "location": {
+        "lat": 33.85,
+        "lng": 74.56,
+        "address": "Budgam, Jammu and Kashmir"
+      },
+      "highlights": [
+        "Rushing stream",
+        "Grass meadows",
+        "Horses"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Doodhpathri – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Doodhpathri"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/doodhpathri.webp",
+          "alt": "Doodhpathri, Budgam",
+          "credit": "Ankur P from Pune, India",
+          "license": "CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_bench_with_scenic_view_Doodhpathri_southwest_Jammu_Kashmir_India.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Betaab Valley",
+      "slug": "betaab-valley",
+      "city": "pahalgam",
+      "kind": "valley",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A green valley 15 km from Pahalgam, named after a Bollywood film shot here.",
+      "description": "A walled park of meadows and a clear stream, with snowy peaks behind. It's an easy stop on the road to Chandanwari.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "bestTimeNote": "Security conditions and access to some spots in Kashmir can change at short notice, so check before you travel.",
+      "location": {
+        "lat": 34.0504,
+        "lng": 75.3638,
+        "address": "Pahalgam, Jammu and Kashmir"
+      },
+      "highlights": [
+        "Lidder stream",
+        "Film location",
+        "Snow peaks"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Betaab Valley – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Betaab_Valley"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/betaab-valley.webp",
+          "alt": "Betaab Valley, Pahalgam",
+          "credit": "Nandanupadhyay",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Betaab_Valley.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Aru Valley",
+      "slug": "aru-valley",
+      "city": "pahalgam",
+      "kind": "valley",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "A village and meadow at the top of a side valley, 12 km from Pahalgam, and a base for treks.",
+      "description": "A peaceful meadow village, starting point of the treks to Kolahoi Glacier and Tarsar Lake.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "bestTimeNote": "Security conditions and access to some spots in Kashmir can change at short notice, so check before you travel.",
+      "location": {
+        "lat": 34.0908,
+        "lng": 75.2633,
+        "address": "Pahalgam, Jammu and Kashmir"
+      },
+      "highlights": [
+        "Kolahoi Glacier trek",
+        "Tarsar Marsar trek",
+        "Quiet meadows"
+      ],
+      "sources": [
+        {
+          "title": "Aru, Jammu and Kashmir – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Aru,_Jammu_and_Kashmir"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/aru-valley.webp",
+          "alt": "Aru Valley, Pahalgam",
+          "credit": "KennyOMG",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aruvillage.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Amarnath Cave",
+      "slug": "amarnath-cave",
+      "city": "pahalgam",
+      "kind": "caves",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A high Himalayan cave with an ice lingam of Shiva, reached on a hard annual pilgrimage.",
+      "description": "Thousands walk or ride to this cave at about 3,888 m during the summer yatra. Registration is mandatory.",
+      "bestMonths": [
+        7,
+        8
+      ],
+      "bestTimeNote": "The yatra runs only for a short window each summer, and requires advance registration and a health certificate.",
+      "location": {
+        "lat": 34.2149,
+        "lng": 75.5008,
+        "address": "Pahalgam, Jammu and Kashmir"
+      },
+      "highlights": [
+        "Ice lingam",
+        "Chandanwari route",
+        "Baltal route"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Amarnath Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Amarnath_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/amarnath-cave.webp",
+          "alt": "Amarnath Cave, Pahalgam",
+          "credit": "Gktambe at English Wikipedia",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cave_Temple_of_Lord_Amarnath.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Martand Sun Temple",
+      "slug": "martand-sun-temple",
+      "city": "anantnag",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The grand ruins of an 8th-century sun temple on a plateau in south Kashmir.",
+      "description": "Huge blocks of grey limestone, with a colonnaded courtyard, on a plateau with views across the valley. It's among the finest ruins in Kashmir.",
+      "history": "Built by King Lalitaditya of the Karkota dynasty in the 8th century.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "bestTimeNote": "Security conditions and access to some spots in Kashmir can change at short notice, so check before you travel.",
+      "location": {
+        "lat": 33.7456,
+        "lng": 75.2203,
+        "address": "Anantnag, Jammu and Kashmir"
+      },
+      "highlights": [
+        "Colonnaded courtyard",
+        "Grey stone ruins",
+        "Plateau views"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Martand Sun Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Martand_Sun_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/martand-sun-temple.webp",
+          "alt": "Martand Sun Temple, Anantnag",
+          "credit": "Varun Shiv Kapur from New Delhi, India",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Martand_Sun_Temple_Central_shrine_(6133772365).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Wular Lake",
+      "slug": "wular-lake",
+      "city": "bandipora",
+      "kind": "lake",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "One of Asia's largest freshwater lakes, in north Kashmir near Bandipora.",
+      "description": "A wide, shallow lake fed by the Jhelum, with reeds, fishermen and mountains. The sunset is memorable.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "bestTimeNote": "Security conditions and access to some spots in Kashmir can change at short notice, so check before you travel.",
+      "location": {
+        "lat": 34.3696,
+        "lng": 74.5593,
+        "address": "Bandipora, Jammu and Kashmir"
+      },
+      "highlights": [
+        "Huge freshwater lake",
+        "Migratory birds",
+        "Sunset"
+      ],
+      "sources": [
+        {
+          "title": "Wular Lake – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Wular_Lake"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/wular-lake.webp",
+          "alt": "Wular Lake, Bandipora",
+          "credit": "Maxx786",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boats_in_Wullar_Lake.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Thajiwas Glacier",
+      "slug": "thajiwas-glacier",
+      "city": "sonamarg",
+      "kind": "trek",
+      "categories": [
+        "adventure"
+      ],
+      "shortDescription": "A short pony ride or walk from Sonamarg to a glacier that holds snow all summer.",
+      "description": "The classic Sonamarg outing, with a walk or pony ride up a side valley to a patch of year-round snow. It's also a starting point for treks.",
+      "bestMonths": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "bestTimeNote": "Security conditions and access to some spots in Kashmir can change at short notice, so check before you travel.",
+      "location": {
+        "lat": 34.3015,
+        "lng": 75.2925,
+        "address": "Sonamarg, Jammu and Kashmir"
+      },
+      "highlights": [
+        "Summer snow",
+        "Pony rides",
+        "Sledge rides"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Sonamarg – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sonamarg"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/thajiwas-glacier.webp",
+          "alt": "Thajiwas Glacier, Sonamarg",
+          "credit": "Wikiditot",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sonmarg_rishav7336.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Raghunath Temple",
+      "slug": "raghunath-temple",
+      "city": "jammu",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A big temple complex in the old city of Jammu, one of the largest in north India.",
+      "description": "Seven shrines with gold-coloured spires, and thousands of salagrams inside. It was begun by Maharaja Gulab Singh.",
+      "history": "Begun in 1835 by Gulab Singh and finished by his son Ranbir Singh.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 32.7304,
+        "lng": 74.8623,
+        "address": "Jammu, Jammu and Kashmir"
+      },
+      "highlights": [
+        "Seven gold-topped shrines",
+        "Salagram collection",
+        "Old city bazaar"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Raghunath Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Raghunath_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/raghunath-temple.webp",
+          "alt": "Raghunath Temple, Jammu",
+          "credit": "Unknown authorUnknown author",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Temples_of_Raghunath,_Jammu,_India,_ca.1875-ca.1940_(imp-cswc-GB-237-CSWC47-LS10-011).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Bahu Fort",
+      "slug": "bahu-fort",
+      "city": "jammu",
+      "kind": "fort",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A fort above the Tawi River in Jammu, with a Kali temple and a large terraced garden.",
+      "description": "A very old fort that has a popular temple inside it, the Bawe Wali Mata. The Bagh-e-Bahu garden beside it overlooks the river.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 32.7261,
+        "lng": 74.8803,
+        "address": "Jammu, Jammu and Kashmir"
+      },
+      "highlights": [
+        "Bawe Wali Mata",
+        "Bagh-e-Bahu garden",
+        "Tawi River view"
+      ],
+      "sources": [
+        {
+          "title": "Bahu Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bahu_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/bahu-fort.webp",
+          "alt": "Bahu Fort, Jammu",
+          "credit": "Nvvchar",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bahu_Fort,_Jammu,_India.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Mubarak Mandi Palace",
+      "slug": "mubarak-mandi-palace",
+      "city": "jammu",
+      "kind": "palace",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The old Dogra palace complex in Jammu, a mix of Rajasthani, Mughal and European styles.",
+      "description": "A large crumbling complex, with the Dogra Art Museum in the Pink Hall. Restoration work is under way.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 32.7389,
+        "lng": 74.8742,
+        "address": "Jammu, Jammu and Kashmir"
+      },
+      "highlights": [
+        "Dogra Art Museum",
+        "Old walled city",
+        "Mixed architecture"
+      ],
+      "sources": [
+        {
+          "title": "Mubarak Mandi Palace – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mubarak_Mandi_Palace"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/mubarak-mandi-palace.webp",
+          "alt": "Mubarak Mandi Palace, Jammu",
+          "credit": "Jehangir",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mubarak_Mandi_Complex.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Mansar Lake",
+      "slug": "mansar-lake",
+      "city": "jammu",
+      "kind": "lake",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A wooded hill lake 60 km from Jammu, with old temples and a walking path around it.",
+      "description": "A calm lake surrounded by forest, with old shrines to the serpent god Sheshnag. Boats and a path around the shore are popular.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 32.6961,
+        "lng": 75.1468,
+        "address": "Jammu, Jammu and Kashmir"
+      },
+      "highlights": [
+        "Lakeside walk",
+        "Serpent shrines",
+        "Boating"
+      ],
+      "sources": [
+        {
+          "title": "Mansar Lake – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mansar_Lake"
+        }
+      ]
+    },
+    {
+      "name": "Patnitop",
+      "slug": "patnitop",
+      "city": "udhampur",
+      "kind": "hill-station",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A hill resort at about 2,000 m on the road to Srinagar, with pine forest and winter snow.",
+      "description": "A popular stop on the old highway, with paragliding, forest walks and Nag Temple. Snow arrives in winter.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 33.0903,
+        "lng": 75.3264,
+        "address": "Udhampur, Jammu and Kashmir"
+      },
+      "highlights": [
+        "Pine forest",
+        "Paragliding",
+        "Winter snow"
+      ],
+      "sources": [
+        {
+          "title": "Patnitop – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Patnitop"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/patnitop.webp",
+          "alt": "Patnitop, Udhampur",
+          "credit": "Jason. Leo. Xaan",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Img._Patnitop.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Bhaderwah",
+      "slug": "bhaderwah",
+      "city": "doda",
+      "kind": "valley",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A green valley in Doda, sometimes called Mini Kashmir, with meadows and a historic town.",
+      "description": "Forested hills and the meadows of Padri, on a route to Chamba. It's far off the usual tourist trail.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 32.98,
+        "lng": 75.7137,
+        "address": "Doda, Jammu and Kashmir"
+      },
+      "highlights": [
+        "Padri meadows",
+        "Old temples",
+        "Paragliding"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Bhaderwah – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bhaderwah"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/bhaderwah.webp",
+          "alt": "Bhaderwah, Doda",
+          "credit": "Manjeet singh",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bhaderwahi_folk.jpg"
         }
       ]
     }

@@ -4,6 +4,8 @@
       "name": "Amritsar",
       "slug": "amritsar",
       "overview": "The spiritual centre of Sikhism, close to the Pakistan border, known for the Golden Temple, its food and the Attari–Wagah border ceremony.",
+      "history": "Founded by Guru Ram Das in the 16th century around a sacred pool, and the spiritual centre of Sikhism ever since. It suffered the Jallianwala Bagh massacre in 1919 and the upheaval of Partition in 1947.",
+      "isHub": true,
       "location": {
         "lat": 31.634,
         "lng": 74.8723
@@ -16,6 +18,44 @@
       "location": {
         "lat": 31.2393,
         "lng": 76.5023
+      }
+    },
+    {
+      "name": "Patiala",
+      "slug": "patiala",
+      "overview": "A former princely capital, known for its fort, its turbans, its salwars and its generous pegs.",
+      "history": "Founded by Ala Singh in the 18th century, and for two centuries the seat of the Sikh Maharajas of Patiala.",
+      "isHub": true,
+      "location": {
+        "lat": 30.3408,
+        "lng": 76.4011
+      }
+    },
+    {
+      "name": "Fatehgarh Sahib",
+      "slug": "fatehgarh-sahib",
+      "overview": "A town near Sirhind, sacred for the martyrdom of the younger sons of Guru Gobind Singh.",
+      "location": {
+        "lat": 30.6444,
+        "lng": 76.3873
+      }
+    },
+    {
+      "name": "Harike",
+      "slug": "harike",
+      "overview": "A village at the meeting of the Beas and Sutlej, known for its wetland.",
+      "location": {
+        "lat": 31.1647,
+        "lng": 74.9393
+      }
+    },
+    {
+      "name": "Kapurthala",
+      "slug": "kapurthala",
+      "overview": "An old princely capital known as the Paris of Punjab, for its French-style palace and gardens.",
+      "location": {
+        "lat": 31.38,
+        "lng": 75.38
       }
     }
   ],
@@ -180,6 +220,409 @@
         {
           "title": "Takht Sri Kesgarh Sahib – Wikipedia",
           "url": "https://en.wikipedia.org/wiki/Takht_Sri_Kesgarh_Sahib"
+        }
+      ]
+    },
+    {
+      "name": "Attari-Wagah Border",
+      "slug": "attari-wagah-border",
+      "city": "amritsar",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The India and Pakistan land border near Amritsar, famous for its evening flag-lowering ceremony.",
+      "description": "Each evening, soldiers on both sides stage a high-kicking ceremony before a cheering crowd. Arrive early to get a seat.",
+      "history": "The ceremony has been held daily since 1959.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 31.6008,
+        "lng": 74.6056,
+        "address": "Amritsar, Punjab"
+      },
+      "highlights": [
+        "Beating Retreat",
+        "High-kicking soldiers",
+        "Patriotic crowds"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Attari – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Attari"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/attari-wagah-border.webp",
+          "alt": "Attari-Wagah Border, Amritsar",
+          "credit": "Eclicks by Bunny",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Attari_-_Wagah_border.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Partition Museum",
+      "slug": "partition-museum-amritsar",
+      "city": "amritsar",
+      "kind": "museum",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A moving museum in Amritsar's Town Hall on the 1947 Partition, told through survivors' memories.",
+      "description": "Photos, letters and recorded stories tell of the millions displaced by Partition. It's in a restored building close to the Golden Temple.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 31.6257,
+        "lng": 74.8791,
+        "address": "Amritsar, Punjab"
+      },
+      "highlights": [
+        "Oral histories",
+        "Refugee objects",
+        "Town Hall building"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Partition Museum – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Partition_Museum"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/partition-museum-amritsar.webp",
+          "alt": "Partition Museum, Amritsar",
+          "credit": "Vengoli",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amritsar_9125.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Gobindgarh Fort",
+      "slug": "gobindgarh-fort",
+      "city": "amritsar",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A restored fort in the centre of Amritsar, once held by Maharaja Ranjit Singh and the army.",
+      "description": "Long in army hands and now open to visitors, with museums, Punjabi food stalls and a live show on Punjabi history.",
+      "history": "Strengthened by Maharaja Ranjit Singh in the early 19th century.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 31.6269,
+        "lng": 74.86,
+        "address": "Amritsar, Punjab"
+      },
+      "highlights": [
+        "Live history show",
+        "Toshakhana treasury",
+        "Food courtyard"
+      ],
+      "sources": [
+        {
+          "title": "Gobindgarh Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gobindgarh_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/gobindgarh-fort.webp",
+          "alt": "Gobindgarh Fort, Amritsar",
+          "credit": "Harvinder Chandigarh",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gobindgarh_fort,_Amritsar,_Punjab,_India.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Durgiana Temple",
+      "slug": "durgiana-temple",
+      "city": "amritsar",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A Hindu temple in Amritsar with a sacred lake, built in a style echoing the Golden Temple.",
+      "description": "A silver-doored temple in the middle of a tank, reached by a bridge. Its layout will feel familiar if you've seen Harmandir Sahib.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 31.64,
+        "lng": 74.86,
+        "address": "Amritsar, Punjab"
+      },
+      "highlights": [
+        "Silver doors",
+        "Sacred tank",
+        "Similar to Golden Temple"
+      ],
+      "sources": [
+        {
+          "title": "Durgiana Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Durgiana_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/durgiana-temple.webp",
+          "alt": "Durgiana Temple, Amritsar",
+          "credit": "shankar s. from Dubai, united arab emirate",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Many_of_the_locals_we_had_spoken_to_were_delighted_that_the_Govt_has_sanctioned_funds_for_renovation_of_this_temple_(38049489065).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Virasat-e-Khalsa",
+      "slug": "virasat-e-khalsa",
+      "city": "anandpur-sahib",
+      "kind": "museum",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A striking modern museum of Sikh history at Anandpur Sahib, designed by Moshe Safdie.",
+      "description": "Two wings of curved, steel-topped buildings reflected in pools, with galleries that take you through 500 years of Sikh history.",
+      "history": "Opened in 2011.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 31.2319,
+        "lng": 76.5025,
+        "address": "Anandpur Sahib, Punjab"
+      },
+      "highlights": [
+        "Moshe Safdie architecture",
+        "Sikh history galleries",
+        "Reflecting pools"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Virasat-e-Khalsa – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Virasat-e-Khalsa"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/virasat-e-khalsa.webp",
+          "alt": "Virasat-e-Khalsa, Anandpur Sahib",
+          "credit": "Sanyambahga",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khalsa_Heritage_Memorial_176_Edit.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Gurdwara Fatehgarh Sahib",
+      "slug": "gurdwara-fatehgarh-sahib",
+      "city": "fatehgarh-sahib",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "The gurdwara at the place where the younger sons of Guru Gobind Singh were martyred.",
+      "description": "A large white shrine marks where the two boys were bricked up alive. The Shaheedi Jor Mela in December is a major event.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 30.6174,
+        "lng": 76.3888,
+        "address": "Fatehgarh Sahib, Punjab"
+      },
+      "highlights": [
+        "Shaheedi Jor Mela",
+        "Thanda Burj nearby",
+        "Rauza Sharif nearby"
+      ],
+      "sources": [
+        {
+          "title": "Gurdwara Fatehgarh Sahib – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gurdwara_Fatehgarh_Sahib"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/gurdwara-fatehgarh-sahib.webp",
+          "alt": "Gurdwara Fatehgarh Sahib, Fatehgarh Sahib",
+          "credit": "Kuldeepburjbhalaike",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gurdwara_Fatehgarh_Sahib.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Qila Mubarak, Patiala",
+      "slug": "qila-mubarak-patiala",
+      "city": "patiala",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The old fortified palace of the Maharajas of Patiala, in the heart of the city.",
+      "description": "A large walled fort with a palace, a Darbar Hall museum and bazaars crowding its gates. Restoration is ongoing.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 30.3243,
+        "lng": 76.4008,
+        "address": "Patiala, Punjab"
+      },
+      "highlights": [
+        "Darbar Hall",
+        "Old Patiala bazaars",
+        "Sikh architecture"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Qila Mubarak, Patiala – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Qila_Mubarak,_Patiala"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/qila-mubarak-patiala.webp",
+          "alt": "Qila Mubarak, Patiala, Patiala",
+          "credit": "Journojp",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qila_Mubarak,_Patiala.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Harike Wetland",
+      "slug": "harike-wetland",
+      "city": "harike",
+      "kind": "sanctuary",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A Ramsar wetland where the Beas and Sutlej meet, with huge winter flocks of migratory birds.",
+      "description": "One of north India's largest wetlands, and a major stop for ducks, gulls and terns. The rare Indus river dolphin lives in the Beas nearby.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2
+      ],
+      "location": {
+        "lat": 31.15,
+        "lng": 74.97,
+        "address": "Harike, Punjab"
+      },
+      "highlights": [
+        "Winter migrants",
+        "Beas and Sutlej confluence",
+        "Indus river dolphins"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Harike Wetland – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Harike_Wetland"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/harike-wetland.webp",
+          "alt": "Harike Wetland, Harike",
+          "credit": "Jaypee",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Harike.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kapurthala",
+      "slug": "kapurthala-heritage-town",
+      "city": "kapurthala",
+      "kind": "neighbourhood",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A former Sikh princely capital with a Versailles-style palace and a Moorish mosque.",
+      "description": "The Jagatjit Palace, now a school, was modelled on Versailles. The Moorish Mosque, built by a French architect, is modelled on Marrakesh's Koutoubia.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 31.38,
+        "lng": 75.38,
+        "address": "Kapurthala, Punjab"
+      },
+      "highlights": [
+        "Jagatjit Palace exterior",
+        "Moorish Mosque",
+        "Elysee Palace"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Kapurthala – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kapurthala"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kapurthala-heritage-town.webp",
+          "alt": "Kapurthala",
+          "credit": "MSharma at English Wikipedia",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jagatjit_Club.JPG"
         }
       ]
     }

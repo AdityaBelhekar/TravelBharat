@@ -4,6 +4,7 @@
       "name": "Tawang",
       "slug": "tawang",
       "overview": "A high mountain town near the Bhutan and Tibet borders, home to India's largest Buddhist monastery. Indian visitors need an Inner Line Permit and foreigners a Protected Area Permit.",
+      "isHub": true,
       "location": {
         "lat": 27.5864,
         "lng": 91.8575
@@ -16,6 +17,70 @@
       "location": {
         "lat": 27.5417,
         "lng": 93.8161
+      }
+    },
+    {
+      "name": "Itanagar",
+      "slug": "itanagar",
+      "overview": "The state capital, in the foothills, with a brick fort and a modern Buddhist temple.",
+      "isHub": true,
+      "location": {
+        "lat": 27.1,
+        "lng": 93.62
+      }
+    },
+    {
+      "name": "Bomdila",
+      "slug": "bomdila",
+      "overview": "A hill town on the road to Tawang, with monasteries and apple orchards.",
+      "location": {
+        "lat": 27.265,
+        "lng": 92.42
+      }
+    },
+    {
+      "name": "Bhalukpong",
+      "slug": "bhalukpong",
+      "overview": "The foothill town at the Assam border, on the Kameng River.",
+      "location": {
+        "lat": 27.011,
+        "lng": 92.646
+      }
+    },
+    {
+      "name": "Pasighat",
+      "slug": "pasighat",
+      "overview": "The oldest town in the state, on the Siang River as it enters the plains.",
+      "location": {
+        "lat": 28.07,
+        "lng": 95.33
+      }
+    },
+    {
+      "name": "Miao",
+      "slug": "miao",
+      "overview": "A small eastern town, gateway to Namdapha.",
+      "location": {
+        "lat": 27.4904,
+        "lng": 96.2005
+      }
+    },
+    {
+      "name": "Mechuka",
+      "slug": "mechuka",
+      "overview": "A remote high valley in the west of the Siang country, close to the Tibetan border.",
+      "location": {
+        "lat": 28.605,
+        "lng": 94.1281
+      }
+    },
+    {
+      "name": "Tezu",
+      "slug": "tezu",
+      "overview": "The main town of Lohit, close to Parshuram Kund.",
+      "location": {
+        "lat": 27.9226,
+        "lng": 96.1642
       }
     }
   ],
@@ -174,6 +239,391 @@
           "credit": "Arunachal2007",
           "license": "CC BY-SA 4.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_cross_section_of_luch_green_valley_of_Ziro.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Ita Fort",
+      "slug": "ita-fort",
+      "city": "itanagar",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "An old brick fort in Itanagar, the name meaning Fort of Bricks, built in the 14th or 15th century.",
+      "description": "Irregular brick walls and three gates are the main remains, on a hill above the town. The state museum is close by.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "bestTimeNote": "Indian visitors need an Inner Line Permit, and foreign nationals a Protected Area Permit, to enter Arunachal Pradesh.",
+      "location": {
+        "lat": 27.092,
+        "lng": 93.632,
+        "address": "Itanagar, Arunachal Pradesh"
+      },
+      "highlights": [
+        "Old bricks",
+        "Three gates",
+        "City view"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Ita Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ita_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/ita-fort.webp",
+          "alt": "Ita Fort, Itanagar",
+          "credit": "AshLin",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ita_Fort_01.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Nuranang Falls",
+      "slug": "nuranang-falls",
+      "city": "tawang",
+      "kind": "waterfall",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A 100 m waterfall near Jang on the Tawang road, known locally as Jang Falls.",
+      "description": "A white plunge in a bare valley, reached by a short side road. A small hydroelectric plant works at its base.",
+      "bestMonths": [
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "bestTimeNote": "Indian visitors need an Inner Line Permit, and foreign nationals a Protected Area Permit, to enter Arunachal Pradesh.",
+      "location": {
+        "lat": 27.5895,
+        "lng": 91.9841,
+        "address": "Tawang, Arunachal Pradesh"
+      },
+      "highlights": [
+        "100 m drop",
+        "Sela road stop",
+        "Short side road"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Nuranang Falls – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nuranang_Falls"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/nuranang-falls.webp",
+          "alt": "Nuranang Falls, Tawang",
+          "credit": "Sdasamdabad",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nuranang_Waterfall.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Eaglenest Wildlife Sanctuary",
+      "slug": "eaglenest-wildlife-sanctuary",
+      "city": "bomdila",
+      "kind": "sanctuary",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A birdwatchers' paradise in West Kameng, home to the rare Bugun liocichla, found in 2006.",
+      "description": "Forest climbing from the foothills to high ridges, with hundreds of bird species. Camps here are basic and bird-focused.",
+      "bestMonths": [
+        3,
+        4,
+        5,
+        10,
+        11
+      ],
+      "bestTimeNote": "Indian visitors need an Inner Line Permit, and foreign nationals a Protected Area Permit, to enter Arunachal Pradesh.",
+      "location": {
+        "lat": 27.1,
+        "lng": 92.4,
+        "address": "Bomdila, Arunachal Pradesh"
+      },
+      "highlights": [
+        "Bugun liocichla",
+        "Lama Camp",
+        "Rich birdlife"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Eaglenest Wildlife Sanctuary – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Eaglenest_Wildlife_Sanctuary"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/eaglenest-wildlife-sanctuary.webp",
+          "alt": "Eaglenest Wildlife Sanctuary, Bomdila",
+          "credit": "Kalyanvarma",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eaglenest-forests.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Pakke Tiger Reserve",
+      "slug": "pakke-tiger-reserve",
+      "city": "bhalukpong",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A tiger reserve in the foothills of East Kameng, known for hornbill conservation by the Nyishi people.",
+      "description": "Lowland forest and river, in which local Nyishi villagers protect the nests of hornbills. Its Pakke Paga festival celebrates that work.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "Indian visitors need an Inner Line Permit, and foreign nationals a Protected Area Permit, to enter Arunachal Pradesh.",
+      "location": {
+        "lat": 27.0833,
+        "lng": 92.8583,
+        "address": "Bhalukpong, Arunachal Pradesh"
+      },
+      "highlights": [
+        "Hornbill conservation",
+        "Pakke Paga festival",
+        "Kameng River"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Pakke Tiger Reserve – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pakke_Tiger_Reserve"
+        }
+      ]
+    },
+    {
+      "name": "Namdapha National Park",
+      "slug": "namdapha-national-park",
+      "city": "miao",
+      "kind": "national-park",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "The largest protected area in the eastern Himalaya, where tigers, leopards, snow leopards and clouded leopards all live.",
+      "description": "A vast rainforest in the far east, entered by road and then on foot. It's home to a flying squirrel found nowhere else.",
+      "history": "Established in 1983.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "Indian visitors need an Inner Line Permit, and foreign nationals a Protected Area Permit, to enter Arunachal Pradesh.",
+      "location": {
+        "lat": 27.4833,
+        "lng": 96.3833,
+        "address": "Miao, Arunachal Pradesh"
+      },
+      "highlights": [
+        "Four big cats",
+        "Hoolock gibbons",
+        "Deban camp"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Namdapha National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Namdapha_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/namdapha-national-park.webp",
+          "alt": "Namdapha National Park, Miao",
+          "credit": "Rohit Naniwadekar",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Forest_snow_Namdapha_IMG_3373_04.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Mouling National Park",
+      "slug": "mouling-national-park",
+      "city": "pasighat",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A remote national park in Upper Siang, with deep forest and rare species.",
+      "description": "A rarely visited forest in the mountains above the Siang River, with limited facilities. Its name comes from a peak.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "Indian visitors need an Inner Line Permit, and foreign nationals a Protected Area Permit, to enter Arunachal Pradesh.",
+      "location": {
+        "lat": 28.5833,
+        "lng": 94.8667,
+        "address": "Pasighat, Arunachal Pradesh"
+      },
+      "highlights": [
+        "Remote forest",
+        "Siang River",
+        "Takin country"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Mouling National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mouling_National_Park"
+        }
+      ]
+    },
+    {
+      "name": "Mechuka Valley",
+      "slug": "mechuka-valley",
+      "city": "mechuka",
+      "kind": "valley",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A remote valley at about 6,000 ft, close to the Tibetan border, with an old monastery.",
+      "description": "Pine and grassland along the Siyom River, with an old Tibetan-style monastery. Road access has improved, but it's still a long way out.",
+      "bestMonths": [
+        3,
+        4,
+        5,
+        9,
+        10,
+        11
+      ],
+      "bestTimeNote": "Indian visitors need an Inner Line Permit, and foreign nationals a Protected Area Permit, to enter Arunachal Pradesh.",
+      "location": {
+        "lat": 28.605,
+        "lng": 94.1281,
+        "address": "Mechuka, Arunachal Pradesh"
+      },
+      "highlights": [
+        "Siyom River",
+        "Samten Yongcha Monastery",
+        "Tibetan border"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Mechuka – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mechuka"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/mechuka-valley.webp",
+          "alt": "Mechuka Valley, Mechuka",
+          "credit": "Quentin Talon &amp; Mario Geiger",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mechuka_overview_2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Parshuram Kund",
+      "slug": "parshuram-kund",
+      "city": "tezu",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A Hindu pilgrimage site on the Lohit River, with a huge bathing fair on Makar Sankranti.",
+      "description": "Pilgrims come from across India to bathe in the fast-flowing Lohit in January, where legend says Parashurama washed away his sin.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "Indian visitors need an Inner Line Permit, and foreign nationals a Protected Area Permit, to enter Arunachal Pradesh.",
+      "location": {
+        "lat": 27.8775,
+        "lng": 96.3592,
+        "address": "Tezu, Arunachal Pradesh"
+      },
+      "highlights": [
+        "Makar Sankranti Mela",
+        "Lohit River",
+        "Pilgrim bridge"
+      ],
+      "sources": [
+        {
+          "title": "Parshuram Kund – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Parshuram_Kund"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/parshuram-kund.webp",
+          "alt": "Parshuram Kund, Tezu",
+          "credit": "Trideep Dutta Photography",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parshuram_Kund_.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Dong Village",
+      "slug": "dong-village",
+      "city": "tezu",
+      "kind": "village",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "One of India's easternmost villages, where the country sees its earliest sunrise.",
+      "description": "A short climb from Walong, close to the China and Myanmar borders. People come for the first sunlight in India.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "Indian visitors need an Inner Line Permit, and foreign nationals a Protected Area Permit, to enter Arunachal Pradesh.",
+      "location": {
+        "lat": 28.17,
+        "lng": 97.0417,
+        "address": "Tezu, Arunachal Pradesh"
+      },
+      "highlights": [
+        "India's first sunrise",
+        "Lohit Valley",
+        "Walong war memorial"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Dong, Arunachal Pradesh – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dong,_Arunachal_Pradesh"
         }
       ]
     }

@@ -4,9 +4,47 @@
       "name": "Kohima",
       "slug": "kohima",
       "overview": "Nagaland's hill capital, scene of a decisive Second World War battle and host of the Hornbill Festival each December. Indian visitors need an Inner Line Permit.",
+      "history": "A Naga village before the British made it a base in the 19th century. In 1944, it was the scene of the battle in which the Japanese advance into India was stopped.",
+      "isHub": true,
       "location": {
         "lat": 25.6751,
         "lng": 94.1086
+      }
+    },
+    {
+      "name": "Dimapur",
+      "slug": "dimapur",
+      "overview": "Nagaland's largest city and its transport gateway, with the ruins of the old Kachari capital.",
+      "location": {
+        "lat": 25.9092,
+        "lng": 93.7266
+      }
+    },
+    {
+      "name": "Mon",
+      "slug": "mon",
+      "overview": "The main town of the Konyak Nagas, famous for their history of headhunting and tattooing.",
+      "location": {
+        "lat": 26.7208,
+        "lng": 95.0286
+      }
+    },
+    {
+      "name": "Tuensang",
+      "slug": "tuensang",
+      "overview": "A remote town in eastern Nagaland, close to Saramati, the state's highest peak.",
+      "location": {
+        "lat": 26.2716,
+        "lng": 94.8314
+      }
+    },
+    {
+      "name": "Peren",
+      "slug": "peren",
+      "overview": "A southern district town in the Barail hills, close to the Ntangki forest.",
+      "location": {
+        "lat": 25.5136,
+        "lng": 93.7334
       }
     }
   ],
@@ -169,6 +207,296 @@
           "credit": "Ly.n0m",
           "license": "CC BY-SA 4.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_of_Khonoma_(2024).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kisama Heritage Village",
+      "slug": "kisama-heritage-village",
+      "city": "kohima",
+      "kind": "village",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The home of the Hornbill Festival each December, a model village of all the Naga tribes near Kohima.",
+      "description": "Traditional morungs of each Naga tribe surround an arena. The ten-day Hornbill Festival fills it with dance, music, crafts and food.",
+      "history": "The Hornbill Festival runs from 1 to 10 December.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "bestTimeNote": "Indian visitors need an Inner Line Permit to enter Nagaland, and foreign nationals must register locally.",
+      "location": {
+        "lat": 25.6162,
+        "lng": 94.1146,
+        "address": "Kohima, Nagaland"
+      },
+      "highlights": [
+        "Hornbill Festival",
+        "Tribal morungs",
+        "Naga food"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Kisama Heritage Village – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kisama_Heritage_Village"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kisama-heritage-village.webp",
+          "alt": "Kisama Heritage Village, Kohima",
+          "credit": "Aravind Manickam",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kisama_main_arena_Hornbill_Festival_2019.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Mount Japfu",
+      "slug": "mount-japfu",
+      "city": "kohima",
+      "kind": "trek",
+      "categories": [
+        "adventure"
+      ],
+      "shortDescription": "The second-highest peak in Nagaland, about 15 km south of Kohima, with giant rhododendrons.",
+      "description": "A day-long climb through forest that holds some of the tallest rhododendrons in the world, with wide views across the Naga Hills.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "bestTimeNote": "Indian visitors need an Inner Line Permit to enter Nagaland, and foreign nationals must register locally.",
+      "location": {
+        "lat": 25.5975,
+        "lng": 94.0667,
+        "address": "Kohima, Nagaland"
+      },
+      "highlights": [
+        "Giant rhododendrons",
+        "Summit view",
+        "Kigwema village"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Mount Japfü – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mount_Japf%C3%BC"
+        }
+      ]
+    },
+    {
+      "name": "Kachari Ruins",
+      "slug": "kachari-ruins",
+      "city": "dimapur",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A set of medieval mushroom-shaped stone pillars at Dimapur, the old Kachari capital.",
+      "description": "A garden of strange carved stone pillars, right in the centre of the city, that remain from the Kachari kingdom.",
+      "history": "Dated from around the 13th century.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "bestTimeNote": "Indian visitors need an Inner Line Permit to enter Nagaland, and foreign nationals must register locally.",
+      "location": {
+        "lat": 25.9036,
+        "lng": 93.7403,
+        "address": "Dimapur, Nagaland"
+      },
+      "highlights": [
+        "Mushroom-shaped pillars",
+        "Kachari history",
+        "City centre garden"
+      ],
+      "sources": [
+        {
+          "title": "Ruins of Kachari Rajbari – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ruins_of_Kachari_Rajbari"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kachari-ruins.webp",
+          "alt": "Kachari Ruins, Dimapur",
+          "credit": "Mithun Katula",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kachari_Ruins_(a_piece_of_history_waiting_to_be_explored).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Ntangki National Park",
+      "slug": "ntangki-national-park",
+      "city": "peren",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "Nagaland's only national park, in Peren district, with hoolock gibbons and great hornbills.",
+      "description": "Dense forest in the south of the state, known for hoolock gibbons. Visitor facilities are limited.",
+      "history": "Designated a national park in 1993.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "bestTimeNote": "Indian visitors need an Inner Line Permit to enter Nagaland, and foreign nationals must register locally.",
+      "location": {
+        "lat": 25.56,
+        "lng": 93.45,
+        "address": "Peren, Nagaland"
+      },
+      "highlights": [
+        "Hoolock gibbons",
+        "Great hornbills",
+        "Quiet forest"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Ntangki National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ntangki_National_Park"
+        }
+      ]
+    },
+    {
+      "name": "Longwa Village",
+      "slug": "longwa-village",
+      "city": "mon",
+      "kind": "village",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A Konyak village that straddles the India and Myanmar border, with the chief's house cut by the line.",
+      "description": "The Angh's longhouse sits in two countries. Older Konyak men here may still have facial tattoos from their headhunting past.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "bestTimeNote": "Indian visitors need an Inner Line Permit to enter Nagaland, and foreign nationals must register locally.",
+      "location": {
+        "lat": 26.6614,
+        "lng": 95.2198,
+        "address": "Mon, Nagaland"
+      },
+      "highlights": [
+        "Chief's two-country house",
+        "Konyak tattoos",
+        "Morung"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Lungwa – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lungwa"
+        }
+      ]
+    },
+    {
+      "name": "Lake Shilloi",
+      "slug": "lake-shilloi",
+      "city": "tuensang",
+      "kind": "lake",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "The largest natural lake in Nagaland, shaped like a foot, in Meluri district.",
+      "description": "A remote lake close to the Myanmar border, surrounded by quiet forest and villages. Few visitors reach it.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "bestTimeNote": "Indian visitors need an Inner Line Permit to enter Nagaland, and foreign nationals must register locally.",
+      "location": {
+        "lat": 25.5954,
+        "lng": 94.793,
+        "address": "Tuensang, Nagaland"
+      },
+      "highlights": [
+        "Foot-shaped lake",
+        "Remote forest",
+        "Myanmar border"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Lake Shilloi – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lake_Shilloi"
+        }
+      ]
+    },
+    {
+      "name": "Fakim Wildlife Sanctuary",
+      "slug": "fakim-wildlife-sanctuary",
+      "city": "tuensang",
+      "kind": "sanctuary",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A protected forest near the Myanmar border, in Kiphire district, with mountains and rare wildlife.",
+      "description": "A remote sanctuary close to the state's highest peak, Saramati. Visits need planning with local help.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "bestTimeNote": "Indian visitors need an Inner Line Permit to enter Nagaland, and foreign nationals must register locally.",
+      "location": {
+        "lat": 25.8255,
+        "lng": 94.9544,
+        "address": "Tuensang, Nagaland"
+      },
+      "highlights": [
+        "Near Mount Saramati",
+        "Rare wildlife",
+        "Remote hills"
+      ],
+      "sources": [
+        {
+          "title": "Fakim Wildlife Sanctuary – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Fakim_Wildlife_Sanctuary"
         }
       ]
     }

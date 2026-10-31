@@ -13,9 +13,20 @@
       "name": "Imphal",
       "slug": "imphal",
       "overview": "Manipur's capital in an oval valley ringed by hills, known for its all-women Ima Market and its polo heritage.",
+      "history": "The seat of the Meitei kings at Kangla for centuries. It was a major Allied battleground against Japan in 1944, and it joined India in 1949.",
+      "isHub": true,
       "location": {
         "lat": 24.817,
         "lng": 93.9368
+      }
+    },
+    {
+      "name": "Ukhrul",
+      "slug": "ukhrul",
+      "overview": "A Tangkhul Naga hill town in the east of the state, known for the Shirui Lily.",
+      "location": {
+        "lat": 25.1,
+        "lng": 94.3616
       }
     }
   ],
@@ -155,6 +166,183 @@
         {
           "title": "Kangla Fort – Wikipedia",
           "url": "https://en.wikipedia.org/wiki/Kangla_Fort"
+        }
+      ]
+    },
+    {
+      "name": "Ima Keithel",
+      "slug": "ima-keithel",
+      "city": "imphal",
+      "kind": "neighbourhood",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The Mothers' Market in Imphal, thought to be the largest women-run market in Asia.",
+      "description": "Thousands of women sell fish, vegetables, textiles and crafts from raised stalls. It's a centre of Manipuri life and politics, and it has played a role in many protests.",
+      "history": "Reported to date from the 16th century.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "bestTimeNote": "Manipur has had serious unrest in recent years, and visitors need an Inner Line Permit, so check current advice before planning a trip.",
+      "location": {
+        "lat": 24.808,
+        "lng": 93.935,
+        "address": "Imphal, Manipur"
+      },
+      "highlights": [
+        "Women-run stalls",
+        "Handloom textiles",
+        "Local food"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Ima Market – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ima_Market"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/ima-keithel.webp",
+          "alt": "Ima Keithel, Imphal",
+          "credit": "PP Yoonu",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imphal,_Manipur_(62).jpeg"
+        }
+      ]
+    },
+    {
+      "name": "Shree Govindajee Temple",
+      "slug": "shree-govindajee-temple",
+      "city": "imphal",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "The largest Vaishnava temple in Imphal, next to the old royal palace, with twin gold domes.",
+      "description": "A simple and beautiful temple with a large hall where Manipuri devotional dance is performed at festivals like Yaoshang.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "bestTimeNote": "Manipur has had serious unrest in recent years, and visitors need an Inner Line Permit, so check current advice before planning a trip.",
+      "location": {
+        "lat": 24.7978,
+        "lng": 93.9485,
+        "address": "Imphal, Manipur"
+      },
+      "highlights": [
+        "Gold domes",
+        "Ras Lila dance",
+        "Royal palace next door"
+      ],
+      "sources": [
+        {
+          "title": "Shree Govindajee Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shree_Govindajee_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/shree-govindajee-temple.webp",
+          "alt": "Shree Govindajee Temple, Imphal",
+          "credit": "Bimal thongam",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:FB7A9290.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Manipur State Museum",
+      "slug": "manipur-state-museum",
+      "city": "imphal",
+      "kind": "museum",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A museum in Imphal, with costumes, royal boats and arms from the Meitei kingdom.",
+      "description": "A good introduction to Manipur's varied cultures, with a long royal boat and displays of tribal dress and crafts.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "bestTimeNote": "Manipur has had serious unrest in recent years, and visitors need an Inner Line Permit, so check current advice before planning a trip.",
+      "location": {
+        "lat": 24.8049,
+        "lng": 93.9371,
+        "address": "Imphal, Manipur"
+      },
+      "highlights": [
+        "Royal boat",
+        "Tribal costumes",
+        "Near Kangla"
+      ],
+      "sources": [
+        {
+          "title": "Manipur State Museum – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Manipur_State_Museum"
+        }
+      ]
+    },
+    {
+      "name": "Shirui Kashong Peak",
+      "slug": "shirui-kashong-peak",
+      "city": "ukhrul",
+      "kind": "trek",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A hill near Ukhrul, the only home of the rare Shirui Lily, the state flower, which blooms in May.",
+      "description": "A trek through grass and forest to the top of the peak, among the lilies that bloom nowhere else on earth. A festival is held in May.",
+      "bestMonths": [
+        4,
+        5,
+        6
+      ],
+      "bestTimeNote": "Manipur has had serious unrest in recent years, and visitors need an Inner Line Permit, so check current advice before planning a trip.",
+      "location": {
+        "lat": 25.1,
+        "lng": 94.3616,
+        "address": "Ukhrul, Manipur"
+      },
+      "highlights": [
+        "Shirui Lily",
+        "Shirui Lily Festival",
+        "Tangkhul villages"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Ukhrul – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ukhrul"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/shirui-kashong-peak.webp",
+          "alt": "Shirui Kashong Peak, Ukhrul",
+          "credit": "Ac apam",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Partial_View_of_North-Eastern_Ukhrul_Town_01.JPG"
         }
       ]
     }

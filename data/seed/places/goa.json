@@ -4,6 +4,7 @@
       "name": "Old Goa",
       "slug": "old-goa",
       "overview": "Once the capital of Portuguese India and said to rival Lisbon in size, Old Goa is now a quiet collection of grand churches and convents beside the Mandovi River, 10 km from Panaji.",
+      "isHub": true,
       "location": {
         "lat": 15.5009,
         "lng": 73.9116
@@ -34,6 +35,54 @@
       "location": {
         "lat": 15.3368,
         "lng": 74.2199
+      }
+    },
+    {
+      "name": "Panaji",
+      "slug": "panaji",
+      "overview": "Goa's small riverside capital on the Mandovi, with Portuguese lanes in Fontainhas and beaches at its edge.",
+      "history": "It became the capital of Portuguese India in 1843, replacing Old Goa, which had been abandoned after epidemics. It joined India with the rest of Goa in 1961.",
+      "isHub": true,
+      "location": {
+        "lat": 15.4989,
+        "lng": 73.8278
+      }
+    },
+    {
+      "name": "Margao",
+      "slug": "margao",
+      "overview": "Goa's commercial capital in the south, and the base for the beaches and Portuguese-era houses of Salcete.",
+      "isHub": true,
+      "location": {
+        "lat": 15.2736,
+        "lng": 73.9581
+      }
+    },
+    {
+      "name": "Mapusa",
+      "slug": "mapusa",
+      "overview": "North Goa's market town, and the road hub for the northern beaches and Anjuna.",
+      "location": {
+        "lat": 15.5937,
+        "lng": 73.8142
+      }
+    },
+    {
+      "name": "Ponda",
+      "slug": "ponda",
+      "overview": "Goa's temple country, inland among spice farms, where Hindu shrines moved during Portuguese rule.",
+      "location": {
+        "lat": 15.4034,
+        "lng": 74.0152
+      }
+    },
+    {
+      "name": "Vasco da Gama",
+      "slug": "vasco-da-gama",
+      "overview": "A port town on the Mormugao peninsula, near the airport.",
+      "location": {
+        "lat": 15.3982,
+        "lng": 73.8113
       }
     }
   ],
@@ -402,6 +451,1066 @@
         {
           "title": "Divar – Wikipedia",
           "url": "https://en.wikipedia.org/wiki/Divar"
+        }
+      ]
+    },
+    {
+      "name": "Our Lady of the Immaculate Conception Church",
+      "slug": "immaculate-conception-church-panaji",
+      "city": "panaji",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "The white zigzag-stair church above Panaji's main square, first built in 1541.",
+      "description": "A brilliant white Portuguese Baroque church reached by a criss-cross staircase, right in the centre of town. Sailors once stopped here on arrival from Lisbon.",
+      "history": "First built in 1541 as a chapel, it was later rebuilt.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 15.4983,
+        "lng": 73.8294,
+        "address": "Panaji, Goa"
+      },
+      "highlights": [
+        "Zigzag staircase",
+        "Evening light",
+        "Goa's Church Square"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Our Lady of the Immaculate Conception Church, Goa – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Our_Lady_of_the_Immaculate_Conception_Church,_Goa"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/immaculate-conception-church-panaji.webp",
+          "alt": "Our Lady of the Immaculate Conception Church, Panaji",
+          "credit": "Sailko",
+          "license": "CC BY 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panaji,_nostra_signora_dell%27immacolata_concezione,_esterno_04.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Reis Magos Fort",
+      "slug": "reis-magos-fort",
+      "city": "panaji",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A restored Portuguese fort on the north bank of the Mandovi, opposite Panaji.",
+      "description": "A small red fort with views across the river to the capital. It has been restored and now has a small exhibition on Goa's history.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 15.4969,
+        "lng": 73.8089,
+        "address": "Panaji, Goa"
+      },
+      "highlights": [
+        "Mandovi River view",
+        "Art and history displays",
+        "Reis Magos Church"
+      ],
+      "sources": [
+        {
+          "title": "Reis Magos – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Reis_Magos"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/reis-magos-fort.webp",
+          "alt": "Reis Magos Fort, Panaji",
+          "credit": "Rajib Ghosh",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Reis_Magos_Fort_-_View_from_Mandovi_River.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Miramar Beach",
+      "slug": "miramar-beach-goa",
+      "city": "panaji",
+      "kind": "beach",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "Panaji's city beach, where the Mandovi meets the Arabian Sea, popular for sunset walks.",
+      "description": "A wide golden beach a short ride from the city centre, with views of Fort Aguada across the river. It's best for walks, not swimming.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 15.4831,
+        "lng": 73.8072,
+        "address": "Panaji, Goa"
+      },
+      "highlights": [
+        "Sunset",
+        "Promenade",
+        "View of Aguada"
+      ],
+      "sources": [
+        {
+          "title": "Miramar, Goa – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Miramar,_Goa"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/miramar-beach-goa.webp",
+          "alt": "Miramar Beach, Panaji",
+          "credit": "Nikhilb239",
+          "license": "CC BY 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Miramar_24022016.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Dona Paula",
+      "slug": "dona-paula",
+      "city": "panaji",
+      "kind": "neighbourhood",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A headland at the meeting of the Zuari and Mandovi, with a viewpoint and water sports.",
+      "description": "A jetty and viewpoint between two rivers, close to the National Institute of Oceanography. It's a good spot for the sunset and for water sports.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 15.4506,
+        "lng": 73.8033,
+        "address": "Panaji, Goa"
+      },
+      "highlights": [
+        "Jetty viewpoint",
+        "Water sports",
+        "Sunset"
+      ],
+      "sources": [
+        {
+          "title": "Dona Paula – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dona_Paula"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/dona-paula.webp",
+          "alt": "Dona Paula, Panaji",
+          "credit": "SahilSahadevan",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fishing_Boats_anchored_at_Dona_Paula_,_Goa.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Salim Ali Bird Sanctuary",
+      "slug": "salim-ali-bird-sanctuary-goa",
+      "city": "panaji",
+      "kind": "sanctuary",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A mangrove bird sanctuary on Chorão Island, on the Mandovi, named after the great ornithologist.",
+      "description": "A boat trip through the mangroves shows kingfishers, herons and mudskippers. Take the free ferry from Ribandar, and get there early.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 15.5146,
+        "lng": 73.8575,
+        "address": "Panaji, Goa"
+      },
+      "highlights": [
+        "Mangrove channels",
+        "Kingfishers",
+        "Ribandar ferry"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Salim Ali Bird Sanctuary – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Salim_Ali_Bird_Sanctuary"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/salim-ali-bird-sanctuary-goa.webp",
+          "alt": "Salim Ali Bird Sanctuary, Panaji",
+          "credit": "Shyamal",
+          "license": "CC0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Salim_Ali_Sanctuary.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Chapora Fort",
+      "slug": "chapora-fort",
+      "city": "mapusa",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The Dil Chahta Hai fort, an Adil Shahi site rebuilt by the Portuguese, high over Vagator.",
+      "description": "Crumbling red walls on a hill, with a wide view of the Chapora River and the northern beaches. It's become a popular place to go at sunset.",
+      "history": "Built by Adil Shah as Shahpoora, and rebuilt by the Portuguese in 1617.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 15.6061,
+        "lng": 73.7364,
+        "address": "Mapusa, Goa"
+      },
+      "highlights": [
+        "Sunset over Vagator",
+        "River mouth view",
+        "Film-famous walls"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Chapora Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chapora_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/chapora-fort.webp",
+          "alt": "Chapora Fort, Mapusa",
+          "credit": "Nikhilb239",
+          "license": "CC BY 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fort_Chapora_26012016.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Anjuna Beach",
+      "slug": "anjuna-beach",
+      "city": "mapusa",
+      "kind": "beach",
+      "categories": [
+        "adventure"
+      ],
+      "shortDescription": "A rocky beach in Bardez, with a famous Wednesday flea market and a history of hippie travel.",
+      "description": "Rocks and coves, with a big weekly flea market in season and beach shacks. It's been a centre of Goa's hippie and party scene since the 1960s.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 15.5948,
+        "lng": 73.7509,
+        "address": "Mapusa, Goa"
+      },
+      "highlights": [
+        "Wednesday flea market",
+        "Rocky shore",
+        "Curlies and shacks"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Anjuna – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Anjuna"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/anjuna-beach.webp",
+          "alt": "Anjuna Beach, Mapusa",
+          "credit": "Vyacheslav Argenberg",
+          "license": "CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anjuna_Beach,_Goa,_India,_Legendary_Curlies_beach_shack.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Vagator Beach",
+      "slug": "vagator-beach",
+      "city": "mapusa",
+      "kind": "beach",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "Red cliffs and a small beach in North Goa, below Chapora Fort.",
+      "description": "Red laterite cliffs drop to the sand, with a carved face in the rocks at Little Vagator. It's quieter than Baga and has a good sunset.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 15.598,
+        "lng": 73.7448,
+        "address": "Mapusa, Goa"
+      },
+      "highlights": [
+        "Red cliffs",
+        "Little Vagator's rock face",
+        "Chapora Fort above"
+      ],
+      "sources": [
+        {
+          "title": "Vagator Beach – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Vagator_Beach"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/vagator-beach.webp",
+          "alt": "Vagator Beach, Mapusa",
+          "credit": "Saaremee",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vagator_Beach-Goa_India-Andres_Larin.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Baga Beach",
+      "slug": "baga-beach",
+      "city": "calangute",
+      "kind": "beach",
+      "categories": [
+        "adventure"
+      ],
+      "shortDescription": "North Goa's liveliest beach, with water sports, nightclubs and Baga Creek at one end.",
+      "description": "Busy beach shacks and water sports by day, with clubs on Tito's Lane by night. It's a loud and popular stretch, 2 km north of Calangute.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 15.5589,
+        "lng": 73.7533,
+        "address": "Calangute, Goa"
+      },
+      "highlights": [
+        "Water sports",
+        "Tito's Lane nightlife",
+        "Baga Creek"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Baga, Goa – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Baga,_Goa"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/baga-beach.webp",
+          "alt": "Baga Beach, Calangute",
+          "credit": "McKay Savage",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:India_-_Goa_-_010_-_Touristy_Baga_Beach.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Candolim Beach",
+      "slug": "candolim-beach",
+      "city": "calangute",
+      "kind": "beach",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A long, quieter beach just south of Calangute, running down to Fort Aguada.",
+      "description": "A wide beach with plenty of shacks and fewer crowds than Baga. The wreck of the River Princess was a landmark here for years.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 15.52,
+        "lng": 73.75,
+        "address": "Calangute, Goa"
+      },
+      "highlights": [
+        "Long beach walk",
+        "Beach shacks",
+        "Near Fort Aguada"
+      ],
+      "sources": [
+        {
+          "title": "Candolim – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Candolim"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/candolim-beach.webp",
+          "alt": "Candolim Beach, Calangute",
+          "credit": "iMahesh",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sinquerim_Beach_from_the_fort_during_Sunset.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Arambol Beach",
+      "slug": "arambol-beach",
+      "city": "mapusa",
+      "kind": "beach",
+      "categories": [
+        "adventure"
+      ],
+      "shortDescription": "Goa's northern hippie village beach, with a sweet water lake, drum circles and paragliding.",
+      "description": "A long beach with yoga, music and a small freshwater lake just behind the headland. Paragliders launch from the cliffs in the north.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 15.7,
+        "lng": 73.7,
+        "address": "Mapusa, Goa"
+      },
+      "highlights": [
+        "Sweet Water Lake",
+        "Sunset drum circles",
+        "Paragliding"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Arambol – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Arambol"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/arambol-beach.webp",
+          "alt": "Arambol Beach, Mapusa",
+          "credit": "Alexey Komarov",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arambol_2022-01-04-2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Morjim Beach",
+      "slug": "morjim-beach",
+      "city": "mapusa",
+      "kind": "beach",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A beach in Pernem, on the Chapora estuary, and a nesting site for Olive Ridley turtles.",
+      "description": "A broad, quiet beach that's protected for nesting turtles in winter. Many Russian visitors stay here, and it's also a kite-surfing spot.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 15.6294,
+        "lng": 73.7358,
+        "address": "Mapusa, Goa"
+      },
+      "highlights": [
+        "Olive Ridley turtles",
+        "Kite surfing",
+        "Chapora estuary"
+      ],
+      "sources": [
+        {
+          "title": "Morjim – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Morjim"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/morjim-beach.webp",
+          "alt": "Morjim Beach, Mapusa",
+          "credit": "Ssr",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Morjim_Goa_view.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Fort Tiracol",
+      "slug": "fort-tiracol",
+      "city": "mapusa",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A Portuguese fort at Goa's northern tip, on the Terekhol River, now a heritage hotel.",
+      "description": "A small fort with a chapel, reached by a short ferry from Querim. It's right at the Maharashtra border, with big sea views.",
+      "history": "A key site of the 1955 Satyagraha against Portuguese rule.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 15.7306,
+        "lng": 73.682,
+        "address": "Mapusa, Goa"
+      },
+      "highlights": [
+        "Ferry from Querim",
+        "Chapel in the fort",
+        "Sea views"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Fort Tiracol – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Fort_Tiracol"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/fort-tiracol.webp",
+          "alt": "Fort Tiracol, Mapusa",
+          "credit": "Goaholidayhomes at English Wikipedia",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terekhol_Fort_2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Colva Beach",
+      "slug": "colva-beach",
+      "city": "margao",
+      "kind": "beach",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A 2.5 km stretch of white sand in Salcete, the most popular beach in South Goa.",
+      "description": "Fine sand and coconut palms, with an easy bus from Margao. It's busy with Indian holiday-makers at weekends, and water sports are available.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 15.2761,
+        "lng": 73.9172,
+        "address": "Margao, Goa"
+      },
+      "highlights": [
+        "White sand",
+        "Water sports",
+        "Menino Jesus Church"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Colva – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Colva"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/colva-beach.webp",
+          "alt": "Colva Beach, Margao",
+          "credit": "Tanya Dedyukhina",
+          "license": "CC BY 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:GOA_Colva_Beach_-_panoramio.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Benaulim Beach",
+      "slug": "benaulim-beach",
+      "city": "margao",
+      "kind": "beach",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A calm beach in South Goa, quieter than Colva, in a village of old Portuguese houses.",
+      "description": "A calm, wide beach with fishing boats and slow-paced shacks. The Goa Chitra museum of Goan life is in the village.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 15.25,
+        "lng": 73.92,
+        "address": "Margao, Goa"
+      },
+      "highlights": [
+        "Fishing boats",
+        "Goa Chitra Museum",
+        "Quiet shacks"
+      ],
+      "sources": [
+        {
+          "title": "Benaulim – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Benaulim"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/benaulim-beach.webp",
+          "alt": "Benaulim Beach, Margao",
+          "credit": "Ray Swi-hymn",
+          "license": "CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:20191211_Benaulim_4885.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Braganza House",
+      "slug": "braganza-house",
+      "city": "margao",
+      "kind": "museum",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A grand 17th-century Portuguese-era mansion in Chandor, still lived in by the same family.",
+      "description": "A long facade hides halls of Chinese porcelain, rosewood furniture and a ballroom. Two wings are owned by different branches of the family, and guided tours are by donation.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 15.2612,
+        "lng": 74.0435,
+        "address": "Margao, Goa"
+      },
+      "highlights": [
+        "Ballroom",
+        "Family porcelain",
+        "Chandor village"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Chandor – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chandor"
+        }
+      ]
+    },
+    {
+      "name": "Agonda Beach",
+      "slug": "agonda-beach",
+      "city": "canacona",
+      "kind": "beach",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A quiet, long beach in Canacona, one of four turtle nesting sites under Indian coastal rules.",
+      "description": "A long, unspoiled stretch of sand with low-key huts. It's a great place to slow down, with Olive Ridley turtles in season.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 15.0509,
+        "lng": 73.9876,
+        "address": "Canacona, Goa"
+      },
+      "highlights": [
+        "Turtle nesting",
+        "Quiet stretch",
+        "Beach huts"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Agonda – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Agonda"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/agonda-beach.webp",
+          "alt": "Agonda Beach, Canacona",
+          "credit": "Sobarwiki",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Agonda_beach.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Cabo de Rama Fort",
+      "slug": "cabo-de-rama-fort",
+      "city": "canacona",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "An old hillfort on a high cape in Canacona, with a small church and wide sea views.",
+      "description": "Crumbling walls, an old cannon and a white chapel on a windy headland. Few people come here, and it's great at sunset.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 15.0881,
+        "lng": 73.9199,
+        "address": "Canacona, Goa"
+      },
+      "highlights": [
+        "Clifftop views",
+        "St. Anthony's Chapel",
+        "Rusty cannons"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Cabo de Rama Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Cabo_de_Rama_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/cabo-de-rama-fort.webp",
+          "alt": "Cabo de Rama Fort, Canacona",
+          "credit": "Trinidade",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cabo_de_Rama_Entrance.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Cotigao Wildlife Sanctuary",
+      "slug": "cotigao-wildlife-sanctuary",
+      "city": "canacona",
+      "kind": "sanctuary",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A forest sanctuary in Canacona, established in 1968, known for treetop watchtowers.",
+      "description": "Goa's second largest sanctuary, with tall forest and a treetop tower to watch wildlife. Go early, as most animals are hard to see later on.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 14.976,
+        "lng": 74.206,
+        "address": "Canacona, Goa"
+      },
+      "highlights": [
+        "Treetop tower",
+        "Forest walks",
+        "Birdwatching"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Cotigao Wildlife Sanctuary – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Cotigao_Wildlife_Sanctuary"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/cotigao-wildlife-sanctuary.webp",
+          "alt": "Cotigao Wildlife Sanctuary, Canacona",
+          "credit": "Vikram2784",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Somewhere_in_the_interiors_of_Cotigao.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Bhagwan Mahaveer Sanctuary",
+      "slug": "bhagwan-mahaveer-sanctuary",
+      "city": "mollem",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A 240 sq km forest reserve in Goa's Western Ghats, around Dudhsagar and Tambdi Surla.",
+      "description": "Goa's largest protected area, on the Karnataka border, with gaur, hornbills and the Devil's Canyon gorge. It's also home to the Dudhsagar Falls.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 15.3736,
+        "lng": 74.2586,
+        "address": "Mollem, Goa"
+      },
+      "highlights": [
+        "Devil's Canyon",
+        "Gaur and hornbills",
+        "Trails to Tambdi Surla"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Bhagwan Mahaveer Sanctuary and Mollem National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bhagwan_Mahaveer_Sanctuary_and_Mollem_National_Park"
+        }
+      ]
+    },
+    {
+      "name": "Mahadev Temple, Tambdi Surla",
+      "slug": "mahadev-temple-tambdi-surla",
+      "city": "mollem",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A small 13th-century stone Shiva temple deep in the Goan forest, the state's oldest temple.",
+      "description": "A black basalt Kadamba temple that survived because it was hidden in the forest. It's a beautifully carved building, in a clearing beside a stream.",
+      "history": "Built in the Kadamba period, around the 13th century.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 15.439,
+        "lng": 74.2525,
+        "address": "Mollem, Goa"
+      },
+      "highlights": [
+        "Black basalt carving",
+        "Forest setting",
+        "Nearby waterfall"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Mahadev Temple, Tambdi Surla – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mahadev_Temple,_Tambdi_Surla"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/mahadev-temple-tambdi-surla.webp",
+          "alt": "Mahadev Temple, Tambdi Surla, Mollem",
+          "credit": "Mahabalaindia",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shri_Mahadev_Temple,_Tambdi_Surla,_Goa.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Bondla Wildlife Sanctuary",
+      "slug": "bondla-wildlife-sanctuary",
+      "city": "ponda",
+      "kind": "sanctuary",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "Goa's smallest sanctuary, 7.98 sq km, with a mini zoo, deer park and botanical garden.",
+      "description": "A small park that's good for families, with a small zoo and a nature trail in the Western Ghats foothills.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 15.4397,
+        "lng": 74.1059,
+        "address": "Ponda, Goa"
+      },
+      "highlights": [
+        "Mini zoo",
+        "Botanical garden",
+        "Deer park"
+      ],
+      "sources": [
+        {
+          "title": "Bondla Wildlife Sanctuary – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bondla_Wildlife_Sanctuary"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/bondla-wildlife-sanctuary.webp",
+          "alt": "Bondla Wildlife Sanctuary, Ponda",
+          "credit": "Mitul and Vijul",
+          "license": "CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Common_Sailer.png"
+        }
+      ]
+    },
+    {
+      "name": "Shri Mangueshi Temple",
+      "slug": "mangueshi-temple",
+      "city": "ponda",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A large white Shiva temple at Mangueshi in Ponda, 21 km from Panaji, with a tall lamp tower.",
+      "description": "A distinctive white temple with a domed roof, a Goan blend of styles, and a seven-storey lamp tower. Its deity was moved inland during Portuguese rule.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 15.5163,
+        "lng": 73.983,
+        "address": "Ponda, Goa"
+      },
+      "highlights": [
+        "Seven-storey lamp tower",
+        "Temple tank",
+        "Goan-style dome"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Mangueshi Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mangueshi_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/mangueshi-temple.webp",
+          "alt": "Shri Mangueshi Temple, Ponda",
+          "credit": "Aruna at Malayalam Wikipedia",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shri-Mangesh-Temple,Goa.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Naval Aviation Museum",
+      "slug": "naval-aviation-museum-goa",
+      "city": "vasco-da-gama",
+      "kind": "museum",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A military aviation museum at Bogmalo, 6 km from Vasco, with old Indian Navy aircraft.",
+      "description": "Retired aircraft stand outside, while the galleries indoors cover uniforms and naval flying history. It's one of the few military aviation museums in India.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 15.3747,
+        "lng": 73.8385,
+        "address": "Vasco da Gama, Goa"
+      },
+      "highlights": [
+        "Sea Hawk and Super Constellation",
+        "Indoor exhibits",
+        "Bogmalo Beach nearby"
+      ],
+      "sources": [
+        {
+          "title": "Naval Aviation Museum (Goa) – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Naval_Aviation_Museum_(Goa)"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/naval-aviation-museum-goa.webp",
+          "alt": "Naval Aviation Museum, Vasco da Gama",
+          "credit": "Vinayaraj",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naval_Aviation_Museum,_Goa_(India)_vrvbgoa2k24_(69).jpg"
         }
       ]
     }

@@ -4,12 +4,13 @@
 //   node scripts/fetch-photos.ts                 places without photos
 //   node scripts/fetch-photos.ts --skip a,b      also leave these places out (see KNOWN_BAD below)
 //   node scripts/fetch-photos.ts --only a,b      redo just these places
+//   node scripts/fetch-photos.ts --file "a=File name.jpg|b=Other.jpg"   use these Commons files for these places
 import { mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import { parseArgs } from "node:util";
 import sharp from "sharp";
 
-const { values } = parseArgs({ options: { skip: { type: "string" }, only: { type: "string" } } });
+const { values } = parseArgs({ options: { skip: { type: "string" }, only: { type: "string" }, file: { type: "string" } } });
 // Lead photos checked by hand and found wrong: a satellite view, or the town an article is about rather than the place.
 const KNOWN_BAD = [
   "pangong-tso",
@@ -20,9 +21,29 @@ const KNOWN_BAD = [
   "pavana-lake",
   "juhu-beach",
   "byculla-zoo",
+  "bet-dwarka",
+  "bhagwan-mahaveer-sanctuary",
+  "takht-sri-kesgarh-sahib",
+  "ram-mandir-ayodhya",
+  "katarniaghat-wildlife-sanctuary",
+  "point-calimere-sanctuary",
+  "panambur-beach",
+  "calico-museum-of-textiles",
+  "rankala-lake",
+  "guindy-national-park",
+  "sims-park-coonoor",
+  "chitrakoot-dham",
+  "mindrolling-monastery",
+  "manipur-state-museum",
+  "rock-garden-ranchi",
+  "paradise-beach-puducherry",
+  "ravangla-buddha-park",
+  "kalpeni-island",
+  "mainpat",
 ];
+const chosen = new Map(values.file?.split("|").map((pair) => pair.split("=") as [string, string]));
 const skip = new Set([...KNOWN_BAD, ...(values.skip?.split(",") ?? [])]);
-const only = values.only ? new Set(values.only.split(",")) : null;
+const only = chosen.size ? new Set(chosen.keys()) : values.only ? new Set(values.only.split(",")) : null;
 const placesDir = new URL("../data/seed/places/", import.meta.url);
 const outDir = new URL("../public/places/", import.meta.url);
 mkdirSync(outDir, { recursive: true });
@@ -31,7 +52,15 @@ const H = { headers: { "User-Agent": "TravelBharat/0.1 (student project; https:/
 const FREE = /^(CC BY(-SA)? [\d.]+|CC0|Public domain|GFDL[\s\d.]*|FAL)$/i;
 const strip = (s = "") => s.replace(/<[^>]+>/g, "").replace(/\s+/g, " ").trim();
 const wait = (ms: number) => new Promise((r) => setTimeout(r, ms));
-const json = async (url: string) => (await fetch(url, H)).json();
+// Wikimedia answers in plain text when rate limited: wait and ask again.
+const json = async (url: string) => {
+  for (let i = 0; i < 6; i++) {
+    const text = await (await fetch(url, H)).text();
+    if (text.startsWith("{")) return JSON.parse(text);
+    await wait(60_000);
+  }
+  throw new Error(`Still rate limited: ${url}`);
+};
 
 // Commons author fields are free text; keep just the name.
 function cleanCredit(raw: string) {
@@ -50,10 +79,26 @@ function cleanCredit(raw: string) {
 type Image = { url: string; alt: string; credit?: string; license?: string; sourceUrl?: string };
 type Place = { slug: string; name: string; city: string; images?: Image[]; sources: { url: string }[] };
 
-async function leadPhoto(title: string) {
-  const q = await json(`https://en.wikipedia.org/w/api.php?action=query&format=json&redirects=1&prop=pageimages&piprop=name&titles=${encodeURIComponent(title)}`);
-  const file = (Object.values(q.query.pages)[0] as { pageimage?: string }).pageimage;
-  if (!file) return null;
+// Words too general to tell one place's photo from another's.
+const GENERIC = /^(the|and|temple|temples|fort|palace|national|park|wildlife|sanctuary|bird|beach|lake|falls|waterfall|caves?|india|indian|great|district|himachal|pradesh|karnataka|kerala|goa|tamil|nadu|gujarat|uttarakhand|rajasthan|maharashtra)$/;
+
+// The lead image first. When that can't be used, another photo from the article whose file name names the place.
+async function articlePhoto(title: string) {
+  const q = await json(`https://en.wikipedia.org/w/api.php?action=query&format=json&redirects=1&prop=pageimages|images&piprop=name&imlimit=100&titles=${encodeURIComponent(title)}`);
+  const page = Object.values(q.query.pages)[0] as { pageimage?: string; images?: { title: string }[] };
+  const words = title.toLowerCase().split(/[^a-z]+/).filter((w) => w.length > 2 && !GENERIC.test(w));
+  const others = (page.images ?? [])
+    .map((i) => i.title.replace(/^File:/, ""))
+    .filter((f) => /\.jpe?g$/i.test(f) && words.some((w) => f.toLowerCase().includes(w)) && !/map|logo|satellite/i.test(f));
+  for (const file of [...(page.pageimage ? [page.pageimage] : []), ...others].slice(0, 6)) {
+    const photo = await commonsPhoto(file);
+    if (photo) return photo;
+    await wait(500);
+  }
+  return null;
+}
+
+async function commonsPhoto(file: string) {
   const c = await json(`https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url|extmetadata|size|mime&iiurlwidth=1280&titles=${encodeURIComponent("File:" + file)}`);
   type Info = { thumburl: string; descriptionurl: string; mime: string; width: number; extmetadata?: Record<string, { value: string }> };
   const ii = (Object.values(c.query.pages)[0] as { imageinfo?: Info[] }).imageinfo?.[0];
@@ -72,7 +117,8 @@ for (const f of readdirSync(placesDir)) {
     if (skip.has(p.slug) || (only ? !only.has(p.slug) : p.images?.length)) continue;
     const wiki = p.sources.find((s) => s.url.includes("en.wikipedia.org/wiki/"));
     if (!wiki) continue;
-    const photo = await leadPhoto(decodeURIComponent(wiki.url.split("/wiki/")[1]).replace(/_/g, " "));
+    const commonsFile = chosen.get(p.slug);
+    const photo = commonsFile ? await commonsPhoto(commonsFile) : await articlePhoto(decodeURIComponent(wiki.url.split("/wiki/")[1]).replace(/_/g, " "));
     await wait(1000);
     if (!photo) {
       console.log(`no usable photo: ${p.slug}`);

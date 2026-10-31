@@ -4,6 +4,8 @@
       "name": "Shimla",
       "slug": "shimla",
       "overview": "The former summer capital of British India, spread along a ridge at about 2,200 metres. Its colonial buildings, Mall Road and toy-train link to Kalka make it Himachal's best-known hill station.",
+      "history": "A small hill village until the British took it up in the 19th century and made it the summer capital of British India from 1864. The government moved here from the plains every year until Independence.",
+      "isHub": true,
       "location": {
         "lat": 31.1048,
         "lng": 77.1734
@@ -13,6 +15,7 @@
       "name": "Manali",
       "slug": "manali",
       "overview": "A mountain town at the head of the Kullu Valley on the Beas River, the base for Solang Valley, the Atal Tunnel and the road to Lahaul, Spiti and Ladakh.",
+      "isHub": true,
       "location": {
         "lat": 32.2432,
         "lng": 77.1892
@@ -22,6 +25,8 @@
       "name": "Dharamshala",
       "slug": "dharamshala",
       "overview": "A town in the Kangra Valley beneath the Dhauladhar range. Upper Dharamshala, McLeod Ganj, is the home of the Dalai Lama and the Tibetan government-in-exile.",
+      "history": "The headquarters of Kangra district since 1855, and home of the 14th Dalai Lama and the Tibetan government-in-exile since 1960.",
+      "isHub": true,
       "location": {
         "lat": 32.219,
         "lng": 76.3234
@@ -43,6 +48,87 @@
       "location": {
         "lat": 32.2276,
         "lng": 78.0718
+      }
+    },
+    {
+      "name": "Kullu",
+      "slug": "kullu",
+      "overview": "The valley town on the Beas, known for shawls and Dussehra, and the gateway to Parvati Valley.",
+      "location": {
+        "lat": 31.9578,
+        "lng": 77.1095
+      }
+    },
+    {
+      "name": "Kasol",
+      "slug": "kasol",
+      "overview": "A riverside hamlet in Parvati Valley, a base for backpackers and treks.",
+      "location": {
+        "lat": 32.0097,
+        "lng": 77.3139
+      }
+    },
+    {
+      "name": "Palampur",
+      "slug": "palampur",
+      "overview": "A tea town in the Kangra Valley under the Dhauladhar range.",
+      "location": {
+        "lat": 32.1097,
+        "lng": 76.5366
+      }
+    },
+    {
+      "name": "Kangra",
+      "slug": "kangra",
+      "overview": "An old town at the foot of the Dhauladhars, known for its fort and its miniature painting.",
+      "location": {
+        "lat": 32.0998,
+        "lng": 76.2691
+      }
+    },
+    {
+      "name": "Dalhousie",
+      "slug": "dalhousie",
+      "overview": "A colonial hill station across five hills in Chamba district.",
+      "location": {
+        "lat": 32.53,
+        "lng": 75.98
+      }
+    },
+    {
+      "name": "Chamba",
+      "slug": "chamba",
+      "overview": "An old hill capital on the Ravi River, known for its stone temples and embroidered handkerchiefs.",
+      "location": {
+        "lat": 32.1482,
+        "lng": 76.4186
+      }
+    },
+    {
+      "name": "Kinnaur",
+      "slug": "kinnaur",
+      "overview": "A high apple-growing district on the Sutlej, with Kalpa and Sangla its best-known stops.",
+      "location": {
+        "lat": 31.5359,
+        "lng": 78.2708
+      }
+    },
+    {
+      "name": "Mandi",
+      "slug": "mandi",
+      "overview": "A town of old stone temples on the Beas, and the base for two sacred lakes.",
+      "location": {
+        "lat": 31.7084,
+        "lng": 76.9319
+      }
+    },
+    {
+      "name": "Sirmaur",
+      "slug": "sirmaur",
+      "overview": "The south-eastern corner of Himachal, home to the state's largest lake.",
+      "location": {
+        "lat": 30.5569,
+        "lng": 77.2954
       }
     }
   ],
@@ -151,6 +237,15 @@
         {
           "title": "Hidimba Devi Temple – Wikipedia",
           "url": "https://en.wikipedia.org/wiki/Hidimba_Devi_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/hadimba-devi-temple.webp",
+          "alt": "Hadimba Devi Temple, Manali",
+          "credit": "Ganesh Mohan T",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hidimba_Devi_Temple,_Dhungri_Manali.jpg"
         }
       ]
     },
@@ -371,6 +466,1432 @@
           "credit": "Pranav perspective",
           "license": "CC BY-SA 4.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:1000_Year_loop.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Rashtrapati Niwas",
+      "slug": "rashtrapati-niwas",
+      "city": "shimla",
+      "kind": "palace",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The former Viceregal Lodge on Observatory Hill, summer home of the British Viceroys.",
+      "description": "A grey stone Scottish-style mansion with wood-panelled rooms and big lawns. Guided tours take in the rooms where the Partition of India was discussed.",
+      "history": "Formerly the Viceroy's residence. The building now also houses the Indian Institute of Advanced Study.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 31.1037,
+        "lng": 77.1419,
+        "address": "Shimla, Himachal Pradesh"
+      },
+      "highlights": [
+        "Guided interior tour",
+        "Teak-panelled halls",
+        "Lawns with Himalayan views"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Rashtrapati Niwas – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Rashtrapati_Niwas"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/rashtrapati-niwas.webp",
+          "alt": "Rashtrapati Niwas, Shimla",
+          "credit": "Dgp4004",
+          "license": "CC0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Viceregal_Lodge,_Simla,_India.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Jakhu Temple",
+      "slug": "jakhu-temple",
+      "city": "shimla",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A Hanuman temple on Shimla's highest peak, 2,455 m, with a giant statue of the god.",
+      "description": "A steep 2.5 km walk or a short ropeway ride from the Ridge. The giant orange Hanuman can be seen from most of the town, and the monkeys here will take your glasses.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 31.1012,
+        "lng": 77.1818,
+        "address": "Shimla, Himachal Pradesh"
+      },
+      "highlights": [
+        "Giant Hanuman statue",
+        "Ropeway from the Mall",
+        "Thieving monkeys"
+      ],
+      "sources": [
+        {
+          "title": "Jakhu Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jakhu_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/jakhu-temple.webp",
+          "alt": "Jakhu Temple, Shimla",
+          "credit": "Rohan1331",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jakhoo_temple.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Christ Church, Shimla",
+      "slug": "christ-church-shimla",
+      "city": "shimla",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "The second oldest church in north India, a pale yellow landmark on the Ridge.",
+      "description": "Its neo-Gothic tower and stained glass windows make it the most recognisable sight on Shimla's skyline. Services are held in Hindi and English.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 31.104,
+        "lng": 77.176,
+        "address": "Shimla, Himachal Pradesh"
+      },
+      "highlights": [
+        "Stained glass",
+        "Neo-Gothic tower",
+        "Ridge views"
+      ],
+      "sources": [
+        {
+          "title": "Christ Church, Shimla – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Christ_Church,_Shimla"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/christ-church-shimla.webp",
+          "alt": "Christ Church, Shimla, Shimla",
+          "credit": "ShashankSharma2511",
+          "license": "CC BY 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Christ_Church,_Shimla.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kufri",
+      "slug": "kufri",
+      "city": "shimla",
+      "kind": "hill-station",
+      "categories": [
+        "adventure"
+      ],
+      "shortDescription": "A small hill resort 12 km from Shimla, known for yak rides, snow and a Himalayan nature park.",
+      "description": "A busy stop on the road out of Shimla, with pony rides up to Mahasu Peak and snow play in winter. The Himalayan Nature Park keeps local wildlife.",
+      "bestMonths": [
+        12,
+        1,
+        2,
+        4,
+        5,
+        6
+      ],
+      "location": {
+        "lat": 31.0979,
+        "lng": 77.2678,
+        "address": "Shimla, Himachal Pradesh"
+      },
+      "highlights": [
+        "Mahasu Peak",
+        "Himalayan Nature Park",
+        "Winter snow"
+      ],
+      "sources": [
+        {
+          "title": "Kufri, India – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kufri,_India"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kufri.webp",
+          "alt": "Kufri, Shimla",
+          "credit": "Jeyasree S.B",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kufri_hills.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Chail",
+      "slug": "chail",
+      "city": "shimla",
+      "kind": "hill-station",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A quiet hill station 44 km from Shimla, with a Maharaja's palace and one of the world's highest cricket grounds.",
+      "description": "Thick cedar forest surrounds this former summer capital of Patiala. The Chail Palace is now a hotel, and the cricket ground is still in use.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 30.9697,
+        "lng": 77.1975,
+        "address": "Shimla, Himachal Pradesh"
+      },
+      "highlights": [
+        "Chail Palace",
+        "High-altitude cricket ground",
+        "Cedar forest"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Chail, Himachal Pradesh – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chail,_Himachal_Pradesh"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/chail.webp",
+          "alt": "Chail, Shimla",
+          "credit": "Shrey.ashi",
+          "license": "CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chail_Palace.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Narkanda",
+      "slug": "narkanda",
+      "city": "shimla",
+      "kind": "hill-station",
+      "categories": [
+        "adventure"
+      ],
+      "shortDescription": "A ski and apple town at 2,708 m on the Hindustan-Tibet Road, with Hatu Peak above it.",
+      "description": "Apple orchards and beginner ski slopes in winter, with a forest road up to the Hatu Mata temple at the top of the peak.",
+      "bestMonths": [
+        12,
+        1,
+        2,
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 31.27,
+        "lng": 77.45,
+        "address": "Shimla, Himachal Pradesh"
+      },
+      "highlights": [
+        "Hatu Peak",
+        "Winter skiing",
+        "Apple orchards"
+      ],
+      "sources": [
+        {
+          "title": "Narkanda – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Narkanda"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/narkanda.webp",
+          "alt": "Narkanda, Shimla",
+          "credit": "Manjeet44877",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:NARKANDA.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kalka–Shimla Railway",
+      "slug": "kalka-shimla-railway",
+      "city": "shimla",
+      "kind": "railway",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A narrow-gauge UNESCO mountain railway climbing to Shimla through more than a hundred tunnels.",
+      "description": "A slow toy train from the plains at Kalka up to Shimla, over arched bridges and through tunnels. The route is part of the Mountain Railways of India UNESCO listing.",
+      "history": "Opened in 1903 to link the summer capital to the plains.",
+      "bestMonths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "location": {
+        "lat": 30.8522,
+        "lng": 76.9375,
+        "address": "Shimla, Himachal Pradesh"
+      },
+      "highlights": [
+        "Barog tunnel and station",
+        "Arched galleries",
+        "Pine-forest views"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Kalka–Shimla Railway – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kalka%E2%80%93Shimla_Railway"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kalka-shimla-railway.webp",
+          "alt": "Kalka–Shimla Railway, Shimla",
+          "credit": "No machine-readable author provided. AHEMSLTD assumed (based on copyright claims)",
+          "license": "CC BY 2.5",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:KSR_Steam_special_at_Taradevi_05-02-13_56.jpeg"
+        }
+      ]
+    },
+    {
+      "name": "Rohtang Pass",
+      "slug": "rohtang-pass",
+      "city": "manali",
+      "kind": "mountain-pass",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "A high pass 51 km from Manali, linking the Kullu Valley to Lahaul and Spiti.",
+      "description": "Snow lasts here well into summer, and it's the classic day trip from Manali. Vehicle permits are limited, so check the rules in advance.",
+      "bestMonths": [
+        5,
+        6,
+        9,
+        10
+      ],
+      "bestTimeNote": "The pass is closed by snow for several months each winter, and vehicles need a permit.",
+      "location": {
+        "lat": 32.3714,
+        "lng": 77.2464,
+        "address": "Manali, Himachal Pradesh"
+      },
+      "highlights": [
+        "Summer snow",
+        "Views into Lahaul",
+        "Beas Kund trail"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Rohtang Pass – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Rohtang_Pass"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/rohtang-pass.webp",
+          "alt": "Rohtang Pass, Manali",
+          "credit": "Vyacheslav Argenberg",
+          "license": "CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kullu_Valley_from_Rohtang_Pass,_India.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Atal Tunnel",
+      "slug": "atal-tunnel",
+      "city": "manali",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A 9.02 km road tunnel under the Pir Panjal, bypassing Rohtang Pass and linking Manali to Keylong.",
+      "description": "It cut hours off the journey to Lahaul and keeps the valley connected through winter. Sissu, on the far side, has become a popular stop with waterfalls and a lake.",
+      "history": "Opened in 2020.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "location": {
+        "lat": 32.4013,
+        "lng": 77.1483,
+        "address": "Manali, Himachal Pradesh"
+      },
+      "highlights": [
+        "Drive through the tunnel",
+        "Sissu on the north side",
+        "Chandra River views"
+      ],
+      "sources": [
+        {
+          "title": "Atal Tunnel – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Atal_Tunnel"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/atal-tunnel.webp",
+          "alt": "Atal Tunnel, Manali",
+          "credit": "Vinayaraj",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atal_Tunnel_vrtmrgmpksk_(2).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Naggar Castle",
+      "slug": "naggar-castle",
+      "city": "manali",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A medieval stone and timber castle above the Beas, now a heritage hotel near Manali.",
+      "description": "A fine example of the region's layered stone and wood building, looking across the Kullu Valley. The Roerich Art Gallery is a short walk uphill.",
+      "history": "Built by Raja Sidh Singh of Kullu around 1460.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 32.112,
+        "lng": 77.165,
+        "address": "Manali, Himachal Pradesh"
+      },
+      "highlights": [
+        "Valley views from the veranda",
+        "Roerich Art Gallery",
+        "Stone and timber architecture"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Naggar Castle – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Naggar_Castle"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/naggar-castle.webp",
+          "alt": "Naggar Castle, Manali",
+          "credit": "Pratishkhedekar",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naggar_Castle_-_2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Manikaran",
+      "slug": "manikaran",
+      "city": "kasol",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A Sikh and Hindu pilgrim town in Parvati Valley, known for boiling hot springs.",
+      "description": "A big gurdwara and several temples crowd the riverbank, and the langar's rice is cooked in the hot spring water. It's 4 km from Kasol.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 32.0269,
+        "lng": 77.3452,
+        "address": "Kasol, Himachal Pradesh"
+      },
+      "highlights": [
+        "Gurdwara langar",
+        "Natural hot springs",
+        "Parvati River"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Manikaran – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Manikaran"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/manikaran.webp",
+          "alt": "Manikaran, Kasol",
+          "credit": "TheSlumPanda",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gurdwara_at_Manikarn.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Great Himalayan National Park",
+      "slug": "great-himalayan-national-park",
+      "city": "kullu",
+      "kind": "national-park",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "A UNESCO World Heritage park in Kullu, with high forests and rare pheasants, explored only on foot.",
+      "description": "No roads go in, so visitors trek through forests and alpine meadows from Sainj and Tirthan valleys. Western tragopan, musk deer and snow leopards live here.",
+      "history": "Established in 1984, and added to the UNESCO World Heritage list in 2014.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 31.7333,
+        "lng": 77.55,
+        "address": "Kullu, Himachal Pradesh"
+      },
+      "highlights": [
+        "Tirthan Valley treks",
+        "Western tragopan",
+        "Alpine meadows"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Great Himalayan National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Great_Himalayan_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/great-himalayan-national-park.webp",
+          "alt": "Great Himalayan National Park, Kullu",
+          "credit": "Suresh Karia",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Himalayn_National_Park_01.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Bijli Mahadev",
+      "slug": "bijli-mahadev",
+      "city": "kullu",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious",
+        "adventure"
+      ],
+      "shortDescription": "A hilltop Shiva temple at 2,460 m, where lightning is said to strike the lingam regularly.",
+      "description": "A hike of a couple of hours through forest leads to a wooden temple on a ridge, with views over the Kullu and Parvati valleys.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 31.9233,
+        "lng": 77.1504,
+        "address": "Kullu, Himachal Pradesh"
+      },
+      "highlights": [
+        "Hilltop views",
+        "Tall flagstaff",
+        "Forest hike"
+      ],
+      "sources": [
+        {
+          "title": "Bijli Mahadev – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bijli_Mahadev"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/bijli-mahadev.webp",
+          "alt": "Bijli Mahadev, Kullu",
+          "credit": "Akshat Sharma",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bijli_Mahadev_Temple.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Triund",
+      "slug": "triund",
+      "city": "dharamshala",
+      "kind": "trek",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "The classic Dhauladhar day hike, a grassy ridge at about 2,850 m above McLeod Ganj.",
+      "description": "A steady climb through oak and rhododendron ends on a meadow right below the snow wall of the Dhauladhars. Camping out for the sunrise is popular.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 32.2496,
+        "lng": 76.3339,
+        "address": "Dharamshala, Himachal Pradesh"
+      },
+      "highlights": [
+        "Dhauladhar wall view",
+        "Night under the stars",
+        "Rhododendrons in spring"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Triund – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Triund"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/triund.webp",
+          "alt": "Triund, Dharamshala",
+          "credit": "Ashish Gupta from Noida, India",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Triund_(22356802630).jpg"
+        }
+      ]
+    },
+    {
+      "name": "McLeod Ganj",
+      "slug": "mcleod-ganj",
+      "city": "dharamshala",
+      "kind": "neighbourhood",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "Little Lhasa: the Tibetan hill suburb of Dharamshala, home of the Tibetan government-in-exile.",
+      "description": "Prayer wheels, momo stalls and monks fill the lanes. It's an easy base for short walks to Bhagsu Falls and the Dharamkot cafes.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 32.2386,
+        "lng": 76.3236,
+        "address": "Dharamshala, Himachal Pradesh"
+      },
+      "highlights": [
+        "Bhagsu Falls",
+        "Tibetan food",
+        "Prayer wheels and bookshops"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "McLeod Ganj – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/McLeod_Ganj"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/mcleod-ganj.webp",
+          "alt": "McLeod Ganj, Dharamshala",
+          "credit": "Rignam Wangkhang",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:McLeod_Ganj_Dharamkot_Dharmsala_Himachal_Pradesh_India_April_2014.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kangra Fort",
+      "slug": "kangra-fort",
+      "city": "kangra",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A vast old fort between two rivers, also known as Nagarkot, seat of the Katoch rulers.",
+      "description": "Long walls on a rock above the Banganga and Patal Ganga rivers. Though much was wrecked by the 1905 earthquake, the gates and temples remain.",
+      "history": "Mahmud of Ghazni and later Mughal rulers all fought over this rich stronghold.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 32.0881,
+        "lng": 76.2578,
+        "address": "Kangra, Himachal Pradesh"
+      },
+      "highlights": [
+        "Maharaja Sansar Chand museum",
+        "Jain temple",
+        "River views"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Kangra Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kangra_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kangra-fort.webp",
+          "alt": "Kangra Fort, Kangra",
+          "credit": "Harvinder Chandigarh",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kangra_Fort_,Himachal_Pradesh_06.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Masrur Temples",
+      "slug": "masrur-temples",
+      "city": "kangra",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "An early 8th-century group of rock-cut temples in the Kangra Valley, facing a sacred pool.",
+      "description": "Carved out of one sandstone ridge, in a style rare this far north. The reflection of the temples in the tank makes it worth the drive.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 32.0726,
+        "lng": 76.1371,
+        "address": "Kangra, Himachal Pradesh"
+      },
+      "highlights": [
+        "Monolithic temple group",
+        "Tank reflections",
+        "Dhauladhar backdrop"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Masrur Temples – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Masrur_Temples"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/masrur-temples.webp",
+          "alt": "Masrur Temples, Kangra",
+          "credit": "Akashdeep83",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Masrur_rockcut_temple.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Jwala Ji Temple",
+      "slug": "jwala-ji-temple",
+      "city": "kangra",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A goddess temple in Kangra district where eternal flames burn from the rock.",
+      "description": "There's no idol: the deity is worshipped as natural flames coming out of the rock. It's one of the most-visited temples in Himachal.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 31.8756,
+        "lng": 76.3243,
+        "address": "Kangra, Himachal Pradesh"
+      },
+      "highlights": [
+        "Eternal natural flames",
+        "Navaratri fairs",
+        "Gorakh Dibbi"
+      ],
+      "sources": [
+        {
+          "title": "Jawalamukhi – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jawalamukhi"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/jwala-ji-temple.webp",
+          "alt": "Jwala Ji Temple, Kangra",
+          "credit": "Nswn03",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jwalamukhi_temple,kangra,_himachal_pradesh..JPG"
+        }
+      ]
+    },
+    {
+      "name": "Baijnath Temple",
+      "slug": "baijnath-temple",
+      "city": "palampur",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A Nagara-style Shiva temple built in 1204 by two merchants, in the Kangra Valley.",
+      "description": "A fine stone temple with carved panels and long inscriptions, set against the Dhauladhars. It's still in active worship.",
+      "history": "Built in 1204 AD by two local merchants, Ahuka and Manyuka.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 32.0836,
+        "lng": 76.9664,
+        "address": "Palampur, Himachal Pradesh"
+      },
+      "highlights": [
+        "Carved stone walls",
+        "Old inscriptions",
+        "Dhauladhar backdrop"
+      ],
+      "sources": [
+        {
+          "title": "Baijnath Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Baijnath_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/baijnath-temple.webp",
+          "alt": "Baijnath Temple, Palampur",
+          "credit": "Rakeshkdogra",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shiva_temple_baijnath_HP.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Khajjiar",
+      "slug": "khajjiar",
+      "city": "dalhousie",
+      "kind": "hill-station",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A saucer-shaped meadow ringed with deodar forest, 24 km from Dalhousie.",
+      "description": "Often sold as a mini Switzerland, this green bowl has a small lake in the middle and a gold-domed Naga temple. Pony rides and zorbing crowd it in season.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 32.5462,
+        "lng": 76.0581,
+        "address": "Dalhousie, Himachal Pradesh"
+      },
+      "highlights": [
+        "Meadow and lake",
+        "Deodar forest",
+        "Khajji Nag Temple"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Khajjiar – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Khajjiar"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/khajjiar.webp",
+          "alt": "Khajjiar, Dalhousie",
+          "credit": "7018412375",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nature_of_Khajjiar.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Lakshmi Narayan Temples, Chamba",
+      "slug": "lakshmi-narayan-temples-chamba",
+      "city": "chamba",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A group of stone Shikhara temples at the heart of Chamba, on the bank of the Ravi.",
+      "description": "Six tall temples stand together in a courtyard in the old town, with wooden umbrellas on top. Chamba's Bhuri Singh Museum and Minjar Fair are nearby attractions.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 32.1482,
+        "lng": 76.4186,
+        "address": "Chamba, Himachal Pradesh"
+      },
+      "highlights": [
+        "Stone shikhara towers",
+        "Bhuri Singh Museum",
+        "Minjar Fair"
+      ],
+      "sources": [
+        {
+          "title": "Chamba, Himachal Pradesh – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chamba,_Himachal_Pradesh"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/lakshmi-narayan-temples-chamba.webp",
+          "alt": "Lakshmi Narayan Temples, Chamba, Chamba",
+          "credit": "Ms Sarah Welch",
+          "license": "CC0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chamba_city_and_river_Ravi,_Himachal_Pradesh_India.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Pin Valley National Park",
+      "slug": "pin-valley-national-park",
+      "city": "kaza",
+      "kind": "national-park",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "A cold-desert park in Spiti, known for snow leopards, ibex and the villages around Mud.",
+      "description": "Bare mountains in pink and grey, with the Pin River running through them. The winter snow leopard expeditions are famous among wildlife photographers.",
+      "bestMonths": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "location": {
+        "lat": 32,
+        "lng": 77.88,
+        "address": "Kaza, Himachal Pradesh"
+      },
+      "highlights": [
+        "Snow leopards in winter",
+        "Mud village",
+        "Bhaba Pass trek"
+      ],
+      "sources": [
+        {
+          "title": "Pin Valley National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pin_Valley_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/pin-valley-national-park.webp",
+          "alt": "Pin Valley National Park, Kaza",
+          "credit": "Ra.manimtech",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Morning_scene_in_Thuskeo_Dhar.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Chandra Taal",
+      "slug": "chandra-taal",
+      "city": "kaza",
+      "kind": "lake",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "The Moon Lake, a high blue lake in Lahaul near the source of the Chandra River.",
+      "description": "A crescent of blue water at 4,300 m, reached by a rough track off the Kunzum road. Camping is allowed only some way from the shore.",
+      "bestMonths": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "bestTimeNote": "The road opens only from about June to October, once the snow clears.",
+      "location": {
+        "lat": 32.4752,
+        "lng": 77.6171,
+        "address": "Kaza, Himachal Pradesh"
+      },
+      "highlights": [
+        "Crescent lake",
+        "Starry nights",
+        "Kunzum Pass drive"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Chandra Taal – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chandra_Taal"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/chandra-taal.webp",
+          "alt": "Chandra Taal, Kaza",
+          "credit": "Lodhra",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chandratal_1.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Kunzum Pass",
+      "slug": "kunzum-pass",
+      "city": "kaza",
+      "kind": "mountain-pass",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "The high pass between Lahaul and Spiti, with a small temple to Kunzum Mata at the top.",
+      "description": "A wide, windy saddle at about 4,590 m on the road to Kaza, with views of Bara Shigri glacier. Drivers traditionally stop and circle the temple.",
+      "bestMonths": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "location": {
+        "lat": 32.4158,
+        "lng": 77.6485,
+        "address": "Kaza, Himachal Pradesh"
+      },
+      "highlights": [
+        "Kunzum Mata Temple",
+        "Glacier views",
+        "Trail to Chandra Taal"
+      ],
+      "sources": [
+        {
+          "title": "Kunzum Pass – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kunzum_Pass"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kunzum-pass.webp",
+          "alt": "Kunzum Pass, Kaza",
+          "credit": "John Hill",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kunzum_Pass_between_Lahaul_%26_Spiti_28-6-04.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Dhankar Monastery",
+      "slug": "dhankar-monastery",
+      "city": "kaza",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A gompa perched on a crumbling spur at 3,894 m, above the Spiti and Pin rivers.",
+      "description": "One of the world's most spectacularly placed monasteries, and among those on the list of most endangered sites. A short hike goes up to the high Dhankar Lake.",
+      "bestMonths": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "location": {
+        "lat": 32.0906,
+        "lng": 78.2119,
+        "address": "Kaza, Himachal Pradesh"
+      },
+      "highlights": [
+        "Clifftop setting",
+        "Dhankar Lake hike",
+        "River confluence view"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Dhankar Gompa – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dhankar_Gompa"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/dhankar-monastery.webp",
+          "alt": "Dhankar Monastery, Kaza",
+          "credit": "John Hill",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dhankar_Gompa_and_village.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Tabo Monastery",
+      "slug": "tabo-monastery",
+      "city": "kaza",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A 996 CE monastery in Spiti, with some of the finest early Buddhist murals in the Himalayas.",
+      "description": "From outside it looks like plain mud-brick halls. Inside, thousand-year-old murals and clay sculptures fill the dim rooms, so bring a torch.",
+      "history": "Founded in 996 CE by the translator Rinchen Zangpo.",
+      "bestMonths": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "location": {
+        "lat": 32.08,
+        "lng": 78.38,
+        "address": "Kaza, Himachal Pradesh"
+      },
+      "highlights": [
+        "Thousand-year-old murals",
+        "Clay sculptures",
+        "Caves above the village"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Tabo Monastery – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Tabo_Monastery"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/tabo-monastery.webp",
+          "alt": "Tabo Monastery, Kaza",
+          "credit": "Arup1981",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tabo_Monjastery_Entrance.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kalpa",
+      "slug": "kalpa",
+      "city": "kinnaur",
+      "kind": "village",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A village above Reckong Peo, with views straight across to the Kinner Kailash range.",
+      "description": "Apple orchards and old wooden temples look out on one of the most dramatic mountain views in Himachal, especially at sunrise.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 31.53,
+        "lng": 78.25,
+        "address": "Kinnaur, Himachal Pradesh"
+      },
+      "highlights": [
+        "Kinner Kailash at sunrise",
+        "Apple orchards",
+        "Suicide Point road"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Kalpa, Himachal Pradesh – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kalpa,_Himachal_Pradesh"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kalpa.webp",
+          "alt": "Kalpa, Kinnaur",
+          "credit": "Carlos Adampol Galindo from DF, México",
+          "license": "CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kalpa_(8512894537).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sangla Valley",
+      "slug": "sangla-valley",
+      "city": "kinnaur",
+      "kind": "valley",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "The Baspa Valley in Kinnaur, a high green valley of orchards, wooden villages and snow peaks.",
+      "description": "One of Himachal's prettiest valleys, with apple orchards and the old Kamru Fort. The road runs along the Baspa toward Chitkul.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 31.4264,
+        "lng": 78.265,
+        "address": "Kinnaur, Himachal Pradesh"
+      },
+      "highlights": [
+        "Kamru Fort",
+        "Baspa River",
+        "Wooden villages"
+      ],
+      "sources": [
+        {
+          "title": "Sangla, India – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sangla,_India"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/sangla-valley.webp",
+          "alt": "Sangla Valley, Kinnaur",
+          "credit": "Ashish Gupta from Noida, India",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_scenic_view_of_Sangla_valley_Kamru_fort_forests_in_Himachal_India_2015.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Chitkul",
+      "slug": "chitkul",
+      "city": "kinnaur",
+      "kind": "village",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "The last inhabited village on the old Indo-Tibet road in Kinnaur, on the Baspa River.",
+      "description": "Slate roofs, wooden houses and a meadow by the river, close to the Tibet border. Villagers move lower down for the snowy winter.",
+      "bestMonths": [
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 31.3518,
+        "lng": 78.4368,
+        "address": "Kinnaur, Himachal Pradesh"
+      },
+      "highlights": [
+        "India's last dhaba",
+        "Wooden Mathi Temple",
+        "Baspa River meadows"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Chitkul – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chitkul"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/chitkul.webp",
+          "alt": "Chitkul, Kinnaur",
+          "credit": "Kaiho",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Temple_at_Chitkul.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Prashar Lake",
+      "slug": "prashar-lake",
+      "city": "mandi",
+      "kind": "lake",
+      "categories": [
+        "religious",
+        "adventure"
+      ],
+      "shortDescription": "A high lake at 2,730 m with a floating island and a three-storied pagoda temple.",
+      "description": "A small sacred lake in a grassy bowl, with a circular island that's said to move about the water. There's a short walk from the road, which makes for a great day trip.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 31.7543,
+        "lng": 77.1014,
+        "address": "Mandi, Himachal Pradesh"
+      },
+      "highlights": [
+        "Floating island",
+        "Pagoda temple",
+        "Snow in winter"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Prashar Lake – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Prashar_Lake"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/prashar-lake.webp",
+          "alt": "Prashar Lake, Mandi",
+          "credit": "Harvinder Chandigarh",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prashar_Lake_and_temple_,Mandi_,Himachal_Pardesh.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Rewalsar Lake",
+      "slug": "rewalsar-lake",
+      "city": "mandi",
+      "kind": "lake",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "Tso Pema, a lake at 1,360 m sacred to Buddhists, Hindus and Sikhs, 22.5 km from Mandi.",
+      "description": "A small lake surrounded by a monastery, a gurdwara and temples. A giant statue of Padmasambhava, the Buddhist saint, looks down from the hill.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 31.6339,
+        "lng": 76.8333,
+        "address": "Mandi, Himachal Pradesh"
+      },
+      "highlights": [
+        "Padmasambhava statue",
+        "Three faiths on one lake",
+        "Hilltop caves"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Rewalsar Lake – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Rewalsar_Lake"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/rewalsar-lake.webp",
+          "alt": "Rewalsar Lake, Mandi",
+          "credit": "Mystic nishant99",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rewalsar_Lake,_Mandi.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Renuka Lake",
+      "slug": "renuka-lake",
+      "city": "sirmaur",
+      "kind": "lake",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "The largest natural lake in Himachal Pradesh, in Sirmaur, named after the goddess Renuka.",
+      "description": "A long green lake shaped like a sleeping woman, with boats and a small wildlife park nearby. A fair is held here each November.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 30.61,
+        "lng": 77.4583,
+        "address": "Sirmaur, Himachal Pradesh"
+      },
+      "highlights": [
+        "Boating",
+        "Renuka Ji Fair",
+        "Wildlife park"
+      ],
+      "sources": [
+        {
+          "title": "Renuka Lake – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Renuka_Lake"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/renuka-lake.webp",
+          "alt": "Renuka Lake, Sirmaur",
+          "credit": "Harvinder Chandigarh",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Renuka_Lake,_Himachal_Pradesh.JPG"
         }
       ]
     }

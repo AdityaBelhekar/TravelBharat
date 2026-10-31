@@ -4,9 +4,38 @@
       "name": "Puducherry",
       "slug": "puducherry",
       "overview": "A seaside town on the Bay of Bengal that was the capital of French India until 1954, with a French Quarter of yellow villas and a Tamil Quarter of temples and markets.",
+      "history": "The French made it the capital of their Indian territories from the 17th century, and it stayed French until 1954. Its seaside White Town keeps the old street grid.",
+      "isHub": true,
       "location": {
         "lat": 11.9416,
         "lng": 79.8083
+      }
+    },
+    {
+      "name": "Karaikal",
+      "slug": "karaikal",
+      "overview": "A coastal enclave of the union territory, in Tamil Nadu's Kaveri delta.",
+      "location": {
+        "lat": 10.9327,
+        "lng": 79.8319
+      }
+    },
+    {
+      "name": "Mahe",
+      "slug": "mahe",
+      "overview": "A tiny enclave of the union territory on the Kerala coast.",
+      "location": {
+        "lat": 11.7011,
+        "lng": 75.5367
+      }
+    },
+    {
+      "name": "Yanam",
+      "slug": "yanam",
+      "overview": "A small enclave of the union territory, surrounded by Andhra Pradesh.",
+      "location": {
+        "lat": 16.7333,
+        "lng": 82.2167
       }
     }
   ],
@@ -113,6 +142,15 @@
           "title": "Sri Aurobindo Ashram (official)",
           "url": "https://www.sriaurobindoashram.org"
         }
+      ],
+      "images": [
+        {
+          "url": "/places/sri-aurobindo-ashram.webp",
+          "alt": "Sri Aurobindo Ashram, Puducherry",
+          "credit": "Pinakpani",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sri_Aurobindo_Ashram,_a_spiritual_ashram_of_Sri_Aurobindo_in_Pondicherry_05.jpg"
+        }
       ]
     },
     {
@@ -167,6 +205,347 @@
           "credit": "BishkekRocks",
           "license": "CC BY-SA 3.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Puducherry_Sacred_Heart_Cathedral_2.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Manakula Vinayagar Temple",
+      "slug": "manakula-vinayagar-temple",
+      "city": "puducherry",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A much-loved Ganesha temple in Puducherry's White Town, with a temple elephant and a golden chariot.",
+      "description": "A small temple packed with paintings, which predates the French. The temple elephant used to bless visitors at the gate.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 11.9358,
+        "lng": 79.8336,
+        "address": "Puducherry, Puducherry"
+      },
+      "highlights": [
+        "Golden chariot",
+        "Painted walls",
+        "White Town walk"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Manakula Vinayagar Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Manakula_Vinayagar_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/manakula-vinayagar-temple.webp",
+          "alt": "Manakula Vinayagar Temple, Puducherry",
+          "credit": "Prabhupuducherry",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manakula_vinayagar_temple_north_entrance.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Pondicherry Museum",
+      "slug": "pondicherry-museum",
+      "city": "puducherry",
+      "kind": "museum",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A museum in an old French mansion, noted for its Chola bronzes and Roman finds from Arikamedu.",
+      "description": "Bronzes, French furniture and Roman pottery from the nearby trading post at Arikamedu, in a colonial building by Bharathi Park.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 11.9348,
+        "lng": 79.834,
+        "address": "Puducherry, Puducherry"
+      },
+      "highlights": [
+        "Lost-wax bronzes",
+        "Arikamedu Roman finds",
+        "French period rooms"
+      ],
+      "sources": [
+        {
+          "title": "Pondicherry Museum – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pondicherry_Museum"
+        }
+      ]
+    },
+    {
+      "name": "Ousteri Lake",
+      "slug": "ousteri-lake",
+      "city": "puducherry",
+      "kind": "lake",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A wetland lake shared with Tamil Nadu, a bird sanctuary near Puducherry.",
+      "description": "A big, shallow lake on the edge of the city, popular for boat rides and for winter birds.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 11.955,
+        "lng": 79.745,
+        "address": "Puducherry, Puducherry"
+      },
+      "highlights": [
+        "Boating",
+        "Winter birds",
+        "Wetland trail"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Ousteri Lake – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ousteri_Lake"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/ousteri-lake.webp",
+          "alt": "Ousteri Lake, Puducherry",
+          "credit": "Aleksandr Zykov from Russia",
+          "license": "CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Usteri_Lake,_Pondicherry,_India_(21013490160).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Paradise Beach",
+      "slug": "paradise-beach-puducherry",
+      "city": "puducherry",
+      "kind": "beach",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A golden sand beach near Puducherry, reached by a short boat ride through the backwaters.",
+      "description": "A boat from the Chunnambar boathouse takes you through mangrove waters to a clean, unspoiled beach with cafes.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 11.8698,
+        "lng": 79.8199,
+        "address": "Puducherry, Puducherry"
+      },
+      "highlights": [
+        "Backwater boat ride",
+        "Clean sand",
+        "Swimming"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Pondicherry – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pondicherry"
+        }
+      ]
+    },
+    {
+      "name": "Auroville",
+      "slug": "auroville",
+      "city": "puducherry",
+      "kind": "neighbourhood",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "An experimental international township near Puducherry, founded in 1968, around the golden Matrimandir.",
+      "description": "A green, spread-out community that's trying a new way of living, with cafes, boutiques and the huge gold globe of the Matrimandir.",
+      "history": "Founded in 1968 by Mirra Alfassa, and designed by the architect Roger Anger.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 12.0069,
+        "lng": 79.8106,
+        "address": "Puducherry, Puducherry"
+      },
+      "highlights": [
+        "Matrimandir",
+        "Visitors Centre",
+        "Forest cycling"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Auroville – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Auroville"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/auroville.webp",
+          "alt": "Auroville, Puducherry",
+          "credit": "Kaspar Konrad",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Town_Hall_of_Auroville.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Karaikal Beach",
+      "slug": "karaikal-beach",
+      "city": "karaikal",
+      "kind": "beach",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A quiet beach at Karaikal, close to the Saneeswaran Temple at Thirunallar, popular with pilgrims.",
+      "description": "An uncrowded beach in the Kaveri delta. Thirunallar's famous Saturn temple is a short drive inland.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 10.9327,
+        "lng": 79.8319,
+        "address": "Karaikal, Puducherry"
+      },
+      "highlights": [
+        "Thirunallar Temple nearby",
+        "Quiet sand",
+        "Backwaters"
+      ],
+      "sources": [
+        {
+          "title": "Karaikal – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Karaikal"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/karaikal-beach.webp",
+          "alt": "Karaikal Beach, Karaikal",
+          "credit": "P Jeganathan",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Karaikal_Beach_JEG2443.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Mahe Town",
+      "slug": "mahe-town",
+      "city": "mahe",
+      "kind": "neighbourhood",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A tiny enclave of old French buildings at the mouth of the Mahe River, on the Kerala coast.",
+      "description": "An hour's stop on a Malabar trip, with St. Theresa's Church and a riverside walkway through a small town.",
+      "history": "A French possession until 1954.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 11.7011,
+        "lng": 75.5367,
+        "address": "Mahe, Puducherry"
+      },
+      "highlights": [
+        "St. Theresa's Shrine",
+        "Riverside walkway",
+        "French past"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Mahé, India – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mah%C3%A9,_India"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/mahe-town.webp",
+          "alt": "Mahe Town, Mahe",
+          "credit": "Prof tpm",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kallappally_Mosque,_new_Mahe.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Yanam Riverfront",
+      "slug": "yanam-riverfront",
+      "city": "yanam",
+      "kind": "neighbourhood",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A small former French town on the Gautami Godavari, with a promenade and a tall tower.",
+      "description": "A promenade along the river and a Rajiv Gandhi Beach Park give the town its charm. It's popular with people from nearby Andhra.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 16.7333,
+        "lng": 82.2167,
+        "address": "Yanam, Puducherry"
+      },
+      "highlights": [
+        "Godavari promenade",
+        "Tower viewpoint",
+        "French heritage"
+      ],
+      "sources": [
+        {
+          "title": "Yanam – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Yanam"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/yanam-riverfront.webp",
+          "alt": "Yanam Riverfront, Yanam",
+          "credit": "Anand Deepak Racharla",
+          "license": "CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gowthami_river_Godavari.jpg"
         }
       ]
     }

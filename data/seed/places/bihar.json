@@ -22,9 +22,74 @@
       "name": "Patna",
       "slug": "patna",
       "overview": "Bihar's capital on the south bank of the Ganga, built on the site of ancient Pataliputra, capital of the Mauryan empire.",
+      "history": "As Pataliputra, it was the capital of the Maurya and Gupta empires and one of the largest cities of the ancient world. It later became the birthplace of Guru Gobind Singh.",
+      "isHub": true,
       "location": {
         "lat": 25.5941,
         "lng": 85.1376
+      }
+    },
+    {
+      "name": "Rajgir",
+      "slug": "rajgir",
+      "overview": "An old capital of Magadha ringed by hills, close to Nalanda, with hot springs and Buddhist and Jain sites.",
+      "location": {
+        "lat": 25.03,
+        "lng": 85.42
+      }
+    },
+    {
+      "name": "Vaishali",
+      "slug": "vaishali",
+      "overview": "An ancient city north of Patna, an early republic where the Buddha preached his last sermon.",
+      "location": {
+        "lat": 26.0137,
+        "lng": 85.109
+      }
+    },
+    {
+      "name": "Sasaram",
+      "slug": "sasaram",
+      "overview": "A town on the Grand Trunk Road, home to Sher Shah Suri's tomb.",
+      "location": {
+        "lat": 24.9525,
+        "lng": 84.0318
+      }
+    },
+    {
+      "name": "Bettiah",
+      "slug": "bettiah",
+      "overview": "The main town in the north-west of Bihar, near Valmiki Tiger Reserve.",
+      "location": {
+        "lat": 26.8014,
+        "lng": 84.5028
+      }
+    },
+    {
+      "name": "Begusarai",
+      "slug": "begusarai",
+      "overview": "A town on the Ganges, close to Kanwar Lake.",
+      "location": {
+        "lat": 25.4185,
+        "lng": 86.1339
+      }
+    },
+    {
+      "name": "Bhagalpur",
+      "slug": "bhagalpur",
+      "overview": "A silk city on the Ganges, known for its Tussar silk and the Vikramashila ruins.",
+      "location": {
+        "lat": 25.2425,
+        "lng": 86.9842
+      }
+    },
+    {
+      "name": "Gaya",
+      "slug": "gaya",
+      "overview": "An old pilgrim city on the Phalgu River, where Hindus perform rites for their ancestors.",
+      "location": {
+        "lat": 24.7964,
+        "lng": 85.008
       }
     }
   ],
@@ -201,6 +266,550 @@
           "credit": "Harishu3011",
           "license": "CC BY-SA 4.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:TheJoyof350thAnniversary@IncredibleIndia.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Golghar",
+      "slug": "golghar",
+      "city": "patna",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A huge dome-shaped British granary in Patna from 1786, with spiral stairs to the top.",
+      "description": "A giant whitewashed beehive built after a famine, never fully used. Climb the 145 steps for a view of the Ganges.",
+      "history": "Built in 1786 after the great famine of 1770.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 25.6203,
+        "lng": 85.1394,
+        "address": "Patna, Bihar"
+      },
+      "highlights": [
+        "Spiral stairs",
+        "Ganges view",
+        "Beehive shape"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Golghar – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Golghar"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/golghar.webp",
+          "alt": "Golghar, Patna",
+          "credit": "कवि कलाकार हिमांशु मान्ने (Poet artist himanshu manne)",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Golghar_%E0%A5%AA.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Patna Museum",
+      "slug": "patna-museum",
+      "city": "patna",
+      "kind": "museum",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "Bihar's state museum, founded in 1917, known for its Didarganj Yakshi and Mauryan sculpture.",
+      "description": "An Indo-Saracenic building with a huge fossil tree and bronze Buddhas. Much of the finest material has moved to the new Bihar Museum.",
+      "history": "Founded on 3 April 1917.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 25.6111,
+        "lng": 85.1439,
+        "address": "Patna, Bihar"
+      },
+      "highlights": [
+        "Fossil tree",
+        "Mughal-style building",
+        "Bronze Buddhas"
+      ],
+      "sources": [
+        {
+          "title": "Patna Museum – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Patna_Museum"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/patna-museum.webp",
+          "alt": "Patna Museum, Patna",
+          "credit": "Photo Dharma from Penang, Malaysia",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Patna_Museum_-_General_View_(9221515542).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Great Buddha Statue",
+      "slug": "great-buddha-statue-bodh-gaya",
+      "city": "bodh-gaya",
+      "kind": "monument",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A giant seated Buddha in stone at Bodh Gaya, one of the largest in India, consecrated in 1989.",
+      "description": "An 80-foot sandstone statue with ten smaller disciples beside it, a short walk from the Mahabodhi Temple. Monasteries from many countries are nearby.",
+      "history": "Consecrated by the Dalai Lama in 1989.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 24.6905,
+        "lng": 84.9818,
+        "address": "Bodh Gaya, Bihar"
+      },
+      "highlights": [
+        "80-foot Buddha",
+        "International monasteries",
+        "Near Mahabodhi"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Bodh Gaya – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bodh_Gaya"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/great-buddha-statue-bodh-gaya.webp",
+          "alt": "Great Buddha Statue, Bodh Gaya",
+          "credit": "Andrew Moore from Johannesburg, South Africa",
+          "license": "CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_Buddha_Statue,_Bodh_Gaya.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Vishwa Shanti Stupa, Rajgir",
+      "slug": "vishwa-shanti-stupa-rajgir",
+      "city": "rajgir",
+      "kind": "monument",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A white peace pagoda on Ratnagiri Hill at Rajgir, reached by a single-seat ropeway.",
+      "description": "An old ropeway swings up to the marble stupa, with its golden Buddhas. Nearby is Griddhakuta, where the Buddha preached.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 25.0122,
+        "lng": 85.7458,
+        "address": "Rajgir, Bihar"
+      },
+      "highlights": [
+        "Ropeway",
+        "Golden Buddhas",
+        "Griddhakuta"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Vishwa Shanti Stupa, Rajgir – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Vishwa_Shanti_Stupa,_Rajgir"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/vishwa-shanti-stupa-rajgir.webp",
+          "alt": "Vishwa Shanti Stupa, Rajgir, Rajgir",
+          "credit": "Photo Dharma from Penang, Malaysia",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rajgir_-_046_Side_View_(9242059259).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Pawapuri",
+      "slug": "pawapuri",
+      "city": "rajgir",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "The Jain holy site where Mahavira is said to have attained nirvana, with a marble temple in a lake.",
+      "description": "Jal Mandir stands white in a lotus lake, reached by a long causeway. It's about 19 km from Rajgir and among the holiest Jain sites.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 25.0917,
+        "lng": 85.5389,
+        "address": "Rajgir, Bihar"
+      },
+      "highlights": [
+        "Jal Mandir",
+        "Lotus lake",
+        "Causeway"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Pawapuri – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pawapuri"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/pawapuri.webp",
+          "alt": "Pawapuri, Rajgir",
+          "credit": "Yes.creayed with original pic",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Municipality_administration.png"
+        }
+      ]
+    },
+    {
+      "name": "Vaishali Ruins",
+      "slug": "vaishali-ruins",
+      "city": "vaishali",
+      "kind": "monument",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "An ancient city and early republic where the Buddha gave his last sermon, with an Ashokan pillar.",
+      "description": "A lion-topped Ashokan pillar stands close to the Coronation Tank, with a peace pagoda and a small museum. The Buddha visited here several times.",
+      "history": "Birthplace of Mahavira, according to tradition.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 26.0137,
+        "lng": 85.109,
+        "address": "Vaishali, Bihar"
+      },
+      "highlights": [
+        "Ashokan lion pillar",
+        "Relic Stupa",
+        "Vishwa Shanti Stupa"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Vaishali (ancient city) – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Vaishali_(ancient_city)"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/vaishali-ruins.webp",
+          "alt": "Vaishali Ruins, Vaishali",
+          "credit": "Amaan Imam",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:N-BR-69_Raja_Vishal_Garh_(5).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kesariya Stupa",
+      "slug": "kesariya-stupa",
+      "city": "vaishali",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A huge excavated Buddhist stupa in East Champaran, among the largest in India.",
+      "description": "A massive brick mound with terraces and niches, 110 km from Patna, that's rarely visited.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 26.3341,
+        "lng": 84.8548,
+        "address": "Vaishali, Bihar"
+      },
+      "highlights": [
+        "Massive terraced brick mound",
+        "Buddha niches",
+        "Few crowds"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Kesaria stupa – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kesaria_stupa"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kesariya-stupa.webp",
+          "alt": "Kesariya Stupa, Vaishali",
+          "credit": "myself",
+          "license": "CC BY-SA 2.5",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kesariya.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Tomb of Sher Shah Suri",
+      "slug": "tomb-of-sher-shah-suri",
+      "city": "sasaram",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A red sandstone tomb on an island in a lake at Sasaram, for the emperor who defeated Humayun.",
+      "description": "A huge, domed octagonal tomb in the middle of a square lake. It's among the finest Afghan buildings in India.",
+      "history": "Built for Sher Shah Suri, founder of the Sur Empire, who died in 1545.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 24.9481,
+        "lng": 84.0092,
+        "address": "Sasaram, Bihar"
+      },
+      "highlights": [
+        "Lake-island tomb",
+        "Giant dome",
+        "Afghan architecture"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Tomb of Sher Shah Suri – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Tomb_of_Sher_Shah_Suri"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/tomb-of-sher-shah-suri.webp",
+          "alt": "Tomb of Sher Shah Suri, Sasaram",
+          "credit": "Nandanupadhyay",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sher_Shah_Suri_Tomb.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Valmiki National Park",
+      "slug": "valmiki-national-park",
+      "city": "bettiah",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "Bihar's only national park and tiger reserve, on the Nepal border in West Champaran.",
+      "description": "Sal forest and river flats where the Gandak enters India. It's rarely crowded, and it sits next to Chitwan in Nepal.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "location": {
+        "lat": 27.3317,
+        "lng": 84.1625,
+        "address": "Bettiah, Bihar"
+      },
+      "highlights": [
+        "Tiger reserve",
+        "Gandak River",
+        "Sal forest"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Valmiki National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Valmiki_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/valmiki-national-park.webp",
+          "alt": "Valmiki National Park, Bettiah",
+          "credit": "Praanshu",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_lake_in_Darua_Bari_near_Valmiki_Tiger_Researve.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kanwar Lake",
+      "slug": "kanwar-lake",
+      "city": "begusarai",
+      "kind": "sanctuary",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "Asia's largest freshwater oxbow lake, in Begusarai district, an important bird sanctuary.",
+      "description": "A huge wetland that's visited by many winter migrants. Its water level changes a lot, so check first.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2
+      ],
+      "location": {
+        "lat": 25.61,
+        "lng": 86.14,
+        "address": "Begusarai, Bihar"
+      },
+      "highlights": [
+        "Migratory birds",
+        "Oxbow lake",
+        "Ramsar site"
+      ],
+      "sources": [
+        {
+          "title": "Kanwar Lake Bird Sanctuary – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kanwar_Lake_Bird_Sanctuary"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kanwar-lake.webp",
+          "alt": "Kanwar Lake, Begusarai",
+          "credit": "Mausam Nandan",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kanwar_Lake_Begusarai_by_Ziddi_Photowala.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Vikramashila",
+      "slug": "vikramashila",
+      "city": "bhagalpur",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The ruins of a great Buddhist university founded by King Dharmapala, near Bhagalpur.",
+      "description": "Quiet brick ruins of a monastic university that once rivalled Nalanda, with a big central stupa. Few people visit.",
+      "history": "Founded by the Pala king Dharmapala in the 8th century.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 25.3244,
+        "lng": 87.2867,
+        "address": "Bhagalpur, Bihar"
+      },
+      "highlights": [
+        "Central stupa",
+        "Monk cells",
+        "Pala history"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Vikramashila – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Vikramashila"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/vikramashila.webp",
+          "alt": "Vikramashila, Bhagalpur",
+          "credit": "Prataparya",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vikramshila_2012-08-10-17.14.08.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Vishnupad Temple",
+      "slug": "vishnupad-temple-gaya",
+      "city": "gaya",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A Vishnu temple on the Phalgu River at Gaya, built around a footprint carved into basalt.",
+      "description": "Hindus come here to perform pind daan for their ancestors, a tradition that peaks during the Pitru Paksha fair.",
+      "history": "The present temple is said to have been rebuilt by Ahilyabai Holkar in the 18th century.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 24.7774,
+        "lng": 85.0093,
+        "address": "Gaya, Bihar"
+      },
+      "highlights": [
+        "Vishnu's footprint",
+        "Pitru Paksha fair",
+        "Phalgu River"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Vishnupad Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Vishnupad_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/vishnupad-temple-gaya.webp",
+          "alt": "Vishnupad Temple, Gaya",
+          "credit": "Deeppsychological",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vishnupad_Temple,Updated.jpg"
         }
       ]
     }

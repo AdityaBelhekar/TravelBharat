@@ -166,6 +166,221 @@
           "url": "https://en.wikipedia.org/wiki/Daman,_India"
         }
       ]
+    },
+    {
+      "name": "Nagoa Beach",
+      "slug": "nagoa-beach-diu",
+      "city": "diu",
+      "kind": "beach",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A horseshoe beach about 8 km from Diu Town, known for its calm water and hoka palms.",
+      "description": "A sheltered sandy bay with water sports and shacks, backed by unusual branching hoka palms. It's the most popular beach on the island.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 20.7053,
+        "lng": 70.9158,
+        "address": "Diu, Dadra and Nagar Haveli and Daman and Diu"
+      },
+      "highlights": [
+        "Horseshoe bay",
+        "Hoka palms",
+        "Water sports"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Nagoá Beach – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nago%C3%A1_Beach"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/nagoa-beach-diu.webp",
+          "alt": "Nagoa Beach, Diu",
+          "credit": "Sudhakar Kumawat",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nagoa_Beach_2_DIU.jpg"
+        }
+      ]
+    },
+    {
+      "name": "St. Paul's Church, Diu",
+      "slug": "st-pauls-church-diu",
+      "city": "diu",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A white Baroque church from the Portuguese period, the only one still used on the island.",
+      "description": "An ornate white facade and carved woodwork, and it's among the finest Portuguese Baroque churches in India.",
+      "history": "Built by the Portuguese in the 17th century.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 20.7149,
+        "lng": 70.9906,
+        "address": "Diu, Dadra and Nagar Haveli and Daman and Diu"
+      },
+      "highlights": [
+        "Baroque facade",
+        "Carved woodwork",
+        "Old Diu walk"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "St. Paul's Church, Diu – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/St._Paul's_Church,_Diu"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/st-pauls-church-diu.webp",
+          "alt": "St. Paul's Church, Diu, Diu",
+          "credit": "Shakti",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eglise_St_Paul.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Gangeshwar Mahadev Temple",
+      "slug": "gangeshwar-mahadev-temple",
+      "city": "diu",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A seashore Shiva temple at Fudam, 3 km from Diu, where the waves wash over five lingams.",
+      "description": "A cave shrine on the shore, in which five lingams are bathed by the tide. Pilgrims believe the Pandavas set them there.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 20.7054,
+        "lng": 70.9566,
+        "address": "Diu, Dadra and Nagar Haveli and Daman and Diu"
+      },
+      "highlights": [
+        "Lingams in the sea",
+        "High-tide visit",
+        "Shore cave"
+      ],
+      "sources": [
+        {
+          "title": "Gangeshwar Mahadev Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gangeshwar_Mahadev_Temple"
+        }
+      ]
+    },
+    {
+      "name": "Jampore Beach",
+      "slug": "jampore-beach",
+      "city": "daman",
+      "kind": "beach",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A long beach south of Daman, popular for its evening walks and casual food stalls.",
+      "description": "A wide stretch of black sand on the Arabian Sea, with stalls and horse rides. Swimming here isn't always safe because of currents.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 20.397,
+        "lng": 72.832,
+        "address": "Daman, Dadra and Nagar Haveli and Daman and Diu"
+      },
+      "highlights": [
+        "Sunset walks",
+        "Horse rides",
+        "Food stalls"
+      ],
+      "sources": [
+        {
+          "title": "Jampore Beach – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jampore_Beach"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/jampore-beach.webp",
+          "alt": "Jampore Beach, Daman",
+          "credit": "Real96kmaratha",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jampore_Beach_(78525).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Devka Beach",
+      "slug": "devka-beach-daman",
+      "city": "daman",
+      "kind": "beach",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A rocky seaside and promenade in Nani Daman, lined with hotels and an amusement park.",
+      "description": "A small, busy seafront with a promenade, musical fountain and hotels. It's a popular weekend stop from Gujarat and Mumbai.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 20.4459,
+        "lng": 72.8331,
+        "address": "Daman, Dadra and Nagar Haveli and Daman and Diu"
+      },
+      "highlights": [
+        "Promenade",
+        "Musical fountain",
+        "Weekend crowds"
+      ],
+      "sources": [
+        {
+          "title": "Daman, India – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Daman,_India"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/devka-beach-daman.webp",
+          "alt": "Devka Beach, Daman",
+          "credit": "Raman Patel",
+          "license": "CC BY 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Evening_View_at_Devka_Beach,_Daman_-_panoramio.jpg"
+        }
+      ]
     }
   ]
 }

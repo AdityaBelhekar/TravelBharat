@@ -4,6 +4,8 @@
       "name": "Gangtok",
       "slug": "gangtok",
       "overview": "Sikkim's capital, strung along a ridge at about 1,650 m with views of Kangchenjunga on clear mornings and a pedestrian-only MG Marg at its heart.",
+      "history": "It became the capital of the Buddhist kingdom of Sikkim in the 19th century, and it grew as a stop on the trade route to Tibet. Sikkim joined India in 1975.",
+      "isHub": true,
       "location": {
         "lat": 27.3389,
         "lng": 88.6065
@@ -16,6 +18,51 @@
       "location": {
         "lat": 27.6897,
         "lng": 88.7426
+      }
+    },
+    {
+      "name": "Pelling",
+      "slug": "pelling",
+      "overview": "A hill town in west Sikkim with close-up views of Kanchenjunga, and old monasteries nearby.",
+      "location": {
+        "lat": 27.18,
+        "lng": 88.14
+      }
+    },
+    {
+      "name": "Namchi",
+      "slug": "namchi",
+      "overview": "The main town of south Sikkim, with giant hilltop statues of Shiva and Guru Padmasambhava.",
+      "location": {
+        "lat": 27.17,
+        "lng": 88.35
+      }
+    },
+    {
+      "name": "Yuksom",
+      "slug": "yuksom",
+      "overview": "A historic village, once the first capital of Sikkim, and the starting point of the Goecha La trek.",
+      "location": {
+        "lat": 27.3733,
+        "lng": 88.2208
+      }
+    },
+    {
+      "name": "Ravangla",
+      "slug": "ravangla",
+      "overview": "A small town in south Sikkim known for its Buddha Park.",
+      "location": {
+        "lat": 27.2925,
+        "lng": 88.3594
+      }
+    },
+    {
+      "name": "Dzuluk",
+      "slug": "dzuluk",
+      "overview": "A small hamlet on the old Silk Route, with zigzag roads in east Sikkim.",
+      "location": {
+        "lat": 27.251,
+        "lng": 88.775
       }
     }
   ],
@@ -170,6 +217,600 @@
           "credit": "Joginder Pathak",
           "license": "CC BY-SA 2.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yumthang_valley,_Lachung_Sikkim_India_2012.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Enchey Monastery",
+      "slug": "enchey-monastery",
+      "city": "gangtok",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A 1909 Nyingma monastery on a ridge above Gangtok, known for its annual masked dance.",
+      "description": "A small colourful monastery among pine trees, with views of Kanchenjunga on clear days. The Chaam dance is held each winter.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 27.3358,
+        "lng": 88.6192,
+        "address": "Gangtok, Sikkim"
+      },
+      "highlights": [
+        "Chaam dance",
+        "Pine forest",
+        "Views of Gangtok"
+      ],
+      "sources": [
+        {
+          "title": "Enchey Monastery – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Enchey_Monastery"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/enchey-monastery.webp",
+          "alt": "Enchey Monastery, Gangtok",
+          "credit": "Amitabha Gupta",
+          "license": "CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Enchey_Monastery_in_Gangtok_district,_East_Sikkim.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Nathu La",
+      "slug": "nathu-la",
+      "city": "gangtok",
+      "kind": "mountain-pass",
+      "categories": [
+        "adventure"
+      ],
+      "shortDescription": "A high pass on the old Silk Route between Sikkim and Tibet, at the Chinese border.",
+      "description": "Soldiers from both sides stand a few metres apart at the top. Only Indian citizens may visit, with a permit.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "bestTimeNote": "Open only to Indian citizens on certain days, with a permit arranged through a registered operator.",
+      "location": {
+        "lat": 27.3868,
+        "lng": 88.831,
+        "address": "Gangtok, Sikkim"
+      },
+      "highlights": [
+        "India and China border",
+        "Baba Mandir nearby",
+        "Old Silk Route"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Nathu La – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nathu_La"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/nathu-la.webp",
+          "alt": "Nathu La, Gangtok",
+          "credit": "shankar",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flip_side_of_a_notice_on_the_route_to_Nathula.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Fambong Lho Wildlife Sanctuary",
+      "slug": "fambong-lho-wildlife-sanctuary",
+      "city": "gangtok",
+      "kind": "sanctuary",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A 51 sq km forest sanctuary just outside Gangtok, with oaks, orchids and red pandas.",
+      "description": "A close, little-visited forest for birdwatching and day walks, with some short trails and log huts.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 27.3113,
+        "lng": 88.5337,
+        "address": "Gangtok, Sikkim"
+      },
+      "highlights": [
+        "Red panda habitat",
+        "Orchids",
+        "Forest log huts"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Fambong Lho Wildlife Sanctuary – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Fambong_Lho_Wildlife_Sanctuary"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/fambong-lho-wildlife-sanctuary.webp",
+          "alt": "Fambong Lho Wildlife Sanctuary, Gangtok",
+          "credit": "Dibyendu Ash",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Log_House_at_Golitar_Fambong_Lho_WLS.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kyongnosla Alpine Sanctuary",
+      "slug": "kyongnosla-alpine-sanctuary",
+      "city": "gangtok",
+      "kind": "sanctuary",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A high alpine reserve around Tsomgo Lake, known for its rare orchids and rhododendrons.",
+      "description": "A strip of high forest and alpine meadow along the Nathu La road. Its rare plants are at their best in spring and summer.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "bestTimeNote": "This area needs a protected area permit, usually arranged through a registered tour operator in Gangtok.",
+      "location": {
+        "lat": 27.377,
+        "lng": 88.741,
+        "address": "Gangtok, Sikkim"
+      },
+      "highlights": [
+        "Rhododendrons",
+        "Alpine plants",
+        "Tsomgo Lake road"
+      ],
+      "sources": [
+        {
+          "title": "Kyongnosla Alpine Sanctuary – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kyongnosla_Alpine_Sanctuary"
+        }
+      ]
+    },
+    {
+      "name": "Gurudongmar Lake",
+      "slug": "gurudongmar-lake",
+      "city": "lachung",
+      "kind": "lake",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "One of the highest lakes in the world, at over 5,000 m in north Sikkim, sacred to Buddhists and Sikhs.",
+      "description": "A huge turquoise lake in a bare plateau close to the Tibetan border, reached on an early-morning drive from Lachen. Altitude is a real concern.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        10,
+        11
+      ],
+      "bestTimeNote": "This area needs a protected area permit, usually arranged through a registered tour operator in Gangtok.",
+      "location": {
+        "lat": 28.02,
+        "lng": 88.71,
+        "address": "Lachung, Sikkim"
+      },
+      "highlights": [
+        "Sacred high lake",
+        "Early-morning drive",
+        "Tibetan plateau"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Gurudongmar Lake – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gurudongmar_Lake"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/gurudongmar-lake.webp",
+          "alt": "Gurudongmar Lake, Lachung",
+          "credit": "Original: Yoghya Derivative work: UnpetitproleX",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gurudongmar_Lake_Sikkim,_India_(edit).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Pemayangtse Monastery",
+      "slug": "pemayangtse-monastery",
+      "city": "pelling",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "One of Sikkim's oldest and most important monasteries, near Pelling, with a remarkable wooden model of heaven.",
+      "description": "A Nyingma monastery on a ridge facing Kanchenjunga. Its top floor holds a seven-tiered carved wood model of Guru Rinpoche's celestial palace.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 27.3044,
+        "lng": 88.2528,
+        "address": "Pelling, Sikkim"
+      },
+      "highlights": [
+        "Carved wooden palace",
+        "Kanchenjunga view",
+        "Chaam dance"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Pemayangtse Monastery – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pemayangtse_Monastery"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/pemayangtse-monastery.webp",
+          "alt": "Pemayangtse Monastery, Pelling",
+          "credit": "Kothanda Srinivasan",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Main_Shrine_of_Pemangytse_Gompa_with_prayer_flags.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Rabdentse Ruins",
+      "slug": "rabdentse-ruins",
+      "city": "pelling",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The ruins of the second capital of the Kingdom of Sikkim, destroyed by Gurkhas in 1814.",
+      "description": "A forest walk leads to stone walls and chortens on a ridge, with sweeping views of the mountains.",
+      "history": "The capital from 1670 until it was overrun in the 1814 Gurkha invasion.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 27.3011,
+        "lng": 88.2539,
+        "address": "Pelling, Sikkim"
+      },
+      "highlights": [
+        "Forest walk",
+        "Palace ruins",
+        "Ridge views"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Rabdentse – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Rabdentse"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/rabdentse-ruins.webp",
+          "alt": "Rabdentse Ruins, Pelling",
+          "credit": "Rangan Datta Wiki",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rabdantse_6.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Khecheopalri Lake",
+      "slug": "khecheopalri-lake",
+      "city": "pelling",
+      "kind": "lake",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A sacred wish-fulfilling lake in west Sikkim, where it's said birds keep the surface clear of leaves.",
+      "description": "A still green lake in a forest bowl, sacred to Buddhists and Hindus. Prayer flags and small wooden walkways lead to the water.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 27.35,
+        "lng": 88.1886,
+        "address": "Pelling, Sikkim"
+      },
+      "highlights": [
+        "Sacred lake",
+        "Prayer wheels",
+        "Forest bowl"
+      ],
+      "sources": [
+        {
+          "title": "Khecheopalri Lake – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Khecheopalri_Lake"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/khecheopalri-lake.webp",
+          "alt": "Khecheopalri Lake, Pelling",
+          "credit": "Kothanda Srinivasan",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Foot_bridge_to_Khecheolpalri_Lake.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Tashiding Monastery",
+      "slug": "tashiding-monastery",
+      "city": "yuksom",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A Nyingma monastery on a hilltop, 27 km from Gyalshing, with some of the most sacred chortens in Sikkim.",
+      "description": "Said to cleanse sins merely by sight, it's the site of the Bumchu Festival, in which a holy water vessel is opened each year.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 27.3083,
+        "lng": 88.2981,
+        "address": "Yuksom, Sikkim"
+      },
+      "highlights": [
+        "Bumchu Festival",
+        "Sacred chortens",
+        "Hilltop views"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Tashiding Monastery – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Tashiding_Monastery"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/tashiding-monastery.webp",
+          "alt": "Tashiding Monastery, Yuksom",
+          "credit": "walter callen",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mani_stone_slabs_outside_Tashiding_Monastery.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Khangchendzonga National Park",
+      "slug": "khangchendzonga-national-park",
+      "city": "yuksom",
+      "kind": "national-park",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "India's only mixed UNESCO World Heritage Site, around the world's third-highest mountain.",
+      "description": "A huge park of glaciers, alpine meadows and forest, with red pandas and snow leopards. Treks start from Yuksom, and permits are needed.",
+      "history": "Inscribed by UNESCO in 2016.",
+      "bestMonths": [
+        4,
+        5,
+        10,
+        11
+      ],
+      "bestTimeNote": "This area needs a protected area permit, usually arranged through a registered tour operator in Gangtok.",
+      "location": {
+        "lat": 27.6563,
+        "lng": 88.3123,
+        "address": "Yuksom, Sikkim"
+      },
+      "highlights": [
+        "Mixed UNESCO listing",
+        "Dzongri trek",
+        "Red pandas"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Khangchendzonga National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Khangchendzonga_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/khangchendzonga-national-park.webp",
+          "alt": "Khangchendzonga National Park, Yuksom",
+          "credit": "Ashinpt at enwiki",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kangch-Goechala.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Goecha La",
+      "slug": "goecha-la",
+      "city": "yuksom",
+      "kind": "trek",
+      "categories": [
+        "adventure"
+      ],
+      "shortDescription": "A high pass facing Kanchenjunga's south-east face, the goal of Sikkim's most famous trek.",
+      "description": "A multi-day trek from Yuksom through rhododendron forest and alpine meadows, ending in one of the closest views of the world's third-highest peak.",
+      "bestMonths": [
+        4,
+        5,
+        10,
+        11
+      ],
+      "bestTimeNote": "This area needs a protected area permit, usually arranged through a registered tour operator in Gangtok.",
+      "location": {
+        "lat": 27.6078,
+        "lng": 88.1869,
+        "address": "Yuksom, Sikkim"
+      },
+      "highlights": [
+        "Kanchenjunga sunrise",
+        "Samiti Lake",
+        "Dzongri viewpoint"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Goecha La – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Goecha_La"
+        }
+      ]
+    },
+    {
+      "name": "Ravangla Buddha Park",
+      "slug": "ravangla-buddha-park",
+      "city": "ravangla",
+      "kind": "garden",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A hilltop park in south Sikkim, with a giant 130-foot statue of the Buddha at Tathagata Tsal.",
+      "description": "Well-kept gardens surround a giant copper Buddha statue, with snowy peaks behind it. Ralang Monastery is close by.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 27.2925,
+        "lng": 88.3594,
+        "address": "Ravangla, Sikkim"
+      },
+      "highlights": [
+        "Giant Buddha",
+        "Mountain views",
+        "Ralang Monastery nearby"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Ravangla – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ravangla"
+        }
+      ]
+    },
+    {
+      "name": "Namchi Char Dham",
+      "slug": "namchi-char-dham",
+      "city": "namchi",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A hill complex near Namchi, with replicas of India's four great pilgrim shrines and a huge Shiva statue.",
+      "description": "A big pilgrim centre, crowned by a giant Shiva, and in the same town you'll find a giant statue of Guru Padmasambhava at Samdruptse.",
+      "bestMonths": [
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "location": {
+        "lat": 27.17,
+        "lng": 88.35,
+        "address": "Namchi, Sikkim"
+      },
+      "highlights": [
+        "Giant Shiva",
+        "Samdruptse Guru statue",
+        "Namchi hills"
+      ],
+      "sources": [
+        {
+          "title": "Namchi – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Namchi"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/namchi-char-dham.webp",
+          "alt": "Namchi Char Dham, Namchi",
+          "credit": "Subhrajyoti07",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panoramic_view_of_large_statue_of_Guru_Padmasambhava_(Guru_Rinpoche)m_Namchi.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Dzuluk",
+      "slug": "dzuluk",
+      "city": "dzuluk",
+      "kind": "village",
+      "categories": [
+        "adventure"
+      ],
+      "shortDescription": "A hamlet at 9,400 ft on the old Silk Route in east Sikkim, famous for its zigzag roads.",
+      "description": "A hair-raising drive of dozens of hairpin bends across a high ridge. Thambi View Point gives a wide view of the road and Kanchenjunga.",
+      "bestMonths": [
+        4,
+        5,
+        10,
+        11
+      ],
+      "bestTimeNote": "This area needs a protected area permit, usually arranged through a registered tour operator in Gangtok.",
+      "location": {
+        "lat": 27.251,
+        "lng": 88.775,
+        "address": "Dzuluk, Sikkim"
+      },
+      "highlights": [
+        "Zigzag road",
+        "Thambi View Point",
+        "Silk Route history"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Dzuluk – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dzuluk"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/dzuluk.webp",
+          "alt": "Dzuluk",
+          "credit": "Tsen2006",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zuluk_at_dawn.jpg"
         }
       ]
     }

@@ -4,6 +4,8 @@
       "name": "Agartala",
       "slug": "agartala",
       "overview": "Tripura's capital, close to the Bangladesh border, a relaxed city built around the royal palace of the Manikya kings.",
+      "history": "The Manikya kings moved here from Udaipur in the 18th and 19th centuries. It joined India in 1949, and it's now 2 km from the Bangladesh border.",
+      "isHub": true,
       "location": {
         "lat": 23.8315,
         "lng": 91.2868
@@ -25,6 +27,33 @@
       "location": {
         "lat": 24.2784,
         "lng": 92.004
+      }
+    },
+    {
+      "name": "Udaipur",
+      "slug": "udaipur-tripura",
+      "overview": "The old capital of the Manikya kingdom, known as the Lake City, with the famous Tripura Sundari Temple.",
+      "location": {
+        "lat": 23.5389,
+        "lng": 91.4917
+      }
+    },
+    {
+      "name": "Kumarghat",
+      "slug": "kumarghat",
+      "overview": "A northern town on the road to the Jampui Hills.",
+      "location": {
+        "lat": 24.1683,
+        "lng": 92.0224
+      }
+    },
+    {
+      "name": "Belonia",
+      "slug": "belonia",
+      "overview": "A town in South Tripura, close to the Pilak ruins and the Trishna forest.",
+      "location": {
+        "lat": 23.2506,
+        "lng": 91.4556
       }
     }
   ],
@@ -190,6 +219,271 @@
           "credit": "Barunghosh",
           "license": "CC BY-SA 4.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Unakoti_3.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Tripura Sundari Temple",
+      "slug": "tripura-sundari-temple",
+      "city": "udaipur-tripura",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A key Shakti Peetha at Udaipur, on a hill shaped like a tortoise, with a large sacred tank.",
+      "description": "A small, red-and-yellow Bengali-style temple, whose tank is full of large fish and turtles. A big fair is held here at Diwali.",
+      "history": "Built by Maharaja Dhanya Manikya in 1501.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 23.5089,
+        "lng": 91.4981,
+        "address": "Udaipur, Tripura"
+      },
+      "highlights": [
+        "Tortoise-shaped hill",
+        "Kalyan Sagar tank",
+        "Diwali fair"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Tripura Sundari Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Tripura_Sundari_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/tripura-sundari-temple.webp",
+          "alt": "Tripura Sundari Temple, Udaipur",
+          "credit": "Yash raina",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tripura_Sundari_Temple_in_Udaipur,_Tripura_-_statue_2018-03-25_-2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sepahijala Wildlife Sanctuary",
+      "slug": "sepahijala-wildlife-sanctuary",
+      "city": "agartala",
+      "kind": "sanctuary",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A sanctuary close to Agartala, known for its clouded leopards and spectacled langurs.",
+      "description": "A small, well-used forest with a zoo, lakes and boating. Its clouded leopard enclosures are the main draw.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 23.6644,
+        "lng": 91.3117,
+        "address": "Agartala, Tripura"
+      },
+      "highlights": [
+        "Clouded leopard enclosure",
+        "Spectacled langurs",
+        "Lake boating"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Sepahijala Wildlife Sanctuary – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sepahijala_Wildlife_Sanctuary"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/sepahijala-wildlife-sanctuary.webp",
+          "alt": "Sepahijala Wildlife Sanctuary, Agartala",
+          "credit": "Pritamg24",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Deer,_Sepahijala_WLS.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Rudrasagar Lake",
+      "slug": "rudrasagar-lake",
+      "city": "melaghar",
+      "kind": "lake",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A wetland lake at Melaghar, with the Neermahal water palace at its centre.",
+      "description": "A big natural reservoir, listed as a Ramsar site, that's popular for its winter birds and boat rides to the water palace.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 23.504,
+        "lng": 91.315,
+        "address": "Melaghar, Tripura"
+      },
+      "highlights": [
+        "Neermahal palace boat",
+        "Winter birds",
+        "Ramsar site"
+      ],
+      "sources": [
+        {
+          "title": "Rudrasagar Lake – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Rudrasagar_Lake"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/rudrasagar-lake.webp",
+          "alt": "Rudrasagar Lake, Melaghar",
+          "credit": "No machine-readable author provided. Soman assumed (based on copyright claims)",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Neermahal191.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Jampui Hills",
+      "slug": "jampui-hills",
+      "city": "kumarghat",
+      "kind": "hill-station",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "The highest hills in Tripura, a Mizo-populated range with orange orchards and a spring in the air.",
+      "description": "A quiet range of tea, orange orchards and tribal villages. The Orange Festival every November is the highlight.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 23.9659,
+        "lng": 92.2773,
+        "address": "Kumarghat, Tripura"
+      },
+      "highlights": [
+        "Orange Festival",
+        "Betlingchhip peak",
+        "Mizo villages"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Jampui Hills – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jampui_Hills"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/jampui-hills.webp",
+          "alt": "Jampui Hills, Kumarghat",
+          "credit": "Tlinga",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cheraw_jampui.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Trishna Wildlife Sanctuary",
+      "slug": "trishna-wildlife-sanctuary",
+      "city": "belonia",
+      "kind": "sanctuary",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A sanctuary in South Tripura known for its gaur, spectacled langurs and birdlife.",
+      "description": "A forest of low hills and marsh, close to the town of Belonia. Gaur are the main attraction here.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 23.4217,
+        "lng": 91.3131,
+        "address": "Belonia, Tripura"
+      },
+      "highlights": [
+        "Gaur",
+        "Spectacled langurs",
+        "Forest walks"
+      ],
+      "sources": [
+        {
+          "title": "Trishna Wildlife Sanctuary – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Trishna_Wildlife_Sanctuary"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/trishna-wildlife-sanctuary.webp",
+          "alt": "Trishna Wildlife Sanctuary, Belonia",
+          "credit": "Seearka",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Indian_Bison_Gobo.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Pilak",
+      "slug": "pilak-tripura",
+      "city": "belonia",
+      "kind": "monument",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "An archaeological site in South Tripura, with Hindu and Buddhist images dating from the 8th century.",
+      "description": "Terracotta plaques and Buddhist and Hindu sculptures found across a wide area show the region's links with the Bengal plains.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 23.2,
+        "lng": 91.6,
+        "address": "Belonia, Tripura"
+      },
+      "highlights": [
+        "Terracotta plaques",
+        "Buddhist images",
+        "Quiet rural setting"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Pilak, Tripura – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pilak,_Tripura"
         }
       ]
     }

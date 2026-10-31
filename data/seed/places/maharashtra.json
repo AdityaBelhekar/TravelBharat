@@ -687,6 +687,15 @@
           "title": "Ellora Caves – UNESCO",
           "url": "https://whc.unesco.org/en/list/243"
         }
+      ],
+      "images": [
+        {
+          "url": "/places/ellora-caves.webp",
+          "alt": "Ellora Caves, Verul (Ellora)",
+          "credit": "Ms Sarah Welch",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:1_Dancing_Shiva,_Cave_21_at_Ellora.jpg"
+        }
       ]
     },
     {
@@ -1810,6 +1819,15 @@
           "title": "Bhaja Caves – Wikipedia",
           "url": "https://en.wikipedia.org/wiki/Bhaja_Caves"
         }
+      ],
+      "images": [
+        {
+          "url": "/places/bhaja-caves.webp",
+          "alt": "Bhaja Caves, Lonavala",
+          "credit": "Amitmahadik100",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bhaja_Caves_Amit_R_Mahadik_01.jpg"
+        }
       ]
     },
     {
@@ -1851,6 +1869,15 @@
         {
           "title": "Bhimashankar Temple – Wikipedia",
           "url": "https://en.wikipedia.org/wiki/Bhimashankar_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/bhimashankar-temple.webp",
+          "alt": "Bhimashankar Temple, Bhimashankar",
+          "credit": "ସୁରଥ କୁମାର ପାଢ଼ୀ",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bhimashankar_temple,_Maharashtra.JPG"
         }
       ]
     },
@@ -2859,6 +2886,15 @@
           "title": "Murud-Janjira – Wikipedia",
           "url": "https://en.wikipedia.org/wiki/Murud-Janjira"
         }
+      ],
+      "images": [
+        {
+          "url": "/places/murud-janjira.webp",
+          "alt": "Murud-Janjira, Murud",
+          "credit": "Sagar Jadhav",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fort_Janjira_Unconquered.JPG"
+        }
       ]
     },
     {
@@ -3111,6 +3147,15 @@
         {
           "title": "Sindhudurg Fort – Wikipedia",
           "url": "https://en.wikipedia.org/wiki/Sindhudurg_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/sindhudurg-fort.webp",
+          "alt": "Sindhudurg Fort, Malvan",
+          "credit": "Sneyo",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Malvan_fort_iin_sea.jpg"
         }
       ]
     },
@@ -3854,6 +3899,15 @@
         {
           "title": "Radhanagari Wildlife Sanctuary – Wikipedia",
           "url": "https://en.wikipedia.org/wiki/Radhanagari_Wildlife_Sanctuary"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/radhanagari-wildlife-sanctuary.webp",
+          "alt": "Radhanagari Wildlife Sanctuary, Radhanagari",
+          "credit": "Prasad2092",
+          "license": "CC0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Indian_Bison_-_Radhanagari.jpg"
         }
       ]
     },

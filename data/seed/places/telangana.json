@@ -4,6 +4,8 @@
       "name": "Hyderabad",
       "slug": "hyderabad",
       "overview": "Telangana's capital, founded by the Qutb Shahi dynasty in 1591, famous for its biryani, pearls and blend of old-city heritage and modern tech hubs.",
+      "history": "Founded in 1591 by Muhammad Quli Qutb Shah as the new capital beyond Golconda. Under the Asaf Jahi Nizams, it became the richest princely state in India, and it joined the Union in 1948.",
+      "isHub": true,
       "location": {
         "lat": 17.385,
         "lng": 78.4867
@@ -16,6 +18,62 @@
       "location": {
         "lat": 18.2676,
         "lng": 79.9408
+      }
+    },
+    {
+      "name": "Warangal",
+      "slug": "warangal",
+      "overview": "The old capital of the Kakatiya dynasty, known for its fort gateways and star-shaped temples.",
+      "history": "The Kakatiya kings ruled much of the Telugu country from here between the 12th and 14th centuries, until the Delhi Sultanate overran it.",
+      "isHub": true,
+      "location": {
+        "lat": 17.9689,
+        "lng": 79.5941
+      }
+    },
+    {
+      "name": "Bhadrachalam",
+      "slug": "bhadrachalam",
+      "overview": "A pilgrim town on the Godavari, known for its Rama temple.",
+      "location": {
+        "lat": 17.668,
+        "lng": 80.8936
+      }
+    },
+    {
+      "name": "Nalgonda",
+      "slug": "nalgonda",
+      "overview": "A district town south-east of Hyderabad, on the road to Nagarjuna Sagar.",
+      "location": {
+        "lat": 17.0575,
+        "lng": 79.2684
+      }
+    },
+    {
+      "name": "Adilabad",
+      "slug": "adilabad",
+      "overview": "A forested northern district on the Maharashtra border, with Telangana's highest waterfall.",
+      "location": {
+        "lat": 19.6641,
+        "lng": 78.532
+      }
+    },
+    {
+      "name": "Medak",
+      "slug": "medak",
+      "overview": "A town north of Hyderabad, known for its huge Gothic cathedral.",
+      "location": {
+        "lat": 18.0453,
+        "lng": 78.2636
+      }
+    },
+    {
+      "name": "Gadwal",
+      "slug": "gadwal",
+      "overview": "A southern town known for silk saris, the base for the temples at Alampur.",
+      "location": {
+        "lat": 16.2354,
+        "lng": 77.7956
       }
     }
   ],
@@ -190,6 +248,890 @@
           "credit": "Nirav Lad",
           "license": "CC BY-SA 4.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ramappa_Temple_(Human_Scale).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Chowmahalla Palace",
+      "slug": "chowmahalla-palace",
+      "city": "hyderabad",
+      "kind": "palace",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The seat of the Nizams of Hyderabad, a set of four restored palaces with a grand durbar hall.",
+      "description": "Courtyards and fountains lead to the Khilwat Mubarak hall, with its Belgian crystal chandeliers. There are vintage cars and royal costumes too.",
+      "history": "Built by the Asaf Jahi Nizams, starting in the 18th century.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 17.3582,
+        "lng": 78.4717,
+        "address": "Hyderabad, Telangana"
+      },
+      "highlights": [
+        "Khilwat Mubarak hall",
+        "Vintage car collection",
+        "Royal clothes"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Chowmahalla Palace – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chowmahalla_Palace"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/chowmahalla-palace.webp",
+          "alt": "Chowmahalla Palace, Hyderabad",
+          "credit": "Bernard Gagnon",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chowmahalla_Palace_01.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Salar Jung Museum",
+      "slug": "salar-jung-museum",
+      "city": "hyderabad",
+      "kind": "museum",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "One of India's largest museums, the private collection of a Nizam's prime minister.",
+      "description": "An astonishing range of art from around the world, from the Veiled Rebecca marble to a musical clock that draws a crowd every hour.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 17.3714,
+        "lng": 78.4803,
+        "address": "Hyderabad, Telangana"
+      },
+      "highlights": [
+        "Veiled Rebecca",
+        "Musical clock",
+        "Jade and arms"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Salar Jung Museum – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Salar_Jung_Museum"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/salar-jung-museum.webp",
+          "alt": "Salar Jung Museum, Hyderabad",
+          "credit": "Omer123hussain",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Salar_Jung_Museum,_Hyderabad,_India.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Mecca Masjid",
+      "slug": "mecca-masjid-hyderabad",
+      "city": "hyderabad",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "The largest mosque in Hyderabad, next to the Charminar, built from local granite.",
+      "description": "A huge prayer hall begun under the Qutb Shahis and finished by Aurangzeb. Bricks said to be from Mecca are set above the central arch.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 17.3606,
+        "lng": 78.4733,
+        "address": "Hyderabad, Telangana"
+      },
+      "highlights": [
+        "Giant prayer hall",
+        "Nizams' tombs",
+        "Next to Charminar"
+      ],
+      "sources": [
+        {
+          "title": "Makkah Masjid, Hyderabad – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Makkah_Masjid,_Hyderabad"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/mecca-masjid-hyderabad.webp",
+          "alt": "Mecca Masjid, Hyderabad",
+          "credit": "Suraj Garg",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mecca_Masjid_Hyderabad.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Qutb Shahi Tombs",
+      "slug": "qutb-shahi-tombs",
+      "city": "hyderabad",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The domed tombs of seven Qutb Shahi kings, set in a garden near Golconda.",
+      "description": "A quiet necropolis of domed granite tombs with minarets and lattice work, recently restored, just north of Golconda Fort.",
+      "history": "Built for the rulers of the Qutb Shahi dynasty, in the 16th and 17th centuries.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 17.395,
+        "lng": 78.396,
+        "address": "Hyderabad, Telangana"
+      },
+      "highlights": [
+        "Tall domed tombs",
+        "Restored stepwells",
+        "Near Golconda"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Qutb Shahi tombs – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Qutb_Shahi_tombs"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/qutb-shahi-tombs.webp",
+          "alt": "Qutb Shahi Tombs, Hyderabad",
+          "credit": "Alaka123",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qutb_Shahi_Tomb_5.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hussain Sagar",
+      "slug": "hussain-sagar",
+      "city": "hyderabad",
+      "kind": "lake",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A heart-shaped lake from 1562 in the middle of Hyderabad, with a giant Buddha on an island.",
+      "description": "Boats go out to the monolithic Buddha statue. The Necklace Road along the shore is the city's evening hangout.",
+      "history": "Built by Ibrahim Quli Qutb Shah in 1562.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 17.4248,
+        "lng": 78.4733,
+        "address": "Hyderabad, Telangana"
+      },
+      "highlights": [
+        "Buddha statue on the lake",
+        "Necklace Road",
+        "Lumbini Park"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Hussain Sagar – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hussain_Sagar"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/hussain-sagar.webp",
+          "alt": "Hussain Sagar, Hyderabad",
+          "credit": "iMahesh",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Hussain_Sagar_from_Bansalipet.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Ramoji Film City",
+      "slug": "ramoji-film-city",
+      "city": "hyderabad",
+      "kind": "neighbourhood",
+      "categories": [
+        "adventure"
+      ],
+      "shortDescription": "One of the largest film studio complexes in the world, spread over 2,000 acres.",
+      "description": "A day-long tour takes you through film sets, gardens and shows, on the edge of Hyderabad.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 17.252,
+        "lng": 78.681,
+        "address": "Hyderabad, Telangana"
+      },
+      "highlights": [
+        "Film set tours",
+        "Live shows",
+        "Theme park rides"
+      ],
+      "sources": [
+        {
+          "title": "Ramoji Film City – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ramoji_Film_City"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/ramoji-film-city.webp",
+          "alt": "Ramoji Film City, Hyderabad",
+          "credit": "Shillika",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ramoji_Film_City.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Birla Mandir, Hyderabad",
+      "slug": "birla-mandir-hyderabad",
+      "city": "hyderabad",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A white marble temple on Naubat Pahad, with a wide view over Hussain Sagar.",
+      "description": "Rajasthani marble and fine carving overlook the city. It is especially pretty at dusk, when the lights come on below.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 17.4062,
+        "lng": 78.4691,
+        "address": "Hyderabad, Telangana"
+      },
+      "highlights": [
+        "White marble",
+        "Sunset view",
+        "Naubat Pahad"
+      ],
+      "sources": [
+        {
+          "title": "Birla Mandir, Hyderabad – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Birla_Mandir,_Hyderabad"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/birla-mandir-hyderabad.webp",
+          "alt": "Birla Mandir, Hyderabad, Hyderabad",
+          "credit": "Nikhilb239",
+          "license": "CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Birla_Mandir,_Hyderabad.png"
+        }
+      ]
+    },
+    {
+      "name": "Nehru Zoological Park",
+      "slug": "nehru-zoological-park",
+      "city": "hyderabad",
+      "kind": "zoo",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "One of India's largest zoos, near Mir Alam Tank, with lion safaris and a nocturnal house.",
+      "description": "A big zoo beside an old lake, with a safari and a small train. Winter brings birds to the Mir Alam Tank.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 17.3511,
+        "lng": 78.4497,
+        "address": "Hyderabad, Telangana"
+      },
+      "highlights": [
+        "Lion safari",
+        "Nocturnal house",
+        "Toy train"
+      ],
+      "sources": [
+        {
+          "title": "Nehru Zoological Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nehru_Zoological_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/nehru-zoological-park.webp",
+          "alt": "Nehru Zoological Park, Hyderabad",
+          "credit": "Cephas 405 at en.wikipedia)",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hyderabad_zoo.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Falaknuma Palace",
+      "slug": "falaknuma-palace",
+      "city": "hyderabad",
+      "kind": "palace",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A hilltop Italian marble palace of the Nizams, now a Taj luxury hotel.",
+      "description": "A palace that was built for a Paigah noble and later taken by the Nizam. Its dining table seats over 100 guests. Entry is mainly for hotel guests and diners.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 17.331,
+        "lng": 78.4675,
+        "address": "Hyderabad, Telangana"
+      },
+      "highlights": [
+        "Scorpion-shaped layout",
+        "Long dining table",
+        "City views"
+      ],
+      "sources": [
+        {
+          "title": "Falaknuma Palace – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Falaknuma_Palace"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/falaknuma-palace.webp",
+          "alt": "Falaknuma Palace, Hyderabad",
+          "credit": "Bernard Gagnon",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Falaknuma_Palace_01.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Warangal Fort",
+      "slug": "warangal-fort",
+      "city": "warangal",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The ruined capital of the Kakatiyas, with concentric walls and four great stone gateways.",
+      "description": "Rings of mud and stone walls enclose ruined temples and the big carved stone arches that have become the symbol of Telangana.",
+      "history": "The capital of the Kakatiya dynasty from the 12th century.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 17.9572,
+        "lng": 79.6144,
+        "address": "Warangal, Telangana"
+      },
+      "highlights": [
+        "Kakatiya Kala Thoranam",
+        "Ruined Shiva Temple",
+        "Khush Mahal"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Warangal Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Warangal_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/warangal-fort.webp",
+          "alt": "Warangal Fort, Warangal",
+          "credit": "KINNERA ARAVIND",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kakatiya_kala_thoranam_in_Warangal_fort.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Thousand Pillar Temple",
+      "slug": "thousand-pillar-temple",
+      "city": "warangal",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A star-shaped Kakatiya temple in Hanamakonda, with richly carved pillars and a monolithic Nandi.",
+      "description": "Black basalt pillars support a hall, with a large polished Nandi in the courtyard.",
+      "history": "Built by the Kakatiya king Rudra Deva in about 1163 CE.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 18.0037,
+        "lng": 79.5747,
+        "address": "Warangal, Telangana"
+      },
+      "highlights": [
+        "Polished Nandi",
+        "Basalt carved pillars",
+        "Star-shaped shrines"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Thousand Pillar Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Thousand_Pillar_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/thousand-pillar-temple.webp",
+          "alt": "Thousand Pillar Temple, Warangal",
+          "credit": "Nikhil B",
+          "license": "CC BY 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:1000pillar_temple_warangal.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Bhongir Fort",
+      "slug": "bhongir-fort",
+      "city": "nalgonda",
+      "kind": "fort",
+      "categories": [
+        "adventure"
+      ],
+      "shortDescription": "A hill fort on a giant egg-shaped rock on the road from Hyderabad, popular for rock climbing.",
+      "description": "A massive monolithic hill rises out of the plain, an easy trip from Hyderabad. Climbing schools train on its faces.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 17.5157,
+        "lng": 78.8927,
+        "address": "Nalgonda, Telangana"
+      },
+      "highlights": [
+        "Giant monolith",
+        "Rock climbing",
+        "Fort top view"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Bhongir Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bhongir_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/bhongir-fort.webp",
+          "alt": "Bhongir Fort, Nalgonda",
+          "credit": "Gaurav.alaspure",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bhongir_Fort_Royal_gate.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Yadagirigutta Temple",
+      "slug": "yadagirigutta-temple",
+      "city": "nalgonda",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A rebuilt hilltop Narasimha temple near Bhongir, one of Telangana's most visited.",
+      "description": "Rebuilt in black granite on a grand scale, about 60 km from Hyderabad. It is now among Telangana's largest pilgrim sites.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 17.5892,
+        "lng": 78.9446,
+        "address": "Nalgonda, Telangana"
+      },
+      "highlights": [
+        "Black granite temple",
+        "Hilltop setting",
+        "Sacred cave shrine"
+      ],
+      "sources": [
+        {
+          "title": "Sri Lakshmi Narasimha Swamy Temple, Yadagirigutta – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sri_Lakshmi_Narasimha_Swamy_Temple,_Yadagirigutta"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/yadagirigutta-temple.webp",
+          "alt": "Yadagirigutta Temple, Nalgonda",
+          "credit": "Saket789",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yadadri_Temple_on_the_hilltop.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Nagarjuna Sagar Dam",
+      "slug": "nagarjuna-sagar-dam",
+      "city": "nalgonda",
+      "kind": "dam",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "One of the world's largest masonry dams, across the Krishna River, on the Andhra Pradesh border.",
+      "description": "A long stone wall holding back a huge lake. Boats run from here to Nagarjunakonda, the Buddhist island site in the reservoir.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1
+      ],
+      "location": {
+        "lat": 16.5756,
+        "lng": 79.3117,
+        "address": "Nalgonda, Telangana"
+      },
+      "highlights": [
+        "Boats to Nagarjunakonda",
+        "Monsoon floodgates",
+        "Ethipothala Falls nearby"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Nagarjuna Sagar Dam – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nagarjuna_Sagar_Dam"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/nagarjuna-sagar-dam.webp",
+          "alt": "Nagarjuna Sagar Dam, Nalgonda",
+          "credit": "Sumanthk at English Wikipedia",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:NagarjunaSagarDam.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Sita Ramachandraswamy Temple",
+      "slug": "bhadrachalam-temple",
+      "city": "bhadrachalam",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A major Rama temple on the Godavari at Bhadrachalam, one of the main pilgrim places in Telangana.",
+      "description": "Pilgrims come to this temple on the river, especially for the Sri Rama Navami festivities. It's closely linked to the 17th-century poet saint Ramadasu.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 17.6669,
+        "lng": 80.8828,
+        "address": "Bhadrachalam, Telangana"
+      },
+      "highlights": [
+        "Sri Rama Navami festival",
+        "Godavari riverbank",
+        "Bhadradri hill"
+      ],
+      "sources": [
+        {
+          "title": "Sita Ramachandraswamy Temple, Bhadrachalam – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sita_Ramachandraswamy_Temple,_Bhadrachalam"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/bhadrachalam-temple.webp",
+          "alt": "Sita Ramachandraswamy Temple, Bhadrachalam",
+          "credit": "WithShivaram",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sri_sita_rama_temple_bhadrachalam_temple_view.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kuntala Waterfall",
+      "slug": "kuntala-waterfall",
+      "city": "adilabad",
+      "kind": "waterfall",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "The highest waterfall in Telangana, on the Kadam River in Adilabad district.",
+      "description": "A forest stream drops about 45 m over two steps into a deep rocky pool. It's at its fullest after the rains.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1
+      ],
+      "location": {
+        "lat": 19.285,
+        "lng": 78.503,
+        "address": "Adilabad, Telangana"
+      },
+      "highlights": [
+        "45 m drop",
+        "Forest walk",
+        "Monsoon flow"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Kuntala Waterfall – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kuntala_Waterfall"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kuntala-waterfall.webp",
+          "alt": "Kuntala Waterfall, Adilabad",
+          "credit": "Rajib Ghosh",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stream_No._1_at_Kuntala_Waterfalls.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Kawal Tiger Reserve",
+      "slug": "kawal-tiger-reserve",
+      "city": "adilabad",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A dry forest reserve on the Godavari in north Telangana, with old teak and a growing tiger presence.",
+      "description": "Wide teak forest in Mancherial district, with birdwatching and quiet safaris. A good choice if you want few other visitors.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 19.1189,
+        "lng": 78.999,
+        "address": "Adilabad, Telangana"
+      },
+      "highlights": [
+        "Teak forests",
+        "Jannaram safari",
+        "Godavari backwaters"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Kawal Wildlife Sanctuary – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kawal_Wildlife_Sanctuary"
+        }
+      ]
+    },
+    {
+      "name": "Jogulamba Temple, Alampur",
+      "slug": "jogulamba-temple-alampur",
+      "city": "gadwal",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A goddess shrine on the Tungabhadra, one of the Shakti Peethas, beside a group of Chalukyan temples.",
+      "description": "A revered shrine at Alampur, alongside the Navabrahma temples of the Badami Chalukyas.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 15.877,
+        "lng": 78.132,
+        "address": "Gadwal, Telangana"
+      },
+      "highlights": [
+        "Navabrahma temples",
+        "Shakti Peetha",
+        "Tungabhadra riverbank"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Jogulamba Temple, Alampur – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jogulamba_Temple,_Alampur"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/jogulamba-temple-alampur.webp",
+          "alt": "Jogulamba Temple, Alampur, Gadwal",
+          "credit": "రహ్మానుద్దీన్",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jogulamba_temple_gopuram_alampur.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Medak Cathedral",
+      "slug": "medak-cathedral",
+      "city": "medak",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "One of the largest churches in India, a soaring Gothic cathedral built by British missionaries.",
+      "description": "A huge stone church with colourful stained glass and a tall tower, in a small town north of Hyderabad.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 18.0537,
+        "lng": 78.2671,
+        "address": "Medak, Telangana"
+      },
+      "highlights": [
+        "Gothic tower",
+        "Stained glass",
+        "Christmas services"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Medak Cathedral – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Medak_Cathedral"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/medak-cathedral.webp",
+          "alt": "Medak Cathedral, Medak",
+          "credit": "Kithnkin",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Medak_Cathedral_(1).jpg"
         }
       ]
     }

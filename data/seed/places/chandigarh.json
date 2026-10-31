@@ -4,6 +4,8 @@
       "name": "Chandigarh",
       "slug": "chandigarh",
       "overview": "India's first planned city, designed by Le Corbusier in the 1950s, and the shared capital of Punjab and Haryana.",
+      "history": "Planned after Partition as the new capital of Indian Punjab, with Le Corbusier as chief architect in the 1950s. It's now shared by Punjab and Haryana.",
+      "isHub": true,
       "location": {
         "lat": 30.7333,
         "lng": 76.7794
@@ -174,6 +176,189 @@
           "credit": "duncid",
           "license": "CC BY-SA 2.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palace_of_Assembly_Chandigarh_2006.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Zakir Hussain Rose Garden",
+      "slug": "zakir-hussain-rose-garden",
+      "city": "chandigarh",
+      "kind": "garden",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "Asia's largest rose garden, with 50,000 bushes over 30 acres in Sector 16.",
+      "description": "Shaded paths wind through beds of many rose varieties. The Rose Festival each February draws big crowds.",
+      "history": "Named after Zakir Husain, a former President of India.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 30.7458,
+        "lng": 76.7815,
+        "address": "Chandigarh, Chandigarh"
+      },
+      "highlights": [
+        "Rose Festival",
+        "Many rose varieties",
+        "Sector 16 lawns"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Zakir Husain Rose Garden – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Zakir_Husain_Rose_Garden"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/zakir-hussain-rose-garden.webp",
+          "alt": "Zakir Hussain Rose Garden, Chandigarh",
+          "credit": "Harvinder Chandigarh",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rose_Garden_,Chandigarh,India.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Government Museum and Art Gallery",
+      "slug": "government-museum-chandigarh",
+      "city": "chandigarh",
+      "kind": "museum",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A Le Corbusier building in Sector 10, with Gandhara sculpture and Pahari paintings.",
+      "description": "Fine collections of Gandhara Buddhas, Pahari miniature paintings and modern Indian art, in a concrete museum designed by Le Corbusier.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 30.7489,
+        "lng": 76.7875,
+        "address": "Chandigarh, Chandigarh"
+      },
+      "highlights": [
+        "Gandhara Buddhas",
+        "Pahari miniatures",
+        "Le Corbusier building"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Government Museum and Art Gallery, Chandigarh – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Government_Museum_and_Art_Gallery,_Chandigarh"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/government-museum-chandigarh.webp",
+          "alt": "Government Museum and Art Gallery, Chandigarh",
+          "credit": "UnpetitproleX",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chandigarh_Museum_and_Art_Gallery.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sukhna Wildlife Sanctuary",
+      "slug": "sukhna-wildlife-sanctuary",
+      "city": "chandigarh",
+      "kind": "sanctuary",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A 2,600-hectare forest in the Shivalik Hills, just behind Sukhna Lake.",
+      "description": "A quiet forest on the northern edge of the city, with trails and watchtowers, that's home to sambar, peacocks and many birds.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 30.745,
+        "lng": 76.8228,
+        "address": "Chandigarh, Chandigarh"
+      },
+      "highlights": [
+        "Shivalik trails",
+        "Birdwatching",
+        "Near Sukhna Lake"
+      ],
+      "sources": [
+        {
+          "title": "Sukhna Wildlife Sanctuary – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sukhna_Wildlife_Sanctuary"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/sukhna-wildlife-sanctuary.webp",
+          "alt": "Sukhna Wildlife Sanctuary, Chandigarh",
+          "credit": "Harvinder Chandigarh",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Entrance_of_Sukhna_Wildlife_Sanctuary,Chandigarh,_India.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Open Hand Monument",
+      "slug": "open-hand-monument",
+      "city": "chandigarh",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "Le Corbusier's giant metal hand, the emblem of Chandigarh, in the Capitol Complex.",
+      "description": "A 26 m metal sculpture that turns in the wind. It stands for 'open to give, open to receive'.",
+      "history": "Part of the Capitol Complex, on the UNESCO World Heritage list.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 30.759,
+        "lng": 76.8073,
+        "address": "Chandigarh, Chandigarh"
+      },
+      "highlights": [
+        "Rotating metal hand",
+        "Capitol Complex",
+        "Le Corbusier symbol"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Open Hand Monument – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Open_Hand_Monument"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/open-hand-monument.webp",
+          "alt": "Open Hand Monument, Chandigarh",
+          "credit": "Raakesh Blokhra",
+          "license": "CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Open_Hand_monument,_Chandigarh.jpg"
         }
       ]
     }

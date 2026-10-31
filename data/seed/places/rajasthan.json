@@ -3,7 +3,9 @@
     {
       "name": "Jaipur",
       "slug": "jaipur",
-      "overview": "Rajasthan's capital, the 'Pink City', was founded in 1727 by Maharaja Sawai Jai Singh II as one of India's first planned cities. Its walled old town, bazaars, forts and observatory are part of a UNESCO World Heritage listing.",
+      "overview": "The Pink City and Rajasthan's capital: a planned old town of bazaars and palaces, ringed by the hill forts of the Aravallis.",
+      "history": "Founded in 1727 by Sawai Jai Singh II, who moved the Kachwaha capital down from Amer to a new walled city laid out on a grid. The old town was painted pink for the visit of the Prince of Wales in 1876, and the colour stayed.",
+      "isHub": true,
       "location": {
         "lat": 26.9124,
         "lng": 75.7873
@@ -12,7 +14,9 @@
     {
       "name": "Udaipur",
       "slug": "udaipur",
-      "overview": "The 'City of Lakes' was the capital of the Mewar kingdom. Palaces rise from the shores of Lake Pichola and Fateh Sagar, framed by the Aravalli hills.",
+      "overview": "The city of lakes, built around Lake Pichola with the palace of the Mewar kings along its eastern shore.",
+      "history": "Founded by Maharana Udai Singh II in the 16th century as the new capital of Mewar, after Chittor became too exposed to attack. It remained the seat of the Sisodia rulers until Independence.",
+      "isHub": true,
       "location": {
         "lat": 24.5854,
         "lng": 73.7125
@@ -21,7 +25,9 @@
     {
       "name": "Jodhpur",
       "slug": "jodhpur",
-      "overview": "The 'Blue City' sits at the edge of the Thar Desert beneath the cliff-top Mehrangarh Fort. Its old town is a maze of indigo-washed houses and busy markets around the clock tower.",
+      "overview": "The Blue City on the edge of the Thar, its old quarter of indigo houses spread below the cliff of Mehrangarh.",
+      "history": "Founded in 1459 by Rao Jodha of the Rathore clan as the capital of Marwar. It grew rich on the desert trade routes and stayed a princely state until 1949.",
+      "isHub": true,
       "location": {
         "lat": 26.2389,
         "lng": 73.0243
@@ -31,6 +37,8 @@
       "name": "Jaisalmer",
       "slug": "jaisalmer",
       "overview": "The 'Golden City' rises out of the Thar Desert, built almost entirely from yellow sandstone. It is the base for camel safaris and nights under the stars in the dunes.",
+      "history": "Founded in 1156 by Rawal Jaisal of the Bhati clan. The golden sandstone town prospered as a stop on the camel caravan routes to Central Asia, and its fort is still lived in today.",
+      "isHub": true,
       "location": {
         "lat": 26.9157,
         "lng": 70.9083
@@ -52,6 +60,117 @@
       "location": {
         "lat": 25.1166,
         "lng": 73.4729
+      }
+    },
+    {
+      "name": "Bikaner",
+      "slug": "bikaner",
+      "overview": "A desert city of red sandstone in the northern Thar, known for its fort, its camels and the rat temple at Deshnoke.",
+      "history": "Founded in 1488 by Rao Bika, a son of Rao Jodha of Jodhpur. It became one of the wealthiest states of the Thar, and Maharaja Ganga Singh brought it a canal and a railway in the 20th century.",
+      "isHub": true,
+      "location": {
+        "lat": 28.0167,
+        "lng": 73.3119
+      }
+    },
+    {
+      "name": "Ajmer",
+      "slug": "ajmer",
+      "overview": "A hill-ringed city in the middle of Rajasthan and one of India's great Sufi pilgrimage centres, 10 km from Pushkar.",
+      "isHub": true,
+      "location": {
+        "lat": 26.4499,
+        "lng": 74.6399
+      }
+    },
+    {
+      "name": "Pushkar",
+      "slug": "pushkar",
+      "overview": "A small temple town around a sacred lake, with ghats on every side and a famous camel fair each November.",
+      "location": {
+        "lat": 26.4877,
+        "lng": 74.5559
+      }
+    },
+    {
+      "name": "Mount Abu",
+      "slug": "mount-abu",
+      "overview": "Rajasthan's only hill station, a green rocky plateau in the Aravallis near the Gujarat border.",
+      "location": {
+        "lat": 24.5925,
+        "lng": 72.7083
+      }
+    },
+    {
+      "name": "Chittorgarh",
+      "slug": "chittorgarh",
+      "overview": "A city on the Berach River, overlooked by the largest fort in Rajasthan and the old capital of Mewar.",
+      "location": {
+        "lat": 24.88,
+        "lng": 74.63
+      }
+    },
+    {
+      "name": "Kumbhalgarh",
+      "slug": "kumbhalgarh",
+      "overview": "A fortress village deep in the Aravallis, between Udaipur and Ranakpur.",
+      "location": {
+        "lat": 25.1528,
+        "lng": 73.587
+      }
+    },
+    {
+      "name": "Nathdwara",
+      "slug": "nathdwara",
+      "overview": "A pilgrim town in the Aravallis north of Udaipur, built around the shrine of Shrinathji.",
+      "location": {
+        "lat": 24.93,
+        "lng": 73.82
+      }
+    },
+    {
+      "name": "Sawai Madhopur",
+      "slug": "sawai-madhopur",
+      "overview": "The railway town at the gates of Ranthambore, the best known tiger reserve in north India.",
+      "location": {
+        "lat": 26.0173,
+        "lng": 76.3566
+      }
+    },
+    {
+      "name": "Bharatpur",
+      "slug": "bharatpur",
+      "overview": "A town on the eastern edge of Rajasthan, known worldwide for the wetland bird sanctuary at its door.",
+      "location": {
+        "lat": 27.2154,
+        "lng": 77.4987
+      }
+    },
+    {
+      "name": "Alwar",
+      "slug": "alwar",
+      "overview": "A city between Delhi and Jaipur, the base for Sariska Tiger Reserve and the ruins of Bhangarh.",
+      "location": {
+        "lat": 27.55,
+        "lng": 76.636
+      }
+    },
+    {
+      "name": "Bundi",
+      "slug": "bundi",
+      "overview": "A quiet town in the Hadoti region with a hilltop fort, stepwells and blue lanes that see few tour buses.",
+      "location": {
+        "lat": 25.44,
+        "lng": 75.64
+      }
+    },
+    {
+      "name": "Neemrana",
+      "slug": "neemrana",
+      "overview": "An old town on the Delhi to Jaipur highway, a popular weekend escape from the capital.",
+      "location": {
+        "lat": 27.9889,
+        "lng": 76.3883
       }
     }
   ],
@@ -478,6 +597,1653 @@
         {
           "title": "Ranakpur Jain temple – Wikipedia",
           "url": "https://en.wikipedia.org/wiki/Ranakpur_Jain_temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/ranakpur-jain-temple.webp",
+          "alt": "Ranakpur Jain Temple, Ranakpur",
+          "credit": "Nagarjun Kandukuru",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:15th_century_carving_Jain_temple_at_Ranakpur_in_Aravalli_range_near_Udaipur_Rajasthan_India.jpg"
+        }
+      ]
+    },
+    {
+      "name": "City Palace, Jaipur",
+      "slug": "city-palace-jaipur",
+      "city": "jaipur",
+      "kind": "palace",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The royal seat of Jaipur at the heart of the old city, with courtyards, gateways and a working royal residence.",
+      "description": "A complex of courtyards, gardens and halls in the middle of the walled city, part of it still home to the former royal family. The rest is a museum of textiles, arms and the enormous silver urns that carried Ganges water to London.",
+      "history": "Construction began soon after Jaipur was founded by Sawai Jai Singh II in 1727, and later rulers kept adding to it.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 26.9257,
+        "lng": 75.8236,
+        "address": "Jaipur, Rajasthan"
+      },
+      "highlights": [
+        "Pritam Niwas Chowk and its four seasonal gates",
+        "Silver urns in the Diwan-i-Khas",
+        "Textile gallery in Mubarak Mahal"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "City Palace, Jaipur – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/City_Palace,_Jaipur"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/city-palace-jaipur.webp",
+          "alt": "City Palace, Jaipur, Jaipur",
+          "credit": "Jakub Hałun",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chandra_Mahal,_City_Palace,_Jaipur,_20191218_0951_9043.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Jantar Mantar, Jaipur",
+      "slug": "jantar-mantar-jaipur",
+      "city": "jaipur",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "Nineteen giant astronomical instruments in stone, including the world's largest stone sundial. A UNESCO World Heritage Site.",
+      "description": "An open-air observatory of masonry instruments that measure time, track stars and predict eclipses. It still works, and the guides will read the time off the great sundial to within seconds.",
+      "history": "Completed in 1734 by Sawai Jai Singh II, a king who was also a serious astronomer. It is a UNESCO World Heritage Site.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 26.9247,
+        "lng": 75.8244,
+        "address": "Jaipur, Rajasthan"
+      },
+      "highlights": [
+        "Samrat Yantra, the giant sundial",
+        "Zodiac instruments for each sign",
+        "Guide-led time readings"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Jantar Mantar, Jaipur – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jantar_Mantar,_Jaipur"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/jantar-mantar-jaipur.webp",
+          "alt": "Jantar Mantar, Jaipur, Jaipur",
+          "credit": "Knowledge Seeker",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jantar_Mantar_at_Jaipur.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Nahargarh Fort",
+      "slug": "nahargarh-fort",
+      "city": "jaipur",
+      "kind": "fort",
+      "categories": [
+        "heritage",
+        "adventure"
+      ],
+      "shortDescription": "A hill fort on the Aravalli edge above Jaipur, the city's favourite sunset point.",
+      "description": "Nahargarh sits on the ridge directly above the old city, and its terraces give the widest view of Jaipur spread out below. Inside is Madhavendra Bhawan, a palace of linked suites built for the queens.",
+      "history": "Together with Amber and Jaigarh, it formed a defensive ring around the city.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 26.9373,
+        "lng": 75.8155,
+        "address": "Jaipur, Rajasthan"
+      },
+      "highlights": [
+        "Sunset over the Pink City",
+        "Madhavendra Bhawan suites",
+        "Road along the ridge to Jaigarh"
+      ],
+      "sources": [
+        {
+          "title": "Nahargarh Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nahargarh_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/nahargarh-fort.webp",
+          "alt": "Nahargarh Fort, Jaipur",
+          "credit": "Sanyam Bahga",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nahargarh_13.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Jaigarh Fort",
+      "slug": "jaigarh-fort",
+      "city": "jaipur",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The military fort above Amer, on Cheel ka Teela, home to one of the largest cannons on wheels.",
+      "description": "A rugged military stronghold on the hill directly above Amber Fort and Maota Lake, linked to it by a tunnel. It has water tanks, armouries and the huge Jaivana cannon.",
+      "history": "It was built to protect Amer and its palace, and it served as the Kachwahas' cannon foundry.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 26.9859,
+        "lng": 75.8507,
+        "address": "Jaipur, Rajasthan"
+      },
+      "highlights": [
+        "Jaivana cannon",
+        "Views down over Amber Fort",
+        "Old water tanks and armoury"
+      ],
+      "sources": [
+        {
+          "title": "Jaigarh Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jaigarh_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/jaigarh-fort.webp",
+          "alt": "Jaigarh Fort, Jaipur",
+          "credit": "Acred99",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rajasthan-Jaipur-Jaigarh-Fort-compound-Apr-2004-00.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Jal Mahal",
+      "slug": "jal-mahal",
+      "city": "jaipur",
+      "kind": "palace",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A palace that seems to float in the middle of Man Sagar Lake, on the road from Jaipur to Amer.",
+      "description": "A low sandstone palace standing in the waters of Man Sagar Lake, seen best from the promenade on the road to Amer. Visitors cannot go inside, but it is one of the most photographed views in the city.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 26.9537,
+        "lng": 75.8463,
+        "address": "Jaipur, Rajasthan"
+      },
+      "highlights": [
+        "Lake promenade views",
+        "Dusk light on the sandstone",
+        "Winter migratory birds on the lake"
+      ],
+      "sources": [
+        {
+          "title": "Jal Mahal – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jal_Mahal"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/jal-mahal.webp",
+          "alt": "Jal Mahal, Jaipur",
+          "credit": "A.Savin",
+          "license": "FAL",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jaipur_03-2016_39_Jal_Mahal_-_Water_Palace.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Albert Hall Museum",
+      "slug": "albert-hall-museum",
+      "city": "jaipur",
+      "kind": "museum",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "Rajasthan's oldest museum, an Indo-Saracenic landmark in Ram Niwas Garden, lit up every evening.",
+      "description": "The state museum of Rajasthan holds miniature paintings, carpets, armour, sculpture and an Egyptian mummy. The building itself is as much of a draw as the collection.",
+      "history": "A fine example of Indo-Saracenic architecture, standing outside the city wall opposite New Gate.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 26.9118,
+        "lng": 75.8195,
+        "address": "Jaipur, Rajasthan"
+      },
+      "highlights": [
+        "Egyptian mummy",
+        "Persian garden carpet",
+        "Building lit up at night"
+      ],
+      "sources": [
+        {
+          "title": "Albert Hall Museum – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Albert_Hall_Museum"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/albert-hall-museum.webp",
+          "alt": "Albert Hall Museum, Jaipur",
+          "credit": "Ajit Kumar Majhi",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Albert_Hall_(_Jaipur_).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Galtaji",
+      "slug": "galtaji",
+      "city": "jaipur",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "The monkey temple: a chain of temples and sacred tanks in a narrow gorge, 10 km east of Jaipur.",
+      "description": "An ancient pilgrimage site built into a crevice in the hills, with temples and natural spring-fed tanks stepping up the gorge. Large troops of macaques live here, and they rule the place.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 26.8761,
+        "lng": 76.1242,
+        "address": "Jaipur, Rajasthan"
+      },
+      "highlights": [
+        "Sacred spring-fed tanks",
+        "Macaques on the temple walls",
+        "Hilltop Sun Temple view"
+      ],
+      "sources": [
+        {
+          "title": "Galtaji – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Galtaji"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/galtaji.webp",
+          "alt": "Galtaji, Jaipur",
+          "credit": "Sharvarism",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zanana_Kund_Aur_Galta_Ji_Ka_Mandir_-_edited.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Lake Pichola",
+      "slug": "lake-pichola",
+      "city": "udaipur",
+      "kind": "lake",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "The lake Udaipur was built around, an artificial lake from 1362 with palaces on its islands.",
+      "description": "A boat ride on Pichola gives the classic view of Udaipur: the long City Palace on one shore, the white Lake Palace and Jag Mandir on the water, and ghats full of washing and prayer.",
+      "history": "Created in 1362 and named after the nearby village of Picholi.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 24.572,
+        "lng": 73.679,
+        "address": "Udaipur, Rajasthan"
+      },
+      "highlights": [
+        "Sunset boat ride",
+        "Gangaur Ghat",
+        "View of the City Palace from the water"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Lake Pichola – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lake_Pichola"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/lake-pichola.webp",
+          "alt": "Lake Pichola, Udaipur",
+          "credit": "Uri Sittan Tripo",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Udaipur_Lake_India.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Jag Mandir",
+      "slug": "jag-mandir",
+      "city": "udaipur",
+      "kind": "palace",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "An island palace on Lake Pichola, also called the Lake Garden Palace, reached by boat.",
+      "description": "A palace of marble and courtyards on an island in the south of the lake, reached by boat from the City Palace jetty. Stone elephants guard the water gate.",
+      "history": "Its construction is credited to three Maharanas of Mewar in the 17th century.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 24.5672,
+        "lng": 73.6781,
+        "address": "Udaipur, Rajasthan"
+      },
+      "highlights": [
+        "Stone elephants at the water gate",
+        "Gul Mahal",
+        "Boat ride from the City Palace"
+      ],
+      "sources": [
+        {
+          "title": "Jag Mandir Palace – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jag_Mandir_Palace"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/jag-mandir.webp",
+          "alt": "Jag Mandir, Udaipur",
+          "credit": "No machine-readable author provided. Philbrest assumed (based on copyright claims)",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:JagMandir.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Fateh Sagar Lake",
+      "slug": "fateh-sagar-lake",
+      "city": "udaipur",
+      "kind": "lake",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "Udaipur's second lake, north of Pichola, with a lively promenade and a garden island.",
+      "description": "A broad lake with hills around it and a long road along the bank that fills with locals in the evening. Boats go to Nehru Park on an island in the middle.",
+      "history": "An artificial lake named after Maharana Fateh Singh of Mewar.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 24.6,
+        "lng": 73.67,
+        "address": "Udaipur, Rajasthan"
+      },
+      "highlights": [
+        "Evening promenade at Moti Magri road",
+        "Boat to Nehru Park",
+        "Solar observatory island"
+      ],
+      "sources": [
+        {
+          "title": "Fateh Sagar Lake – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Fateh_Sagar_Lake"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/fateh-sagar-lake.webp",
+          "alt": "Fateh Sagar Lake, Udaipur",
+          "credit": "Wikimedia Commons contributor",
+          "license": "CC BY 2.5",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fatehsagar_nehrugarden.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Saheliyon-ki-Bari",
+      "slug": "saheliyon-ki-bari",
+      "city": "udaipur",
+      "kind": "garden",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The Garden of the Maidens: fountains, kiosks, a lotus pool and marble elephants in north Udaipur.",
+      "description": "A shaded formal garden built for the royal women, known for its fountains that run on water pressure alone. It is a calm hour away from the old city.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 24.6028,
+        "lng": 73.6853,
+        "address": "Udaipur, Rajasthan"
+      },
+      "highlights": [
+        "Lotus pool",
+        "Marble elephants",
+        "Rain fountains"
+      ],
+      "sources": [
+        {
+          "title": "Saheliyon-ki-Bari – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Saheliyon-ki-Bari"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/saheliyon-ki-bari.webp",
+          "alt": "Saheliyon-ki-Bari, Udaipur",
+          "credit": "Jstplace",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saheliyon-ki-Bari_Fountain.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Jagdish Temple",
+      "slug": "jagdish-temple",
+      "city": "udaipur",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A large temple just outside the City Palace, in continuous worship since 1651.",
+      "description": "A carved Indo-Aryan temple dedicated to Vishnu, reached by a steep flight of steps from the old city's main crossing. The aarti draws locals every evening.",
+      "history": "In continuous worship since 1651.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 24.5798,
+        "lng": 73.6839,
+        "address": "Udaipur, Rajasthan"
+      },
+      "highlights": [
+        "Carved outer walls",
+        "Brass Garuda shrine",
+        "Evening aarti"
+      ],
+      "sources": [
+        {
+          "title": "Jagdish Temple, Udaipur – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jagdish_Temple,_Udaipur"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/jagdish-temple.webp",
+          "alt": "Jagdish Temple, Udaipur",
+          "credit": "Ingo Mehling",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jagdish_Temple_Udaipur.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Monsoon Palace",
+      "slug": "monsoon-palace",
+      "city": "udaipur",
+      "kind": "palace",
+      "categories": [
+        "heritage",
+        "adventure"
+      ],
+      "shortDescription": "Sajjangarh, a hilltop palace above Fateh Sagar with Udaipur's best sunset views.",
+      "description": "A white palace on a peak in the Aravallis west of the city, surrounded by a wildlife sanctuary. Few come for the rooms; nearly everyone comes for the sunset across the lakes.",
+      "history": "Named Sajjangarh after Maharana Sajjan Singh of Mewar, who commissioned it.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 24.594,
+        "lng": 73.639,
+        "address": "Udaipur, Rajasthan"
+      },
+      "highlights": [
+        "Sunset over the lakes",
+        "Sajjangarh Wildlife Sanctuary",
+        "Drive up the hill"
+      ],
+      "sources": [
+        {
+          "title": "Monsoon Palace – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Monsoon_Palace"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/monsoon-palace.webp",
+          "alt": "Monsoon Palace, Udaipur",
+          "credit": "tommy",
+          "license": "CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monsoon_Palace.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Umaid Bhawan Palace",
+      "slug": "umaid-bhawan-palace",
+      "city": "jodhpur",
+      "kind": "palace",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "One of the world's largest private residences, part royal home, part Taj hotel, part museum.",
+      "description": "A golden-sandstone Art Deco palace on Chittar Hill, split between the former royal family, a luxury hotel and a small museum of clocks and vintage cars that is open to everyone.",
+      "history": "Named after Maharaja Umaid Singh, grandfather of the present owner.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 26.2808,
+        "lng": 73.0469,
+        "address": "Jodhpur, Rajasthan"
+      },
+      "highlights": [
+        "Vintage car collection",
+        "Art Deco interiors",
+        "View from the lawns"
+      ],
+      "sources": [
+        {
+          "title": "Umaid Bhawan Palace – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Umaid_Bhawan_Palace"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/umaid-bhawan-palace.webp",
+          "alt": "Umaid Bhawan Palace, Jodhpur",
+          "credit": "Dan Lundberg",
+          "license": "CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:1996_-218-20A_Jodhpur_Hotel_Umaid_Bhawan_Palace_(2233393509).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Jaswant Thada",
+      "slug": "jaswant-thada",
+      "city": "jodhpur",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A white marble memorial near Mehrangarh, sometimes called the Taj Mahal of Marwar.",
+      "description": "A serene cenotaph of carved marble beside a small lake, with the fort on the cliff behind it. Thin marble panels glow in the sun.",
+      "history": "Built by Maharaja Sardar Singh in 1899 in memory of his father, Maharaja Jaswant Singh II.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 26.3039,
+        "lng": 73.0253,
+        "address": "Jodhpur, Rajasthan"
+      },
+      "highlights": [
+        "Translucent marble panels",
+        "Royal cremation ground",
+        "View of Mehrangarh"
+      ],
+      "sources": [
+        {
+          "title": "Jaswant Thada – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jaswant_Thada"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/jaswant-thada.webp",
+          "alt": "Jaswant Thada, Jodhpur",
+          "credit": "Flying Pharmacist",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jaswant_Thada_Dawn.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Mandore",
+      "slug": "mandore",
+      "city": "jodhpur",
+      "kind": "monument",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The old capital of Marwar 9 km north of Jodhpur, with royal cenotaphs in a walled garden.",
+      "description": "Temple-like memorials to the Rathore rulers stand in red sandstone among gardens and old ruins. Langurs roam the grounds, and the place is popular with local families.",
+      "history": "Mandore was the seat of power in Marwar before Rao Jodha founded Jodhpur.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 26.3535,
+        "lng": 73.0331,
+        "address": "Jodhpur, Rajasthan"
+      },
+      "highlights": [
+        "Royal cenotaphs in red sandstone",
+        "Hall of Heroes",
+        "Gardens with langurs"
+      ],
+      "sources": [
+        {
+          "title": "Mandore – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mandore"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/mandore.webp",
+          "alt": "Mandore, Jodhpur",
+          "credit": "Jon Connell from Cambridge, UK",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Temples_at_Mandor_(4571805346).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Gadisar Lake",
+      "slug": "gadisar-lake",
+      "city": "jaisalmer",
+      "kind": "lake",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "The old water supply of Jaisalmer, a rainwater lake with chhatris and a carved gateway.",
+      "description": "Small shrines stand out in the water, and the lake is reached through the carved Tilon-ki-Pol gate. It is at its best at sunrise, with the fort glowing to the north.",
+      "history": "Built by the city's founder Rawal Jaisal in 1156 and rebuilt by Rawal Gadsi around 1367.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 26.908,
+        "lng": 70.922,
+        "address": "Jaisalmer, Rajasthan"
+      },
+      "highlights": [
+        "Sunrise over the chhatris",
+        "Tilon-ki-Pol gateway",
+        "Boat rides"
+      ],
+      "sources": [
+        {
+          "title": "Gadisar Lake – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gadisar_Lake"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/gadisar-lake.webp",
+          "alt": "Gadisar Lake, Jaisalmer",
+          "credit": "WikiPanti",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Main_entrance_of_Gadisar_Lake.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kuldhara",
+      "slug": "kuldhara",
+      "city": "jaisalmer",
+      "kind": "village",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "An abandoned Paliwal Brahmin village in the desert west of Jaisalmer, empty for two centuries.",
+      "description": "Rows of roofless stone houses stand silent in the scrub. No one is certain why the people left, and local legend calls it a cursed village.",
+      "history": "Established around the 13th century and abandoned by the early 19th century, for reasons that are still unclear.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 26.87,
+        "lng": 70.785,
+        "address": "Jaisalmer, Rajasthan"
+      },
+      "highlights": [
+        "Roofless stone lanes",
+        "Restored house",
+        "Stop on the road to Sam dunes"
+      ],
+      "sources": [
+        {
+          "title": "Kuldhara – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kuldhara"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kuldhara.webp",
+          "alt": "Kuldhara, Jaisalmer",
+          "credit": "Dinesh Valke from Thane, India",
+          "license": "CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kuldhara,_an_abandoned_village_(30738705327).jpg"
+        }
+      ]
+    },
+    {
+      "name": "Junagarh Fort",
+      "slug": "junagarh-fort",
+      "city": "bikaner",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "An undefeated fort in the flat centre of Bikaner, with lavishly painted palace rooms.",
+      "description": "Unusually, this fort is on level ground and not on a hill. Inside, one palace leads to another, with gold leaf, mirror work and a biplane from the First World War.",
+      "history": "Originally called Chintamani, it was renamed Junagarh, or Old Fort, in the early 20th century when the family moved to Lalgarh Palace.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 28.022,
+        "lng": 73.3177,
+        "address": "Bikaner, Rajasthan"
+      },
+      "highlights": [
+        "Anup Mahal gold work",
+        "Badal Mahal cloud painted room",
+        "First World War biplane"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Junagarh Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Junagarh_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/junagarh-fort.webp",
+          "alt": "Junagarh Fort, Bikaner",
+          "credit": "user:Flicka",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:India_Bikaner_Junagarh_Fort.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Karni Mata Temple",
+      "slug": "karni-mata-temple",
+      "city": "bikaner",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "The rat temple of Deshnoke, 30 km from Bikaner, where thousands of sacred rats are fed and protected.",
+      "description": "Thousands of black rats live in this marble temple, and they are revered as the kin of the goddess Karni Mata. You walk in barefoot, and seeing a rare white rat is thought to be good luck.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 27.7906,
+        "lng": 73.3408,
+        "address": "Bikaner, Rajasthan"
+      },
+      "highlights": [
+        "Thousands of sacred rats",
+        "Silver doors",
+        "Finding a white rat"
+      ],
+      "sources": [
+        {
+          "title": "Karni Mata Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Karni_Mata_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/karni-mata-temple.webp",
+          "alt": "Karni Mata Temple, Bikaner",
+          "credit": "Jakub Hałun",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:20191212_%C5%9Awi%C4%85tynia_Karni_Maty_w_De%C5%9Bnok_1031_8078_DxO.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Ajmer Sharif Dargah",
+      "slug": "ajmer-sharif-dargah",
+      "city": "ajmer",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "The shrine of the Sufi saint Moinuddin Chishti, one of the most visited Muslim shrines in India.",
+      "description": "People of all faiths come here to tie threads and offer flowers at the saint's tomb. Qawwali singers fill the courtyards in the evening, and the annual Urs draws huge crowds.",
+      "history": "A complex of tombs and a mosque that grew around the grave of Mu'in al-Din Chishti, founder of the Chishti order in India.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 26.4561,
+        "lng": 74.6282,
+        "address": "Ajmer, Rajasthan"
+      },
+      "highlights": [
+        "Qawwali in the courtyard",
+        "Buland Darwaza",
+        "Annual Urs festival"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Shrine of Mu'in al-Din Chishti – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shrine_of_Mu'in_al-Din_Chishti"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/ajmer-sharif-dargah.webp",
+          "alt": "Ajmer Sharif Dargah, Ajmer",
+          "credit": "Shahnoor Habib Munmun",
+          "license": "CC BY 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dargah_of_Sufi_saint_Moinuddin_Chishti_Ajmer_India_(5).JPG"
+        }
+      ]
+    },
+    {
+      "name": "Ana Sagar Lake",
+      "slug": "ana-sagar-lake",
+      "city": "ajmer",
+      "kind": "lake",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A 12th-century artificial lake in Ajmer, with marble pavilions along the bank.",
+      "description": "Mughal pavilions in white marble line the embankment at Daulat Bagh, and the lake is a quiet evening spot for the city.",
+      "history": "Built by Arnoraja, the grandfather of Prithviraj Chauhan, between 1135 and 1150.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 26.475,
+        "lng": 74.625,
+        "address": "Ajmer, Rajasthan"
+      },
+      "highlights": [
+        "Marble baradari pavilions",
+        "Daulat Bagh gardens",
+        "Sunset walks"
+      ],
+      "sources": [
+        {
+          "title": "Ana Sagar Lake – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ana_Sagar_Lake"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/ana-sagar-lake.webp",
+          "alt": "Ana Sagar Lake, Ajmer",
+          "credit": "Fatehrawkey",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Anas%C4%81gar_Lake_1_PHOTOGRAPHED_BY_FATEH.RawKEy.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Pushkar Lake",
+      "slug": "pushkar-lake",
+      "city": "pushkar",
+      "kind": "lake",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A sacred lake for Hindus, ringed by 52 bathing ghats and hundreds of temples.",
+      "description": "Pilgrims bathe at the ghats at dawn and dusk, and the sound of bells and chanting carries across the water. Hindu scriptures call it Tirtha Raj, the king of pilgrimage places.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "The Pushkar Camel Fair falls around the full moon of Kartik, usually in November.",
+      "location": {
+        "lat": 26.4872,
+        "lng": 74.5542,
+        "address": "Pushkar, Rajasthan"
+      },
+      "highlights": [
+        "Sunset at Gau Ghat",
+        "Dawn prayers",
+        "Pushkar Camel Fair in November"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Pushkar Lake – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pushkar_Lake"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/pushkar-lake.webp",
+          "alt": "Pushkar Lake, Pushkar",
+          "credit": "Felipe Skroski from Wellington, New Zealand",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Evening_lights_by_the_Pushkar_Lake,_Pushkar.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Brahma Temple, Pushkar",
+      "slug": "brahma-temple-pushkar",
+      "city": "pushkar",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "One of very few temples in the world dedicated to Brahma, close to the sacred lake.",
+      "description": "A modest temple with a red spire and a marble floor set with coins left by pilgrims. Its rarity is what draws them: Brahma is seldom worshipped on his own.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 26.4872,
+        "lng": 74.5542,
+        "address": "Pushkar, Rajasthan"
+      },
+      "highlights": [
+        "Red spire",
+        "Marble floor set with coins",
+        "Walk up from the ghats"
+      ],
+      "sources": [
+        {
+          "title": "Brahma Temple, Pushkar – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Brahma_Temple,_Pushkar"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/brahma-temple-pushkar.webp",
+          "alt": "Brahma Temple, Pushkar, Pushkar",
+          "credit": "fyunkie on Flickr",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bathing_Ghats_on_Pushkar_Lake,_Rajasthan.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Dilwara Temples",
+      "slug": "dilwara-temples",
+      "city": "mount-abu",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "Jain temples near Mount Abu, whose white marble carving is among the finest in India.",
+      "description": "Plain outside and astonishing inside: the ceilings and pillars are carved with marble lace so fine it seems unreal. They remain active places of worship, and photography is not allowed.",
+      "history": "A group of Svetambara Jain temples and one of the five great Jain pilgrimage sites.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 24.6093,
+        "lng": 72.7231,
+        "address": "Mount Abu, Rajasthan"
+      },
+      "highlights": [
+        "Marble ceiling at Vimal Vasahi",
+        "Luna Vasahi carving",
+        "Elephant court"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Dilwara Temples – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dilwara_Temples"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/dilwara-temples.webp",
+          "alt": "Dilwara Temples, Mount Abu",
+          "credit": "Pratyk321",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dilwara_Pittalhar_Temple.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Nakki Lake",
+      "slug": "nakki-lake",
+      "city": "mount-abu",
+      "kind": "lake",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "The lake at the centre of Mount Abu, with boating and odd rock shapes along the bank.",
+      "description": "A small green lake surrounded by hills and the town's market. Paddle boats are the main activity, and the Toad Rock is a short climb away.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 24.5961,
+        "lng": 72.7031,
+        "address": "Mount Abu, Rajasthan"
+      },
+      "highlights": [
+        "Boating",
+        "Toad Rock",
+        "Evening market"
+      ],
+      "sources": [
+        {
+          "title": "Nakki Lake – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nakki_Lake"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/nakki-lake.webp",
+          "alt": "Nakki Lake, Mount Abu",
+          "credit": "CorrectKnowledge",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nakki_Lake_during_daytime.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Kumbhalgarh Fort",
+      "slug": "kumbhalgarh-fort",
+      "city": "kumbhalgarh",
+      "kind": "fort",
+      "categories": [
+        "heritage",
+        "adventure"
+      ],
+      "shortDescription": "The Great Wall of India: a Mewar fortress with one of the world's longest continuous walls.",
+      "description": "A massive fort on the western Aravallis, its wall running for kilometres over ridges and valleys. Inside are hundreds of temples and a palace at the top with a view over the Marwar plains.",
+      "history": "A UNESCO World Heritage Site as one of the Hill Forts of Rajasthan, and the birthplace of Maharana Pratap.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 25.1489,
+        "lng": 73.5803,
+        "address": "Kumbhalgarh, Rajasthan"
+      },
+      "highlights": [
+        "Walk along the wall",
+        "Badal Mahal view",
+        "Evening sound and light show"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Kumbhalgarh – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kumbhalgarh"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kumbhalgarh-fort.webp",
+          "alt": "Kumbhalgarh Fort, Kumbhalgarh",
+          "credit": "Rajesh Kapoor",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kumbhalgarh_055.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Chittorgarh Fort",
+      "slug": "chittorgarh-fort",
+      "city": "chittorgarh",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "One of India's largest forts and the old capital of Mewar, a UNESCO World Heritage Site.",
+      "description": "A whole ruined city on a hill above the plains, with palaces, temples, reservoirs and the two great towers. Few places in India carry as much Rajput legend.",
+      "history": "Sacked three times, and remembered for the mass self-immolations of its women. Mewar's capital moved to Udaipur after the third siege in 1568.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 24.8872,
+        "lng": 74.6469,
+        "address": "Chittorgarh, Rajasthan"
+      },
+      "highlights": [
+        "Vijay Stambha, the Tower of Victory",
+        "Rani Padmini's palace",
+        "Kirti Stambha Jain tower"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Chittor Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chittor_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/chittorgarh-fort.webp",
+          "alt": "Chittorgarh Fort, Chittorgarh",
+          "credit": "Ssjoshi111",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chittorgarh_fort.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Ranthambore National Park",
+      "slug": "ranthambore-national-park",
+      "city": "sawai-madhopur",
+      "kind": "national-park",
+      "categories": [
+        "nature",
+        "adventure"
+      ],
+      "shortDescription": "North India's best known tiger reserve, where tigers are often seen in daylight among old ruins.",
+      "description": "Dry forest, lakes and rocky hills, with ruined pavilions and a fort for a backdrop. The tigers here are famously easy to see, and leopards, sloth bears and crocodiles live here too.",
+      "history": "Once the hunting ground of the Maharajas of Jaipur.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "bestTimeNote": "Core zones close in the monsoon, roughly July to September.",
+      "location": {
+        "lat": 26.0173,
+        "lng": 76.5026,
+        "address": "Sawai Madhopur, Rajasthan"
+      },
+      "highlights": [
+        "Tiger safaris by jeep and canter",
+        "Padam Talao lake",
+        "Ruined pavilions in the forest"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Ranthambore National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ranthambore_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/ranthambore-national-park.webp",
+          "alt": "Ranthambore National Park, Sawai Madhopur",
+          "credit": "THerrington",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ranthambore_National_Park.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Ranthambore Fort",
+      "slug": "ranthambore-fort",
+      "city": "sawai-madhopur",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A hill fort inside the tiger reserve, with temples and tanks, and a UNESCO World Heritage Site.",
+      "description": "The fort stands on a rock high above the forest. You pass through a series of gates to reach the old palaces and the Ganesh temple, which draws pilgrims every day.",
+      "history": "One of the Hill Forts of Rajasthan on the UNESCO list.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 26.0203,
+        "lng": 76.455,
+        "address": "Sawai Madhopur, Rajasthan"
+      },
+      "highlights": [
+        "Trinetra Ganesh Temple",
+        "Views over the tiger reserve",
+        "Hammir's palace"
+      ],
+      "sources": [
+        {
+          "title": "Ranthambore Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ranthambore_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/ranthambore-fort.webp",
+          "alt": "Ranthambore Fort, Sawai Madhopur",
+          "credit": "Manojmeena",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ranthambhore_Fort.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Keoladeo National Park",
+      "slug": "keoladeo-national-park",
+      "city": "bharatpur",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A UNESCO wetland at Bharatpur, home to thousands of resident and migratory birds each winter.",
+      "description": "A flat mosaic of marsh and woodland best explored by bicycle or cycle rickshaw. Each winter, the wetlands fill with ducks, geese, cranes and raptors, as well as the resident storks and herons.",
+      "history": "A former royal duck-hunting reserve, now a UNESCO World Heritage Site.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 27.1667,
+        "lng": 77.5167,
+        "address": "Bharatpur, Rajasthan"
+      },
+      "highlights": [
+        "Painted storks and pelicans",
+        "Cycle rickshaw with a trained guide",
+        "Winter migratory ducks"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Keoladeo National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Keoladeo_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/keoladeo-national-park.webp",
+          "alt": "Keoladeo National Park, Bharatpur",
+          "credit": "Nikhilchandra81",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Common_Parakeet_at_Keoladeo_National_Park,_Bharatpur_Rajasthan,_India.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sariska Tiger Reserve",
+      "slug": "sariska-tiger-reserve",
+      "city": "alwar",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A reserve of dry forest and grassland in the Aravallis, in Alwar district, with reintroduced tigers.",
+      "description": "Scrub forest and rocky valleys, with safari drives past old temples and the ruined Kankwari Fort. Sambar, nilgai and langurs are common, and the tigers were brought back after being lost here in the 2000s.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "location": {
+        "lat": 27.3175,
+        "lng": 76.4369,
+        "address": "Alwar, Rajasthan"
+      },
+      "highlights": [
+        "Jeep safari",
+        "Kankwari Fort",
+        "Pandupole temple"
+      ],
+      "sources": [
+        {
+          "title": "Sariska Tiger Reserve – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sariska_Tiger_Reserve"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/sariska-tiger-reserve.webp",
+          "alt": "Sariska Tiger Reserve, Alwar",
+          "credit": "Shivalir",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sariska_Tiger_Reserve,_Alwar.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Bhangarh Fort",
+      "slug": "bhangarh-fort",
+      "city": "alwar",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A well-preserved 16th-century ruined town, famous as one of India's most haunted places.",
+      "description": "Bazaars, temples and a palace stand roofless below the Aravalli hills. The Archaeological Survey of India bars entry after dark, and that has helped the ghost stories along.",
+      "history": "Established during the rule of Bhagwant Das as the residence of his second son, Madho Singh.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 27.0958,
+        "lng": 76.2875,
+        "address": "Alwar, Rajasthan"
+      },
+      "highlights": [
+        "Ruined bazaar street",
+        "Temples in the ruins",
+        "Haunted-fort legends"
+      ],
+      "sources": [
+        {
+          "title": "Bhangarh Fort – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bhangarh_Fort"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/bhangarh-fort.webp",
+          "alt": "Bhangarh Fort, Alwar",
+          "credit": "Chainwit",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bhangarh_Fort_-_Royal_Palace_Bhangarh_(July_2022)_-_img_16.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Taragarh Fort, Bundi",
+      "slug": "taragarh-fort-bundi",
+      "city": "bundi",
+      "kind": "fort",
+      "categories": [
+        "heritage",
+        "adventure"
+      ],
+      "shortDescription": "A hill fort above Bundi with ruined ramparts, reservoirs and monkeys for company.",
+      "description": "An overgrown fort on a steep hill above the town, reached by a stiff walk from the palace. Just below it, the Bundi Palace holds some of Rajasthan's finest wall paintings.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 25.452,
+        "lng": 75.637,
+        "address": "Bundi, Rajasthan"
+      },
+      "highlights": [
+        "Bundi Palace murals",
+        "Views over the blue town",
+        "Overgrown ramparts"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Taragarh Fort, Bundi – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Taragarh_Fort,_Bundi"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/taragarh-fort-bundi.webp",
+          "alt": "Taragarh Fort, Bundi, Bundi",
+          "credit": "Eklavya Yadav",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Garh_Palace_and_Taragarh_Fort,_Bundi_2011-12-26_EK_II.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Shrinathji Temple",
+      "slug": "shrinathji-temple",
+      "city": "nathdwara",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A major Krishna shrine at Nathdwara, centre of the Pushtimarg tradition, about 50 km from Udaipur.",
+      "description": "Worship here treats the deity as a living child, with the image dressed, fed and put to bed through the day. Darshan opens only at set times, and crowds surge in when it does.",
+      "history": "Shrinathji is the central deity of the Pushtimarg sect established by Vallabhacharya.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 24.9283,
+        "lng": 73.816,
+        "address": "Nathdwara, Rajasthan"
+      },
+      "highlights": [
+        "Eight daily darshans",
+        "Pichwai paintings in the bazaar",
+        "Festival of Annakut"
+      ],
+      "sources": [
+        {
+          "title": "Shrinathji – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shrinathji"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/shrinathji-temple.webp",
+          "alt": "Shrinathji Temple, Nathdwara",
+          "credit": "Nathdwara Painter",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shrinathji_Vitthalanath_Birthday_Shringar.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Neemrana Fort",
+      "slug": "neemrana-fort",
+      "city": "neemrana",
+      "kind": "fort",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A 15th-century hillside fort-palace on the Delhi to Jaipur road, now a heritage hotel.",
+      "description": "A fort stepping down a hillside in terraces, restored as a heritage hotel and popular for weekend trips from Delhi. There's also a zipline over the walls.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 27.9938,
+        "lng": 76.3884,
+        "address": "Neemrana, Rajasthan"
+      },
+      "highlights": [
+        "Terraced hanging gardens",
+        "Zipline over the fort",
+        "Nearby stepwell"
+      ],
+      "sources": [
+        {
+          "title": "Neemrana – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Neemrana"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/neemrana-fort.webp",
+          "alt": "Neemrana Fort, Neemrana",
+          "credit": "RunningToddler",
+          "license": "CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Neemrana_Fort_Palace_terrace_and_the_town_below.jpg"
         }
       ]
     }

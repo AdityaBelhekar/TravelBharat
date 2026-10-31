@@ -4,6 +4,8 @@
       "name": "Shillong",
       "slug": "shillong",
       "overview": "Meghalaya's hill capital, once called the 'Scotland of the East', with pine forests, colonial bungalows, busy markets and a famous live-music scene.",
+      "history": "The British made Shillong the capital of Assam in 1874, and it stayed so until Meghalaya was formed in 1972. Pine trees and colonial houses earned it the name Scotland of the East.",
+      "isHub": true,
       "location": {
         "lat": 25.5788,
         "lng": 91.8933
@@ -34,6 +36,33 @@
       "location": {
         "lat": 25.1883,
         "lng": 92.0247
+      }
+    },
+    {
+      "name": "Jowai",
+      "slug": "jowai",
+      "overview": "The main town of the Jaintia Hills, known for its Behdienkhlam festival and the monoliths at Nartiang.",
+      "location": {
+        "lat": 25.4422,
+        "lng": 92.1947
+      }
+    },
+    {
+      "name": "Tura",
+      "slug": "tura",
+      "overview": "The main town of the Garo Hills, in the far west of the state.",
+      "location": {
+        "lat": 25.5138,
+        "lng": 90.2022
+      }
+    },
+    {
+      "name": "Mawphlang",
+      "slug": "mawphlang",
+      "overview": "A Khasi village 25 km from Shillong, known for its sacred grove.",
+      "location": {
+        "lat": 25.4667,
+        "lng": 91.7667
       }
     }
   ],
@@ -394,6 +423,418 @@
         {
           "title": "Meghalaya Tourism",
           "url": "https://www.meghalayatourism.in/"
+        }
+      ]
+    },
+    {
+      "name": "Elephant Falls",
+      "slug": "elephant-falls",
+      "city": "shillong",
+      "kind": "waterfall",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A two-tier waterfall on the edge of Shillong, named after an elephant-shaped rock.",
+      "description": "A short stair leads to viewpoints of each tier in the forest, with the fullest flow after the monsoon. The rock itself collapsed in an 1897 earthquake.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1
+      ],
+      "location": {
+        "lat": 25.5379,
+        "lng": 91.8221,
+        "address": "Shillong, Meghalaya"
+      },
+      "highlights": [
+        "Three viewing levels",
+        "Monsoon flow",
+        "Near Shillong Peak"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Elephant Falls – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Elephant_Falls"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/elephant-falls.webp",
+          "alt": "Elephant Falls, Shillong",
+          "credit": "Ishita Singh 015",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elephant_Falls_Meghalaya.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Ward's Lake",
+      "slug": "wards-lake-shillong",
+      "city": "shillong",
+      "kind": "lake",
+      "categories": [
+        "heritage"
+      ],
+      "shortDescription": "A horseshoe-shaped garden lake in the middle of Shillong, from British days.",
+      "description": "An ornamental lake with a wooden bridge and boating, right at the centre of town. It's a favourite spot for an evening stroll.",
+      "bestMonths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "location": {
+        "lat": 25.575,
+        "lng": 91.887,
+        "address": "Shillong, Meghalaya"
+      },
+      "highlights": [
+        "Wooden bridge",
+        "Boating",
+        "Botanical Garden next door"
+      ],
+      "sources": [
+        {
+          "title": "Ward's Lake (Shillong) – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ward's_Lake_(Shillong)"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/wards-lake-shillong.webp",
+          "alt": "Ward's Lake, Shillong",
+          "credit": "ANKAN",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ward%27s_Lake,_Shillong.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Shillong Peak",
+      "slug": "shillong-peak",
+      "city": "shillong",
+      "kind": "trek",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "The highest point in the Khasi Hills, with a sweeping view of Shillong from an air force area.",
+      "description": "A short drive leads up through a military area, with a viewing deck over the city. You may need to show ID at the gate.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 25.5308,
+        "lng": 91.8495,
+        "address": "Shillong, Meghalaya"
+      },
+      "highlights": [
+        "City view",
+        "Air force area",
+        "Pine forest"
+      ],
+      "sources": [
+        {
+          "title": "Shillong – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shillong"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/shillong-peak.webp",
+          "alt": "Shillong Peak, Shillong",
+          "credit": "Rachit",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_from_Shillong_Peak.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Mawphlang Sacred Grove",
+      "slug": "mawphlang-sacred-grove",
+      "city": "mawphlang",
+      "kind": "sanctuary",
+      "categories": [
+        "nature",
+        "heritage"
+      ],
+      "shortDescription": "An ancient sacred forest of the Khasi people, where nothing may be removed, 25 km from Shillong.",
+      "description": "Guided walks explain the Khasi beliefs and monoliths in a forest that's been protected for centuries by tradition.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 25.4667,
+        "lng": 91.7667,
+        "address": "Mawphlang, Meghalaya"
+      },
+      "highlights": [
+        "Khasi guided walks",
+        "Old monoliths",
+        "Ancient trees"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Mawphlang – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mawphlang"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/mawphlang-sacred-grove.webp",
+          "alt": "Mawphlang Sacred Grove, Mawphlang",
+          "credit": "Arshiya Urveeja Bose",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mawphlang_village.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Nartiang Durga Temple",
+      "slug": "nartiang-durga-temple",
+      "city": "jowai",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A Hindu shrine in the Jaintia Hills, near the tallest monoliths in the Khasi and Jaintia country.",
+      "description": "Close to a hilltop garden of tall standing stones, the Nartiang temple is among the Shakti Peethas, and it's linked to the Jaintia kings.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 25.567,
+        "lng": 92.209,
+        "address": "Jowai, Meghalaya"
+      },
+      "highlights": [
+        "Tall monoliths",
+        "Shakti Peetha",
+        "Old Jaintia kings"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Nartiang Durga Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nartiang_Durga_Temple"
+        }
+      ]
+    },
+    {
+      "name": "Siju Cave",
+      "slug": "siju-cave",
+      "city": "tura",
+      "kind": "caves",
+      "categories": [
+        "adventure"
+      ],
+      "shortDescription": "A long limestone cave in the South Garo Hills, one of the most significant in India, full of bats.",
+      "description": "Beside the Simsang River, this big cave is known for its bats and its stream passage. Bring a guide and expect to wade.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 25.3535,
+        "lng": 90.688,
+        "address": "Tura, Meghalaya"
+      },
+      "highlights": [
+        "Bat colonies",
+        "Wading passage",
+        "Simsang River"
+      ],
+      "sources": [
+        {
+          "title": "Siju Cave – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Siju_Cave"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/siju-cave.webp",
+          "alt": "Siju Cave, Tura",
+          "credit": "James Gabil Momin",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Siju_Cave.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Nokrek National Park",
+      "slug": "nokrek-national-park",
+      "city": "tura",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A biosphere reserve around the highest Garo peak, with red pandas and a rare citrus.",
+      "description": "Forest around Nokrek Peak, with a remarkable gene pool of wild citrus and a reputation for red pandas and hoolock gibbons.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "location": {
+        "lat": 25.5333,
+        "lng": 90.1167,
+        "address": "Tura, Meghalaya"
+      },
+      "highlights": [
+        "Nokrek Peak",
+        "Wild citrus",
+        "Hoolock gibbons"
+      ],
+      "sources": [
+        {
+          "title": "Nokrek National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nokrek_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/nokrek-national-park.webp",
+          "alt": "Nokrek National Park, Tura",
+          "credit": "Timothy A. Gonsalve",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nokrek_Ridge_Daribokgre_West_Garo_Oct24_A7CR_03649.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Balpakram National Park",
+      "slug": "balpakram-national-park",
+      "city": "tura",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A remote Garo Hills park, with a huge canyon sacred to the Garo people as a home of spirits.",
+      "description": "A high plateau and deep gorge near the Bangladesh border, sometimes called the Grand Canyon of Meghalaya. It's little visited.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 25.4167,
+        "lng": 90.8667,
+        "address": "Tura, Meghalaya"
+      },
+      "highlights": [
+        "Balpakram Canyon",
+        "Garo spirit home",
+        "Remote plateau"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Balpakram National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Balpakram_National_Park"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/balpakram-national-park.webp",
+          "alt": "Balpakram National Park, Tura",
+          "credit": "Atongmorot",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Balpakram_Canyon.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Nongriat Village",
+      "slug": "nongriat-village",
+      "city": "sohra",
+      "kind": "village",
+      "categories": [
+        "adventure"
+      ],
+      "shortDescription": "A Khasi village in a deep valley, known for the double-decker living root bridge and blue pools.",
+      "description": "You reach it by thousands of steps down from Tyrna, passing wire and root bridges. Homestays let you stay overnight in the valley.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 25.237,
+        "lng": 91.68,
+        "address": "Sohra, Meghalaya"
+      },
+      "highlights": [
+        "Thousands of steps",
+        "Rainbow Falls",
+        "Blue pools"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Nongriat – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nongriat"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/nongriat-village.webp",
+          "alt": "Nongriat Village, Sohra",
+          "credit": "Arshiya Urveeja Bose",
+          "license": "CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Living_root_bridges,_Nongriat_village,_Meghalaya.jpg"
         }
       ]
     }

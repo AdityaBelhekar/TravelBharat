@@ -4,6 +4,7 @@
       "name": "Jagdalpur",
       "slug": "jagdalpur",
       "overview": "The main town of the Bastar region, a base for waterfalls, cave systems and the tribal haats (weekly markets) of southern Chhattisgarh.",
+      "isHub": true,
       "location": {
         "lat": 19.0871,
         "lng": 82.0236
@@ -16,6 +17,61 @@
       "location": {
         "lat": 22.0059,
         "lng": 81.2332
+      }
+    },
+    {
+      "name": "Raipur",
+      "slug": "raipur",
+      "overview": "Chhattisgarh's capital, the base for the temples of Sirpur and Rajim.",
+      "isHub": true,
+      "location": {
+        "lat": 21.2444,
+        "lng": 81.6306
+      }
+    },
+    {
+      "name": "Bilaspur",
+      "slug": "bilaspur",
+      "overview": "A city in the north of the state, close to the forests of Achanakmar.",
+      "location": {
+        "lat": 22.09,
+        "lng": 82.15
+      }
+    },
+    {
+      "name": "Dantewada",
+      "slug": "dantewada",
+      "overview": "A small Bastar town known for the shrine of the goddess Danteshwari.",
+      "location": {
+        "lat": 18.9,
+        "lng": 81.35
+      }
+    },
+    {
+      "name": "Rajnandgaon",
+      "slug": "rajnandgaon",
+      "overview": "A town close to the hill shrine at Dongargarh.",
+      "location": {
+        "lat": 21.0971,
+        "lng": 81.0302
+      }
+    },
+    {
+      "name": "Ambikapur",
+      "slug": "ambikapur",
+      "overview": "The main town of Surguja in the north, close to the plateau of Mainpat.",
+      "location": {
+        "lat": 23.1185,
+        "lng": 83.1956
+      }
+    },
+    {
+      "name": "Dhamtari",
+      "slug": "dhamtari",
+      "overview": "A town south of Raipur, close to the Gangrel Dam.",
+      "location": {
+        "lat": 20.7072,
+        "lng": 81.5492
       }
     }
   ],
@@ -180,6 +236,477 @@
           "credit": "Pankaj Oudhia",
           "license": "CC BY-SA 3.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bhoramdeo_Temple,_Kawardha.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sirpur",
+      "slug": "sirpur-chhattisgarh",
+      "city": "raipur",
+      "kind": "monument",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "An ancient site on the Mahanadi, with the brick Lakshmana Temple and big Buddhist monasteries.",
+      "description": "A rich old capital 78 km from Raipur, with the finely carved brick Lakshmana Temple and excavated Buddhist viharas.",
+      "history": "The Lakshmana Temple dates from the 7th century.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 21.3452,
+        "lng": 82.1848,
+        "address": "Raipur, Chhattisgarh"
+      },
+      "highlights": [
+        "Lakshmana brick temple",
+        "Buddhist viharas",
+        "Mahanadi River"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Sirpur, Mahasamund – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sirpur,_Mahasamund"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/sirpur-chhattisgarh.webp",
+          "alt": "Sirpur, Raipur",
+          "credit": "Ms Sarah Welch",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:7th_-_9th_century_Surang_tila_mandapa_before_shrines,_Sirpur_monuments_Chhattisgarh.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Rajim",
+      "slug": "rajim",
+      "city": "raipur",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A temple town on the sacred meeting of the Mahanadi, Pairi and Sondur rivers.",
+      "description": "Known as the Prayag of Chhattisgarh, with the Rajiv Lochan Temple. A large fair is held here each February.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "location": {
+        "lat": 20.965,
+        "lng": 81.8817,
+        "address": "Raipur, Chhattisgarh"
+      },
+      "highlights": [
+        "Rajiv Lochan Temple",
+        "Three rivers",
+        "Rajim Kumbh fair"
+      ],
+      "sources": [
+        {
+          "title": "Rajim – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Rajim"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/rajim.webp",
+          "alt": "Rajim, Raipur",
+          "credit": "Ms Sarah Welch",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:6th_to_7th_century_Rajivalochan_Vishnu_Temple,_Rajim,_Chhattisgarh_-_58.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Barnawapara Wildlife Sanctuary",
+      "slug": "barnawapara-wildlife-sanctuary",
+      "city": "raipur",
+      "kind": "sanctuary",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A forest sanctuary in Mahasamund district, established in 1976, with leopards and gaur.",
+      "description": "Teak and sal forest within reach of Raipur, with jeep safaris and birdwatching.",
+      "history": "Established in 1976.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "location": {
+        "lat": 21.4,
+        "lng": 82.4639,
+        "address": "Raipur, Chhattisgarh"
+      },
+      "highlights": [
+        "Leopards",
+        "Gaur herds",
+        "Forest lodges"
+      ],
+      "sources": [
+        {
+          "title": "Barnawapara Wildlife Sanctuary – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Barnawapara_Wildlife_Sanctuary"
+        }
+      ]
+    },
+    {
+      "name": "Gangrel Dam",
+      "slug": "gangrel-dam",
+      "city": "dhamtari",
+      "kind": "dam",
+      "categories": [
+        "adventure"
+      ],
+      "shortDescription": "A large dam across the Mahanadi in Dhamtari, with a beach and water sports.",
+      "description": "The largest reservoir in the state, with a beach-like shore that's popular for weekend water sports.",
+      "bestMonths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        1
+      ],
+      "location": {
+        "lat": 20.6267,
+        "lng": 81.56,
+        "address": "Dhamtari, Chhattisgarh"
+      },
+      "highlights": [
+        "Mahanadi reservoir",
+        "Water sports",
+        "Monsoon gates"
+      ],
+      "sources": [
+        {
+          "title": "Gangrel Dam – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gangrel_Dam"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/gangrel-dam.webp",
+          "alt": "Gangrel Dam, Dhamtari",
+          "credit": "Darpanashukla",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:RAVISHANKAR_SAGAR_PROJECT_GANGREL-_2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kotumsar Cave",
+      "slug": "kotumsar-cave",
+      "city": "jagdalpur",
+      "kind": "caves",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A long limestone cave in Kanger Valley near Jagdalpur, known for stalactites and blind fish.",
+      "description": "A guide leads you through narrow passages, with torches on stalactites and blind fish in the pools. It closes during the monsoon.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "bestTimeNote": "Closed in the monsoon, usually from June to October.",
+      "location": {
+        "lat": 18.8717,
+        "lng": 81.935,
+        "address": "Jagdalpur, Chhattisgarh"
+      },
+      "highlights": [
+        "Stalactites",
+        "Blind fish",
+        "Guided torch tour"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Kotumsar Cave – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kotumsar_Cave"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/kotumsar-cave.webp",
+          "alt": "Kotumsar Cave, Jagdalpur",
+          "credit": "Theasg sap",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kanger_valley2.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Danteshwari Temple",
+      "slug": "danteshwari-temple",
+      "city": "dantewada",
+      "kind": "place-of-worship",
+      "categories": [
+        "heritage",
+        "religious"
+      ],
+      "shortDescription": "A 14th-century temple at Dantewada, a Shakti Peetha and the patron goddess of Bastar.",
+      "description": "Stone temple at the meeting of two rivers, closely linked to the Bastar Dussehra festival, one of India's longest.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "Parts of Bastar have long-running security issues, so check local advice before going off the main routes.",
+      "location": {
+        "lat": 18.8966,
+        "lng": 81.345,
+        "address": "Dantewada, Chhattisgarh"
+      },
+      "highlights": [
+        "Bastar Dussehra",
+        "River meeting",
+        "Stone temple"
+      ],
+      "isFeatured": true,
+      "sources": [
+        {
+          "title": "Danteshwari Temple – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Danteshwari_Temple"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/danteshwari-temple.webp",
+          "alt": "Danteshwari Temple, Dantewada",
+          "credit": "Ratnesh1948",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Danteswari_Temple_0034.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Indravati National Park",
+      "slug": "indravati-national-park",
+      "city": "dantewada",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A remote tiger reserve in Bijapur district, on the Indravati River, and among the last homes of wild water buffalo.",
+      "description": "One of the least visited parks in India because of security issues in the area. It's worth learning about, but go only with up-to-date advice.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "bestTimeNote": "Parts of Bastar have long-running security issues, so check local advice before going off the main routes.",
+      "location": {
+        "lat": 19.205,
+        "lng": 81.0314,
+        "address": "Dantewada, Chhattisgarh"
+      },
+      "highlights": [
+        "Wild water buffalo",
+        "Indravati River",
+        "Remote forest"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Indravati National Park – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Indravati_National_Park"
+        }
+      ]
+    },
+    {
+      "name": "Achanakmar Wildlife Sanctuary",
+      "slug": "achanakmar-wildlife-sanctuary",
+      "city": "bilaspur",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A tiger reserve in the Maikal Hills, shared with Madhya Pradesh, close to Bilaspur.",
+      "description": "A sal forest crossed by a road and a rail line, with jeep safaris. Part of the Achanakmar-Amarkantak Biosphere Reserve.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "location": {
+        "lat": 22.55,
+        "lng": 81.73,
+        "address": "Bilaspur, Chhattisgarh"
+      },
+      "highlights": [
+        "Sal forest",
+        "Bison herds",
+        "Biosphere reserve"
+      ],
+      "sources": [
+        {
+          "title": "Achanakmar Wildlife Sanctuary – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Achanakmar_Wildlife_Sanctuary"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/achanakmar-wildlife-sanctuary.webp",
+          "alt": "Achanakmar Wildlife Sanctuary, Bilaspur",
+          "credit": "abhishek agrawal",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Achanakmar_Tiger_Reserve.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Bambleshwari Temple",
+      "slug": "bambleshwari-temple-dongargarh",
+      "city": "rajnandgaon",
+      "kind": "place-of-worship",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A hilltop goddess temple at Dongargarh, reached by about a thousand steps or a ropeway.",
+      "description": "Navaratri brings huge crowds to this temple, which is reached by a ropeway. It's a stop on the Mumbai to Howrah line, so many pilgrims arrive by rail.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 21.1887,
+        "lng": 80.7591,
+        "address": "Rajnandgaon, Chhattisgarh"
+      },
+      "highlights": [
+        "Ropeway",
+        "Navaratri fair",
+        "Hilltop views"
+      ],
+      "sources": [
+        {
+          "title": "Dongargarh – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dongargarh"
+        }
+      ],
+      "images": [
+        {
+          "url": "/places/bambleshwari-temple-dongargarh.webp",
+          "alt": "Bambleshwari Temple, Rajnandgaon",
+          "credit": "Sandeep shrivastava102",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arieal_View_from_Maa_Bamleshwari_Devi_Temple_on_a_hilltop.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Mainpat",
+      "slug": "mainpat",
+      "city": "ambikapur",
+      "kind": "hill-station",
+      "categories": [
+        "religious"
+      ],
+      "shortDescription": "A cool plateau in Surguja known as the Shimla of Chhattisgarh, with a Tibetan settlement.",
+      "description": "A Tibetan refugee settlement has brought monasteries to this cool, green plateau, and Dalmia Falls are nearby.",
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "location": {
+        "lat": 22.837,
+        "lng": 83.315,
+        "address": "Ambikapur, Chhattisgarh"
+      },
+      "highlights": [
+        "Tibetan settlement",
+        "Jaljali bouncing ground",
+        "Plateau views"
+      ],
+      "isHiddenGem": true,
+      "sources": [
+        {
+          "title": "Mainpat – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mainpat"
+        }
+      ]
+    },
+    {
+      "name": "Guru Ghasidas National Park",
+      "slug": "guru-ghasidas-national-park",
+      "city": "ambikapur",
+      "kind": "national-park",
+      "categories": [
+        "nature"
+      ],
+      "shortDescription": "A large tiger reserve in north Chhattisgarh, spread across remote forest and hills.",
+      "description": "Remote sal forest in the north, linked to Bandhavgarh and Palamau. It was declared a tiger reserve along with Tamor Pingla.",
+      "bestMonths": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "location": {
+        "lat": 23.6019,
+        "lng": 82.4719,
+        "address": "Ambikapur, Chhattisgarh"
+      },
+      "highlights": [
+        "Remote sal forest",
+        "Tiger corridor",
+        "Tamor Pingla link"
+      ],
+      "sources": [
+        {
+          "title": "Guru Ghasidas - Tamor Pingla Tiger Reserve – Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Guru_Ghasidas_-_Tamor_Pingla_Tiger_Reserve"
         }
       ]
     }
