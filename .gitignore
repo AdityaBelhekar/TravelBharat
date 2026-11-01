@@ -47,3 +47,6 @@ next-env.d.ts
 
 # Videos and other portal deliverables
 /submission/
+
+.vercel
+.env*

@@ -5,7 +5,7 @@ Detailed project report and product requirements
 **Author:** Aditya Belhekar
 **Programme:** Internship project, Unified Mentor
 **Repository:** https://github.com/AdityaBelhekar/TravelBharat
-**Live site:** DEPLOYMENT_LINK
+**Live site:** https://travelbharat-flax.vercel.app
 
 ![TravelBharat home page](screenshots/home.jpg)
 
@@ -90,7 +90,7 @@ Information about Indian destinations is scattered across many sites, is inconsi
 | Validation | Zod | The same rules for seed data and admin forms |
 | Images | Next.js image optimisation, with Cloudinary for admin uploads | Modern formats at the right size |
 | Testing | Vitest, Playwright and ESLint | Unit tests, full user journeys and code checks |
-| Hosting | Vercel and MongoDB Atlas | Global delivery and a managed database |
+| Hosting | Vercel and MongoDB Atlas | Fast delivery and a managed database |
 
 **How a page is served:** public pages are pre-rendered from the database at build time and cached. When an admin publishes a change, the cache tag is cleared and the affected pages refresh.
 
